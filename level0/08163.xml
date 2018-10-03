@@ -1,37 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/distantreading/distantreading.github.io/master/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/distantreading/distantreading.github.io/master/Schema/eltec-0.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hun08163" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Jávor orvos és szolgája, Bakator Ambrus</title>
-            <title type="sub">Szeszélyes regény</title>
-            <title type="sub">ELTeC edition</title>
-            <author>
-               <persName>
-                  <surname>Fáy</surname>
-                  <forename>András</forename>
-                  <ref target="https://viaf.org/viaf/17278550"/>
-                  <ref target="https://www.wikidata.org/wiki/Q4774"/>
-               </persName>
+            <title>Jávor orvos és szolgája, Bakator Ambrus: Szeszélyes regény: ELTeC edition</title>
+            <author>Fáy András (1786-1864)<idno type="VIAF">17278550</idno>
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
-               <persName>
-                  <surname>Palkó</surname>
-                  <forename>Gábor</forename>
-                  <ref target="https://viaf.org/viaf/65989506"/>
-               </persName>
-               <persName>
-                  <surname>Fellegi</surname>
-                  <forename>Zsófia</forename>
-               </persName>
-               <persName>
-                  <surname>Takács</surname>
-                  <forename>Emma</forename>
-               </persName>
+               <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
+               </name>
+               <name>Fellegi Zsófia</name>
+               <name>Takács Emma</name>
             </respStmt>
          </titleStmt>
          <extent>
@@ -42,34 +23,24 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <title type="main">Jávor orvos és szolgája, Bakator Ambrus</title>
-               <title type="sub">Szeszélyes regény</title>
+               <title>Jávor orvos és szolgája, Bakator Ambrus: Szeszélyes regény</title>
+               <respStmt>
+                  <resp>Original Electronic Edition</resp>
+                  <name>Szever Pál</name>
+                  <name>Kiss András</name>
+                  <name>Ollé Krisztián</name>
+               </respStmt>
                <ref target="http://mek.oszk.hu/08100/08163"/>
                <date>2010-04-07</date>
-               <respStmt>
-                  <reps>Original Electronic Edition</reps>
-                  <persName>
-                     <surname>Szever</surname>
-                     <forename>Pál</forename>
-                  </persName>
-                  <persName>
-                     <surname>Kiss</surname>
-                     <forename>András</forename>
-                  </persName>
-                  <persName>
-                     <surname>Ollé</surname>
-                     <forename>Krisztián</forename>
-                  </persName>
-               </respStmt>
                <relatedItem type="copyText">
                   <bibl>
-                     <title type="main">Jávor orvos és szolgája, Bakator Ambrus</title>
-                     <title type="sub">Szeszélyes regény</title>
+                     <title>Jávor orvos és szolgája, Bakator Ambrus: Szeszélyes regény</title>
                      <ref target="http://books.google.com/books?id=DAYoAAAAYAAJ"/>
                   </bibl>
                </relatedItem>
                <relatedItem type="copyText">
-                  <bibl>Jávor orvos és szolgája Bakator Ambrus : szeszélyes regény / Fáy András;Pest : Heckenast, 1855<ref target="http://nektar.oszk.hu/hu/manifestation/1572923"/>
+                  <bibl>Jávor orvos és szolgája Bakator Ambrus : szeszélyes regény / Fáy András;Pest
+                     : Heckenast, 1855<ref target="http://nektar.oszk.hu/hu/manifestation/1572923"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -91,13 +62,14 @@
       </profileDesc>
       <revisionDesc>
          <change when="2018-09-30"/>
+         <change when="2018-10-03"/>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
             <head>ELSŐ KÖTET.</head>
-            <p> </p>
+
          </div>
          <div>
             <head>ELŐSZÓ OLVASÓIMHOZ.</head>
@@ -259,7 +231,7 @@
             <p> Daß uns die wahren, echten Wunder so</p>
             <p> Alltäglich werden können, werden sollen.</p>
             <p>És ekként született e jelen szeszélyes regényi kisérlet.</p>
-            <p> </p>
+
          </div>
          <div>
             <head>I. FEJEZET.</head>
@@ -484,7 +456,7 @@
                <p>E szerint meghordozván olvasómat, Kakasdnak, hol kerek-tapasztó sáru, hol szemet,
                   tüdőt ostromló poru utczáin, sőt bebukkanni is hagyván őt egy pár udvarba, lássuk:
                   mi történt e hir-neves magyar faluban?</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -770,7 +742,7 @@
                   az vala; hogy az esperestus nem potom ember, mint eleinte vélé; minélfogva
                   telhetően szolgálatos vala körülte, s éjjelre ugy ráfüté a vendégszoba kályháját,
                   hogy másnapra kelve a vendégnek majd kétfelé szakadt a feje.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -999,7 +971,7 @@
                   asszonyaira gondolva, minél inkább közeledének Kakasdhoz, szorongóbb lőn kebele;
                   igen ollyformán érzé magát, mint azon gyermek, ki eltörvén a korsót, remegtében
                   azt ohajtotta sirva: oh bár csak már megvertek volna!</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -1197,7 +1169,7 @@
                   biztos ur, gondolá magában Ambrus, csaholhat aczélával egy pár évig, mig
                   elkoptatja. Biztos ur, ezen kifogását egy nyomatékos szitokkal tevé. - Igy Bakator
                   Ambrus, a három megbizásból, még is egyet cum sufficienti végzett be.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -1494,7 +1466,7 @@
                   Tivadar-Juliskának nevezé leánykáját, Avar pedig azt jósolá felőle, hogy egykor
                   nőkorára, joggal megilletendi őt, mint mind a két nem képviselőjét, a kalapviselés
                   a háznál.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -1583,7 +1555,7 @@
                   honorátiorsága, jóformán hozzáhajlitá a kis Tivadarhoz; a komapipa pedig, ugy
                   pártfogójává füstölé őt, miként a marha­nyelvet izes assietté képezi a kémény
                   füstje.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -1734,7 +1706,7 @@
                   becsülni az el­dobott gyöngyöt!</p>
                <p>Lucza e szavaival, hihető Martial grófra czélzott. Katinka a letiprott virág,
                   fájdalmasan utasi­totta el magától anyja szavait.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -1863,7 +1835,7 @@
                   el élvezési szabadságodból, mint egy nő - ha okos férj vagy! Illy elv-appendix
                   következtében, Martial, Kakasdon lakozó Szetényi Ignácz urnak egyetlen leányára, a
                   kedves Marira vetette szemét.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -2024,7 +1996,7 @@
                   szerelmi symptomák, milly gyönge nyilvánulásai valának azon megadó tiszta
                   szerelemnek, melly az érzelmeivel szivesen zárkózó nőnek szive fenekén, vesztai
                   tüz lángolásával égett!</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -2150,7 +2122,7 @@
                   többet merhetni Katinkánál, s megkisérté az első gyönge kéz­szoritást, melly
                   azonban nem visszonoztatott; de a melly Katinka szemeiből, némi sülyedése
                   érzetében, kifordultával a szobából, a szégyen keserü könyeit facsarta ki.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -2231,7 +2203,7 @@
                      rend="italic">drágalátos</hi> epitheton, mindenkor fulánkos mézfalat vala,
                   végre is ártatlan, - mi szükség titokba burkolni előttünk magát? nem egy-e a szoba
                   a kemenczével? Nős életben a titoktartás, leányom; sátáni horog!</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -2388,7 +2360,7 @@
                   kendőjét nyomva a dereske által tetovirozott arczára, a bennülő urasága látszató
                   bánatjában - noha honnan eredtét meg nem foghatá - a hű szolga szinte feledé saját
                   nyomatékos fricskáját.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -2518,7 +2490,7 @@
                   Martial sem maradt szárazon. - Be kár! felsohajta Bálint kifordulta után, hogy a
                   fiunak különb anyja nem volt! Hogy annak apjával kétszeresen vala megelégedve,
                   természetes.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -2605,7 +2577,7 @@
                   mindaddig, mig nem voltaképen értesül az imputatio fokáról, melly őket terheli;
                   mert még a párbaj valódi okát sem tudá, sem azt: milly terjedelemben
                   veszélyeztetett jó neve háznépének?</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -2825,13 +2797,13 @@
                   valóban nem illette. Ezen gyanúnál fogva, hogyha Jávor pártolására nem kél, s
                   Luczának irántai szigorát nem paralyzálgatja, sűrüen bekövetkeznek vala Ambrus­nál
                   a pipabőjtök s egyéb poenitentiák!</p>
-               <p> </p>
-               <p> </p>
+
+
             </div>
          </div>
          <div>
             <head>MÁSODIK KÖTET.</head>
-            <p> </p>
+
          </div>
          <div>
             <head>XVI. FEJEZET.</head>
@@ -2930,7 +2902,7 @@
                   szatócsnak, szüksége van egy takaros - szatócsnéra is.</p>
                <p>Nem esett Ambrusnál szikla közé, Balázsnak elejtett magszeme; miről azonban a jövő
                   fejezetben.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -3058,7 +3030,7 @@
                   egy körmönfont szatócsnénak, a milyennek kézzel lábbal megtermett Erzsi, néhány
                   huszas? egy pár nap alatt behajtja! maga kifogyhatlan capitálisul maradván! -
                   Kéjes ábrándok közt, feledve lőn a mellény minden lohadása.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -3292,7 +3264,7 @@
                <p>Ambrus eljuta végre kamrájába és erősen felfogadva, hogy soha sem szövetkezik
                   többé olly itallal, melynek ura lenni nem bir, bedőle ágyába, mellyből epimenidesi
                   álom után, másnap későn, erősen kopogó főfájással kele ki.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -3455,7 +3427,7 @@
                   despectivus czimzéseiben; mikre Ambrus philosophi megvetéssel fordult el
                   tisztességes barátjától; jobbnak látván, magában fájlalni el kiármánykodott
                   veszteségeit.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -3549,7 +3521,7 @@
                   - Katinkának valóban szüksége vala ezen nyugtatásra, mert férje iránt, hallván az
                   indulatos zajt, annál inkább nyugtalankodott, minél kevésbbé szünt meg magát
                   vádolni, mint a nevelő és növendék közti kedvetlen zsurlódás okozóját.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -3662,7 +3634,7 @@
                   Hja! ez ifjui bakütés volt, róla nem tehetek! busásan meglakoltam érte!</p>
                <p>Légy nyugodt barátom; a sors sülyeszt és emel, s nem ritkán egy csapással teszi
                   mindkettőt; - Szetényivel majd ellátok én.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -3863,7 +3835,7 @@
                   derületeknek!</p>
                <p>Ignácz ur, maga részéről szint igy vélekedék; különben is tanácsosnak látván, a
                   téglavetőre nézve, jó láboni állását Jávor urral.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -3958,7 +3930,7 @@
                   áldozatja! Tegye őt az ég Martiállal boldogabbá, mint én tehettem volna! Ezt
                   sohajtá a zuzott keblű ifju; noha a kebel mélyében élt hite, hogy a ledér Martiál,
                   őt Marinál ki nem pótolandja soha!</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -4016,7 +3988,7 @@
                <p>Jávor, maga részéről, minden esetre jónak látta, nem siettetni Marinál a dolgot,
                   mert, ugy­mond, legbiztosabb rejtélyfölderitő, szeszélycsillapitó és sebhegesztő
                   az idő!</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -4120,7 +4092,7 @@
                   eleinte véltem. Most már majd házamnál, nyomatékosabb szigorral látok az
                   inquisitióhoz. Annak az idegen nőnek sem igen hiszek én. Ugy látszik, igen szereti
                   az incognitót; mi csak igen nagy uraknak áll jól!</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -4406,7 +4378,7 @@
                   Ambrusnál, az évenkénti bőjt önkényszerü ajánlása, épen nem fogott volna csekély
                   önsanyarnak tetszeni azok előtt, kik az ő megáldott superlativ étvágyát
                   ismerék.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -4597,7 +4569,7 @@
                   ezüst, ékszer, ruha- kelme- és vászonneműk, s egye­bek, miknek értéke nem
                   megvetendő összegre rúghatott. Pénzre nem akadtak; hihető, azzal könnyebben
                   esheték meg, a czimborák közti osztály.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -4750,7 +4722,7 @@
                   Mátyás-inditványozásu crimininális amicát elfogadni. Minélfogva az volt boldog
                   Kakasdon, ki a büntetéses három hónap alatt, sem nem született, sem meg nem halt
                   ottan!</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -4908,7 +4880,7 @@
                   czélra kiadandó Album számára volt már anticipando szánva. Bátrak vagyunk
                   olvasóinkat, ebben az X és Y alatti incognita quantitású jegyekre utasitani; Miska
                   ezen jegyek alatt tartja saját incogni­tóját is.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -5024,7 +4996,7 @@
                <p>
                   <hi rend="italic">Jávor</hi>. Oh aranycsináló büvész van elég, csakhogy mi
                   nézőség, vagyunk a vas és réz hozzá!</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -5178,7 +5150,7 @@
                   bandát, hol egy kis hevenyészett lakoma után, mellyre Jávorék is megmarasztattak,
                   kölcsönös vidor felvilá­gositások és ömlengések között, késő éj vetette ágyba a
                   gazdát és vendégeit.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -5440,7 +5412,7 @@
                   súlyosan beteg atyjánál fáradozása elkésett. Igy Vinczére kettős örökség is várt,
                   még pedig nagybátyjáról átalános; azonban Ignácz ur jónak látta, némi valószinűség
                   mellett, azokba, mint saját birtokaiba, ülni be.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
@@ -5505,7 +5477,7 @@
                   olvasandja!</p>
                <p>Lucza asszony, érzetében, hogy veje az igazi szegre ütött, hallgatással nyelte el
                   a kesernyés lapdacsocskát.</p>
-               <p> </p>
+
             </div>
          </div>
          <div>
