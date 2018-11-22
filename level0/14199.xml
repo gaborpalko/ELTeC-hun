@@ -17,6 +17,7 @@
          </titleStmt>
          <extent>
             <measure unit="words">28237</measure>
+            <measure unit="pages">168</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
@@ -34,8 +35,14 @@
                   <name>Mészáros Attila</name>
                </respStmt>
                <relatedItem type="copyText">
-                  <bibl>Faust orvos : regény / Bródy Sándor;Budapest : Singer-Wolfner, 1890;(Egyetemes regénytár. V. ; 10.)<ref
-                     target="http://nektar.oszk.hu/hu/manifestation/3230725"/>
+                  <bibl>
+                     <title>Faust orvos : regény</title>
+                     <author>Bródy Sándor</author>
+                     <pubPlace>Budapest</pubPlace>
+                     <publisher>Singer-Wolfner</publisher>
+                     <date>1890</date>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/3230725"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -82,7 +89,7 @@
             <p>A várószobák betegei meg-megrezzentek ezekre a sajátságos, szinte emberi hangokra:
                olyik fejéhez, melléhez, vagy lábaihoz kapott, s az ásitást, a sejtelmes suttogást, a
                visszafojtott zajokat: zűrzavar, nyögés, izgatottság váltotta fel.</p>
-            
+         </div>
             <div type="chapter">
                <head>
                    I.
@@ -90,24 +97,24 @@
                <p>Még egy negyed óra hiányzott a háromból. S még mindég érkeztek pácziensek. Nehéz
                   betegek, a kik épp most érkeztek a fővárosba s az utazástól még azon porosan
                   egyenesen ide siettek. Gazdag képzelt betegek, a kik minduntalan felszaladgáltak
-                  ide élvezni a drága szóra­kozást: bajukat ujra elsirni, századikszor, ujfent
+                  ide élvezni a drága szórakozást: bajukat ujra elsirni, századikszor, ujfent
                   elpanaszolni a hires orvos-professzornak.</p>
                <p>Lázas lélegzetvétellel meg meg jövevények álltak meg az ajtó előtt. Kopogtattak,
                   az inas kinézett:</p>
                <p>- Nincs hely, holnap! És bezárta előlük az ajtót.</p>
                <p>Sohaj, a kétségbeesés tört szavai, rimánkodás, szitok, gorombáskodás hallatszott
-                  be a lépcső­házból. Mig a várószobában elhelyezkedett betegek egyrésze kárörvendőn
+                  be a lépcsőházból. Mig a várószobában elhelyezkedett betegek egyrésze kárörvendőn
                   mosolygott; de egypáran elhalványodtak: «ha mink rekedtünk volna odakünn!» - ez a
                   gondolat fejeződött ki az ideges arczokon.</p>
                <p>Egyébként bizonyos megnyugvás, az orvosba, a tudományba helyezett bizalom vett
                   erőt rajtuk. Csakhogy végre itt voltak, itt ülhettek a sekrestyeszagu levegőben. A
                   behomályositott szoba ébenfautánzatu zongorájával, az angol aczélmetszetekkel a
                   pompeji vörös falon: a nagy külföldi hirlapok a fekete olvasó asztalon, a pálma,
-                  páfrány-csoport a szögletekben, a gyász­ruhás komolyképü inas a rendelő szoba
-                  ajtajában, az orvosok váró-termeinek egyéb különös­ségeivel, szinte meggyógyitotta
+                  páfrány-csoport a szögletekben, a gyászruhás komolyképü inas a rendelő szoba
+                  ajtajában, az orvosok váró-termeinek egyéb különösségeivel, szinte meggyógyitotta
                   bajaikat egy pillanatra.</p>
                <p>Azután szemlátomást örültek annak, hogy igy együtt vannak, mindannyian <hi
-                    >komoly </hi>betegek, testvérek a legnagyobb emberi nyomoruságban.
+                     rend="italic">komoly </hi>betegek, testvérek a legnagyobb emberi nyomoruságban.
                   S bár féltékenykedtek, sőt irigykedtek a miatt, hogy ki jusson elébb a tanár szine
                   elé, mégis részvéttel tekintettek egymásra. Egy kövér ur - valószinüleg
                   uralkodáshoz szokott vidéki birtokos - hangosan, dühösen méltatlankodott, hogy az
@@ -116,7 +123,7 @@
                   egymást. Majdnem mindegyikük azt tartotta a másikról, hogy rettenetes szinben van
                   s aligha huzza ki a telet. De a szomoru diagnozist magukba fojtották, sőt
                   vigasztalták egymást, adták a tapasztaltat, a tudóst, mindenre tudtak esetet,
-                  minden kóros jelenségnek keresték a megokolását. Hangzott és visz­hangzott a
+                  minden kóros jelenségnek keresték a megokolását. Hangzott és viszhangzott a
                   stereotip kérdés: «mitől van». A «megfáztam», mint minden kór legfőbb oka, folyton
                   szerepelt.</p>
                <p>Az igazi betegek közül kirikitott nehány elegáns hölgy. A jólét és tétlenség
@@ -147,14 +154,14 @@
                   bajuk daczára csinosak, sőt fessek voltak. De mig a hölgyek arczát legtöbbször
                   szinte ruttá tette a szenvedés: a férfiak, mintha megszépültek volna a
                   lebirhatatlan kórokkal való hősi, de haszontalan küzdelmükben. Arczuk megnyult,
-                  megvilágosodott, csodá­latos értelmességü homlokok éles körvonalai keltek ki az
+                  megvilágosodott, csodálatos értelmességü homlokok éles körvonalai keltek ki az
                   asszonyok duzzadt arczai közül.</p>
                <p>Idegbaj szülte vaksággal megvert emberek, a szem tabetikus kórjának áldozatai,
                   kezdődő gerinczagybántalmak betegei, és mindama rokon bajosok, kik előtt
                   tehetetlenül és tudatlanul ereszti le kezeit az orvos: bizva, kétségbeesve,
-                  reménykedve és szepegve beszélték el egy­másnak bajaikat, melyeknek nehezebb része
+                  reménykedve és szepegve beszélték el egymásnak bajaikat, melyeknek nehezebb része
                   saját szenvedésükön kivül abból állt: mi lesz a családból, a gyerekekből, az
-                  asszonyból, az eltartott anyából, vagy kis testvérekből, ha ez <hi
+                  asszonyból, az eltartott anyából, vagy kis testvérekből, ha ez <hi rend="italic"
                      >még </hi>igy tart sokáig?</p>
                <p>Könnyen kötődtek az ismeretségek, de mégis voltak zárkózott urak, hölgyek,
                   könnyebb betegek, a kik nem igen ereszkedtek beszédbe. Egy elegáns ügyvéd, kinek
@@ -172,8 +179,8 @@
                <p>Majdnem mindannyian azt szerették volna, ha az orvos nekik szentelné az egész
                   délutánt. Különféle vizsgálati módszerekről beszéltek. Vulpian, Charcot, Duchenne,
                   Kraft-Ebing, sőt hirnevesebb hazai orvosok nevei is hangzottak fel minduntalan. Az
-                  idegbajokról irt hir­neve­sebb munkákat, a Kraft-Ebing specziális iratait, Charcot
-                  hires előadásait, Vulpian «Physio­logie da système nerveux»-jét, Rosenthal
+                  idegbajokról irt hirnevesebb munkákat, a Kraft-Ebing specziális iratait, Charcot
+                  hires előadásait, Vulpian «Physiologie da système nerveux»-jét, Rosenthal
                   «Nervenkrankheiten» czimü munkáját emlegették. Aztán a közkézen forgó férczművek
                   czimei, adatai, magyarázatai vegyültek bele a suttogó beszélgetésbe, s egy
                   pillanatra ugy látszott, mintha nem is betegek, de orvosok százai ülnének itt
@@ -188,13 +195,13 @@
                   inas szárazon felelé:</p>
                <p>- Nem lehet... holnap...</p>
                <p>
-                  <hi>Ez </hi>az egyenlőség jól esett nekik. Szóba került, hogy egy
+                  <hi rend="italic">Ez </hi>az egyenlőség jól esett nekik. Szóba került, hogy egy
                   bécsi professzor milyen módon dorgálta meg a királynét. Hires orvosokról kezdtek
                   anekdotázni, mig egy kecskeszakállu ur - naiv és jóságos arczczal - az orvosok
                   karakteréhez szolgáltatott adatokat. Bejárta Európa minden nevesebb
                   speczialistáját. Felkereste J. M. Charcot a Salpetrièreben és a szent-mártoni
                   javasasszonyt. Megpróbálkozott mindenhol és mindenféle szerrel s betegségének
-                  tizen­negyedik esztendejében arra az eredményre jutott, a mit nem restelt itt is
+                  tizennegyedik esztendejében arra az eredményre jutott, a mit nem restelt itt is
                   hangoztatni:</p>
                <p>- Svindlerek, nem tudnak semmit, csak a mikor vágni kell...</p>
                <p>A váró-szoba órája hármat ütött. A kecskeszakállu ur elnémulva rezzent össze.
@@ -223,10 +230,10 @@
                   kilenczen. A beszélgetést is abba hagyták, s nyugtalansággal lesték, mig rájuk
                   kerül a sor, ugy hogy egész világosan meghallatszott izgatott szivüknek ideges
                   dobogása, a mig a rendelő-szoba ajtajában várakoztak. Mintha esküvőre mennének,
-                  birájuk elé állanának. Az izgatottság, a félelem torkuk­ba szoritotta a szót. A
-                  még mindig dühös birtokoson meg kisérőjén kivül alig beszélt más.</p>
+                  birájuk elé állanának. Az izgatottság, a félelem torkukba szoritotta a szót. A még
+                  mindig dühös birtokoson meg kisérőjén kivül alig beszélt más.</p>
                <p>Az aztán, hogy neki indult, beszélt bőven. Orvosnövendék volt és tanitványa a
-                  hires ideg­professzornak. Két éve hallgatja előadásait, s ezer részletet tud
+                  hires idegprofesszornak. Két éve hallgatja előadásait, s ezer részletet tud
                   róla.</p>
                <p>A várakozók leapadt csoportja mohón nyeli el szavait a mint rajongással szól az
                   európai hirü tanárról, a csodálatos gyakorlatu orvosról.</p>
@@ -236,26 +243,26 @@
                <p>Az orvosnövendék méltatlankodva rázta meg fejét:</p>
                <p>- Zsidó! ördögöt. De mégis van a dologban valami. Az apja erdélyországi örmény
                   eredet, de már tiszta magyar, mig az anyai nagyanyja spanyol zsidó származásu. A
-                  hires Bonaveszték­ből, azok a dusgazdag fakereskedők...</p>
+                  hires Bonavesztékből, azok a dusgazdag fakereskedők...</p>
                <p>A hires fakereskedő-dinasztiáról a börzianer tudott sok részletet. De nem hagyták
-                  mind el­mondani, az orvosnövendéket kérdezték tovább:</p>
+                  mind elmondani, az orvosnövendéket kérdezték tovább:</p>
                <p>- Hát az egyetemen?</p>
                <p>- Az egész délelőttöt tantermében s kórházában tölti. Talán minden kollegája
                   között neki van a legtöbb hallgatója. Különösen a mióta szülészetet is ád elő. Nem
                   is valami nagyon szeretik tanártársai. Jaj annak a hallgatójának, a ki neki fizet
                   tandijat s a másik szaktanár előtt kell vizsgáznia! Ő maga nem valami sokat
-                  törődik a tandijakkal, nagyon sok hallgatójának el­engedi. Pedig ez éppen nem
+                  törődik a tandijakkal, nagyon sok hallgatójának elengedi. Pedig ez éppen nem
                   szokásos az orvosi fakultáson... Olykor-olykor még rigorozumra is ád pénzt olyik
                   földhöz ragadt növendékének.</p>
                <p>- Szépen ád elő?</p>
                <p>- Lassan s nem folyékonyan, de néha nagyon szépen. Megérzik rajta, hogy sokat
                   tartózkodott külföldön, szó-helyezésében van egy kis galliczismus. Három évig volt
                   segédorvos a párisi Chariteben, ugyanennyi ideig segédtanár a strasszburgi
-                  egyetemen. Azt hiszem, ott marasz­talták is, sőt Bécsbe is hivták tanárnak, de nem
+                  egyetemen. Azt hiszem, ott marasztalták is, sőt Bécsbe is hivták tanárnak, de nem
                   ment.</p>
                <p>- Hazafiságból?</p>
                <p>- Bajosan. Beteg mindenütt van az egész világon. Más lesz az oka...</p>
-               <p>- Asszony? - kérdé egy <hi>asszony</hi>.</p>
+               <p>- Asszony? - kérdé egy <hi rend="italic">asszony</hi>.</p>
                <p>Az orvosnövendék mosolygott.</p>
                <p>- Nem hinném. Beszélnek ugyan titkos és nyilt viszonyairól, hóditásairól, melyeket
                   itt a mágnásnegyedben és tulnan a Lipót-városban tett, de hát ezek csak apró
@@ -306,7 +313,7 @@
                <p>Csakugyan ugy tetszett mintha aludnék az egész városrész. Aludt: az ide látszó
                   muzeum zöld lombjainak ágyában, széltül a lovarda elmosódott körvonalai
                   érczlovával egyetemben, a magyar urak kis és nagy palotái parkjaikkal s
-                  portásaikkal együtt. Az üresen hagyott, nagy­részt lakatlan czimeres facadeü házak
+                  portásaikkal együtt. Az üresen hagyott, nagyrészt lakatlan czimeres facadeü házak
                   nagy ablakai lefüggönyözve, a szép mívü kapuk zárva. Itt-ott ezüstös galandu
                   sapkában, szájukban porczellán pipával, bóbiskolva pöfékeltek öreg portások.
                   Házmesterné, faczér inas, az uri életre kiváncsi hordáros megállt előttük.</p>
@@ -327,11 +334,11 @@
                   szánt furcsa alaku tárgyak, villamos telepek, száraz és savas gépek, fényezett
                   dobozokban és szabadon, meg-megingó kerekekkel, bár egymástól meglehetős
                   távolságra: most összefolytak, egybekapcsolódtak a padló világos szőnyegének
-                  mozdulatlan, mély árnyékában. Az ablakkal szemben álló fal kár­pit­jának
+                  mozdulatlan, mély árnyékában. Az ablakkal szemben álló fal kárpitjának
                   sárgás-barna világossága nem engedte, hogy az este legyen urrá, ez egyszerre
-                  barát­ságos és visszarettentő szobában. Annak aranyszöges falszőnyegén lógott a
+                  barátságos és visszarettentő szobában. Annak aranyszöges falszőnyegén lógott a
                   szoba egyedüli képe. Hosszu és keskeny alaku keretben, hosszu és keskeny száju
-                  emberarcz franczia réz­metszete.</p>
+                  emberarcz franczia rézmetszete.</p>
                <p>És a Vulpian doktor arcza mintha fintorgott volna. Orra hol benyomult, szája hol
                   még jobban kiszélesbült. Feje hirtelen felényivel keskenyebb lett mint előbb, majd
                   hirtelen szétterült, megvilágosodott, mint valami gomolya sárga korongja. Az utcza
@@ -345,17 +352,17 @@
                <p>A professzor kedvetlenül igenre bólintott:</p>
                <p>- Érdekes, de hát én azokat az egészségeseket is szeretném látni, a kik közül ezek
                   a betegek kikerültek. Lássa, azt kellene egész pontosan tudnunk, hogy állanak elé
-                  a dolgok. Megfi­gyel­ni, hogy özönlik be az egészséges vidék fris folyama a
-                  főváros petyhüdt álló vizébe. Hogyan alakul át, mikép válik egygyé. Az atya még
+                  a dolgok. Megfigyelni, hogy özönlik be az egészséges vidék fris folyama a főváros
+                  petyhüdt álló vizébe. Hogyan alakul át, mikép válik egygyé. Az atya még
                   patriarcha, a fiu már idegsorvadásos. Az anya még erős és energikus, mint egy
                   férfi, a lánya az már meghalt csalódott szerelme miatt. Hol itt a fejlődés, az
-                  átmenet hol van - azt nem látom. Az emberek nem változhattak meg oly hir­telenül s
+                  átmenet hol van - azt nem látom. Az emberek nem változhattak meg oly hirtelenül s
                   itt mégis oly hirtelenül megváltoznak. Jőjjön, kövessük életük lázas utját.
                   Rohanjunk a rohanók után... Tanulmányozzuk a benszülötteket. Politikájuk,
                   társadalmuk, de legfőkép szerelmük történetét, életét, összefüggését mind ama
-                  millió dologgal, a mivel ezek összefügg­nek. Vegye külön a nemeket, határolja el a
+                  millió dologgal, a mivel ezek összefüggnek. Vegye külön a nemeket, határolja el a
                   nemzetiségeket, a fajokat, a különös raszokat, a vegyeseket, a különös és a
-                  tuczat-embert. Tessék fölállitani külön osztályt a foglalkozá­soknak... Aztán az
+                  tuczat-embert. Tessék fölállitani külön osztályt a foglalkozásoknak... Aztán az
                   igy előálló milliárd adathoz adja a helyi viszonyok különbségét, az alakuló
                   világváros kikeresendő törvényét, aztán rendezze ezt az adathalmazt.</p>
                <p>A tanársegéd szinte szédülő fejét kezeire támasztotta, a professzor folytatá:</p>
@@ -364,18 +371,18 @@
                   fővárost, a még idegesebb s bolondosabb Európa közepében az - lehetetlen.</p>
                <p>- Lehetetlen! ismétlé halk szóval a tanitvány.</p>
                <p>A mester háttal fordulva az ablaknak, a még mindig világos kárpitra mereszté
-                  szemeit s el­hallgatott. Nem látták többé egymást. Csak a segédorvos különböztette
+                  szemeit s elhallgatott. Nem látták többé egymást. Csak a segédorvos különböztette
                   meg egy nagy fekete foltban a mester szemeinek helyén ama két fekete kristályként
-                  csillogó pontot, mely válto­zatlan, mozdulatlan meredt egy és ugyanazon helyre. S
+                  csillogó pontot, mely változatlan, mozdulatlan meredt egy és ugyanazon helyre. S
                   az élő ember e két csillogó pontban olyan különösen hatott rá, annyira
                   emberfeletti volt, hogy a félelem valami ismeretlen árnyéka kezdé szorongatni.
                   Beszélni akart, de nem tudta mit.</p>
                <p>Köszönt hát halkan s szinte sompolyogva elment.</p>
                <p>Lépései már az előszobában hangoztak, a mikor a tanár felkelt, hogy kezet nyujtson
                   neki. S a mikor látta, hogy nincs többé kinek, megállt a szoba közepén.
-                  Iróasztalára nézett. Egy na­gyob­bacska sötét masszában megismerte azt a
-                  pénzcsomót, melyet ma hagytak asztalán betegei. Utána nyult, felnyalábolta s az
-                  ablakhoz vitte.</p>
+                  Iróasztalára nézett. Egy nagyobbacska sötét masszában megismerte azt a pénzcsomót,
+                  melyet ma hagytak asztalán betegei. Utána nyult, felnyalábolta s az ablakhoz
+                  vitte.</p>
                <p>Boritékban és a nélkül rongyos és ujdonatuj ötös meg tizes bankjegyek feküdtek
                   előtte. Egynek-egynek nehéz illata volt. Némelyiket megszagolta. Egyre - melynek a
                   közepe furcsán volt kitépve - mosolygott is. Egy másikban tizes bankjegy mellett
@@ -385,30 +392,30 @@
                   tudom, hogy szeret, ne titkolja tovább! Egy nagykereskedő felesége megható
                   szemrehányásokkal illette: «Ezt igérte ön nekem? Nem ön volt-e, a ki valami
                   csodálatos szer segitségével megejtett, eltéritette szivemet szegény férjemtől,
-                  feldulta családi életem boldog­ságát. Önnel törtem meg a legboldogabb házasságot.
-                  S most visszaretten közös bününk követ­kezményeitől. Fél. Elzárkózik előlem. Óh,
-                  hát viseljem én az egész bün terhét, de ne szakitsa szét összefonódott sziveinket.
-                  Ön elviseli a szakitást, de én...?»</p>
+                  feldulta családi életem boldogságát. Önnel törtem meg a legboldogabb házasságot. S
+                  most visszaretten közös bününk következményeitől. Fél. Elzárkózik előlem. Óh, hát
+                  viseljem én az egész bün terhét, de ne szakitsa szét összefonódott sziveinket. Ön
+                  elviseli a szakitást, de én...?»</p>
                <p>A házasságtörésben, a viszonyban nem volt egy igaz szó se. Egyszer masszirozta
                   ennek a hölgynek a karját s akkor azt mondta neki. «Nagysád, szép karja van!» Ez
                   volt, ez a sablónos bók volt alapja a képzelődő kis hölgy modern drámájának, mely
-                  egy csepp hijjával kompro­mittálhatta volna az ártatlan professzort.</p>
+                  egy csepp hijjával kompromittálhatta volna az ártatlan professzort.</p>
                <p>Talán most is az irt neki. Egy gyufa világánál jobban megszemlélte az aláirást. Az
-                  volt csak­ugyan.</p>
+                  volt csakugyan.</p>
                <p>Az orvos boszankodva s mosolyogva tette vissza iróasztalára a levelet. A
-                  bankjegyeket kezdet­ben össze akarta rakosgatni, majd hirtelen türelmét vesztve
+                  bankjegyeket kezdetben össze akarta rakosgatni, majd hirtelen türelmét vesztve
                   dobta be egy kis nikkel-kasszába.</p>
                <p>Ugy látta, megszámlálás nélkül is azt vette ki, hogy egy napon se keresett még
-                  ennyit tudo­mányával. És némi örömet érzett. De mint mikor valami czukor-féle a
-                  gyomrot még émely­gőbbé teszi, ez után az öröm után még kellemetlenebbül érezte
+                  ennyit tudományával. És némi örömet érzett. De mint mikor valami czukor-féle a
+                  gyomrot még émelygőbbé teszi, ez után az öröm után még kellemetlenebbül érezte
                   magát.</p>
                <p>Soha nem volt még igy elfáradva, és soha nem érezte még ugy, hogy milyen kevéssé
                   érdemli meg azt a pénzcsomót, melynek avas-pézsmás szaga még folyton ott volt
                   orrában.</p>
                <p>Aztán arra is most gondolt először, hogy a mikor ilyen megimádott büvésze az
                   asszonyoknak, a mikor azok a különös fejecskék hideg kezének egyetlen simitásától
-                  meggyógyulni látsza­nak: ő maga folytonos veszélyben forog. Örökösen köztük élve:
-                  a titokszerü lények ön­tudatlan, láthatatlan hálójukat szövik körülte.</p>
+                  meggyógyulni látszanak: ő maga folytonos veszélyben forog. Örökösen köztük élve: a
+                  titokszerü lények öntudatlan, láthatatlan hálójukat szövik körülte.</p>
                <p>Maga-megvetése, kifáradt volta, valami ismeretlen ellenségtől való rettegés
                   halvány nüansza: olyan állapotot idéztek fel lényében, a mely egészen ismeretlen s
                   igy kéjelmetlennek is tetszett neki.</p>
@@ -427,17 +434,17 @@
                   tanárjának. Egypárszor ennek a latin nevét emlegette magában, aztán arra gondolt,
                   hogy milyen sajátságos, már kilencz éves korában érdeklődött az anatómia iránt.
                   Vannak gyerekek, a kik valamely emberkészitette gép iránt érdeklődnek, ő maga az
-                  ember gépezete iránt érdeklődött. Halott-látni elment szülőváro­sának legmesszebb
+                  ember gépezete iránt érdeklődött. Halott-látni elment szülővárosának legmesszebb
                   eső házaiba. És hirtelen eszébe jutott ezeknek a halottaknak neve, szine, formája.
                   Majd azok a hullák jelentek meg képzeletében, melyeket tanulmányai alatt látott,
                   bonczolt. Volt egy, a kinek nem tudta akkor megállapitani a kórisméjét - most
                   eszébe jutott. De csakhamar belátta, hogy még nem jár a helyes uton. Ujra csak
                   tapogatódzás, megint csak feltevés.</p>
                <p>Mosolygott, mert arra gondolt, hogy az orvosokat igy kellene nevezni: «a
-                  feltevések tudomá­nyának tudora». A kiválóbbakat pedig igy: «a f. t. főtudora».
-                  Majdnem nevetett ezen a külö­nös czimen, de torkát keserüség szoritotta össze, a
+                  feltevések tudományának tudora». A kiválóbbakat pedig igy: «a f. t. főtudora».
+                  Majdnem nevetett ezen a különös czimen, de torkát keserüség szoritotta össze, a
                   mint minden átmenet nélkül eszébe jutott, hogy egy egyszerü reszketeg hüdésest nem
-                  tud meggyógyitani. Boszankodva gondolt a villa­mos lapdacsok komédiájára,
+                  tud meggyógyitani. Boszankodva gondolt a villamos lapdacsok komédiájára,
                   keserüséggel a fájdalmakat csillapitó szerekre, melyek egyrészt hasznosak, de
                   másrészt még többet ártanak. A morfium mint gyógyitó-szer és a morfinismus mint
                   rettenetes baj, élő példákban jelent meg előtte. Majd szinek és szagok eleven
@@ -448,8 +455,8 @@
                <p>Ebben a pillanatban kevesebbre becsülte tudományának eredményeit, mint a mennyit
                   tényleg megértek. Általa már elfogadott theoriákat döntött hirtelen halomra.
                   Tények harmoniájába ellentmondás vegyült. Tekintélyek omlottak össze. Becses
-                  könyvek kerültek a sutba. Évtize­des meggyőződések kősziklája elpárolgott, mint
-                  valami illó olaj. És mindenek e pusztulásá­ból, a romok e százféleségéből egy uj
+                  könyvek kerültek a sutba. Évtizedes meggyőződések kősziklája elpárolgott, mint
+                  valami illó olaj. És mindenek e pusztulásából, a romok e százféleségéből egy uj
                   hatalom kelt ki.</p>
                <p>Formátlan formák kolosszális tömegei egyben. Nehéz, nyomasztó és csábitó. -
                   Titok.</p>
@@ -477,8 +484,8 @@
                   táp-intézetében nem látta, hát nem ismerhette meg a szerelmet. Később az egyetemen
                   megismerte egyik lényegét, de szerelmes ismét nem lehetett. Fejét tette urrá,
                   szervei annak szolgáltak. És ez állapot megmaradt mindvégiglen. Mind többet-többet
-                  vágyott és mind többet kellett ta­nulnia. A tudás nagy könyvétől nem láthatta meg
-                  a kis Ámort. Aztán a Charite, majd Charcot kórháza, a német «Krankenhaus»-ok női
+                  vágyott és mind többet kellett tanulnia. A tudás nagy könyvétől nem láthatta meg a
+                  kis Ámort. Aztán a Charite, majd Charcot kórháza, a német «Krankenhaus»-ok női
                   osztályai csirájában támadták meg illuzióit.</p>
                <p>Harminczöt éves lett, a nélkül, hogy szive dobogott volna valamely titkos
                   találkozó óráján, avagy azt mondta volna valaha egy hölgynek: «nem lehet élnem
@@ -486,33 +493,33 @@
                   valakinek annyi baja ezzel a főelemmel, mint éppen neki.</p>
                <p>Hölgy-betegei bajának majdnem mindig volt köze ehhez az érzelemhez. Sőt
                   felerészben ez volt betegségük okozója. Csalódott, vágyakozó, boldogtalan
-                  asszonyok, elhagyott, meggyalá­zott szeretők neveivel s történetével volt tele
-                  jegyzetes nagy mappája. És látta a szerelem je­len­ségeit a maga őseredetiségében,
+                  asszonyok, elhagyott, meggyalázott szeretők neveivel s történetével volt tele
+                  jegyzetes nagy mappája. És látta a szerelem jelenségeit a maga őseredetiségében,
                   de tulczivilizált voltában is. Regényt habzsoló asszonyok, tulmodern nők és a
                   szerelem szót kimondani se tudó parasztlányok szerelmi szenvedélye tárult ki
                   előtte. Dauphnis és Chloe, Colette és Minette egymás mellett szerepeltek
-                  jegyze­teiben. Az éretlen kiváncsiságon elkezdve, végig az érzékiségen, egészen a
+                  jegyzeteiben. Az éretlen kiváncsiságon elkezdve, végig az érzékiségen, egészen a
                   nő tiszta izzó szenvedélyeig, sőt még azon is túl, be az őrületbe kisérte a
                   szerelmes nőt.</p>
                <p>Nem kellett költőkből megismernie e legfőbb motor ezerféle müködését: mindennap
                   elevenen láthatott maga előtt egy-egy eredeti regényt. Kiváncsiságból elolvasott
-                  mégis egy pár világra­szóló, vagy divatos szerelmi történetet s azt találta, hogy
-                  a megirt asszonyok ritkán hasonlóak az ő eleven hölgyeihez. Például érzékiségük
+                  mégis egy pár világraszóló, vagy divatos szerelmi történetet s azt találta, hogy a
+                  megirt asszonyok ritkán hasonlóak az ő eleven hölgyeihez. Például érzékiségük
                   sokkalta nagyobb szerepet játszik a könyvekben, mint az életben. Beteges
                   fantáziájukra, titokzatos idegrendszerükre sincs elég suly helyezve.</p>
                <p>Csekély kivétellel nem sokra becsülte hát e könyveket.</p>
                <p>Most azonban még azokat is többre tartotta, mint a saját maga meggyőződéseit.</p>
                <p>«Eh» - gondolta magában - «azok, a kik e könyveket irták, legalább látták a dolgot
                   közvetlen közeléből. Részt vettek fejlődésében, hozzájárultak formájához,
-                  méreteihez. Eleven nyilatko­zásait látták, érezték, nyögték. Én csak az
+                  méreteihez. Eleven nyilatkozásait látták, érezték, nyögték. Én csak az
                   eredményeket látom, csak a másolatokat - a hiányos vagy hazug, kiszépitett
                   önvallomásokat - kapom meg. Ők a tudósok, én pedig a «feltevések tudora»
                   vagyok.»</p>
                <p>Önmegvetése most delelőjére hágott. Kinosan forgolódott divánján, majd arczra
                   feküdt. Nem akart többé e dolgokra gondolni, megpróbálkozott magát delejes álomba
                   ringatni. Az ablakfa egy világos pontjára nézett, folyton ezt hajtogatván magában:
-                  «fa». De öt percz multán ki­zökkent ez állapotból, s végig nézve szobáján, a
-                  teljes sötétségben, a mozdulatlan csendes­ségben furcsa gondolata támadt.</p>
+                  «fa». De öt percz multán kizökkent ez állapotból, s végig nézve szobáján, a teljes
+                  sötétségben, a mozdulatlan csendességben furcsa gondolata támadt.</p>
                <p>Ugy tetszett neki, mintha egymaga volna a világon. Egészen egyedül. Mintha egy
                   óriási égi test tetején ülne. Körülötte semmi. Őrült sebességgel forgó csillagok
                   tüzgömbje, kiégett bolygók foszforizáló világa rohan el előtte. Valami
@@ -540,15 +547,15 @@
                   suggestió?</p>
                <p>Egyik sem ér semmit!»</p>
                <p>A professzornak ugy tetszett, hogy a sötétben keresi az utat. De honnan ez a
-                  sötétség? Meg­felelt rá magának.</p>
+                  sötétség? Megfelelt rá magának.</p>
                <p>Mert mindent akar tudni. Többet, mint a mennyit egy ember tudhat.</p>
                <p>Egyelőre hát kevesebbel kell megelégedni.</p>
                <p>Például kikutatni a sarkalatos kérdést:</p>
                <p>
-                  <hi>Micsoda elváltozásokat, milyen betegségeket, milyen különös
-                     jelenségeket idézhet elő az asszony­ban a szerelem? </hi>Persze normalisan
-                  egészséges asszonyról, de nem normalisan egész­séges szerelemről lehet szó.
-                  Szerelemről, melyben kétséget, boldogságot, csalódást, hit­szegést,
+                  <hi rend="italic">Micsoda elváltozásokat, milyen betegségeket, milyen különös
+                     jelenségeket idézhet elő az asszonyban a szerelem? </hi>Persze normalisan
+                  egészséges asszonyról, de nem normalisan egészséges szerelemről lehet szó.
+                  Szerelemről, melyben kétséget, boldogságot, csalódást, hitszegést,
                   megbecstelenitést, szóval egy modern szerelem minden megrázkodtató fázisát éreznie
                   kell az asszonynak. Gyorsan, egymásután kell jönnie csapásnak, boldogságnak.</p>
                <p>S a mi fődolog, mig az asszony érzése tiszta minden tettetéstől, maga a férfi, a
@@ -556,10 +563,10 @@
                   hidegségét, mig szerepét játsza. Legyen éber, legyen ügyes, s mindenek fölött jó
                   megfigyelő.</p>
                <p>Nagy munka vár rá. Örökösen obszerválnia kell betegét. Megmérni a hatásokat, a
-                  változá­sokat, melyek asszonyán előállanak. Kisérletezni nem elég véle: a
+                  változásokat, melyek asszonyán előállanak. Kisérletezni nem elég véle: a
                   kisérletek eredményeit megérteni, az a legfontosabb. Mi minek a következtében
                   állott elő? Hogyan szülemlik a nervoze, az egyszerü idegesség? Előállhat-e be nem
-                  tartott találkák következtében? A ki­elégitetlen szenvedély miként szüli a
+                  tartott találkák következtében? A kielégitetlen szenvedély miként szüli a
                   hiszteriát? Hogy fokozódik ez? Az idegláz előállhat-e egy hirtelen szakitás
                   következtében? Miképen válik - halálossá? És e kérdéseken felül még legalább ezer
                   kérdésre: mi a felelet?</p>
@@ -577,7 +584,7 @@
                   tele.</p>
                <p>Aztán egy asszonyra esett választása. Elvetette. Következett a második, harmadik.
                   Egy sem volt jó erre a czélra.</p>
-               <p>És a mig igy válogatott, <hi>az elképzelt szerelem meleg szellője
+               <p>És a mig igy válogatott, <hi rend="italic">az elképzelt szerelem meleg szellője
                      csapta meg</hi>. Mint az elgyötrött testnek valami langyos fürdő: lelkének
                   olyan zsongitó, kellemes volt ez az állapot.</p>
                <p>Mind frisebb, ruganyosabb, erősebbnek érezte magát. Immár nem volt kétsége az
@@ -608,10 +615,10 @@
                   csak szerelmet akart kelteni?</p>
                <p>A tanár halkan felnevetett:</p>
                <p>«Milyen bolond vagyok, még ez a képtelenség is eszembe jut!» mondotta majdnem
-                  fen­hangon.</p>
+                  fenhangon.</p>
                <p>«Képtelenség!» ismétlé még egyszer. Aztán édesdeden tervek kovácsolásába fogott.
                   Érdekes, merész, majd vad tervekbe. Tiz percz alatt százféle dolgot módolt ki.
-                  Hogyan fogja meg­szólitani a lányt, milyen körülmények között ismerkedik meg
+                  Hogyan fogja megszólitani a lányt, milyen körülmények között ismerkedik meg
                   vele.</p>
                <p>Tüzesen vágyott már e találkozóra. Izgatott volt, hogy nem termett itt előtte.</p>
                <p>Akarom, mindjárt! erre a két fogalomra változott át vágya. És gyors elhatározással
@@ -622,7 +629,7 @@
                <p>Asztalán vizsgálgatni kezdte a mai meghivókat. És rátalált arra, a mit keresett:
                   egy bálra.</p>
                <p>«Nagyságos Lengyel Dénes tr. tanár stb. urat, az intézet betegei által rendezett
-                  hang­ver­sennyel összekötött tánczmulatságra tisztelettel meghivja Petrovits Elek
+                  hangversennyel összekötött tánczmulatságra tisztelettel meghivja Petrovits Elek
                   dr., a Petrovits-féle hidegviz- és massage-gyógyintézet igazgató-tulajdonosa. -
                   Kezdet tiz órakor.»</p>
                <p>A tanár az órára nézett. Még fél óra hiányzott a tizből.</p>
@@ -644,9 +651,9 @@
                   és felséges nejének arczképe is mintha petyhüdten lógott volna le a pompeji veres
                   kárpitról.</p>
                <p>A mi első szempillantásra is peczkesnek látszott, az az igazgató-tulajdonos
-                  felferencz­józsef­rendezett arczképe, mely a hidropatikus gyógymódokat ábrázoló
-                  kép közepéből ragyogott ki a közönségre. És maga az igazgató, a ki nem várta többé
-                  a nagy hatalmasságok képviselőit, hanem a mint a tanárt meglátta a küszöbön: a nem
+                  felferenczjózsefrendezett arczképe, mely a hidropatikus gyógymódokat ábrázoló kép
+                  közepéből ragyogott ki a közönségre. És maga az igazgató, a ki nem várta többé a
+                  nagy hatalmasságok képviselőit, hanem a mint a tanárt meglátta a küszöbön: a nem
                   várt megtiszteltetéstől halványan, majd az örömtől kivörösödve rohant uszályon,
                   idegen lábakon, minden akadályon át feléje.</p>
                <p>- Isten hozta, tanár ur, isten hozta! kiáltá kibicsaklott hangon, ugy hogy a
@@ -676,7 +683,7 @@
                   török betegek hazánkba jönnének?!... milyen nemzetgazdasági haszon...</p>
                <p>Petrovics ur hirtelen elnevette magát:</p>
                <p>- Képzelje el nagyságod, egy különben nobilis betegemet csak ugy tudtam felcsalni
-                  szobájá­ból, hogy azt mondtam neki: itt lesz a török alkövet is, zöld turbánban, s
+                  szobájából, hogy azt mondtam neki: itt lesz a török alkövet is, zöld turbánban, s
                   az Egyesült-Államok konzulja sárga gyapot-frakkban...</p>
                <p>Egy agyalágyult beteg férfi a sarokban kimeresztett szemét mindegyre az ajtóra
                   függesztette. Várta a nagyhatalmasságok gálába öltözött képviselőit.</p>
@@ -696,7 +703,7 @@
                <p>Petrovics dr. még jobban akarta megvilágitani a szegény gavallér különösségeit, de
                   hátuk megett, a betegek s a közönség között izgatottság támadt.</p>
                <p>A grófné és leánya lépett a szalonba, s a tömegen át az igazgatóék felé
-                  törekedett. Az agg­legény futott elébök. Kezet csókolt a grófnének:</p>
+                  törekedett. Az agglegény futott elébök. Kezet csókolt a grófnének:</p>
                <p>- Kiszti hand méltóságos asszony, hogy aludt kontesz?</p>
                <p>Az igazgató is felugrott székéről:</p>
                <p>- Bocsánat, ő méltóságaikat kell ide helyükre vezetnem.</p>
@@ -705,12 +712,12 @@
                   «grófék», s majd elolvadt a gyönyörüségtől, a mikor a hires tanárt bemutathatta
                   nekik.</p>
                <p>Férfiasan klasszikus kövér fejével alig viszonozta a grófék köszöntését az
-                  igazgatóné. Meg­látszott arczán: sokkal praktikusabb, semhogy sokra becsülné
-                  ezeket a koldus-mágnásokat, a kik leszállitott áron élvezik a hidropathia
-                  áldásait, s még ezt a leszállitott árt se fizetik rende­sen. S nem lehet őket
-                  elküldeni, mert grófnők, s igy talán használnak az intézetnek. Akadnak
-                  polgáremberek, a kik csak azért maradnak itt egy-két héttel tovább, hogy
-                  grófnékkal ehesse­nek «tabldót»...</p>
+                  igazgatóné. Meglátszott arczán: sokkal praktikusabb, semhogy sokra becsülné ezeket
+                  a koldus-mágnásokat, a kik leszállitott áron élvezik a hidropathia áldásait, s még
+                  ezt a leszállitott árt se fizetik rendesen. S nem lehet őket elküldeni, mert
+                  grófnők, s igy talán használnak az intézetnek. Akadnak polgáremberek, a kik csak
+                  azért maradnak itt egy-két héttel tovább, hogy grófnékkal ehessenek
+                  «tabldót»...</p>
                <p>Az öreg grófné beteg leánya felett nyomban konzultálni akart a professzorral.
                   Hiába szólt közbe az igazgatóné, s a megszeppent igazgató hiába akarta teljesen
                   magának lefoglalni a doktort, a mama beszélt, beszélt:</p>
@@ -732,21 +739,20 @@
                <p>Az igazgató még mindig a két hatalom magyarországi képviselőire várt. Ámbár
                   időközben egy országgyülési képviselő is jött.</p>
                <p>Végre is tizenegy óra lett; nem lehetett tovább várni. A grófné felállt a pódiumra
-                  s zongora­kiséret mellett régi olasz dalt énekelt. Az idős asszonyság
+                  s zongorakiséret mellett régi olasz dalt énekelt. Az idős asszonyság
                   szentimentális éneke, csodálatosan kitágult ajkával s kövér arczában elmerült
                   szemeivel olyan komikusnak tetszett a tanár előtt, hogy ideges félelem fogta el.
                   Félt, hogy elneveti magát. Félig elfordult hát a pódiumtól s a «vendégekre»
                   nézett.</p>
                <p>Magyarország minden vidéke képviselve volt itt. Legnagyobb számmal természetesen
-                  fő­vá­rosiak. Budapest izgatott, lázas életének, nehéz küzdelmeinek betegei. A
-                  gyors meggazdago­dásra vágyók, a hirtelen karrierre epedő ideggyöngék. Kiélt
-                  férfiak, a kik, mielőtt meges­küd­nének jegyesükkel: ide jöttek magukat
-                  megerősiteni a jövő életre; hideg viz, masszazs, meg egyéb fasionabl kurákkal
-                  akarva visszanyerni azt az életerőt, mely még egy fasionabl házas­sághoz is
-                  szükséges. A férfiak e korán elérett csoportjához egy pár éretlen gyerek
-                  csatlakozik. Az ostoba középiskolai rendszer áldozatai, kisfejü, zöld arczu,
-                  rövidlátó, szemüveges kis diákok. Vézna testükön fekete frakk, vén arczukon az
-                  aida-táncz jellegei.</p>
+                  fővárosiak. Budapest izgatott, lázas életének, nehéz küzdelmeinek betegei. A gyors
+                  meggazdagodásra vágyók, a hirtelen karrierre epedő ideggyöngék. Kiélt férfiak, a
+                  kik, mielőtt megesküdnének jegyesükkel: ide jöttek magukat megerősiteni a jövő
+                  életre; hideg viz, masszazs, meg egyéb fasionabl kurákkal akarva visszanyerni azt
+                  az életerőt, mely még egy fasionabl házassághoz is szükséges. A férfiak e korán
+                  elérett csoportjához egy pár éretlen gyerek csatlakozik. Az ostoba középiskolai
+                  rendszer áldozatai, kisfejü, zöld arczu, rövidlátó, szemüveges kis diákok. Vézna
+                  testükön fekete frakk, vén arczukon az aida-táncz jellegei.</p>
                <p>Aztán asszonyok, a kik itt is tulsulyban vannak, de a melegség és mulatság
                   hevében, a csillárok s a falak vörös szinével befuttatva: vidoraknak,
                   egészségeseknek látszanak. Fiatal lányok, köztük az intézet régi betege, az a
@@ -758,7 +764,7 @@
                   betegek, a kik a háttérben, - a szolgák felügyelete alatt - nedves szemmel ide-oda
                   nézve, hallgatták az öreg grófné hol rekedt, hol rikoltó énekét.</p>
                <p>De az igazgató, minden modern gondolkodása daczára, nem vetette meg a klasszikus
-                  betege­ket sem. Nemcsak az élet titokzatos rostjainak nyomorgói, de kifejezett
+                  betegeket sem. Nemcsak az élet titokzatos rostjainak nyomorgói, de kifejezett
                   belső bajosok is kereshették itt - jó pénzért - gyógyitásukat. Voltak itt
                   mellbetegek, a kik indolens vagy érdekelt orvosuk által ideküldettek a főváros
                   gőzkörébe, a gellért-mögi góthikus izlésü, sötét palotába, melynek képét és
@@ -766,7 +772,7 @@
                   tetszett.) A gyomorbajosok sem hiányoztak, bár ezeket szerette legkevésbbé az
                   igazgató. Külön kellett nekik főzetni s türni folytonos köpködésüket. És hogy a
                   nyomor kegyetlen skálája teljes legyen: bőrbajosok leselkedtek a kis üvegajtón át,
-                  el-elkapva meg­bélyeg­zett arczukat, a mint az igazgató hátrafordult, hogy tapsra
+                  el-elkapva megbélyegzett arczukat, a mint az igazgató hátrafordult, hogy tapsra
                   adjon jelt a közönségnek.</p>
                <p>Rövid taps csattant fel. A grófné a régi divat szerint pukkedlit csinált s az
                   igazgató karjába öltve karját, lelépett a pódiumról, helyére vissza, a kontesz
@@ -778,7 +784,7 @@
                   tánczol és szaval... ime.</p>
                <p>Sovány, hosszu fiatal ember lépett a pódiumra.</p>
                <p>- Végzett szinésziskolai növendék, - sugta az igazgató.</p>
-               <p>- «<hi>A holló</hi>», Poe Edgartól, - mondá meglehetősen csengő
+               <p>- «<hi rend="italic">A holló</hi>», Poe Edgartól, - mondá meglehetősen csengő
                   hangon a szinész-fiu.</p>
                <p>Az igazgatóné zongorakiséretének mollja megszólalt. A szavalat megkezdődött,
                   eleintén elég jól, de később mind rosszabbul hangzott. A tüdővész-gyártó iskola
@@ -793,7 +799,7 @@
                   lehetett folytatnia a szavalást. Az igazgató boszankodott, félt a kollega
                   megrovásától, hát rákiált a segédorvosra:</p>
                <p>- Asszisztens ur... hol van ön... hozzon fel sekale kornutumot... Micsoda dolog
-                  ez, meg­engedni ennek az urnak...</p>
+                  ez, megengedni ennek az urnak...</p>
                <p>A szavalót szobájába vezette a lefőzött segédorvos. Az igazgatóné szavalat nélkül
                   játszotta el a kiséretet. Az egyetlen ingyenes betegnek, - egy tisztességes nevü
                   beszélyirónak, - tétetett kötelességévé a szöveget aztán felolvasni.</p>
@@ -810,8 +816,8 @@
                   csinálja a prospektusokat, ő csinál a betegek előtt férjéből nagy tudóst, és ő -
                   várja titokban, immár husz esztendeje a meggazdagodott, de beteg, az ügyetlenül
                   haszonleső, tudatlan és elbizakodott férj halálát.</p>
-               <p>Egy erélyes, <hi>fiatal </hi>orvos kellene ide s aranybánya volna ez
-                  a hely. «Nagykereskedés bete­gek­kel.»</p>
+               <p>Egy erélyes, <hi rend="italic">fiatal </hi>orvos kellene ide s aranybánya volna ez
+                  a hely. «Nagykereskedés betegekkel.»</p>
                <p>Mert a mi most folyt itten, az nem volt egyéb, mint egy jól csorrantó egészséges
                   forgalmu detail-üzlet korhadó emberekkel. Semmi az egész, ötven-hatvan beteg
                   mindössze, a mikor az ország és főváros tele van kórral...</p>
@@ -821,7 +827,7 @@
                   eredeti férfi-tipust, a ki egykor növendéke volt s a kiről tudta, hogy valami
                   nagyon gazdag s egyszersmind beteg leányra vadász, addiglan azonban, a mig
                   megtalálja, megelégszik idős hölgyek barátságával is. A «hatvanhatos» frizuráju
-                  fiatal ember köszöntötte egykori tanárát, a kinek belefusolt mester­ségébe, ő is
+                  fiatal ember köszöntötte egykori tanárát, a kinek belefusolt mesterségébe, ő is
                   «erkölcsi» hatásokkal gyógyitotta betegeit.</p>
                <p>A «kollega», gondolta magában Lengyel Dénes doktor undorral eltelve. Alig várta,
                   hogy véget érjen a hosszura nyult fantázia; ki vágyott innen, a hol a betegekkel
@@ -837,7 +843,7 @@
                   asszonyokat nézte, egy kissé nevetségesnek tetszett neki komoly czélja. A
                   kihajporozott, izzadó arczu hölgyek elfedték előtte azt a bizonyos titokzatos
                   asszonyt. S körülvéve a betegek árjától, nem látta többé a betegséget. Asszonyokat
-                  látott, a kik többé-kevésbbé jót vagy rosszat, keveset vagy sokat esz­nek, okosak
+                  látott, a kik többé-kevésbbé jót vagy rosszat, keveset vagy sokat esznek, okosak
                   vagy hóbortosak, érzékiek vagy hidegek, termékenyek, ha nem meddők. Részben
                   egészségesek, de tulnyomóan betegek. De mi ez a betegség? Ime vannak ennek is
                   szünetei, a mikor az illető oly jól érzi magát s annyira érzi, hogy most
@@ -854,7 +860,7 @@
                   «hatvanhatos» haju urral tánczolt. Az arczát nem is látta, csak feje formáját, kis
                   alakját, fehér kötőcskéjét. Valószinüleg valami házi kisasszony, a ki eddig
                   odakünn volt elfoglalva s most bejött a tánczra. Átment a másik oldalra, hogy
-                  jobban láthassa. De igy sem sikerült arczát meg­pillantani, mert hirtelen lehajolt
+                  jobban láthassa. De igy sem sikerült arczát megpillantani, mert hirtelen lehajolt
                   s egy darab papirt vett fel a földről.</p>
                <p>A tanár jól hallotta, a mint gyenge hangon azt mondá tánczosának: «engedelmet» s
                   látta, a mint a papirlap olvasásába merül.</p>
@@ -882,7 +888,7 @@
                <p>A lány felemelkedett; kezét homlokára szoritva, karját kirántá a professzor kezei
                   közül s görcsös sirásra fakadt, mig körülte némán, meglepetve, mozdulatlanul
                   álltak a betegek. E zokogás, a valczer meglassudott hangja s az igazgató hebegése
-                  hallatszott az izgatott csend­ben:</p>
+                  hallatszott az izgatott csendben:</p>
                <p>- Este kaptam... nem akartam már a mulatságot elrontani... Idának megmutatni...
                   zsebembe tettem... itt esett ki...</p>
                <p>A lány zokogása benszakadt, könynyel s gyülölettel teli szemeit nagybátyjára
@@ -897,14 +903,14 @@
                <p>Aztán körülnézve, Lengyel Déneshez fordult:</p>
                <p>- Óh uram vezessen el! szólalt meg halk hangon.</p>
                <p>A vendégek egy része az öltözőbe futott. A betegek szobáikba szállingóztak. Egy
-                  páran mél­tatlankodva s hangosan beszélték meg az esetet. Az igazgatóné néma
-                  dühvel tekintett férjére. Nem tudta e pillanatban mit cselekedjék. Perczekig
-                  kellett gondolkodnia, mig megtudta, mit fog csinálni.</p>
+                  páran méltatlankodva s hangosan beszélték meg az esetet. Az igazgatóné néma dühvel
+                  tekintett férjére. Nem tudta e pillanatban mit cselekedjék. Perczekig kellett
+                  gondolkodnia, mig megtudta, mit fog csinálni.</p>
                <p>Kézen fogta a lányt, a ki éppen a tanár karjába akart fogódzkodni.</p>
                <p>- Ida, jer szobádba! szólt hozzá erélyes hangon.</p>
                <p>A lány engedte magát elvezettetni. A különös csoportban önfeledten állva, nézett
                   utána Lengyel Dénes.</p>
-               <p>- <hi>Ez az! </hi>gondolta magában felvillanyozva.</p>
+               <p>- <hi rend="italic">Ez az! </hi>gondolta magában felvillanyozva.</p>
                <p>És czéljai ujra világosan ragyogtak fel előtte. «Ez kell nekem», ismétlé
                   félhangon. S egészen elmerülve gondolataiba, nem is vette észre, hogy alig van már
                   a szalonban valaki.</p>
@@ -926,34 +932,34 @@
                <p>Egy óra volt. Háta mögött a látóhatár sötét ezüstjén a budai hegyek barna tömegei.
                   Széltül a Gellért aranyos-barna idomtalan képe, mint valami földön fekvő óriás
                   kidüllesztett hasa. Szeme előtt vizszintes irányban a Duna világos sziena-alapu
-                  teste, teli idomtalan ezüst pikke­lyekkel, melyek egyre változtatták alakjukat,
+                  teste, teli idomtalan ezüst pikkelyekkel, melyek egyre változtatták alakjukat,
                   inogtak, mozogtak, feltüntek, letüntek. Valami teménytelen nagy ezüstpikkelyes
-                  állatot, milliószor nagyitott boa konstriktort csinált a vilá­gos, teli holdas
+                  állatot, milliószor nagyitott boa konstriktort csinált a világos, teli holdas
                   nyári éjszaka a hatalmas folyamból.</p>
                <p>A félelmetesen szép állat egy másik élő, de alig-alig mocczanó óriást kigyózott
-                  körül. A bal­parti rész kolosszális tömegét, mely hangtalanul, némán, homályosan
-                  terült el a messzeség­ben. Erdők, melyek a távolság és az éjjel homályában,
-                  egy-egy idomtalanul nagy bokorrá tömörültek, aztán magas kürtők, melyek oly közel
-                  estek igy messziről egymáshoz, mintha valami erdő lombtalan szálfái lennének:
-                  jelölték meg itt-ott, rajzolták meg jól-rosszul a város határát. Ide-oda mozgó
-                  fénypontok a parton, az utczák gázlángjaiból alakult szabályos fényvonalak és egy
-                  sötét háttérből kiemelkedő ragyogó világosságu diadaliv - a központi pályaudvar
+                  körül. A balparti rész kolosszális tömegét, mely hangtalanul, némán, homályosan
+                  terült el a messzeségben. Erdők, melyek a távolság és az éjjel homályában, egy-egy
+                  idomtalanul nagy bokorrá tömörültek, aztán magas kürtők, melyek oly közel estek
+                  igy messziről egymáshoz, mintha valami erdő lombtalan szálfái lennének: jelölték
+                  meg itt-ott, rajzolták meg jól-rosszul a város határát. Ide-oda mozgó fénypontok a
+                  parton, az utczák gázlángjaiból alakult szabályos fényvonalak és egy sötét
+                  háttérből kiemelkedő ragyogó világosságu diadaliv - a központi pályaudvar
                   villamlámpás-fászádja árulta csak el, hogy a város él alant.</p>
                <p>A felragyogó fénypontok, az ismert utczákat jelző fényes vonalak daczára egy-egy
                   pillanatra ugy tetszett a tanárnak, hogy az a tündérséges tájék, a mely elterül
                   körülte, csak festett képek tömege, müve a tájfestők fejedelmének, a legnagyobb
                   Salvator Rosának, a holdas nyári éjnek. Pedig egyenesen szemeirányának láthatta a
-                  feketévé zománczozott ezüstösen ragyogó össze­kötő hidat, melyen gyorsan, de
-                  emberi sebességgel rohant át a vasut, s jól látta a lokomotivot, mely szintén
-                  nyáriasan volt öltözve, fehér czilinderje világos szinü füstgomolylyal pásztázta a
-                  még világosabb levegőeget.</p>
+                  feketévé zománczozott ezüstösen ragyogó összekötő hidat, melyen gyorsan, de emberi
+                  sebességgel rohant át a vasut, s jól látta a lokomotivot, mely szintén nyáriasan
+                  volt öltözve, fehér czilinderje világos szinü füstgomolylyal pásztázta a még
+                  világosabb levegőeget.</p>
                <p>De hang nem hallatszott semerről, sehol.</p>
                <p>A tanár, a ki az egész mindenségben mindig a szerves életet látta: most valami,
                   titokzatosat, olyas valamit érzett, a mi tul van ezen a mindennapi életen. Mintha
                   valami rejtélyt sejtett volna, de mind a sejtelem, mind a rejtély ismeretlen
                   maradt előtte.</p>
                <p>Leért a Gellérthez s a város alant bontakozni kezdett homályából. A világosság is
-                  növe­ke­dőben. Valami hang üti meg fülét. Hajósok, halászok, alsó dunaparti
+                  növekedőben. Valami hang üti meg fülét. Hajósok, halászok, alsó dunaparti
                   csapszékek összevegyült muzsikája: guzslicza-szó, zongora-szó, csimpolya-szó
                   egyben.</p>
                <p>Élet van itt a parton s most van az igazi élet lenn a városban. A mi nappal sürög,
@@ -1012,10 +1018,10 @@
                <p>- Nincs... senki, senki!</p>
                <p>«Óh» - villant meg a tanár eszében, «milyen pompás dolgot lehetne itt csinálni,
                   egyedül álló fiatal leány, a kinek apja most fekszik kiteritve... Most kellene
-                  összefacsarodott lelkét sze­relemre ajzani. Micsoda perspektiva nyilnék ennek a
+                  összefacsarodott lelkét szerelemre ajzani. Micsoda perspektiva nyilnék ennek a
                   viharvert galambnak a szivecskéjébe!»</p>
                <p>A mig egy ákáczvirágot leszakasztott, addig tartott e villanásszerü gondolat.
-                  Azonnal szána­lom fogta el:</p>
+                  Azonnal szánalom fogta el:</p>
                <p>- Hát hogy került a papa Bécsbe?</p>
                <p>- Gyógyittatni ment magát...</p>
                <p>- És hogy, fog maga egyedül odamenni?</p>
@@ -1024,9 +1030,9 @@
                <p>Kiértek az erdőből. Egy nagy rét terült el előttük, azután a Duna s azon tul az
                   élénkülni kezdő város. A vizen kocsirobogás hallatszott át.</p>
                <p>Világosodott. A közeledő hajnal viola s krizopraz szinei vegyültek a
-                  gyöngyházfényü szem­határon.</p>
+                  gyöngyházfényü szemhatáron.</p>
                <p>A tanár megmutatta a lánynak az indulóház villamos lámpáját.</p>
-               <p>- Messze van, de majd csak <hi>odaérünk</hi>!</p>
+               <p>- Messze van, de majd csak <hi rend="italic">odaérünk</hi>!</p>
                <p>Némán ballagtak előre. A erdő zugását nem hallották immár. A lány egészen
                   lecsendesedett. Kérdő tekintetét is fel merte vetni a mellette ballagó,
                   gondolataiba mélyedt férfira. Sőt egy kis habozás s némi zavar után zsebébe nyult
@@ -1109,7 +1115,7 @@
                <p>Paloták során, csillogás, tarkaság, zaj között robognak tova. Ez lehetett a város.
                   Egyszer-egyszer valami kéz simitotta végigégő homlokát: a férfi keze volt. Vasutra
                   ülnek, az volt, hallotta sivitását, - talán jönnek hazafelé, valószinüleg
-                  elaludt... <hi>Biztosan </hi>két szem szelid nézése ébresztette
+                  elaludt... <hi rend="italic">Biztosan </hi>két szem szelid nézése ébresztette
                   fel.</p>
                <p>Annak a tekintete volt az, a ki ime szemben vele, még mindig egy könyvbe néz s még
                   azt sem látszik észrevenni, hogy valaki itt van közelében s ez a valaki felnyitván
@@ -1117,7 +1123,7 @@
                <p>«Itt vagyok, tegyen velem, a mit akar! A mit velem tett, ismeretlen, haszontalan
                   lánynyal, mivel tudjam én meghálálni? Akarja, hogy szolgálója legyek, le akar
                   vetkőztetni, el akar hurczolni? csak tegyen velem, a mit akar»...</p>
-               <p>Petrovics Ida ugy érezte, hogy égeti <hi>ez a hála </hi>s a milyen
+               <p>Petrovics Ida ugy érezte, hogy égeti <hi rend="italic">ez a hála </hi>s a milyen
                   gyönyörrel töltötte el elébb, ugy kinozta most. Torka kiszáradt, nem tudott ülni
                   helyén, felállt.</p>
                <p>A tanár feléje forditá tekintetét.</p>
@@ -1129,22 +1135,22 @@
                   és a világos ruha nem volt kicsiny termetén. A hosszu galléru gyászruhából üdén
                   emelkedett ki világos-barna haju fejecskéje, tej-opál szinü, rózsaszin reflexü
                   arcza. Gyöngéd kis nyakából csak annyi fehérlett ki mint egy sor gyöngy. Fülének
-                  csak rózsaszin gombocskája látszott ki a halán­tékáról lehullott haja alól.</p>
+                  csak rózsaszin gombocskája látszott ki a halántékáról lehullott haja alól.</p>
                <p>Szempillái majdnem egészen befödték szemét, halványkék árnyékkal vonva be annak
                   tiszta csillogását. S a mint fejét felemelte, hogy a tanárra nézzen, erős
                   állacskája alá besimult a szines ablak piros üvegének világossága.</p>
                <p>Mint a hogy ajka a hegyek gyopáros, fenyüillatos levegőjét szivja, olyan kéjjel,
-                  olyan önfeled­ten nézte ezt az alakot Lengyel Dénes. És érezte, hogy abból az
+                  olyan önfeledten nézte ezt az alakot Lengyel Dénes. És érezte, hogy abból az
                   asszonyból, a kit ismer, nincs ebben a lányban ugyszólván semmi.</p>
                <p>Ime, látja: teste van, gyengéd, harmatos kis teste. Lélegzik mint a többi asszony,
-                  ha megbánt­ják: fájdalmat érez, ha szive elszorul: sir, ha erős indulat fogja el:
+                  ha megbántják: fájdalmat érez, ha szive elszorul: sir, ha erős indulat fogja el:
                   világitó pirosság önti el arczát... Van formás, piros, vérdus ajka, ha érzékenyebb
                   is mint rendesen, de evésre, csókra s egyébre szánt mint a többié. Van karja,
                   melylyel lehet ölelnie, kurta kis, telt keble, hosszu, ives formáju alsó
                   teste...</p>
                <p>Lány ez, olyan mint a többi - és még sem olyan.</p>
                <p>Érzi, hogy nem birna ugy bánni vele, mint a többivel. Képtelen volna nyugodtan
-                  megvizs­gálni, ha beteg volna, nem telne el soha, ha örökké szerelmeskednék is
+                  megvizsgálni, ha beteg volna, nem telne el soha, ha örökké szerelmeskednék is
                   vele, nem unná meg, ha mindig mellette volna is, és hiányzanék, ha nem volna többé
                   itten.</p>
                <p>Talán fájdalmat is okozna, ha nem látná többé? És gyönyörüséget, ha mindig látná?
@@ -1160,10 +1166,10 @@
                   forditott.</p>
                <p>Lengyel Dénes már csak kissé megremegő vállait, selymes fényü tarkóját látta. S a
                   miközben felállt, hogy kikisérje, eszébe jutott: «nem volna-e most okosabb ezt a
-                  világ legüdébb, leg­kedvesebb lányát vállon ragadni s ölembe vonni, a mikor
+                  világ legüdébb, legkedvesebb lányát vállon ragadni s ölembe vonni, a mikor
                   ugyszólván felajánlja magát, nem vagyok-e nevetséges, a mikor igy kibocsátom,
                   szinte kilököm karjaimból s csak azért, hogy egykoron majd valami kétes értékü
-                  kórjelet fedezzek fel rajta, ha ugyan valamit is felfedez­hetek?»</p>
+                  kórjelet fedezzek fel rajta, ha ugyan valamit is felfedezhetek?»</p>
                <p>Nem volt módja válaszolni e kérdésre. A lány kinyitotta az ajtót s meglepődve,
                   zavartan állt meg a küszöbön.</p>
                
@@ -1217,7 +1223,7 @@
                   valami veréb az ágon, viharkor. A lecsavart petroleum-lámpa sárga homályában nem
                   lehetett jól látni arczát.</p>
                <p>Lengyel Dénes felcsavarta a rendőrségi őrszoba lámpását s közel lépett a lányhoz.
-                  És meg­rettent, a mint annak kifejezését meglátta.</p>
+                  És megrettent, a mint annak kifejezését meglátta.</p>
                <p>Gyötrődés, félelem, kinos aggály árnyékai ültek a kimerült s a kissé idősödött
                   arczon. Ajkától álláig egy csikarás piros vonala. A haja kuszált, az ölében egy
                   darab kenyér.</p>
@@ -1226,7 +1232,7 @@
                   mely lassanként bontakozott ki a homályos zugolyokból: a düh előtte eddig
                   ismeretlen erejü érzését keltette fel benne.</p>
                <p>Egy szál ingben, talpig fehérben, feküdt egy lóczán valami széles ábrázatu
-                  paraszt, való­szinüleg a szolgálattevő közrendőr. Az ajtó nyilására megfordult
+                  paraszt, valószinüleg a szolgálattevő közrendőr. Az ajtó nyilására megfordult
                   álmában s ezen közben pálinkaszagu gorombaságot vágott ki.</p>
                <p>A földön, leppedt szalmazsákokon, közel a kicsihez, két czafatos ruháju kövér dáma
                   aludt, arczukat nem lehetett látni, felső szoknyájukkal volt befödve.</p>
@@ -1248,7 +1254,7 @@
                <p>- Éjjeli tizenegy felé.</p>
                <p>- Mért és ki hozta be?</p>
                <p>- Egy közrendőr fogta el épp akkor, a midőn az alföldi vasutra akart szállni egy
-                  öreges asszony­nyal.</p>
+                  öreges asszonynyal.</p>
                <p>- Öreges asszonynyal?</p>
                <p>- A nagyságos ur tudni fogja, micsoda «öreges asszonyok» azok, a kik fiatal
                   lányokat visznek el a fővárosból.</p>
@@ -1258,9 +1264,9 @@
                   ennek a derék hölgynek a nevelőintézeteit...</p>
                <p>- Mit mondott a kisasszony, a mikor ön felvilágositotta helyzete felől?</p>
                <p>- Ugy látszott, - vagy tettette magát? - nem ismeri a veszélyt, a mely fenyegette.
-                  De való­szinübb, hogy ismerte a madam czéljait. Nem akarta a nevét megmondani,
-                  most sem tudom. Haza akartam küldeni, de hová küldjem, nem lehetett kitudnom. Hol
-                  van az otthona, kik a rokonai, minderre nem akart megfelelni. Nem használt
+                  De valószinübb, hogy ismerte a madam czéljait. Nem akarta a nevét megmondani, most
+                  sem tudom. Haza akartam küldeni, de hová küldjem, nem lehetett kitudnom. Hol van
+                  az otthona, kik a rokonai, minderre nem akart megfelelni. Nem használt
                   fenyegetődzés, hiába ijesztgettem börtönnel, az ajkait összeszoritva, a szemeit
                   merően rámmeresztve hallgatott. Végre is ide kellett beszállásolnom.</p>
                <p>A tanár bólintott fejével... Aztán nem szólt többet. Türelmetlenül várta a leány
@@ -1274,8 +1280,8 @@
                   volna.</p>
                <p>Lengyel Dénes türelmét vesztve közeledett hozzá. S alig állt meg mellette, alig
                   vetette rá tekintetét, a lány felébredt. Kinyitotta szemét s egy pillanatig merően
-                  nézett rá, majd fájdal­mas ijedtséggel hunyta be szempilláit ismét. A tanár meg
-                  akarta szólitani, de a leány sajátsá­gos nyöszörgése összeszoritotta torkát.</p>
+                  nézett rá, majd fájdalmas ijedtséggel hunyta be szempilláit ismét. A tanár meg
+                  akarta szólitani, de a leány sajátságos nyöszörgése összeszoritotta torkát.</p>
                <p>Az élve bonczolt madarak nyöszörgése jutott eszébe.</p>
                <p>Megragadta a lány kezét:</p>
                <p>- Ida, én vagyok itt, ne féljen! szólt olyan hangon, mely a saját szivét is
@@ -1293,9 +1299,9 @@
                   mosolyogva odasimult hozzá.</p>
                <p>- Szép álmokat! kiáltott valaki utánuk, a mikor már a küszöbön voltak. Lengyel
                   Dénes hirtelen visszafordult e szavakra. Megállt a küszöbön s végignézve ezeken az
-                  arczokon, melye­ken a vihogás megrögzött a meglepetéstől, érezte - először
-                  életében - hogy vannak ocsmány emberarczok, melyeket nézni fertelem, eltörülni
-                  örökre kéj volna.</p>
+                  arczokon, melyeken a vihogás megrögzött a meglepetéstől, érezte - először életében
+                  - hogy vannak ocsmány emberarczok, melyeket nézni fertelem, eltörülni örökre kéj
+                  volna.</p>
                <p>Rájuk akart rivallni, de meggondolta a dolgot s szó nélkül fordult ki ismét. Az
                   ajtóban a leány mozdulatlanul várt rája. Kis teste árnyékban volt egészen, csak
                   arcza világolt sápadt fénynyel.</p>
@@ -1310,7 +1316,7 @@
                <p>- Mi történt magával... mit tett maga kis lány! Ilyet tenni! Hol hagyta el a
                   doktort - ügyetlen ember - hát nem akart hazamenni? Hát mért nem mondta?! Kitenni
                   magát ilyen veszélynek, nem félt, megérinteni ezt a büzös éjjeli iszapot? Mit
-                  gondolt, mit tett volna? Mért nem hivat­kozott rám? Irtózat elgondolni, hogy mi s
+                  gondolt, mit tett volna? Mért nem hivatkozott rám? Irtózat elgondolni, hogy mi s
                   mi nem történhetett volna vele... De mit csinált egész nap? Evett-e valamit? Az a
                   darab száraz kenyér... Rettenetes. S ha arra gondolok, arra az asszonyra... Hogy
                   jutott hozzá? Mivel csalogatta!... Ki bántotta az ajkát. Szóljon valamit Ida... mi
@@ -1321,7 +1327,7 @@
                   perczre, pillanatra aggasztotta a vékony karczolás ajka fölött, melyet minduntalan
                   rejtegetni akart a tanár előtt.</p>
                <p>Ha ez a vékony vörös vonal nem sajog, talán nem is emlékszik vissza az elmult nap
-                  gyötrel­meire, melyek rendetlenül össze-vissza ujra felsajognak a seb égésének
+                  gyötrelmeire, melyek rendetlenül össze-vissza ujra felsajognak a seb égésének
                   nyomán. S mint valami régi bünnek, egykori szégyennek homályos emlékei
                   összeszoritják szivét, elpiritják arczát.</p>
                <p>A rettenetes elhagyatottság érzése, a tegnap visszaszáll reá. Körülte az idegen,
@@ -1393,15 +1399,15 @@
                <p>- Egy kis láza van a kicsinek... egy csepp pszihikai láz... semmi változás, rajtam
                   is van annyi!</p>
                <p>Aztán sietve levetkőzött, folyton azt forgatván fejében, hogy nem fog tudni
-                  aludni. A szarvas­bőrrel kipárnázott, máskor hüvös ágy, szinte lángot vetett
-                  alatta. Félt és örült álmatlansá­gának, de a szomszéd szobából kihallatszó zörej
+                  aludni. A szarvasbőrrel kipárnázott, máskor hüvös ágy, szinte lángot vetett
+                  alatta. Félt és örült álmatlanságának, de a szomszéd szobából kihallatszó zörej
                   bántotta. A lány talán még mindig az ágy szélén ül? Nem mer levetkőzni? Micsoda
-                  felséges vegyüléke ez a szeméremnek és az oda­engedésnek. Most mégis, mintha
+                  felséges vegyüléke ez a szeméremnek és az odaengedésnek. Most mégis, mintha
                   vetkőznék?</p>
                <p>A tanár befurta fejét párnáiba. Csendre vágyott, aludni akart s minduntalan arra
                   gondolt, hogy nem tud aludni. Erőszakkal, akarattal egy-egy pillanatra megmenekült
-                  mindenféle gondolat­tól. Hiába, ujra forró agyába villantak azok. Ujra
-                  meggyujtotta a gyertyát.</p>
+                  mindenféle gondolattól. Hiába, ujra forró agyába villantak azok. Ujra meggyujtotta
+                  a gyertyát.</p>
                <p>«Jól van, hát gondolkozzunk, legyünk tisztában magunkkal!» mondá magában.
                   «Legelőbb is bizonyos az: kár ezért a lányért!» gondolta tovább, szemeit a gyertya
                   lángjára meresztve. De a mint tovább akarta füzni ezt a fogalmat, a gondolatok
@@ -1440,7 +1446,7 @@
                   megszólástól, otthagyta a nagybátyját és egy idegen, nőtlen férfihez jött lakni.
                   Nem retteg attól, hogy majd szeretőmnek tartják?</p>
                <p>- Nem! válaszolta a lány halkan, de határozottan. Majd maga elé mélázva, magában
-                  hozzá­tette: van abban bün? Utóljára is ön azt teszi velem, a mit akar, s ha
+                  hozzátette: van abban bün? Utóljára is ön azt teszi velem, a mit akar, s ha
                   cselédjévé, ha szeretőjévé tesz: én csak áldom érte.</p>
                <p>Az utolsó fogalomnál már elérzékenyült, ugy, hogy a tanárnak, a ki eltalálta
                   gondolatait, szinte kellemetlenül esett ez a feltétlen odaadás.</p>
@@ -1454,15 +1460,15 @@
                   mikor kimondják, bizonnyal nem értik mi az: soha, örökre, mindig! Ki is érti? Ki
                   tudja meddig tart az a kellemes vagy kellemetlen érzés, mely egyszerre felbuzdul
                   az emberfiában. Valami villamos szikra-e ez, mely a mint megjelen, hat, gyujt,
-                  cselekszik s a másik pillanatban eloszlik a mindenség­ben. De meglehet, hogy
+                  cselekszik s a másik pillanatban eloszlik a mindenségben. De meglehet, hogy
                   hirtelen megjelenő égi test, valami uj bolygó, mely napja körül forogni meg nem
-                  szün <hi>soha</hi>, hozzá van csatolva <hi
-                  >örökre</hi>, vele marad <hi>mindig</hi>!</p>
+                  szün <hi rend="italic">soha</hi>, hozzá van csatolva <hi rend="italic"
+                  >örökre</hi>, vele marad <hi rend="italic">mindig</hi>!</p>
                <p>A lány gyönyörrel hallgatta a férfit, a ki egyszerre csak elnevette magát. Nagyon
                   komikusnak tünt fel saját magának a filozóf-poéta szokatlan szerepében. Hirtelen
-                  változtatott is a beszéd­tárgyon:</p>
+                  változtatott is a beszédtárgyon:</p>
                <p>- Egyébként az a fődolog: én megmentem önt nagybátyja keserves kegyelemkenyerétől,
-                  ma­gácska pedig kényelmessé teszi otthonomat. Meguntam már egymagam étkezni, a
+                  magácska pedig kényelmessé teszi otthonomat. Meguntam már egymagam étkezni, a
                   cselédség is tulon-tul lop. Ránczba fogja őket szedni s rendre szoktat engem.
                   Mindezek fejében én viselem minden kiadását, s ha el akar hagyni majd, ha megun,
                   nem bocsájtom üres kézzel a világnak... Mára elég ennyi, a házirend egyelőre a
@@ -1473,7 +1479,7 @@
                   röviden megirta nagybátyjának a történetét s holmiját kérte.</p>
                <p>Nagyon hamar elhelyezkedett, ugyszólván rögtön otthon érezte magát a tanár
                   házában. Kék tapettás, világos szobáját - régen vendéghálószoba volt - rendbe
-                  hozta, a felszaggatott tapettá­kat helyükre igazitotta, valami kis
+                  hozta, a felszaggatott tapettákat helyükre igazitotta, valami kis
                   porczellán-medenczét kinevezett szenteltviz-tartónak, odaszögezé ágya fölé.</p>
                <p>S a mikor az ebédnél találkozott Richter Sándorral, az asszisztenssel, kevésbbé
                   volt zavart, mint az, s még bocsánatot is kért tőle. A cselédeket is hamar
@@ -1485,7 +1491,7 @@
                   valczereket.</p>
                <p>A komor házba, a hol eddig - mint a czinteremben - hangosan se mertek beszélni:
                   nyugodt vigság lett urrá. Az a nyugodt vidámság, melyet egy világos
-                  «millflör»-ruhás kis lány árasz­tott szét. Maguk a várószoba déli növényei, a
+                  «millflör»-ruhás kis lány árasztott szét. Maguk a várószoba déli növényei, a
                   disz-virágok is üdébbek lettek. És a professzor ágya előtt egy reggelen fehér
                   peluche-papucsot pillantott meg.</p>
                <p>Vendégek jelentek meg a házban. A háziur kollégái, a kik nyaratszaka is itt
@@ -1498,7 +1504,7 @@
                   Folyton édességgel - szóval és bombonnal - traktált mindenkit, és magával
                   kollégájával is ugy bánt, mint egy betegágyas asszonynyal. Egyetlen egyszer az
                   egyetem nagyhirü sebésze, Lakatos, is vendégük volt. A finom lanczet és az otromba
-                  dorong nagy mestere nem türtőz­tethette magát itt sem, és «enyelgett» a maga módja
+                  dorong nagy mestere nem türtőztethette magát itt sem, és «enyelgett» a maga módja
                   szerint Richter Sándorral, a ki helyett Petrovics Ida adta vissza az
                   enyelgést.</p>
                <p>Lengyel Dénes maga se tudta: boszankodik-e vagy örül azon, a mivé ez a lány
@@ -1529,8 +1535,8 @@
                   megállt utja elején. Ma ostobaságnak tartotta kisérletezni ezzel a lánynyal, és
                   ostobának tartotta magát, mert semmi eredményre se lelt még. Félt magától és
                   féltette a lányt. Nem tudta mit érez-e iránta: a férfi érdeklődését a nővel
-                  szemben, avagy <hi>egy </hi>férfi mániákus érdeklődését <hi
-                    >egy </hi>bizonyos nővel szemben?</p>
+                  szemben, avagy <hi rend="italic">egy </hi>férfi mániákus érdeklődését <hi
+                     rend="italic">egy </hi>bizonyos nővel szemben?</p>
                <p>Egy-egy pillanatra elfelejtette: micsoda czéljai is voltak, és ugyan e
                   pillanatokban arra gondolt: jó volna ezt a lányt örökre magához lánczolnia. Immár
                   nem volt azzal se tisztában: kivánja-e avagy nem. Vádolni kezdte odaadásáért s
@@ -1539,7 +1545,7 @@
                   egész!» Aztán szégyelte magát e gondolat miatt és haragudott azokra, a kik furcsa
                   szemmel néznek a házi kisasszonyra.</p>
                <p>És álmatlansága közben félhangon beczéző szavakat suttogott hangon és egész lénye
-                  bele­merült abba a gyönyörüségbe, melyet Ida alakjának, hangjának intenziv képe
+                  belemerült abba a gyönyörüségbe, melyet Ida alakjának, hangjának intenziv képe
                   idézett elő. Sem kritika, sem semmiféle kitüzött czél, magas vezéreszme, aprólékos
                   gondolat nem akadályozta többé gyönyörüségét. Nem volt többé «Faust az orvos», sem
                   Lengyel Dénes a nők és az idegek hires tanára: ember volt csupán, férfi, semmi
@@ -1552,9 +1558,9 @@
                   rajta. Az elsötétült városrészben csak a kis szinésznő eladó palotájának jól
                   ismert ablakai világitottak...</p>
                <p>Mielőtt elaludt volna, alig várta, hogy reggel legyen; legutolsó zavaros
-                  gondolata, öntuda­tá­nak legutolsó bágyadt hullámzása ez az elhatározás volt:
-                  reggel bemegy a lányhoz s igy szól hozzá: «Nem, se szeretőm, se szolgálóm, se
-                  barátném ne légy... akar-e, akar-e feleségem lenni?»</p>
+                  gondolata, öntudatának legutolsó bágyadt hullámzása ez az elhatározás volt: reggel
+                  bemegy a lányhoz s igy szól hozzá: «Nem, se szeretőm, se szolgálóm, se barátném ne
+                  légy... akar-e, akar-e feleségem lenni?»</p>
                <p>Csakhogy ez az elhatározás félig álom volt már.</p>
                
             </div>
@@ -1570,7 +1576,7 @@
                   hogy holnapután kezdődik Brüsszelben az a gyülés, melynek én titkára vagyok...
                   Csomagoltassa be holmimat rögtön... Egy óra mulva utazom...</p>
                <p>- Viselje jól magát! - szólt vissza tréfásan Lengyel Dénes, a mint kocsijába lépve
-                  házi­kis­asszo­nyával kezet fogott.</p>
+                  házikisasszonyával kezet fogott.</p>
                
             </div>
             <div type="chapter">
@@ -1583,7 +1589,7 @@
                   rontotta el. E megjegyzések majdnem mindig Richter doktorról szóltak, Wagner urat,
                   - igy nevezte bizalmasan asszisztensét a tanár - parodizálták.</p>
                <p>Lengyel Dénes «Wagner»-ja, Faustjának távollétében is hüségesen eljárt ebédelni.
-                  Sőt lassan­ként olyan bátor lett, hogy ebéd után is ott maradt és kisérte a házi
+                  Sőt lassanként olyan bátor lett, hogy ebéd után is ott maradt és kisérte a házi
                   kisasszonyt az ereszkedett húru zongorán.</p>
                <p>Beethoventől, Berlioztól, de különösen Mendelsohntól, - a ki kedvencze volt a
                   doktornak - játszottak négykezeseket. És ritka bajuszu husos ajka a doktornak
@@ -1596,7 +1602,7 @@
                <p>Csupa harmonia volt ez az ember. Meg volt elégedve, mert mindent ugy vett, a mint
                   van. Fajának, - a zsidó fajtának - fatalitása, aztán hivatása, okos, tudni vágyó,
                   de nem nyilt esze, olyan emberré tették, a ki egészen otthon érzi magát ezen a
-                  világon. Az életben való gyö­nyörüségét nem zavarta egyéb, mint az az ellenséges
+                  világon. Az életben való gyönyörüségét nem zavarta egyéb, mint az az ellenséges
                   hangulat, mely fajtája iránt hazájában felkerekedett. Ez néha kihozta a sodrából,
                   olykor dühössé is tette. Jogos nyugalmát, egyéni boldogságát, szabadelvüségét
                   sértette ez a felkerekedett bolondos forgószél, melyet ő, - sokad magával -
@@ -1607,19 +1613,19 @@
                   féltek, hogy nekik kell eltartani a nagy családot, ha az apa meghal...</p>
                <p>Ilyen dolgokat beszélt a lánynak Richter Sándor. Egy cseppet se szégyelte
                   eredetét, sem fiatalkora gyötrődéseit, nyomorát. Sőt egyszer egész őszintén azt is
-                  elbeszélte Idának, hogy két évi egyetemi életét egy <hi>leány
+                  elbeszélte Idának, hogy két évi egyetemi életét egy <hi rend="italic">leány
                   </hi>apja tette neki elviselhetővé. Havonként negyven forintot küldött neki. Ez
                   összeg a lány hozományának előlege volt. Ha tanulmányait elvégzi, el kellett volna
                   vennie, de a szegény Hanna, ismeretségük második évében meghalt és a «negyven
                   forintok» elmaradtak.</p>
                <p>Hanem helyében megjelent - a professzor. Az utolsó éveket a Lengyel Dénes
                   segélyével huzta ki. A mikor doktorrá lett, az segitette kenyérhez, ehhez a
-                  kenyeréhez, melyet annyian meg­irigyeltek tőle.</p>
+                  kenyeréhez, melyet annyian megirigyeltek tőle.</p>
                <p>A legtöbb szót mégis csak tanárjáról ejtette Richter Sándor. És beszélt róla, ugy,
                   a mint csak egy zsidó tud beszélni arról, a ki hálára kötelezte. Tulozta
-                  fensőségét, nagyitotta nagylel­kü­ségét, az a kép, a mit róla adott, már nem is
-                  volt ember mása. És igy történt, hogy mig távol volt a tanár: az ő neve,
-                  cselekedetei, sajátságaival volt tele a kék-tapettás kis szoba.</p>
+                  fensőségét, nagyitotta nagylelküségét, az a kép, a mit róla adott, már nem is volt
+                  ember mása. És igy történt, hogy mig távol volt a tanár: az ő neve, cselekedetei,
+                  sajátságaival volt tele a kék-tapettás kis szoba.</p>
                <p>A házi kisasszony és az asszisztens gyakran nézték együtt a tanár arczképét. Mind
                   a ketten szép férfinak találták.</p>
                <p>- Csókolja meg! - mondá tréfásan a doktor.</p>
@@ -1642,7 +1648,7 @@
                    XIII.
                </head>
                <p>A ház ura kedden reggel, váratlanul érkezett meg. Egyenesen szobájába vonult s nem
-                  üdvö­zölte Idát sem. Estefelé azonban átüzent érte, legyen szives hozzá
+                  üdvözölte Idát sem. Estefelé azonban átüzent érte, legyen szives hozzá
                   befáradni.</p>
                <p>Ur és kisasszony meglepődve észlelték egymáson ama lényeges változást, mely egy
                   rövid hétnek müve volt. A tanár pompás szinben, frisnek és ruganyosnak látszott.
@@ -1677,12 +1683,12 @@
                   be.</p>
                <p>S a mig előtte a lány szorgalmasan végzé munkáját, nem is sejtette, hogy egy
                   méternyire tőle, abban az emberi fejben, melyet legjobban szeret a világon: most
-                  fő, forr sorsa, most határoz­tatik el feláldoztatása.</p>
+                  fő, forr sorsa, most határoztatik el feláldoztatása.</p>
                <p>De milyen legyen utja a Golgotháig?</p>
                <p>A tanár hidegen, világosan számitgatta: mit kell tennie, hogy szép legyen ez ut a
                   lánynak s mennél hasznosabb neki.</p>
                <p>Regénytárgyak jutottak eszébe. Forgatni, alakitani, gyurni kezdé e tárgyakat. Ime
-                  az expo­zi­czió:</p>
+                  az expoziczió:</p>
                <p>Lány: okos, ötletes, ép, fiatal, üde kedélyromlatlan vér, jó és hálás sziv:
                   szenvedélyre lobban egy férfi iránt.</p>
                <p>Férfi: nem viszonozza e szenvedélyt, bár néha - illuzió és tévedésből félreérti
@@ -1694,7 +1700,7 @@
                   győzelme. A férfi közönyt szimulál, majd heves szerelmet hazudik, aztán eltaszitja
                   a lányt és a gaz szinében tünik fel. Gyorsan szint változtat. A kegyetlen ember
                   alakjából - mint a mesében - hatalmas, ifju királyfiképen kél ki...
-                  Megközelithetlen királyfiképen, a ki a szegény leánynak örökre el­veszett. Valami
+                  Megközelithetlen királyfiképen, a ki a szegény leánynak örökre elveszett. Valami
                   kupja a férfinak, epedése a lánynak. Egy gyermek... betegség... halál...
                   tanulságos halál.</p>
                <p>Ida a bonczasztalon!</p>
@@ -1713,8 +1719,8 @@
                <p>A tanár megdöbbent, midőn ez eseteket vizsgálgatta. Hasonlatosságot lelt ez esetek
                   és az ő különös vágyakozása között. Vajjon csakugyan a tudás és a humanizmus-e az
                   ő czélja, midőn ezt a szegény lányt a kárhozatba, a halálba készül hurczolni,
-                  avagy csak lényének a szabó­legényével analog kóros állapota buvik e magasztos
-                  czél magasan szálló fellegeibe?</p>
+                  avagy csak lényének a szabólegényével analog kóros állapota buvik e magasztos czél
+                  magasan szálló fellegeibe?</p>
                <p>Nem játszik-e véle beteg szervezetének végzetes hatalma s a mikor az egész
                   emberiség érdekében vél tenni, nem megzavarodott idegrendszerének hozza-e
                   áldozatul ezt a lányt?</p>
@@ -1847,10 +1853,10 @@
                <p>- Mit hisz?</p>
                <p>- Bizom és félek.</p>
                <p>A tanár összeszoritotta vékony ajkait és elhallgatott. Arra gondolt: ha ő most
-                  szintigy vágya­koznék arra a lányra, mint ez az ember itt, s a lány nem őt, de ezt
+                  szintigy vágyakoznék arra a lányra, mint ez az ember itt, s a lány nem őt, de ezt
                   szeretné!... Szerencsére a dolog nem igy áll.</p>
                <p>Lengyel Dénest szinte vidámmá tette az a gondolat, hogy a lány nem szereti ezt a
-                  férfit - ezt a beteg kost - hanem őt, s neki mégis hatalmában, <hi
+                  férfit - ezt a beteg kost - hanem őt, s neki mégis hatalmában, <hi rend="italic"
                      >erejében </hi>van összekapcsolni őket.</p>
                <p>Férj és feleséggé tenni! Óh, ez mégis kegyetlen egy kissé. Kegyetlen? és miért.
                   Hát ha még boldogok is lesznek? Esett már ilyen. És akkor a lány, ez a páratlan
@@ -1922,7 +1928,7 @@
                   az oltárra nézett. Ott miséje végén volt a káplán. Az orgona közbe-közbe bugott, a
                   ministrálók éles hangja viszhangzott a szürke falak között.</p>
                <p>A segédorvos felemelte zöld arczát, kivörösödött szemeit végig jártatá a
-                  templomon. Tekin­tete végig suhant Petrovics Idán, a ki komolyan, imakönyvébe
+                  templomon. Tekintete végig suhant Petrovics Idán, a ki komolyan, imakönyvébe
                   merülve, ült az első padban s megrémülve rettent vissza annak az öregnek az
                   alakjától, a ki még fél térdére esve, reszketett a háttérben. Apja volt itt. Annak
                   nagy fehér szemöldöke, szögnek álló kis szemei, beesett ajkai világoltak feléje a
@@ -1932,7 +1938,7 @@
                   a keresztelő kérdéseit, a keresztszülők feleleteit, mintha lázas álomban
                   hallaná.</p>
                <p>A plébános közeledett hozzá, megérinté vállát ametist-gyürüs kis fehér kezével.
-                  Olyan külö­nösen hatott rá ez a kéz, felocsudott homlokát odatartá a kenetnek,
+                  Olyan különösen hatott rá ez a kéz, felocsudott homlokát odatartá a kenetnek,
                   megizlelte a pap nyujtotta sót, meghajolt a mint a keresztviz érinté arczát, s bár
                   feje zugott, egész világosan hallotta, a mint a keresztelő diadalmas szava
                   viszhangzott az elcsendesült templomban:</p>
@@ -1946,7 +1952,7 @@
                </head>
                <p>Ugyan az a templom. A főajtó zárva, a sekrestyén keresztül jön a nászmenet.</p>
                <p>Édes szeptemberi nap simogatja a fázékony falakat. Kopott freskói a mennyezetnek
-                  ragyog­nak a fényben, mozognak az alakok, suhanván rajtok ide-oda napsugár és
+                  ragyognak a fényben, mozognak az alakok, suhanván rajtok ide-oda napsugár és
                   árnyék. És az oltáron csakugyan sugárzik a szentség, lángol a kehely. A főoltár
                   fölött, kék felhők között, a Szent-lélek fehér galambja csakugyan száll előre
                   bátran, diadalmasan.</p>
@@ -1956,19 +1962,19 @@
                   egy csik.</p>
                <p>A legutolsó padhoz támaszkodva áll az öreg ember. Zöldre kopott fekete kabátján
                   «Krie», bevarrhatatlan szakitás a halottért. Csak egy kissé reszket, bátrabb is.
-                  De nagy fehér szem­öldöke még összébb, még felebb huzódott véres kis szemei
-                  fölött, barázdás sárga homlokán.</p>
+                  De nagy fehér szemöldöke még összébb, még felebb huzódott véres kis szemei fölött,
+                  barázdás sárga homlokán.</p>
                <p>Gyenge virágillat árad szét a templomon. A nászmenet megáll az oltár közelében. A
-                  lefátyo­lo­zott fehérruhás menyasszony körül csupa fekete alakok. A vőlegény,
-                  szinte fénylő arczczal, a nász­nagy kimagasló fekete fejével, a Petrovics-pár
-                  egész feketében, de vidáman és ünnepé­lyesen.</p>
+                  lefátyolozott fehérruhás menyasszony körül csupa fekete alakok. A vőlegény, szinte
+                  fénylő arczczal, a násznagy kimagasló fekete fejével, a Petrovics-pár egész
+                  feketében, de vidáman és ünnepélyesen.</p>
                <p>«Isten engem ugy segéljen» és «holtomiglan, holtodiglan», ezek a szavak
                   hallatszanak ki a csendes szertartásból, melynek egy pár percz végét szakitja. És
                   a pap áldólag terjeszti az uj pár fölé kezeit, aztán szólni kezd...</p>
                <p>Férj és feleség felemelik szemeiket. A férfi ujra látja a szakadt ruhás öreg
                   embert, ujra hallja azt a nyöszörgést, melyet nem hall kivüle senki, az asszony
                   előtt pedig megvillan a Lengyel Dénes alakja, feketén, ünnepélyesen, fehér
-                  virággal a gomblyukban, gunyosan, - szinte félel­me­tesen.</p>
+                  virággal a gomblyukban, gunyosan, - szinte félelmetesen.</p>
                <p>És a tanár nyöszörgést hall, megint olyan hangot, a milyent élve bonczolt madarak
                   adnak. Ő egész világosan hallja, de kivüle más senki.</p>
                
@@ -1981,7 +1987,7 @@
                   azonban a templom előtt szerencsés utat kivánt, aztán gyalog indult lefelé a
                   várból.</p>
                <p>Ugy érezte magát, mint valami temetés után. «Splínem van», mondá magában, a mikor
-                  észre­vette, hogy még a köszöntések is boszantják. Valami rosszkedvü közönyösség
+                  észrevette, hogy még a köszöntések is boszantják. Valami rosszkedvü közönyösség
                   vett erőt rajta aztán. Azimádásra méltó szeptemberi reggel, a vasárnap szines
                   élénksége hiába sütött, élt, rajzott körülötte. Lassan-lassan kedélye egészen
                   elszürkült, a járókelők arczait «komiszak»-nak találta, mosolyuk, vidámságuk,
@@ -1991,7 +1997,7 @@
                <p>Amikor hazaért, ijedve vette észre, milyen gyorsan váltakozik hangulata. Ime, ez
                   már beteges nervozitás. Majd örül valaminek, mintha nehéz dolgot hajtott volna
                   végre, sikerrel. Jó sokáig élvezte ezt az örömet, lelke ujra visszanyerte
-                  ruganyosságát. Ujra tervelt. Bizonytalan, szinte­len remény czikázott át e
+                  ruganyosságát. Ujra tervelt. Bizonytalan, szintelen remény czikázott át e
                   tervelgetéseken.</p>
                <p>Dolgozó szobájából azonban nem mert kimozdulni. Egyszer mégis átnézett a szomszéd
                   szobába.</p>
@@ -2002,7 +2008,7 @@
                   tartalma sem fogyott még ki, mögötte a barka még fris, a szentelt ágak mellé
                   tüzött viola azonban sárga, száraz, poros volt már.</p>
                <p>Egy fris krizantin feküdt a toalett-asztalon. A tanár felveszi és megszagolja,
-                  vagy megcsó­kolja? «Nincsen szaga», mormogja aztán s az ágyra dobja. Megint csak
+                  vagy megcsókolja? «Nincsen szaga», mormogja aztán s az ágyra dobja. Megint csak
                   utána nyul s a mikor fel akarja venni ujra, az ágy fejénél, egy darab
                   kárpitozatlan falon irást pillant meg, a saját keresztnevét körömmel
                   odakarczolva.</p>
@@ -2012,7 +2018,7 @@
                   ur, öntudata, kritikája ráhág az illuziók, a «hamis» érzések rózsaszin
                   nyakára.</p>
                <p>Mintha most sajnálná a leányt! De csakhamar megnyugszik s megállapitja, hogy az az
-                  izga­tottság, melyet most érez: hiuságából ered. Akarta, ő kivánta, hogy férjhez
+                  izgatottság, melyet most érez: hiuságából ered. Akarta, ő kivánta, hogy férjhez
                   menjen s a mikor az parancsához képest cselekedett: fáj neki e cselekedet -
                   hiuságból. Ugy-e, azt szerette volna, hogy inkább meghaljon a lány, mintsem másé
                   legyen, haljon meg, csak ki legyen elégitve az ő - hiusága. A lány csakugyan
@@ -2025,7 +2031,7 @@
                <p>Lehet itt okoskodni, bonczolhat, elemezhet bármennyit, vethet gáncsot érzelmeinek,
                   az mégis bizonyos:</p>
                <p>«Egyetlen szóval sem mondta a lány: tied akarok lenni, ne kényszerits máshoz, mert
-                  meg­halok!»</p>
+                  meghalok!»</p>
                <p>Némán kérő tekintetek, szótlan esdeklések, hangtalan kétségbeesés: ez volt az
                   egész, a mit esküvője előtt rajta megfigyelt. Ha egyetlen egy kórjelenség lett
                   volna rajta, egy csepp láz, némi beteges izgalom! Csendes volt és komoly. Nem sirt
@@ -2033,27 +2039,27 @@
                   rendellenes, csak olyan volt, mint a többi lány, a ki nem ahhoz megy, a kit
                   szeret.</p>
                <p>Az esküvőn hiába várta elájulását, hiába azután kezének görcsös ragaszkodását.
-                  Összeszori­tott kis ajkai, némasága csak ennyit mondott:</p>
+                  Összeszoritott kis ajkai, némasága csak ennyit mondott:</p>
                <p>«Te akartad, ugy legyen!»</p>
                <p>A tanár klorál hidrátot keresett. Át akarta aludni ezt a napot. Szégyelte magát
                   örökös töprengéseiért, mesterségesen akarta végét szakasztani.</p>
                <p>Este volt, a mikor felébredt. Fáradtan evett valamit és sietett ki a levegőre,
-                  emberek közé. Be­nézett a népszinházba, kikocsizott a ligetbe, felkeresett egy
-                  hölgyet, a kit megnézett és ott­hagyott. Kinézett a külvárosokba, egy korcsmában
-                  találkozott egy kollegájával, a ki korhely­sé­géről és arról volt hires, hogy
+                  emberek közé. Benézett a népszinházba, kikocsizott a ligetbe, felkeresett egy
+                  hölgyet, a kit megnézett és otthagyott. Kinézett a külvárosokba, egy korcsmában
+                  találkozott egy kollegájával, a ki korhelységéről és arról volt hires, hogy
                   halhatatlanná tette magát egy könyve által s nem volt nála rendesebb, pontosabb
-                  ember az egyetemen. Ezzel - józsefvárosi polgárokkal együtt - boroz­gatott egy
+                  ember az egyetemen. Ezzel - józsefvárosi polgárokkal együtt - borozgatott egy
                   kissé, de hamar elszökött s végre is egy dunaparti kávéházban lyukadt ki.</p>
                <p>Tudta, hogy vasárnaponként Petrovics igazgató átjár ide képes ujságokat olvasni.
                   Szeretett volna találkozni vele, de az még nem volt itt, avagy nem is jön el?
                   Elhatározta, hogy várni fog rá s konstatálta: «furcsa, ebben a gázos, fülledt
                   levegőben milyen pompásan érzem magam!» Ujságokat olvasott, majd félre vonva a
-                  függönyt, kinézett a Dunára, megnézte a nagy monu­mentumot, melyet eddig csak
+                  függönyt, kinézett a Dunára, megnézte a nagy monumentumot, melyet eddig csak
                   futólag látott, azután az utczai publikumot kezdte vizsgálgatni. Egyszer Petrovics
                   Idát vélte látni, a mint a tükör-üveg előtt elsuhan férje karján, rejtelmesen
                   mosolyogva...</p>
                <p>Aztán a kávéházi népséget figyelte meg. Nem messze tőle, nagy márvány asztalnál
-                  kis társa­ság ült, az urak egyikét ismerte is, kezelte valamikor, sőt most az is
+                  kis társaság ült, az urak egyikét ismerte is, kezelte valamikor, sőt most az is
                   eszébe jutott, hogy annak rokonaival, a Székelyekkel, gyerek korában, Erdélyben
                   még jó barátságban élt familiája.</p>
                <p>Látszólag egy ujságba merülve, jól hallhatta társalgásukat. Különben is, az urak
@@ -2101,7 +2107,7 @@
                   boszu: fikció és minden pillanatban készen volt kis boxerjét valami modortalan
                   zsidó mellének szegezni. Kaczagott az emberi hiuságokon s néha hiu volt az
                   őrültségig. A hazugságot senki se ismerte és gyülölte jobban mint ő, de azért
-                  olykor czél­talanul gyerekesen füllentett. Tettvágy és lethargia, nagylelküség és
+                  olykor czéltalanul gyerekesen füllentett. Tettvágy és lethargia, nagylelküség és
                   alattomosság rikitó szinekkel vegyült el benne. Jó szive, örökölt becsületessége
                   azonban őrt álltak beteges fantáziája előtt.</p>
                <p>«Ime, a legmodernebb ember, a ki csak ma mi közülünk magyarok közül kikelhet!»
@@ -2142,7 +2148,7 @@
                <p>Elhallgattak. Egy óra felé járt az idő. A kávéházban söprögetni kezdtek. Székely
                   dühösködött, kitudták őket innen.</p>
                <p>Hüvös volt, de az ősz még nem ismerszett meg a tájon. Még hajók, bárkák, a fürdők
-                  fa­alkot­ványai lepték el a Dunát. A mély rakodó-partról az aszaltszilvás-zsákok
+                  faalkotványai lepték el a Dunát. A mély rakodó-partról az aszaltszilvás-zsákok
                   émelyitő szaga áradt szét az Akadémia körül. A tér apró kertjeinek hervadása nem
                   látszott a sötétben, késő szeptemberre nem vallott itt semmi, csak a fiatal fák
                   hurutos zizegése.</p>
@@ -2150,9 +2156,9 @@
                   gyengesége daczára kellemes hangja meglepő módra harmoniált az éjjel s a
                   tájjal.</p>
                <p>Most abban a hangulatban volt, a melyben ezelőtt ugy háromezer évvel messze
-                  Hindosz­tánban a Nirvana valamelyik kiváló apostola lehetett. Máját, az illuziók
+                  Hindosztánban a Nirvana valamelyik kiváló apostola lehetett. Máját, az illuziók
                   haszontalanságát, a káprázatot emlegette s mig arról beszélt, hogy csak
-                  egyetlenegy van - a semmi: gyönyörkö­dött a saját hangjában, mély, szines, ötletes
+                  egyetlenegy van - a semmi: gyönyörködött a saját hangjában, mély, szines, ötletes
                   szavaiban, melyeket kimondván, maga se hitt bennök többé:</p>
                <p>- ...Végre is az egész mindenség - semmiség. Nem lehet semmi, mert minden elmul.
                   Ennek a mulékonyságnak a tüneteit vegyem valaminek? Az élet csak egyik jelensége a
@@ -2183,7 +2189,7 @@
                   kapott zsup-fedél fellángolt az. És lángoltak a tanár érzései, a régi, az örök
                   törvény szerint, de agyában még sem váltak ki ezek a gondolatok:</p>
                <p>«Mellette lenni most... férje helyén... látni szemeinek, ajkának édes
-                  hajnalodását, várni ébre­dését: - nem ez volt-e a legfőbb czél, a legfőbb
+                  hajnalodását, várni ébredését: - nem ez volt-e a legfőbb czél, a legfőbb
                   boldogság, melynek most már mindörökre vége!?»</p>
                <p>Tompa elkeseredés feküdte meg gondolkodását, mintha csak elbukásán kontemplált
                   volna.</p>
@@ -2194,18 +2200,18 @@
                    XVIII.
                </head>
                <p>Október elején, megérkezésüknek délutánján kopogtatott Richter Sándor a professzor
-                  szobá­ján. Sokáig hangzott el a szabad s a mikor végre tanárja előtt állott az
-                  asszisztens, meg­döbbent, nem azt találta, a kit itthagyott.</p>
+                  szobáján. Sokáig hangzott el a szabad s a mikor végre tanárja előtt állott az
+                  asszisztens, megdöbbent, nem azt találta, a kit itthagyott.</p>
                <p>Alig volt annak fején változás, ajkának karakterisztikus pirossága, bronzszinbe
-                  játszó arczá­nak ragyogása a régi. Tekintetében volt valami, a mi a doktornak
-                  torkába forrasztotta árado­zásait, ugy hogy alig merte megszoritani az elébe
+                  játszó arczának ragyogása a régi. Tekintetében volt valami, a mi a doktornak
+                  torkába forrasztotta áradozásait, ugy hogy alig merte megszoritani az elébe
                   nyujtott hideg kezet, alig birt hebegni is.</p>
                <p>- Megjöttünk... Milyen boldogság... a Szemering...</p>
                <p>Többet nem szólt, a tanár hiába várt a folytatásra. Hidegen szólott hát:</p>
                <p>- Hanem most már munkához kell látni... Ön tudja, hogy családos ember létére az
                   egyetemen nem lehet többé segédem... hanem itt megmarad, azonkivül ajánlani fogom
                   háziorvosnak egy pár házba, helyettem. Csinált már háztartási előirányzatot <hi
-                    >őnagysága</hi>?</p>
+                     rend="italic">őnagysága</hi>?</p>
                <p>- Csináltunk, igen, bámulatosan tud gazdálkodni... Alig kell nekünk valami, alig
                   tudom visszatartani a munkától... nem akar csak egy cselédet... Ma már a folyosón
                   maga huzta fel az ágynemüt, hátrakötött kendővel a fején... kis fehér
@@ -2234,8 +2240,8 @@
                <p>Ida nem pirult el, nem sütötte le szemeit, mintha zavarban se volna, ugyanaz az
                   álmatag arcz, semmi változás rajta.</p>
                <p>Mégis. A tanárnak ugy tünt fel, hogy soha még nem látta egész világosságában,
-                  teljes mélysé­gé­ben ezt az arczot. Életében volt ugy már vagy kétszer, midőn az
-                  emberi arczok kifejezésé­ből egész világosan vélte látni a jellemet, az illető
+                  teljes mélységében ezt az arczot. Életében volt ugy már vagy kétszer, midőn az
+                  emberi arczok kifejezéséből egész világosan vélte látni a jellemet, az illető
                   valóját. Nem jellegzetes szemet, szájat, izmokat és csontozatot látott, hanem a
                   szellemet mindebben, csodálatos világossággal. Ilyenkor ugy érezte magát, mintha
                   felülemelkedne az embereken, látni azokat mindenestől, mintha csak külsejök
@@ -2258,7 +2264,7 @@
                <p>Látott helyette mást. Egy kis asszonyt, a ki házasságának első heteiben jól érzi
                   magát. Tetszik neki az uj helyzet mindenestül. Örül kényelmes puha szövetü diszes
                   reggeli ruhájának, melyhez nem kell még vállfüzőt se venni. Örvend azontul a
-                  férfinak, a férjnek, az önállóság­nak, hogy a saját maga gazdasszonya lehet.</p>
+                  férfinak, a férjnek, az önállóságnak, hogy a saját maga gazdasszonya lehet.</p>
                <p>Az anyaság, a háztartás apró gondjainak gyönyöre: erre van rendeltetve az
                   őkiválasztottja, ebben leli fel örömét, ebben felejti el őt csak oly könnyen, mint
                   ezer és ezer társnője, a kik nem ahhoz mennek a kit szerettek, de elfelejtik a
@@ -2300,7 +2306,7 @@
                   Ruhájának véletlen rezdülését: kiszámitott kaczérságnak tudta be, mely nem neki,
                   de a férjnek szól.</p>
                <p>És akármilyen kitünő szeme volt is a jó tanárnak, olyan volt most, mint akármelyik
-                  közön­séges ember: nem gondolt egy pillanatra sem azokra a szegény asszonyokra, a
+                  közönséges ember: nem gondolt egy pillanatra sem azokra a szegény asszonyokra, a
                   kik, hogy szánalmat vagy fájdalmat ne keltsenek másban: évtizedeken át képesek
                   tettetni a boldogságot, arczuk, ajkuk gyönyörről, megelégedésről beszél, a mikor
                   szivük oly rettenetesen üres... Nem jutottak eszébe azok a drága, jó teremtések,
@@ -2367,9 +2373,9 @@
                <p>Csakugyan, az asszony rája gondol. Beszélni hallja: «a professzorom igérte, hogy
                   gyakran meg fogja látogatni!»És csakugyan megborzong a hidegtől.</p>
                <p>- Sebesebben! szól a kocsisnak. Alig várja, hogy otthon legyen. Alig várja, hogy
-                  vissza­bujhasson ágyába.</p>
+                  visszabujhasson ágyába.</p>
                <p>Egész napon ott marad. Maga előtt gyengélkedéssel menti magát. Csakugyan, sajátos
-                  izgatott­ság vesz erőt rajta. Izgatja a csend, az egyedüllét, a visszafojtott s
+                  izgatottság vesz erőt rajta. Izgatja a csend, az egyedüllét, a visszafojtott s
                   most kitörő gondolatok. Jól esik neki a magány, a szürke deczemberi ég, mely alól
                   sötétkék foltok tünedeznek elő.</p>
                <p>Másnap mégis felkel, de álmodozva jár a szobákban, tétlenül, fáradtan.</p>
@@ -2391,17 +2397,17 @@
                    XX.
                </head>
                <p>Két napig kimaradt a tanár látogató-jegye. Az ötödik napon azonban ismét behozta a
-                  szoba­leány. Most azonban boritékban volt.</p>
+                  szobaleány. Most azonban boritékban volt.</p>
                <p>Petrovics Ida gépiesen olvasta rajta az irást:</p>
-               <p>«Beszélni akarok önnel, látni akarom önt. <hi>Akarom.</hi>»</p>
+               <p>«Beszélni akarok önnel, látni akarom önt. <hi rend="italic">Akarom.</hi>»</p>
                <p>- Nem! szólt Ida csendesen. - Mondja meg, hogy nem lehet! szólt a
                   szobaleányhoz.</p>
                <p>Egy pár pillanat mulva hallotta, a mint Lengyel Dénes mögött becsukódott az ajtó.
-                  A szoba­leány végigmegy az előszobán, hozzá akar jönni. Hirtelen magára zárta az
+                  A szobaleány végigmegy az előszobán, hozzá akar jönni. Hirtelen magára zárta az
                   ajtót.</p>
                <p>Aztán a magasba emelte karjait, hogy lélegzeni tudjon... Este felé járt az idő.
                   Ida leült az asztalhoz s irt férjének:</p>
-               <p>«Jól vagyok, semmi baj, ne aggódjon, <hi>itthon minden
+               <p>«Jól vagyok, semmi baj, ne aggódjon, <hi rend="italic">itthon minden
                   rendben!</hi>»</p>
                
             </div>
@@ -2417,7 +2423,7 @@
                   az apró fákat. A szűk utczák még jobban megkeskenyedtek, de a végük elveszett a
                   ködben.</p>
                <p>A tanárt minduntalan letolták a gyalogjáróról, majd kényszeritették, hogy a fal
-                  mellett suhan­jon végig.</p>
+                  mellett suhanjon végig.</p>
                <p>«Ugy járok, mint egy tabetikus, a lábam alól elvész a szilárd talaj!» ezt gondolta
                   magában, de azért nem jutott eszébe, hogy a kocsiutra térjen, vagy bérkocsiba
                   üljön.</p>
@@ -2426,32 +2432,32 @@
                   a homályos, vizes, ködös estébe: ugy vesztek el czéljai valami nyomasztó,
                   homályos, szintelen hangulatban. S a mikor természetszerüen azzal kellett volna
                   foglalkoznia, hogyan férjen ahhoz az asszonyhoz, a ki csak egy pár percze
-                  utasitotta vissza? egészen másra, olyasmire gondolt, a mi egyszerre ki­törülte
+                  utasitotta vissza? egészen másra, olyasmire gondolt, a mi egyszerre kitörülte
                   emlékéből az egész élő világ képét, az emberekkel, a tudománynyal, a szerelemmel,
                   a betegséggel, Petrovics Idával egyetemben.</p>
                <p>Egy kirakat mellett elhaladva, hirtelen, véletlen annak nagy tükörüvegébe nézett s
                   abban valami alakot pillantott meg. Saját magának szines alakját, fekete
                   háttérben.</p>
                <p>Az alak idegennek tetszett előtte, saját maga egészen ismeretlennek. Megdöbbent,
-                  most vesz­tette el igazán lábai alól a szilárd talajt, elvesztette magát - az
+                  most vesztette el igazán lábai alól a szilárd talajt, elvesztette magát - az
                   Ént.</p>
                <p>Megállt a kirakat előtt - a kép eltünt, tovább támolygott, uj tükörüvegbe nézett s
                   a sajátságos alak ujra megjelent. Sötét háttérben ott, ragyogó, rezgő fényes
-                  alapon az aszfalt vizes tükré­ben.</p>
+                  alapon az aszfalt vizes tükrében.</p>
                <p>Fején, szivén, egész testén nyilaló érzés, értelmében kinos villanás:</p>
                <p>«Ki vagyok - én?!»</p>
                <p>Nem tudott magának megfelelni. Értelme elnémult, hebegett, csak nyomorult,
                   szorongó érzése zajgott.</p>
                <p>Nem találta magát magában, nem ismerte képét, alakját; multja, cselekvései, élete,
-                  hozzátar­tozói mind szétfoszlottak a vizes estben.</p>
+                  hozzátartozói mind szétfoszlottak a vizes estben.</p>
                <p>Neve, eredete, szülei, fizikuma, állása, czéljai, a meggyőződések, a kételyek, az
-                  érdek s mind­ama körülmények, melyek megalkotják az elkülönitett valakit, az Én
+                  érdek s mindama körülmények, melyek megalkotják az elkülönitett valakit, az Én
                   öntudatos fogalmának részei: csak mint homályos, összefüggés nélkül való emlékek
                   csillannak meg agyában.</p>
                <p>«Őrület! őrület!» ez volt első gondolata az egyensuly felé. Ez az itélet, ez a
                   megfigyelés adta vissza tudatosságát, ezen épitette fel ujra önmagát. S mohón
                   kapdosott ama adalékok után, melyekkel egyéniségét meghatározhatja. Visszagondolt
-                  anyjára, a mikor az ölbe fogva fel­varrta inge gombját, nénjére, a kivel együtt
+                  anyjára, a mikor az ölbe fogva felvarrta inge gombját, nénjére, a kivel együtt
                   bujkáltak a szinben, olvasta nevét a lapokban: «irta Lengyel Dénes tanár»,
                   megjelentette életének fontos eseményeit, sikereinek pillanatait, a kollegákat, az
                   ismerősöket.</p>
@@ -2479,12 +2485,12 @@
                   futólag gondolt, a mi alig egy pár percze a legszélsőbb lelkiállapotokba sodorta.
                   Egész higgadtan állapitotta meg magában a valóságot:</p>
                <p>«Nem akar többé, - ez az egész. Eleresztettem, elszállt, fölöttem van, nekem
-                  elérhetlen magas­ságban. Nincs kedve magát föláldoztatni s ha egyáltalán szó lehet
+                  elérhetlen magasságban. Nincs kedve magát föláldoztatni s ha egyáltalán szó lehet
                   áldozatról, ugy az én vagyok. Ez pedig be van fejezve, ez ellen nem lehet
                   küzdeni.»</p>
                <p>A küzdelem lehetetlensége, haszontalansága: ez volt kimeritett akaratának
-                  eredménye. Ellent­állási ereje végre is kimerült az erő fölötti küzdelemben. «Ez
-                  az egész!» ebben megnyugodott. A mint megnyugodott mindenben. Abban is, hogy olyan
+                  eredménye. Ellentállási ereje végre is kimerült az erő fölötti küzdelemben. «Ez az
+                  egész!» ebben megnyugodott. A mint megnyugodott mindenben. Abban is, hogy olyan
                   helyzetbe jutott, a melyből nincs több kibuvó, csak egy, egy - a halál.</p>
                <p>Nem küzködött, nem borzongott, nagyon természetesnek találta a dolgot. Annyira
                   közönyös lett maga iránt, hogy az élethez való akarata hasonlatos volt ahhoz a
@@ -2505,7 +2511,7 @@
                <p>Milyen bolondság - gondolta magában - az ember nem maga határoz élete felett s
                   milyen gyönyör, hogy a mikor akar, elválakozhat az élettől. Egy férfi s egy
                   asszony összebuj - és bebujik a világba egy uj ember; sir, mert kedve ellenére,
-                  mások akaratából kellett meg­jelennie, a mások akaratából kellett ittmaradnia.
+                  mások akaratából kellett megjelennie, a mások akaratából kellett ittmaradnia.
                   Később aztán magának is tetszik a dolog, örül annak, hogy a milyen jogtalanul
                   hozták világra őt, ugyanigy lehet ő mások életének oka. Mig végre belátja: akkor
                   voltam okos, a mikor nem volt eszem, a mikor sirtam a kénytelen megjelenésen és
@@ -2520,7 +2526,7 @@
                   csalogatás a szerelem, csalogatás a remény, hazug narkozis maga a szerencsétlenség
                   is, mert bizakodunk megváltozásában. Bolonditás és bolondulás: mindama millió
                   dolog, melynek közepette az ember jól érzi magát, látóhatárt elfogó hazugságok,
-                  szemet vakitó silányságok, melyek el­födik, elrejtegetik, irtózatossá teszik az
+                  szemet vakitó silányságok, melyek elfödik, elrejtegetik, irtózatossá teszik az
                   édes, a jótékony: Halált!</p>
                <p>Csillogó szemmel, szomjas ajakkal nézett szét szobájában a tanár. Volt már gyönyör
                   is szivében: mennyi mindenféleképen lehet meghalnia! A legközönségesebb méregen
@@ -2555,8 +2561,8 @@
                   pillanatokig ült székében, a nélkül, hogy valamit cselekedni tudna.</p>
                <p>És mintha a Mili ujra felébredt volna, mozgást, zuhanást, zajt hallott.
                   Összeszedve minden erejét és száját összeszoritva, szemeit becsukva felugrott.
-                  Mintha már is meg lett volna mér­gezve: rettenetes küzdelem rutitotta el arczát.
-                  Szemöldökei felnyultak, álla remegett, kapko­dott, sietni akart, az ajtóhoz
+                  Mintha már is meg lett volna mérgezve: rettenetes küzdelem rutitotta el arczát.
+                  Szemöldökei felnyultak, álla remegett, kapkodott, sietni akart, az ajtóhoz
                   szaladt, hogy becsukja és - kinyitotta.</p>
                <p>Az ajtó előtt, az előszoba sötétjében, hajadon fővel, reszketve és mosolyogva
                   előtte állott Petrovics Ida.</p>
@@ -2584,7 +2590,7 @@
                <p>- Istenem... falura... ki?</p>
                <p>- Erdő aljába, messze, a hol nem tudják honnan jöttünk, hova megyünk.</p>
                <p>Az asszonynak nem jutott eszébe kérdezni: «meddig maradunk?» A férfi nem találta
-                  szüksé­gesnek mondani: «és ott maradunk mindig!»</p>
+                  szükségesnek mondani: «és ott maradunk mindig!»</p>
                <p>Nem magyarázgattak egymásnak semmit. Az asszony nem szólt küzködéseiről,
                   elhallgatta szenvedéseit, nem kérdezősködött: «mért dobtál oda, ha vissza akartál
                   venni? Mért taszitottál el, ha szerettél, mért mondtad csak egyszer, hogy
@@ -2616,7 +2622,7 @@
                <p>- És a maga nyulainak.</p>
                <p>- Olyan nincs.</p>
                <p>- De engem tyukjaimmal együtt hamar meg fog unni... Nem lehet.</p>
-               <p>- Mert már meguntam..<hi>.</hi> Nézze ezt a rettenetes urat a
+               <p>- Mert már meguntam..<hi rend="italic">.</hi> Nézze ezt a rettenetes urat a
                   sarokban, le nem veszi rólunk a szemeit, még csak a kezeit sem foghatom meg...
                   Milyen hosszu állomás...!</p>
                <p>- És tanitványai?</p>
@@ -2640,8 +2646,8 @@
                   férfi, ha elfáradt, az asszony ölébe hajthatta a fejét, az asszony is
                   megsimogathatta az orvos fényes, fekete haját. Valami különös gyönyört találtak e
                   szeretkezésben, melyre a mindenfelől nyitott ablakokon keresztül ismeretlen tájak
-                  mosolyogtak be, s a melyet minden pillanatban félbe­szakithatott a vonatvezető,
-                  egy tolakodó ur, sipitozó, kandi asszony.</p>
+                  mosolyogtak be, s a melyet minden pillanatban félbeszakithatott a vonatvezető, egy
+                  tolakodó ur, sipitozó, kandi asszony.</p>
                <p>Hát még az éj, az utolsó, a mit igy töltöttek együtt. Zsibbatag fél-álom rajtuk,
                   áttetsző, csillagtalan, mégis világos, szellős, de már meleg tavaszi éjjel az
                   elsuhanó tájakon. A merre csak mentek, utjok peremén, a közel falvak határán, a
@@ -2664,7 +2670,7 @@
                <p>A férfi kinyitotta szemeit.</p>
                <p>Az asszony behunyta szemeit, ajkai nyitvák, egyenletes lélegzésén, egy kissé
                   elhalványodott arczán az álom jelei. S Lengyel Dénes lehajolt föléje, ajkát
-                  rányomta ajkára s Ida pillái meg­rendültek, felébredt, mosolygott:</p>
+                  rányomta ajkára s Ida pillái megrendültek, felébredt, mosolygott:</p>
                <p>- Ugy sem aludtam! mondá.</p>
                <p>Kimerülten, de vidáman utaztak tovább nappal. Lengyel Dénes beszélt arról a
                   faluról, ahol le fognak telepedni... csak már ott volnának.</p>
@@ -2677,7 +2683,7 @@
                   helyezi őket a társadalmon, elszakitja őket a világtól, számüzi messze, örökre,
                   rengetegbe.</p>
                <p>Ezek a gondolatok csak ugy átsuhantak az asszony fején. Igazában tettének
-                  következménye­képen csak azt látta, hogy im a mellett van, a ki nagy, erős,
+                  következményeképen csak azt látta, hogy im a mellett van, a ki nagy, erős,
                   hatalmas és szép: nagyobb, erősebb, hatalmasabb, szebb, mint a mit elhagyott maga
                   mögött, mint a mivel szakitott örökre.</p>
                <p>Egy pillanatra se remegtette meg szivét valamely bünnek tudata, mindaz a mi kivül
@@ -2693,7 +2699,7 @@
                <p>S magában e vallomásban mennyi titokszerüség, mennyi rejtelem! A tanár szinte
                   szédült, a mig e szemekbe nézett, a mig a titokra gondolt.</p>
                <p>Minden a mi miszteriozus a szerelemben, mindaz, a mi egy férfinek megfejthetlen,
-                  hozzáfér­he­tetlen az asszony lényegében: ujra megjelent neki, felrajzott benne -
+                  hozzáférhetetlen az asszony lényegében: ujra megjelent neki, felrajzott benne -
                   kisérteni.</p>
                <p>Agyában felkeltek, kergetőztek azok a kérdő kis gnómok, melyek millió kérdést
                   intéznek a néma értelemhez s szinte örülnek, szinte gunyosan kaczagnak a
@@ -2741,16 +2747,16 @@
                <p>- Nem tudom.</p>
                <p>Nem beszélgettek többé egymással. Ida csendesen ült a szögletben, lopott
                   tekinteteket vetvén Lengyel Dénesre, a ki homlokát a kupé ablakához szoritva - ugy
-                  látszott - az elvonuló, a köze­ledő tájt nézi. Az asszony boldognak érezte magát
+                  látszott - az elvonuló, a közeledő tájt nézi. Az asszony boldognak érezte magát
                   igy is, eszébe se jutott, hogy a férfi, a ki nemrégen még nem győzte csókolni kis
-                  ujja vakkörmét, most, a mikor birtokában van, el­fordul felőle, érintetlen hagyja
-                  nyitott, piros ajkait s inkább nézi a tájat, mint őt, és számlál­gatja a
+                  ujja vakkörmét, most, a mikor birtokában van, elfordul felőle, érintetlen hagyja
+                  nyitott, piros ajkait s inkább nézi a tájat, mint őt, és számlálgatja a
                   sürgöny-póznákat, a helyett, hogy hozzája szólna. Mindebből nem jutott eszébe
                   semmi; csak ugy össze volt kötve, csak ugy együtt volt szerelmese lelkével, mintha
                   csók forrasztotta volna azzal egygyé. S mig a férfi arra gondolt: mit forgathat
                   most eszében az asszony? a házasságtörés foglalkoztatja-e avagy a minden
                   körülménytől független szerelem, a régi férfi képe kisérti-e avagy az uj veszt
-                  előtte szinéből, erejéből? Ida nem gondolt tulaj­donképen semmire ésgondolt
+                  előtte szinéből, erejéből? Ida nem gondolt tulajdonképen semmire ésgondolt
                   mindenre, csak arra nem, a mit a férfi forgatott fejében. Érezte: milyen jó élni,
                   s bár szivét olykor valami titokszerü szorongás fogta el: öntudatlan azt kivánta
                   maradjon igy mindig.</p>
@@ -2765,7 +2771,7 @@
                   utolsó előtti állomás előtt. Egy asszony s egy falu - ide lyukadt ki. A nő
                   titkának kitudása helyett itt az eredmény: egy asszony, a kinek nincsenek előtte
                   titkai, mégsem ismeri jobban, mint a mikor még titkai voltak. És a meggyógyitandó
-                  főváros helyett egy egészséges kis zug, a hol a javas­asszony se tud megélni:</p>
+                  főváros helyett egy egészséges kis zug, a hol a javasasszony se tud megélni:</p>
                <p>«Faust ur ide jutott!» minderre csak ez jutott eszébe.</p>
                <p>Hogyan jutott ide? ez a kérdés, válaszostul együtt, foglalkoztatta azután. Rossz
                   uton indult? Nem. Volt terveiben kivihetetlenség? Nem. Volt benne elég tudás és
@@ -2777,7 +2783,7 @@
                <p>De hát csakugyan szerelem volt-e az, és ha az volt, az-e még? Erre a kérdésre száz
                   kitérő feleletet adott magának. És elemezni kezdé a lehelletet is, a mely tegnap
                   még megrészegité, élettanilag vizsgálta a hangot, melyet egy pár órája még a
-                  legszebb zenének tartott. Fel­épitette, majd lebontotta ujra az utat, mely
+                  legszebb zenének tartott. Felépitette, majd lebontotta ujra az utat, mely
                   érzéséhez, nagy szenvedélyéhez vezette. Minden apró dolgot, minden elejtett szót
                   számba vett. Vajjon nem-e az akadályok, a visszautasitás szitotta-e fel lángját,
                   melyen értelme, minden szellemi tulajdonsága elolvadt? S a mi most megtartja az
@@ -2791,12 +2797,12 @@
                <p>«Hanyatlás! ez az egész.» Ez volt az eredmény.</p>
                <p>Már-már belenyugodott abba, a mi ugyis megváltozhatatlan. És elhatározta, hogy itt
                   marad a vidéken, nem mutatja többé magát a fővárosban, nem megy feléje se többé
-                  kudarczai szin­he­lyének. Hanem itt csinál egy minta-vidéket. Meg fogja mutatni,
-                  hogy képzeli ő a közegész­ség­ügy rendezését Magyarországon. Mit lehet tenni,
-                  milyen eredményeket lehet elérni, ha a legfontosabb ügyet nem hanyag vagy tudatlan
-                  és ellenőrizetlen emberek kezébe adják. Ha most megvakulnak egész falvak a rosszul
-                  kezelt, vagy elhanyagolt egyiptomi szembetegség­ben - hát látni fognak, a kik
-                  vakságra kárhoztatvák. És elébe fog állani azoknak a gyerek­pusztitó járványoknak,
+                  kudarczai szinhelyének. Hanem itt csinál egy minta-vidéket. Meg fogja mutatni,
+                  hogy képzeli ő a közegészségügy rendezését Magyarországon. Mit lehet tenni, milyen
+                  eredményeket lehet elérni, ha a legfontosabb ügyet nem hanyag vagy tudatlan és
+                  ellenőrizetlen emberek kezébe adják. Ha most megvakulnak egész falvak a rosszul
+                  kezelt, vagy elhanyagolt egyiptomi szembetegségben - hát látni fognak, a kik
+                  vakságra kárhoztatvák. És elébe fog állani azoknak a gyerekpusztitó járványoknak,
                   melyek évente száz meg százezer olyan áldozatot szednek, melyek nem is a kór,
                   hanem az ügyefogyott vagy haszontalan egészségügyi hivatalnokok áldozatai.
                   Embereket fog megmenteni az országnak, életet az életnek...</p>
@@ -2804,7 +2810,7 @@
                   felpezsdült terveket.</p>
                <p>«Faust, mint megyei vagy járási orvos!» A tanár szeretett volna kaczagni magán.
                   Nem elég hát a két eredmény: az asszony és a falu, még egy harmadikat keres hozzá:
-                  kutba fult szolgá­lók hullájáról irandó vizum repertumot...</p>
+                  kutba fult szolgálók hullájáról irandó vizum repertumot...</p>
                <p>Csak most látta, hová jutott, milyen cserét csinált.</p>
                <p>A vonat alig hogy czammogott már. Gépje nagyokat fujt, mint az üres ember.</p>
                <p>Az ablakon keresztül látszott az állomás egyetlen emeletes épülete, s nem messze
@@ -2823,7 +2829,7 @@
                <p>A vaggonok már csak riszálódtak, viz-árus gyerekek, pékinasok szaladtak a vonat
                   elé. Lengyel Dénes elfordult az ablaktól s Idára nézett. Az aludt csendesen,
                   édesdeden, mint egy fehér czicza a biztos tüzhely patkáján. Egész alakja
-                  homályban, csak kövér, kis kezeire, ki­gömbölyödő térdeire esett a lefüggönyözött
+                  homályban, csak kövér, kis kezeire, kigömbölyödő térdeire esett a lefüggönyözött
                   lámpákból némi világosság.</p>
                <p>A tanár elfordult tőle s kinyitotta egy kissé az ablakot. A hüvös levegő kiszijja
                   tán fejének forróságát.</p>
@@ -2842,7 +2848,7 @@
                    XXV.
                </head>
                <p>Kiszálltak. Egy fél óráig állott itt a vonat, addig kellett várniok. Bementek az
-                  egyetlen váró­terembe, Ida leült, a tanár valami szolga után nézett. Azzal
+                  egyetlen váróterembe, Ida leült, a tanár valami szolga után nézett. Azzal
                   suttogott egy pár pillanatig s visszatért asszonyához. Egy pár perczig némán ültek
                   egymás mellett, mig a férfi egyszerre felpattant:</p>
                <p>- Most jut eszembe... be kell mennem a városba... Egy negyed óra mulva itt leszek,
@@ -2869,13 +2875,13 @@
                   a mig bejön. Ida mosolyogva intett igent.</p>
                <p>Szemben vele az óra mintha sietni kezdett volna. A negyedóra már elmult, repültek
                   a perczek. A bucsuzkodás ujra megkezdődött körülte, csókok czuppantak, sirás
-                  hallatszott, majd becsen­getett a portás és loholva jött be egy ur, a ki tőle
+                  hallatszott, majd becsengetett a portás és loholva jött be egy ur, a ki tőle
                   kérdezte: nem késett-e még el.</p>
                <p>A váróterem majdnem egészen kiürült, már csak tiz percz volt... Már csak hat...
                   két percz és indul a vonat nélkülök.</p>
                <p>Az asszony nem mert kimozdulni helyéből, valami szerencsétlenséget érzett... Mi
                   történt Dénessel? Értelme elsötétült, a mint erre akart gondolni... Harmadikat
-                  csengettek, fázni kez­dett, fogai vaczogtak, reszketett minden kis része. Igy,
+                  csengettek, fázni kezdett, fogai vaczogtak, reszketett minden kis része. Igy,
                   el-elcsukló lábakkal vánszorgott ki az állomás városfelőli oldalához, s a mint
                   kiért, a vonat fütyült, elrobogott...</p>
                <p>Be akart szaladni a városba, kereste a vasuti szolgát, a kivel Dénes az imént
@@ -2883,9 +2889,9 @@
                <p>- Tekintetes asszony, egy levél...</p>
                <p>- Ki...!</p>
                <p>- A tekintetes urtól... a ki az elébb ment el. Ida felszakitotta a czimtelen
-                  boritékot, és fél­hangon olvasta az irónnal irt egyetlen egy sort:</p>
+                  boritékot, és félhangon olvasta az irónnal irt egyetlen egy sort:</p>
                <p>
-                  <hi>«Nem lehet folytatni utunkat együtt. Nem tudok hazudni
+                  <hi rend="italic">«Nem lehet folytatni utunkat együtt. Nem tudok hazudni
                      tovább.»</hi>
                </p>
                <p>Nem sikoltotta el magát, nem ájult el Richter Sándorné. Belékapaszkodott a
@@ -2902,9 +2908,9 @@
                    XXVI.
                </head>
                <p>Hétkor eloltották a váróterem lámpásait. Homály és csend az egész épületben. Az
-                  állomás­főnök szobájából, a leeresztett függönyön által, egy világos lap
-                  jelentette a tovább folyó életet. A lapon meg-megjelent a telegrammos árnya, a
-                  csendben állandóan hangzott a sürgöny-gép «kip-kip»-je.</p>
+                  állomásfőnök szobájából, a leeresztett függönyön által, egy világos lap jelentette
+                  a tovább folyó életet. A lapon meg-megjelent a telegrammos árnya, a csendben
+                  állandóan hangzott a sürgöny-gép «kip-kip»-je.</p>
                <p>Ida öt perczig ült a sötétben. Aztán erőt vett magán, s kifelé indult a város
                   felől való oldalra, ki a városba.</p>
                <p>Nem birt tovább menni az állomás kertjénél. Kétségbeesése, s az a rettenetesen
@@ -2923,7 +2929,7 @@
                   lábait, csak a fasorig tudott eljutni, onnan nézett szét a mind jobban
                   összetömörülő sötétben.</p>
                <p>Mint mikor gyermekkorának rémes álmában mérhetetlen magasságból zuhant lefelé, a
-                  bizo­nyos halálba: ugy érezte magát most. De épp ugy mint akkor kétségbeesésén,
+                  bizonyos halálba: ugy érezte magát most. De épp ugy mint akkor kétségbeesésén,
                   kinján átvillant az a reménység, hogy mindez csak álom, s mielőtt összezuzná
                   magát, fölébred, puha, forró ágyon: most is bizott valamiben, várt valamire, nem
                   tudott végkép hinni a levélben, képtelen volt minden ellentállás nélkül
@@ -2938,7 +2944,7 @@
                <p>Óh, ha elébe tudna futni!</p>
                <p>Két fekete folt a csillagtalan estén, alig látszott, elveszett a sötétben. S e két
                   fekete foltban fokozhatlan emberi szenvedély izzott láthatatlanul. Nyugodt
-                  silhuettje az egyiknek, a má­sik­nak váltakozó, mozgó. Egy darabig látták egymást,
+                  silhuettje az egyiknek, a másiknak váltakozó, mozgó. Egy darabig látták egymást,
                   érezték egymást, s igy szóltak magukban:</p>
                <p>«Ő az!»</p>
                <p>««Ez ő!»»</p>
@@ -2989,8 +2995,8 @@
                <p>Délfelé már szállingóztak fölfelé a betegek, de a tanár várószobáit zárva
                   találták. A lakosztályok hozzáférhetlenek, a függönyök leeresztve.</p>
                <p>- Itt még alszanak! szóltak tiszteletteljesen a betegek, s őgyelegtek a folyosón,
-                  a lépcső­ház­ban, a ház előtt mutogatták egymásnak: «ez a rendelő szoba, ez meg
-                  kis szalonjának ablaka».</p>
+                  a lépcsőházban, a ház előtt mutogatták egymásnak: «ez a rendelő szoba, ez meg kis
+                  szalonjának ablaka».</p>
                <p>Gyorsan egymásután érkező fogatok, bérkocsik rebbentették őket szét a kapuból.
                   Négy ismert alak, be se várva mig a kocsi végkép megáll, sietve ugrott ki a ház
                   előtt.</p>
@@ -3014,7 +3020,7 @@
                   három inkább nevén nevezte a betegséget: tiphus abdominális, a vége felé
                   kombinálva.</p>
                <p>E kombinácziók fölött való vitában mindegyiküknek külön véleménye volt. A bécsi
-                  azt mon­dá, hogy a bajhoz már kezdetén fejlob járult, innen a kedvezőtlen
+                  azt mondá, hogy a bajhoz már kezdetén fejlob járult, innen a kedvezőtlen
                   kimenetel, mig a többiek más bajokat konstatáltak. Egyikük, a ki a beteget már
                   régebben ismerte, egyre azt állitotta:</p>
                <p>- A frissesége öli meg... a frissesége, nem volt előkészitve...</p>
@@ -3038,19 +3044,19 @@
                   át folyton aludni akart, s a mikor nem engedte a tanár: szelid, szemrehányó
                   tekintetet vetett reá.</p>
                <p>Ez a tekintet! Ugyanaz, melyet esküvője előtt, majd az utolsó kisérlet után vetett
-                  reá a meg­kinzott asszony: jobban megviselte Lengyel Dénest, mint az a kilencz éj,
+                  reá a megkinzott asszony: jobban megviselte Lengyel Dénest, mint az a kilencz éj,
                   melyet álmatlanul töltött a beteg ágya mellett. Bonczolókés nem okozhatott olyan
                   fájdalmat, mint ez a selymes lágy, enyhe tekintet. Ez tette reszketővé karját, ez
-                  adta meg önbizalmának az utolsó kegye­lem­döfést.</p>
+                  adta meg önbizalmának az utolsó kegyelemdöfést.</p>
                <p>Mit mindent nem tett, hogy ne lássa többé, hogy eltörülje s felváltassa a régi,
                   mosolygós, boldog nézéssel. Visszasietett vele a fővárosba, megvallott neki
-                  mindent, elárulta neki legrej­tettebb titkát, kegyetlen gunynyal fordult az ellen,
+                  mindent, elárulta neki legrejtettebb titkát, kegyetlen gunynyal fordult az ellen,
                   a mi egész életén át lelkesitette, kikaczagta előtte czéljait, bevallotta azt, a
                   mit magában is csak most mert bevallani: a tudás ostoba pöffeszkedését, az egész
                   iránynak emberietlen, őrületes voltát. - Saját magának se tárta még ugy fel
                   bensejét, a legbuzgóbb keresztény, papjának se gyónhatott meg ugy az isten
                   házában, mint ő ennek a kicsiny, szinte jelentéktelen asszonynak a főváros felé
-                  vágtató kupé homá­lyában.</p>
+                  vágtató kupé homályában.</p>
                <p>S az asszony azt se mondta: «Fázom tőled!» Belékapaszkodott karjába, s szemébe
                   nézett azzal a jóságos szemrehányással, melyben mindjárt benn volt a bocsánat
                   is.</p>
@@ -3058,7 +3064,7 @@
                   még kezét sem engedte megcsókolni, s egyszer, a mikor nagy lázainak elején volt
                   még, ő kapott keze után, s ajkához szoritotta hosszan, hevesen.</p>
                <p>A megbocsátás: arczul ütötte, a megalázkodás: őt alázta meg. Magát vallotta a
-                  betegség oká­nak, magát vádolta, ha a láz növekedett, bizonyos volt abban, hogy az
+                  betegség okának, magát vádolta, ha a láz növekedett, bizonyos volt abban, hogy az
                   is az ő tehetetlenségén mult.</p>
                <p>S be kellett látnia, hogy egy véletlen, fertőző betegség támadta meg azt, kit neki
                   nem sikerült martirrá tenni: kételkedett a bizonyos dolgokban is, nem hitte el,
@@ -3066,7 +3072,7 @@
                   kórisméjét, csakhogy magát nyomorultnak tarthassa.</p>
                <p>Ez a tudat óriási erőfeszitésekre sarkalta. Tanitványaival, betegeivel nem
                   törődött többé, s nem volt percz, melynek nagyobb részében ne arról gondolkodott
-                  volna: mit tegyen, hogy meg­mentse? Megkisértett mindent, csak a drasztikus
+                  volna: mit tegyen, hogy megmentse? Megkisértett mindent, csak a drasztikus
                   gyógyitásokhoz fogott kinos évődés után. Reszketett olyasmit tenni, mi a beteg
                   életét megmentheti, de egyben halála is lehet. És volt nap, a mikor bátortalan
                   volt mint egy öreg falusi orvos. Gyáván összetett kézzel állt az ágy előtt, s az a
@@ -3084,13 +3090,13 @@
                   váltak testté azok a gondolatok, a melyek esküvője előtt és házassága első
                   napjaiban kelhettek agyában. A néma szenvedések megszólaltak s Lengyel Dénesnek
                   meg kellett tudnia, hogy milyen közel volt a «kokett» asszonyka az öngyilkossághoz
-                  akkor, a midőn ő boldognak, kaczérnak, aljas­nak gondolta. Hallania kellett
+                  akkor, a midőn ő boldognak, kaczérnak, aljasnak gondolta. Hallania kellett
                   mindazt, a mi csak marczangolhatta szivét, meg kellett értenie mint szerette, s
                   mennyit szenvedett e szerelméért az a szegény leány, s éppen akkor, a mikor ő
                   vivódott magában: mire használja, arra-e a mire valami tengerinyulat, vagy
                   egyszerüen érzekeit elégitse ki véle.</p>
                <p>A mi legszebb dolog a világon: eltitkolt lányszerelem álomban kifecsegett édes
-                  titkai, alakta­lan epedések, ártatlan vágyak: a legkeserübb vádakra váltak benne.
+                  titkai, alaktalan epedések, ártatlan vágyak: a legkeserübb vádakra váltak benne.
                   Mindaz, a mi másnak a legnagyobb boldogság: a legnagyobb kínná lett neki.</p>
                <p>És nem volt ereje nem szenvedni, nem birt elmenekülni a fantáziáló asszony mellől.
                   Fogta kezét, csókolta homlokát, simogatta hulló haját s a mikor az fejét keblére
@@ -3124,7 +3130,7 @@
                <p>- Miért nem mondottad? Miért nevezted magad máskép? Hová lettél aztán... Leveled
                   még megvolt... meg kell lennie...</p>
                <p>A katasztrófa napján hirtelen megváltozott Petrovics Ida. Nem fantáziált többé
-                  magáról; any­já­ról, apjáról, testvéreiről s valami öreg parasztról beszélt
+                  magáról; anyjáról, apjáról, testvéreiről s valami öreg parasztról beszélt
                   össze-vissza értelmetlen dolgokat. Szóvá tett valami bábut is és selypitett,
                   mintha négy-öt éves volna. «Ne lármázzanak, Ila nem tud aludni» suttogta, mig a
                   konzultáló orvosok ott álltak fölötte s fejüket csóválva, latin szavakat
@@ -3146,9 +3152,9 @@
                   megrémült volna ettől az asszonyalakra valló váztól, csak ő imádta ugy, a mint
                   csak férfi valami csodaszép, üde leányt imádhat. A megnyult vonások, a megfakult
                   bőr, ritkult haj, a beesett halántéku éles koponyán: nem ez volt, a mit szeretett,
-                  hanem az, a kinek bár vonásai meg­nyultak, bőre bár megfakult s beesett halántéku
-                  koponyáján haja kihullott: mégis a régi ma­radt annak, a kit nem ezek gyujtottak
-                  szerelemre, hanem valami más, titokzatos, kikutatha­tatlan lényegek... Ki tudja
+                  hanem az, a kinek bár vonásai megnyultak, bőre bár megfakult s beesett halántéku
+                  koponyáján haja kihullott: mégis a régi maradt annak, a kit nem ezek gyujtottak
+                  szerelemre, hanem valami más, titokzatos, kikutathatatlan lényegek... Ki tudja
                   milyenek, mindenki érezte, nem látta senki!</p>
                <p>Az utolsó napon a vérátömlesztést akarta megkisérleni Lengyel Dénes. De nem tett
                   többé egyebet, mint akart, s lemondott akaratáról.</p>
@@ -3181,7 +3187,7 @@
                   tenni jött: összerándult egész testében. Ölni jött s egy halott feküdt előtte.</p>
                <p>Rózsaszin ágyon nyitott szemü sárga váz, kiszáradt tetem - az ő üde, szép,
                   egyetlen felesége. S az ágy fölött - ő ugy látta - nyugodtan, gunyosan áll a
-                  férfi, ki előbb elcsábitotta, aztán meg­ölte a világ leghűbb, legimádandóbb
+                  férfi, ki előbb elcsábitotta, aztán megölte a világ leghűbb, legimádandóbb
                   teremtését.</p>
                <p>És most szárazon rámutat, nyugodtan szól:</p>
                <p>- Meghalt!</p>
@@ -3198,7 +3204,7 @@
                <p>De véle szemben megremeg a boszuálló kéz, kihull belőle a fegyver, s a tanitvány
                   reszketve, zokogva áll a mester előtt.</p>
                <p>Közöttük a közös halott arczán opálszinü fény, lángoló, élő, rózsaszin... Ezentul
-                  minden homály­ban, a függönyök leeresztve, az égő lámpa serczeg.</p>
+                  minden homályban, a függönyök leeresztve, az égő lámpa serczeg.</p>
                <p>...Három óra, odakünn is álmos csend; a várószobák betegeinek izgatott zsibongása
                   hallszik be csupán. Kopogtatják, nyitogatják a rendelőszoba ajtaját, a csalódás, a
                   türelmetlenség tört szavai hangzanak.</p>
@@ -3206,10 +3212,9 @@
                <p>- Három óra mult, a betegek nyugtalankodnak, nem lehet velök birni... Be akarnak
                   rohanni.</p>
                <p>Lengyel Dénes kezeibe rejté arczát, s nem felelt. Majd hirtelen felugrott
-                  székéből, s a kétség­be­esésnek azon az egyetlen hangján, melynek fokozása nincs -
+                  székéből, s a kétségbeesésnek azon az egyetlen hangján, melynek fokozása nincs -
                   kiáltá:</p>
-               <p>- Mit bánom én, ha meg is döglik az egész világ!</p>
-            </div>
+               <p>- Mit bánom én, ha meg is döglik az egész világ!</p>  
          </div>
       </body>
   </text>

@@ -17,6 +17,7 @@
             </titleStmt>
             <extent>
                 <measure unit="words">28349</measure>
+                <measure unit="pages">220</measure>
             </extent>
             <publicationStmt>
                 <p>Published as part of ELTeC</p>
@@ -33,7 +34,13 @@
                         <name>Varjú Mária</name>
                     </respStmt>
                     <relatedItem type="copyText">
-                        <bibl>Az élet esélyei : regény / Jósika Júlia;Pest : Lauffer, 1864<ref
+                        <bibl>
+                            <title>Az élet esélyei : regény</title>
+                            <author>Jósika Júlia</author>
+                            <pubPlace>Pest</pubPlace>
+                            <publisher>Lauffer</publisher>
+                            <date>1864</date>
+                            <ref
                                 target="http://nektar.oszk.hu/hu/manifestation/1594662"/>
                         </bibl>
                     </relatedItem>
@@ -60,10 +67,11 @@
     </teiHeader>
     <text>
         <body>
-            <div>
+            <div type="group">
                 <head> Első könyv. Rejtélyes események. </head>
-                <p>I.</p>
-                <p>Az esteli harang megszólalt, búsan s csendesen jelentvén az embereknek, hogy egy
+                <div type="chapter">
+                    <head>I.</head>
+                       <p>Az esteli harang megszólalt, búsan s csendesen jelentvén az embereknek, hogy egy
                     nap ismét közeledik vége felé.</p>
                 <p>A kis mezővárosban hová lépteink vezetnek, de mely sokkal inkább nagy faluhoz
                     mint városhoz hasonlit, már rég pislognak a fagyugyertyák s mécsesek az alacsony
@@ -156,7 +164,7 @@
                     elrobogó hintó a titkos hölgygyel együtt, lassankint feledve lőn.</p>
                 <p> </p>
             </div>
-            <div>
+            <div type="chapter">
                 <head>II.</head>
                 <p>Történt azonban, hogy körülbelűl két héttel az emlitett éji kaland után, egy
                     szegény pór ember estvefelé sietve futott Podrákné háza felé s mikor már közel
@@ -207,7 +215,7 @@
                     megmaradt volna! szegény Zsuzsám!</p>
                 <p> </p>
             </div>
-            <div>
+            <div type="chapter">
                 <head>III.</head>
                 <p>Messze a kis várostól, hol az éji jelenetnek tanui valánk, nagy és ószerü
                     kastélyba lépünk, melynek roppant kertje, terjedelmes melléképületei, s
@@ -355,7 +363,7 @@
                     lépjünk a kastély tágas ebédlőjébe.</p>
                 <p> </p>
             </div>
-            <div>
+            <div type="chapter">
                 <head>IV.</head>
                 <p>Ószerü hézag ez, három magas, de aránylag keskeny ablakkal, melyek a tágas
                     udvarra nyilnak. A butorzat is ódon s nehézkes, de bir azon jellegével az
@@ -481,7 +489,7 @@
                 <p>Ezt mondta a komornyiknak - aztán hálószobájába vonult vissza.</p>
                 <p> </p>
             </div>
-            <div>
+            <div type="chapter">
                 <head>V.</head>
                 <p>Egy hosszu év mult el, mielőtt ismét átlépnénk a szép, de komor kastély
                     küszöbét.</p>
@@ -603,11 +611,12 @@
                 <p>De vegyünk most bucsut e szerény, szenvedő lénytől; nem tudjuk, találkozunk-e
                     vele még egyszer vagy nem. Történetünk fonala itt megszakad; évek mulva s
                     egészen más körülmények közt, fogjuk ezt ismét fölvenni.</p>
-                <p> </p>
+                </div>
             </div>
-            <div>
+            <div type="group">
                 <head> Második könyv. A koldus fiu. </head>
-                <p>I.</p>
+                <div type="chapter">
+                    <head>I.</head>
                 <p>A juliusi nap égetően sütött a puszta s akkor tájban rosz karban levő országutra,
                     mely Aszód és Kis-Kartal közt kanyarodik föl s alá.</p>
                 <p>Kevés szekér döczögött vagy mászott ez idő tájban az olykor rögös, máskor homok
@@ -724,7 +733,7 @@
                     karon ragadta, s vonakodása daczára visszavezette princzipálisához.</p>
                 <p> </p>
             </div>
-            <div>
+            <div type="chapter">
                 <head>II.</head>
                 <p>A koldusfiu büszke és sértett, de korán sem duzzadt arczkifejezéssel állt az öreg
                     ügyvéd előtt; látszott egész valóján, hogy csak azért áll ott, mivel a
@@ -818,7 +827,7 @@
                     Ferencz pedig örömtől sugárzó arczczal, a kocsis mellett a bakon.</p>
                 <p> </p>
             </div>
-            <div>
+            <div type="chapter">
                 <head>III.</head>
                 <p>Siess Panna, azzal a tésztával; mindjárt hat óra; a tens ur pedig azt
                     parancsolta, hogy hét órára készen legyen a vacsora.</p>
@@ -946,7 +955,7 @@
                     gazdasszonyé?</p>
                 <p> </p>
             </div>
-            <div>
+            <div type="chapter">
                 <head>IV.</head>
                 <p>Pár hét mulva Ferencz tökéletesen megszokta uj helyzetét s környezetét, s jól is
                     találta magát Dömötör házánál; csak egy hátránnyal kellett küzdenie, s ez Boris
@@ -1193,11 +1202,12 @@
                     vezetett; ideje, hogy más személyekkel, más körülményekkel ismerkedjünk meg; oly
                     személyekkel, kiknek szinte tetemes szerepük leend történetünkben. Később talán
                     ismét találkozni fogunk a koldus­fiuval.</p>
-                <p> </p>
+                </div>
             </div>
-            <div>
+            <div type="group">
                 <head> Harmadik könyv. Az Oxenstjern család. </head>
-                <p>I.</p>
+                <div type="chapter">
+                    <head>I.</head>
                 <p>Nem kell messze mennünk, hogy a családot fölkeressük, melylyel megismerkedni
                     szán­dékunk, mert ez szintén Pesten lakik, s a Józsefvárosból a nagy térre
                     menni, oly séta, mely ki nem fáraszt bennünket.</p>
@@ -1344,7 +1354,7 @@
                     azután, a kocsi elrobogott a városliget felé.</p>
                 <p> </p>
             </div>
-            <div>
+            <div type="chapter">
                 <head>II.</head>
                 <p>Gróf Oxenstjern akarata, mint mindig, most is győzött; s neje kissé félénk,
                     Neuhuber kisasszony pedig igen bátor és erélyes ellenszegülése daczára, Irma
@@ -1432,7 +1442,7 @@
                     kárpótlást ezen ártatlan, könnyen elérhető örömökért?</p>
                 <p> </p>
             </div>
-            <div>
+            <div type="chapter">
                 <head>III.</head>
                 <p>Egy év mult el; az Oxenstjern család falura költözött és ismét visszatért Pestre.
                     Irmát, bár alig volt tizenhét éves, e télen bevezették a világba.</p>
@@ -1533,7 +1543,7 @@
                     lángoló szemeit, melyek mindig feléje fordultak, mint a virág a napnak.</p>
                 <p> </p>
             </div>
-            <div>
+            <div type="chapter">
                 <head>IV.</head>
                 <p>Az Oxenstjern család falun időzött. A jószág, hol nyaralni szoktak, igen kellemes
                     fekvésü volt, s számos szomszédsággal birt, melylyel Oxenstjern-ék a
@@ -1655,7 +1665,7 @@
                     való anyát.</p>
                 <p> </p>
             </div>
-            <div>
+            <div type="chapter">
                 <head>V.</head>
                 <p>Ujfalván - ez volt a jószág neve - mint mondtuk, vidám élet folyt. A hol annyi
                     fiatalság van, nem csuda, ha a napok repülnek, s ha mulatságban nincsen
@@ -1772,7 +1782,7 @@
                     arczán, élvezte a fiatal ügyvéd diadalát.</p>
                 <p> </p>
             </div>
-            <div>
+            <div type="chapter">
                 <head>VI.</head>
                 <p>Hol fiatal hölgyek s férfiak hosszasb ideig mulatnak, ott többnyire pár
                     szivviszony szokott kifejlődni, kisebb-nagyobb sikerrel - kisebb-nagyobb
@@ -2082,11 +2092,12 @@
                 <p>Evvel Ferencz elhagyta az erkélyt, s ez este nem látta őt többé senki.</p>
                 <p>Másnap sem reggelinél, sem ebédre meg nem jelent, Dömötör azt mondta, hogy roszul
                     van, harmadnapra pedig gyámatyjával együtt visszatért Pestre.</p>
-                <p> </p>
+                </div>
             </div>
-            <div>
+            <div type="group">
                 <head> Negyedik könyv. A remete. </head>
-                <p>I.</p>
+                <div type="chapter">
+                    <head>I.</head>
                 <p>Lépteink még egyszer a Káldor család ős birtokába vezetnek, hol Káldor Margit, a
                     szelid, csendes remete, füzte odább napjait.</p>
                 <p>Minő változás történt e hölgygyel, mióta utoljára találkoztunk vele; huszonnyolcz
@@ -2171,7 +2182,7 @@
                     senkinek adni, betegen feküdt ágyában.</p>
                 <p> </p>
             </div>
-            <div>
+            <div type="chapter">
                 <head>II.</head>
                 <p>Két év mult el e nap óta, s ezen idő alatt tetemes változások történtek
                     személyzetünk közt.</p>
@@ -2271,7 +2282,7 @@
                     üveglap.</p>
                 <p> </p>
             </div>
-            <div>
+            <div type="chapter">
                 <head>III.</head>
                 <p>A Káldorok régi kastélyában gyász uralkodott. A lak szelid urnője teritőn feküdt,
                     s mindazok, kik hosszu remeteségében osztoztak, mély fájdalommal gyászolták
@@ -2366,7 +2377,7 @@
                     sohajjal hozzá - kétszázezer pengőforint sem megvetendő dolog.</p>
                 <p> </p>
             </div>
-            <div>
+            <div type="chapter">
                 <head>IV.</head>
                 <p>Oxenstjern visszatért Ujfalura. Nem csekély önmegtagadásba került a nejéhez szóló
                     levelet föl nem bontani, melynek tartalmára a gróf nagyon is kiváncsi volt. De a
@@ -2864,11 +2875,12 @@
                     talán szá­mot tartottál, nem szállna reád - ne neheztelj. Ez utolsó kérése
                     szerető rokonodnak</p>
                 <p>Mohácsy Sándornénak.</p>
-                <p> </p>
+                </div>
             </div>
-            <div>
+            <div type="group">
                 <head> Végjelenetek. </head>
-                <p>I.</p>
+                <div type="chapter">
+                    <head>I.</head>
                 <p>Holnapok teltek el s az Oxenstjern család nem hallott semmi ujat az örökségi
                     ügyben.</p>
                 <p>A 150,000 forint Irmának s az 50,000 anyjának ki lőnek fizetve; de ki leend végre
@@ -2963,7 +2975,7 @@
                     nem más, mint báró Mohácsi Amadé.</p>
                 <p> </p>
             </div>
-            <div>
+            <div type="chapter">
                 <head>II.</head>
                 <p>Nehéz volna az általános meglepetést leirni, ugy szintén a zavart és örömet,
                     melyek Irma szép vonásain feltüntek.</p>
@@ -3051,7 +3063,8 @@
                     Victorné lőn.</p>
                 <p>És most bucsut vevén személyzetünktől, tollunkat félretesszük, s a tintatartót
                     bezárjuk.</p>
-                <p>VÉGE.</p>
+                <trailer>VÉGE.</trailer>
+            </div>
             </div>
         </body>
     </text>

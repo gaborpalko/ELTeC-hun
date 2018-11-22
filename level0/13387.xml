@@ -17,6 +17,7 @@
          </titleStmt>
          <extent>
             <measure unit="words">138886</measure>
+            <measure unit="pages">689</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
@@ -34,8 +35,14 @@
                   <name>Mészáros Attila</name>
                </respStmt>
                <relatedItem type="copyText">
-                  <bibl>Egri csillagok : Bornemissza Gergely élete : regény / Gárdonyi Géza;Budapest : Singer : Wolfner, 1909<ref
-                     target="http://nektar.oszk.hu/hu/manifestation/1579766"/>
+                  <bibl>
+                     <title>Egri csillagok : Bornemissza Gergely élete : regény</title>
+                     <author>Gárdonyi Géza</author>
+                     <pubPlace>Budapest</pubPlace>
+                     <publisher> Singer : Wolfner</publisher>
+                     <date>1909</date>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/1579766"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -64,9 +71,7 @@
          <div type="vol">
             <head>
                 I. KÖTET.
-            </head>
-            
-            
+            </head> 
             <div type="group">
                <head>
                    ELSŐ RÉSZ. HOL TEREM A MAGYAR VITÉZ?
@@ -8678,13 +8683,8 @@
                   <p>A homlokáról csurgott a verejték.</p>
                   <p>- Uram az olaszok...</p>
                   <p>- Nincsenek? - hördült fel a bég.</p>
-                  <p>- Megszöktek a gazok!</p>
-                  
-                  <p>
-                     <hi>Vége az első kötetnek.</hi>
-                  </p>
-                  
-                  
+                  <p>- Megszöktek a gazok!</p>                
+                  <trailer>Vége az első kötetnek.</trailer>
                </div>
             </div>
          </div>
@@ -16856,11 +16856,7 @@
                      kifejezését.</p>
                   <p>A király azután Bornemissza Gergelyt nevezte ki Dobó helyére Egervár
                      főkapitányának.</p>
-                  
-                  <p>
-                     <hi>Vége.</hi>
-                  </p>
-                  
+                     <trailer>Vége.</trailer>            
                </div>
             </div>
          </div>

@@ -18,6 +18,7 @@
          </titleStmt>
          <extent>
             <measure unit="words">41719</measure>
+            <measure unit="pages">202</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
@@ -25,18 +26,23 @@
          <sourceDesc>
             <bibl>
                <title>Rontó Pál viselt dolgai vizen és szárazon</title>
-               <ref target="http://mek.oszk.hu/14300/14396/"/>
+               <ref target="http://mek.oszk.hu/11700/11795"/>
                <date>2013-07-18</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
-               <ref target="http://mek.oszk.hu/11700/11765/"/>
                <respStmt>
                   <resp>Original Electronic Edition</resp>
                   <name>Szever Pál</name>
                   <name>Erdélyi Zsolt</name>
                </respStmt>
                <relatedItem type="copyText">
-                  <bibl>Rontó Pál viselt dolgai vízen és szárazon / Forgó bácsi;Budapest : Athenaeum, 1912<ref
-                     target="http://nektar.oszk.hu/hu/manifestation/3075399"/>
+                  <bibl>
+                     <title>Rontó Pál viselt dolgai vízen és szárazon</title>
+                     <author>Forgó bácsi</author>
+                     <pubPlace>Budapest</pubPlace>
+                     <publisher>Athenaeum</publisher>
+                     <date>1912</date>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/3075399"/>
                   </bibl>
                </relatedItem>
             </bibl>

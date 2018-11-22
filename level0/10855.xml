@@ -18,6 +18,7 @@
          </titleStmt>
          <extent>
             <measure unit="words">76348</measure>
+            <measure unit="pages">184</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
@@ -39,9 +40,15 @@
                   </bibl>
                </relatedItem>
                <relatedItem type="copyText">
-                  <bibl>A szegedi boszorkányok / [báró Jósika Miklós];Pest : Heckenast, 1854<ref
-                        target="http://nektar.oszk.hu/hu/manifestation/1586819"/>
-                  </bibl>
+                     <bibl>
+                        <title>A szegedi boszorkányok</title>
+                        <author>báró Jósika Miklós</author>
+                        <pubPlace>Pest</pubPlace>
+                        <publisher>Heckenast</publisher>
+                        <date>1854</date>
+                        <ref
+                           target="http://nektar.oszk.hu/hu/manifestation/1586819"/>
+                     </bibl>
                </relatedItem>
             </bibl>
          </sourceDesc>

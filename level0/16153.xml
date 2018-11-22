@@ -17,6 +17,7 @@
          </titleStmt>
          <extent>
             <measure unit="words">30344</measure>
+            <measure unit="pages">169</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
@@ -26,7 +27,7 @@
                <title>Jön a hajnal</title>
                <date>2016-10-20</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
-               <ref target="http://mek.oszk.hu/17800/17873"/>
+               <ref target="http://mek.oszk.hu/16100/16153/"/>
                <respStmt>
                   <resp>Original Electronic Edition</resp>
                   <name>Vidiné Réfi Erzsébet</name>
@@ -35,8 +36,14 @@
                   <name>Fecz Ágnes</name>
                </respStmt>
                <relatedItem type="copyText">
-                  <bibl>Jön a hajnal / Abonyi Árpád;Budapest : Athenaeum, 1897;(Az Athenaeum olvasótára)<ref
-                     target="http://nektar.oszk.hu/hu/manifestation/3346043"/>
+                  <bibl>
+                     <title>Jön a hajnal</title>
+                     <author>Abonyi Árpád</author>
+                     <pubPlace>Budapest</pubPlace>
+                     <publisher>Athenaeum</publisher>
+                     <date>1897</date>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/3346043"/>
                   </bibl>
                </relatedItem>
             </bibl>

@@ -17,6 +17,7 @@
          </titleStmt>
          <extent>
             <measure unit="words">33097</measure>
+            <measure unit="pages">189</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
@@ -26,15 +27,21 @@
                <title>Ez az!: Regény</title>
                <date>2018-09-14</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
-               <ref target="http://mek.oszk.hu/17800/17873"/>
+               <ref target="http://mek.oszk.hu/18500/18579/"/>
                <respStmt>
                   <resp>Original Electronic Edition</resp>
                   <name>Lipták Éva</name>
                   <name>Baloghné Bárdos Katalin</name>
                </respStmt>
                <relatedItem type="copyText">
-                  <bibl>Ez az! : regény / Szikra;Budapest : Singer - Wolfner, 1915<ref
-                     target="http://nektar.oszk.hu/hu/manifestation/2992760"/>
+                  <bibl>
+                     <title>Ez az! : regény</title>
+                     <author>Szikra</author>
+                     <pubPlace>Budapest</pubPlace>
+                     <publisher>Singer - Wolfner</publisher>
+                     <date>1915</date>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/2992760"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -3426,7 +3433,7 @@
                elismerés, a magasztalás, esküszöm neked, hogy nem hiúságom sütkérezett a hízelgések
                melegében! Hanem igenis pacsirta módjára, mind magasabbra, magasabbra törekedve,
                száll lelkemben az Életöröm!”</p>
-            <p>VÉGE.</p>
+            <trailer>VÉGE.</trailer>
          </div>
       </body>
   </text>

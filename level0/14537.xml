@@ -17,6 +17,7 @@
          </titleStmt>
          <extent>
             <measure unit="words">31198</measure>
+            <measure unit="pages">168</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
@@ -26,7 +27,7 @@
                <title>Szeptember: Regény</title>
                <date>2015-10-07</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
-               <ref target="http://mek.oszk.hu/17800/17873"/>
+               <ref target="http://mek.oszk.hu/14500/14537/"/>
                <respStmt>
                   <resp>Original Electronic Edition</resp>
                   <name>Vidiné Réfi Erzsébet</name>
@@ -34,8 +35,14 @@
                   <name>Mészáros Atilla</name>
                </respStmt>
                <relatedItem type="copyText">
-                  <bibl>Szeptember : regény / Ambrus Zoltán;Budapest : Athenaeum, 1897;(Az Athenaeum olvasótára)<ref
-                     target="http://nektar.oszk.hu/hu/manifestation/3346328"/>
+                  <bibl>
+                     <title>Szeptember : regény</title>
+                     <author>Ambrus Zoltán</author>
+                     <pubPlace>Budapest</pubPlace>
+                     <publisher>Athenaeum</publisher>
+                     <date>1897</date>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/3346328"/>
                   </bibl>
                </relatedItem>
             </bibl>

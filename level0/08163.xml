@@ -17,6 +17,7 @@
          </titleStmt>
          <extent>
             <measure unit="words">52587</measure>
+            <measure unit="pages">431</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
@@ -39,8 +40,14 @@
                   </bibl>
                </relatedItem>
                <relatedItem type="copyText">
-                  <bibl>Jávor orvos és szolgája Bakator Ambrus : szeszélyes regény / Fáy András;Pest
-                     : Heckenast, 1855<ref target="http://nektar.oszk.hu/hu/manifestation/1572923"/>
+                  <bibl>
+                     <title>Jávor orvos és szolgája Bakator Ambrus : szeszélyes regény</title>
+                     <author>Fáy András</author>
+                     <pubPlace>Pest</pubPlace>
+                     <publisher>Heckenast</publisher>
+                     <date>1855</date>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/1572923"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -63,15 +70,14 @@
       <revisionDesc>
          <change when="2018-09-30"/>
          <change when="2018-10-03"/>
+         <change when="2018-10-12"/>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <div>
+         <div type="vol">
             <head>ELSŐ KÖTET.</head>
-
-         </div>
-         <div>
+         <div type="group">
             <head>ELŐSZÓ OLVASÓIMHOZ.</head>
             <p> A könyvek előszavait rendesen olvasatlanul szokta átforgatni az olvasó, s ha nem
                csalat­ko­zom: rendesen igaza is van ebben. Ritkán nem kimérési czégérek azok. A
@@ -233,10 +239,9 @@
             <p>És ekként született e jelen szeszélyes regényi kisérlet.</p>
 
          </div>
-         <div>
+         <div type="chapter">
             <head>I. FEJEZET.</head>
-            <div>
-               <head>Kakasd topographiája.</head>
+            <head>Kakasd topographiája.</head>
                <p>Tisztes agg szüz Európa egyik czombján, a nagy és kis trochanterek
                   szomszédságában, fekszik szép magyar hazánk, gazdagon rengő kalászföldjeivel és
                   gyakran szűk kenyerével, kövér rétjeivel és sovány hus-fontjaival, classicus
@@ -253,9 +258,9 @@
                   benőtten terül el, melly utóbbitól vette omenes nomenét, és mellynek évenkinti
                   áldásos vágatása, átalkodottan gátlá mind e mai napig a mocsár lecsapolását és
                   körülbelől ötven zsiros holdnak, a pignoratarius békáktól és pióczáktól lehető
-                  visszaváltását. Az <hi>a</hi> betü fölötti ékezéséket a Kákásd
-                  névben, miként honi oklevél- és codex-buváraink állitják, nyomdáinkban, az álmos
-                  könyvek, szerencse-kerekek, Argyrus király és tündér Ilona szép históriáinak sürű
+                  visszaváltását. Az <hi>a</hi> betü fölötti ékezéséket a Kákásd névben, miként honi
+                  oklevél- és codex-buváraink állitják, nyomdáinkban, az álmos könyvek,
+                  szerencse-kerekek, Argyrus király és tündér Ilona szép históriáinak sürű
                   nyomatásai koptatták le, igy veszett a falun a Kakasd név. - Mások ellenben a
                   Kakasd név mellett harczolva, azt egy régi, még a huszsziták korából fenmaradt és
                   egyfelül a fogadó, másfelől egy puszta malom közelében, már némi ferdüléssel álló
@@ -275,11 +280,11 @@
                   világ mélyen alszik és senki sem ügyel szavára, ha bár Kakasdon nem érte is
                   czélját; melly dicséretes szerénység, ujabbkori csodatevőinknek nem épen
                   tulajdona, noha kakas-szavaik elhangzásai napi renden vannak.</p>
-               <p>Egyébiránt Kakasdnak igen egy a pólmagassága a budaival; miért is hires <hi
-                    >Bánom</hi>-hegyén jó bort terem, mielőtt az tudniillik Adut Jakab
-                  kezelése alá jutna. Kik avatottabbak ennek háza körül, állitják, hogy Jakab gazda
-                  ollyforma óvatossággal él borai körül, millyennel esős időben a szüretelő palócz,
-                  ki keresztül tett csomoszló fájával fedi be kádját, az omló eső ellen. Tudniillik
+               <p>Egyébiránt Kakasdnak igen egy a pólmagassága a budaival; miért is hires
+                     <hi>Bánom</hi>-hegyén jó bort terem, mielőtt az tudniillik Adut Jakab kezelése
+                  alá jutna. Kik avatottabbak ennek háza körül, állitják, hogy Jakab gazda ollyforma
+                  óvatossággal él borai körül, millyennel esős időben a szüretelő palócz, ki
+                  keresztül tett csomoszló fájával fedi be kádját, az omló eső ellen. Tudniillik
                   történetünk korában, Kakasd falujában, több városink példájára, annak földesurai,
                   szintolly baráti lévén a colonicalis purismusnak, mint neologusaink,
                   philológjaink, és terminológistáink a nyelvbelinek - nem telepitettek meg egyént
@@ -457,12 +462,11 @@
                   tüdőt ostromló poru utczáin, sőt bebukkanni is hagyván őt egy pár udvarba, lássuk:
                   mi történt e hir-neves magyar faluban?</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>II. FEJEZET.</head>
-            <div>
-               <head>Jávor a nők szobájában.</head>
+            <head>Jávor a nők szobájában.</head>
                <p>A mult század beszakadásánál a jelenbe, azon fagy- és hó-gazdag télen, mellyen a
                   farkasok olly bizodalmasan fraternizáltak juhaklainkkal, december-hónak 25-dik
                   napján, estveli hét órakor tízenkét perczkor történt, hogy Jávor Elek, megyei
@@ -743,12 +747,11 @@
                   telhetően szolgálatos vala körülte, s éjjelre ugy ráfüté a vendégszoba kályháját,
                   hogy másnapra kelve a vendégnek majd kétfelé szakadt a feje.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>III. FEJEZET.</head>
-            <div>
-               <head>Az ördög völgye.</head>
+            <head>Az ördög völgye.</head>
                <p>Másnap az orvos, az expressussal és Ambrussal, korán szánra ültek s hajtattak a
                   város felé. Keményre fordult az idő. Az egész természet hóval volt candirozva,
                   mint valami házi torta: házi, mondom, mert czukrászaink ovatosabbak, mintsem illy
@@ -775,17 +778,16 @@
                   voltaképen valamint akkor nem, ugy most sem tudhatni, s alig kétkedék, hogy a
                   kivánt kappan, szárnyas korában, nem ezen hires hegy oldalaiban bogarászott volna;
                   különben mi szükség fogna lenni háttérbe szoritni kedveért, Kakasdnak szintén nem
-                  megvetendő hizott kappanjait? Tehát a megigért <hi>sinai</hi>
-                  kappanra emlékezteté Ambrus Martiált; ki is jóra értvén az emlékeztetést, azonnal
-                  meghozatá s kézbesité az exoticus sültnek valót. Szintolly szerencsé­sen oldá meg
-                  Ambrus, minden nagysándori kar nélkül, zsebkendője más két csomóját is, s
-                  elpakolván a rist és kovát, a következett nap reggelén, nyugodt lélekkel és
-                  felkészült szánnal várta a megyeház udvarán urát, kit az előzött napon alig
-                  láthata. Megjött Jávor s utána az expressus, egy fényzett ládikát és egy jókora
-                  kosarat hozván utána, mellyet az orvos gondos vigyázattal tett maga mellé az
-                  ülésbe fel. - Isten önnel édes Mikeym! köszöntse addig is, mig láthatom, a Tens
-                  asszonyt, mond Jávor kezét nyujtván az expressusnak, s a szán elcsuszott Kakasd
-                  felé.</p>
+                  megvetendő hizott kappanjait? Tehát a megigért <hi>sinai</hi> kappanra emlékezteté
+                  Ambrus Martiált; ki is jóra értvén az emlékeztetést, azonnal meghozatá s kézbesité
+                  az exoticus sültnek valót. Szintolly szerencsé­sen oldá meg Ambrus, minden
+                  nagysándori kar nélkül, zsebkendője más két csomóját is, s elpakolván a rist és
+                  kovát, a következett nap reggelén, nyugodt lélekkel és felkészült szánnal várta a
+                  megyeház udvarán urát, kit az előzött napon alig láthata. Megjött Jávor s utána az
+                  expressus, egy fényzett ládikát és egy jókora kosarat hozván utána, mellyet az
+                  orvos gondos vigyázattal tett maga mellé az ülésbe fel. - Isten önnel édes Mikeym!
+                  köszöntse addig is, mig láthatom, a Tens asszonyt, mond Jávor kezét nyujtván az
+                  expressusnak, s a szán elcsuszott Kakasd felé.</p>
                <p>Ambrus ölébe vette a maga kappanos kosarát, s nyugalmas gondolat-pauzában
                   merengett tekinteteivel a téli vidékbe, melly ma derültebb vala, mint tegnap,
                   azonban minthogy hátra tekintgetve észrevette, hogy az orvos némi aggodalmassággal
@@ -972,12 +974,11 @@
                   igen ollyformán érzé magát, mint azon gyermek, ki eltörvén a korsót, remegtében
                   azt ohajtotta sirva: oh bár csak már megvertek volna!</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>IV. FEJEZET.</head>
-            <div>
-               <head>A fogadtatás.</head>
+            <head>A fogadtatás.</head>
                <p>Azonban Jávor sem vala ment minden szorongástól, tanakodván magában: miként
                   assentálja a nőknél kisdedét? - Nem badar dolog-e az a világban, ugy szóla
                   magában, hogy gyakran még jó járatunkban is, remegnünk kell a színt? remegünk néha
@@ -1170,12 +1171,11 @@
                   elkoptatja. Biztos ur, ezen kifogását egy nyomatékos szitokkal tevé. - Igy Bakator
                   Ambrus, a három megbizásból, még is egyet cum sufficienti végzett be.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>V. FEJEZET.</head>
-            <div>
-               <head>A keresztelés.</head>
+            <head>A keresztelés.</head>
                <p>A dajkát megfogadván Jávor, miután az expressus Mikey által értesittetett, hogy a
                   kisded még megkeresztelve nincs, rendelést tőn a keresztelés iránt. - Reménylem mi
                   leszünk keresztszüléi az árvának Katinkám? ekként szóla nejéhez. Ez nem
@@ -1328,16 +1328,15 @@
                   előtt őrzeni, mint egy hindostáni fakir a maga szentségét. Ha mesterségesebb gép,
                   vagy magasb mivesi körbe vágó munka iránt szólittaték fel: fontos képpel s
                   jelentékeny arczmimicával jártatá meg kissé arczát, s végre azt felelé a várónak:
-                  megtudnám biz én csinálni <hi>másval</hi>! Itt okos Bálint azzal a
-                  mentalis reservátával élt, hogy azon <hi>másnak</hi>, értőbbnek
-                  kellene lenni nálánál. Tán ollyan vala e részben Balázs, mint a kőszén, melly jól
-                  ég ugyan, de más nemesebb anyaggal kell meg­gyujtatnia. Ezen fogás rendesen
-                  kisegité őt a hinárból, mert a kivánt <hi>“más”</hi> a faluban nem
-                  találkozék. Ha egy tetemes, de minden idomtul meddő kaput tagola össze, néhány
-                  lépést hátrálva attól megálla, csipejére tevé két kezét: exegi monumentum - vagy
-                  eheu quantus artifex pereo-forma önelégüléssel kiálta fel: sok ez egy embertől!
-                  melly demonstrátiójával, szájat-tátó csodálkozásra ragadá a körülálló kakasdiakat
-                  is.</p>
+                  megtudnám biz én csinálni <hi>másval</hi>! Itt okos Bálint azzal a mentalis
+                  reservátával élt, hogy azon <hi>másnak</hi>, értőbbnek kellene lenni nálánál. Tán
+                  ollyan vala e részben Balázs, mint a kőszén, melly jól ég ugyan, de más nemesebb
+                  anyaggal kell meg­gyujtatnia. Ezen fogás rendesen kisegité őt a hinárból, mert a
+                  kivánt <hi>“más”</hi> a faluban nem találkozék. Ha egy tetemes, de minden idomtul
+                  meddő kaput tagola össze, néhány lépést hátrálva attól megálla, csipejére tevé két
+                  kezét: exegi monumentum - vagy eheu quantus artifex pereo-forma önelégüléssel
+                  kiálta fel: sok ez egy embertől! melly demonstrátiójával, szájat-tátó
+                  csodálkozásra ragadá a körülálló kakasdiakat is.</p>
                <p>Különösen tanácsosztásban kiáradozó vala Balázs, miket kéretlenül nem ada ugyan ki
                   magá­tól soha, de kérelemre s illendő honoráriumért - mi leginkább boráldomásból
                   álla - meg nem tagada egyik pór lakosától is Kakasdnak. Az ollykori siker s azon
@@ -1467,12 +1466,11 @@
                   nőkorára, joggal megilletendi őt, mint mind a két nem képviselőjét, a kalapviselés
                   a háznál.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>VI. FEJEZET.</head>
-            <div>
-               <head>A komapipa.</head>
+            <head>A komapipa.</head>
                <p>A mint a férfiak szobájokba vonultak, Ambrust kárvallottnak bús mogorvaságában
                   lelték a folyosón. Neki nagybecsü fetise volt a pipája, bút, gondot oszlató
                   taliszmánja, munkásságá­nak fő fő-tényezője, nélküle mogorva unalomban
@@ -1556,12 +1554,11 @@
                   pártfogójává füstölé őt, miként a marha­nyelvet izes assietté képezi a kémény
                   füstje.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>VII. FEJEZET.</head>
-            <div>
-               <head>Ambrus rosz fát tesz a tűzre.</head>
+            <head>Ambrus rosz fát tesz a tűzre.</head>
                <p>A nőknek csakugyan folytonos szálka vala a kis Tivadar. Lucza asszony, ki előtt,
                   volt férjé­nek, a triangulumos, medvebőrös és ezüst gombos kapusnak, csak a kapu
                   alatt volt önálló aka­ratja, lakában pedig csak az nem történt meg, mit ő akart,
@@ -1707,12 +1704,11 @@
                <p>Lucza e szavaival, hihető Martial grófra czélzott. Katinka a letiprott virág,
                   fájdalmasan utasi­totta el magától anyja szavait.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>VIII. FEJEZET.</head>
-            <div>
-               <head>Martial gróf.</head>
+            <head>Martial gróf.</head>
                <p>Martial gróf, atyjának és hajadon nővérének haláluk után, összeszedvén a családi
                   vagyon izékeit, Kakasdhoz egy órányira fekvő kutasi jószágára vonult ki Pestről, s
                   az év nyájasabb három szakát itt, a telet pedig Bekeváratt, a megye székvárosában
@@ -1836,12 +1832,11 @@
                   következtében, Martial, Kakasdon lakozó Szetényi Ignácz urnak egyetlen leányára, a
                   kedves Marira vetette szemét.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>IX. FEJEZET.</head>
-            <div>
-               <head>Martial számolása.</head>
+            <head>Martial számolása.</head>
                <p>Szetényi Ignácz, két testvérével, Tivadarral a borkereskedővel, és Vinczével, ki
                   Pestről, évek előtt ifjui csiny miatt tünt el, budai nyomdásznak, Károlynak vala
                   fia. Atyjáról csak igen mérsékelt vagyont örökölt; mert az ő korában, a magyar
@@ -1997,12 +1992,11 @@
                   szerelemnek, melly az érzelmeivel szivesen zárkózó nőnek szive fenekén, vesztai
                   tüz lángolásával égett!</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>X. FEJEZET.</head>
-            <div>
-               <head>Ne játszál a tüzzel.</head>
+            <head>Ne játszál a tüzzel.</head>
                <p>Azonban a kis Tivadar megjelenése, s különösen Jávor utóbbi nagy utja s legyező
                   Bakatori története után, kissé borongni kezde Jávor házánál a nős horizon. Nem
                   ugyan, mintha meg­ingott volna Katinka hű szerelme, vagy azon nőink modorjában,
@@ -2123,12 +2117,11 @@
                   azonban nem visszonoztatott; de a melly Katinka szemeiből, némi sülyedése
                   érzetében, kifordultával a szobából, a szégyen keserü könyeit facsarta ki.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XI. FEJEZET.</head>
-            <div>
-               <head>Véletlen látogatás.</head>
+            <head>Véletlen látogatás.</head>
                <p>Egy nyári estalkonyat felé, a nők a téglával kirakott hűs előpitvarban ülének
                   varrás mellett. A két gyermek, leteritett szőnyegen, játékszerektől környezetten
                   csuszkált. Rekkenő volt a hőség s a nők sűrüen használták legyezőiket. Lucza
@@ -2199,17 +2192,16 @@
                   ismert őszinte jelleme. Ez érzelem-habzásban, végre is férje javára fogta volna
                   kivivni kegyeletes kedélye a diadalt, ha Lucza asszony folytatott
                   ingerült­ségeivel, némileg nem ellensúlyozza azt.</p>
-               <p>Ha drága férjed, mond Lucza, kinél a <hi>drága</hi> és <hi
-                    >drágalátos</hi> epitheton, mindenkor fulánkos mézfalat vala,
-                  végre is ártatlan, - mi szükség titokba burkolni előttünk magát? nem egy-e a szoba
-                  a kemenczével? Nős életben a titoktartás, leányom; sátáni horog!</p>
+               <p>Ha drága férjed, mond Lucza, kinél a <hi>drága</hi> és <hi>drágalátos</hi>
+                  epitheton, mindenkor fulánkos mézfalat vala, végre is ártatlan, - mi szükség
+                  titokba burkolni előttünk magát? nem egy-e a szoba a kemenczével? Nős életben a
+                  titoktartás, leányom; sátáni horog!</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XII. FEJEZET.</head>
-            <div>
-               <head>A lovárda.</head>
+            <head>A lovárda.</head>
                <p>Lucza boszúvágyának és rendreigazitásának ürügye, alkalma, csakhamar előadta
                   magát. Jávor mintegy egy hétre az idegen nő látogatása után, - minthogy Ambrust,
                   ki egy tetemes sámsoni görög dinnyét ejtvén lábára, honn kelle hagynia - egy
@@ -2355,18 +2347,17 @@
                   dúltak keblében, miket Martial üres biztatásai és mentései, távolról sem birának
                   megengesztelni. A tiszta kegyeletes női kebel önvádolása, kivülről nem czáfolható
                   meg! Lucza asszony az egész útban paprika volt és pöfögő kása. Kezére járt
-                  Martiálnak Bálint kárhoztatásában, kinek neve mellé sűrüen pattogtatá a <hi
-                    >pimasz</hi>-epithetont. Ambrus a kocsis mellett gubbasztott,
-                  kendőjét nyomva a dereske által tetovirozott arczára, a bennülő urasága látszató
-                  bánatjában - noha honnan eredtét meg nem foghatá - a hű szolga szinte feledé saját
-                  nyomatékos fricskáját.</p>
+                  Martiálnak Bálint kárhoztatásában, kinek neve mellé sűrüen pattogtatá a
+                     <hi>pimasz</hi>-epithetont. Ambrus a kocsis mellett gubbasztott, kendőjét
+                  nyomva a dereske által tetovirozott arczára, a bennülő urasága látszató bánatjában
+                  - noha honnan eredtét meg nem foghatá - a hű szolga szinte feledé saját nyomatékos
+                  fricskáját.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XIII. FEJEZET.</head>
-            <div>
-               <head>A párbaj hatásai.</head>
+            <head>A párbaj hatásai.</head>
                <p>A nők akként jártak lovárdai élvezetökkel, miként az, ki izes falatot eszik, s
                   egyszerre csont­ban robban meg a foga! Haza érve, Katinka szobájába zárkozott, s
                   asztalkájára borulva, könyzáporral áztatta kendőjét. Martial, ki búcsut venni
@@ -2491,12 +2482,11 @@
                   fiunak különb anyja nem volt! Hogy annak apjával kétszeresen vala megelégedve,
                   természetes.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XIV. FEJEZET.</head>
-            <div>
-               <head>Jávor megérkezik.</head>
+            <head>Jávor megérkezik.</head>
                <p>Egyedül tiszta ártatlan lelkeknek tulajdona az, hogy kérlelhetlen birái
                   önmagoknak, s csak ma­gára szinére is a félrebicczenésnek, kész kedélyük, szigorú
                   s gyötrelmes önvádolásra. Tisz­ta forrás az ő keblök, mellynek kristály vizét, egy
@@ -2578,12 +2568,11 @@
                   mert még a párbaj valódi okát sem tudá, sem azt: milly terjedelemben
                   veszélyeztetett jó neve háznépének?</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XV. FEJEZET.</head>
-            <div>
-               <head>Nyilvánulások.</head>
+            <head>Nyilvánulások.</head>
                <p>Azonban korábban nyittattak fel ezek iránt Jávor szemei, mint vélte volna. Másnap
                   délután, kikocsizott Kakasdra a székvárosból Gépán asszonyság, Luczának leánykori
                   barátnéja, leá­nyá­val, Holtay postamesternével, s kocsijokkal megállának a kapu
@@ -2753,8 +2742,7 @@
                   neve azon nyomat, melly őt az emberi nemesebb társaságok köreiben kelendő pénzzé
                   teszi; ezen nyomat lekopásával, az illy hamis pénzverők segélye által, mint
                   Gépánék, könnyen a hamis veretű pénzek közé fog vegyittethetni. Ezért a nőnek nem
-                  elég csak <hi>lennie</hi> erényesnek, <hi
-                     >látszatnia</hi> is kell annak!</p>
+                  elég csak <hi>lennie</hi> erényesnek, <hi>látszatnia</hi> is kell annak!</p>
                <p>Igazad van, kedves Elekem! s jó istenem feledjen engem, ha ezt feledem valaha!
                   szóla szíve teljes mélyéből Katinka! De még van, kedvesem, egy kő szivemen; ennek,
                   hogy nyugodt lehessek, le kell gördülni róla. Én! édes férjem, olly botor,
@@ -2797,18 +2785,14 @@
                   valóban nem illette. Ezen gyanúnál fogva, hogyha Jávor pártolására nem kél, s
                   Luczának irántai szigorát nem paralyzálgatja, sűrüen bekövetkeznek vala Ambrus­nál
                   a pipabőjtök s egyéb poenitentiák!</p>
-
-
             </div>
          </div>
-         <div>
+         <div type="vol">
             <head>MÁSODIK KÖTET.</head>
-
-         </div>
-         <div>
+            
+         <div type="chapter">
             <head>XVI. FEJEZET.</head>
-            <div>
-               <head>Ambrus örökséget kap.</head>
+            <head>Ambrus örökséget kap.</head>
                <p>Ambrus azonban épen ez időben üle fel, egyet fordult szerencse-kerekének azon
                   legtetősebb búbjára, mellyről sorsa apróbb ingerkedéseit, csak szúnyogcsipéseknek
                   tekintheté. Nagy­báty­ja, egy városkának takarékos szatócsa, ki fonákul gyógyitott
@@ -2903,12 +2887,11 @@
                <p>Nem esett Ambrusnál szikla közé, Balázsnak elejtett magszeme; miről azonban a jövő
                   fejezetben.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XVII. FEJEZET.</head>
-            <div>
-               <head>Ambrus megszerelmesedik.</head>
+            <head>Ambrus megszerelmesedik.</head>
                <p>A testiesebb psychologusok, szeretik hidegleléssel hasonlitgatni össze a
                   szerelmet. Mindkettő, ugymond, legátalánosabb betegsége az emberiségnek; és rajtok
                   minden embernek keresztül kell esni, legalább egyszer életében! De alig létezhetik
@@ -3031,12 +3014,11 @@
                   huszas? egy pár nap alatt behajtja! maga kifogyhatlan capitálisul maradván! -
                   Kéjes ábrándok közt, feledve lőn a mellény minden lohadása.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XVIII. FEJEZET.</head>
-            <div>
-               <head>Foly a szerelmi kaland.</head>
+            <head>Foly a szerelmi kaland.</head>
                <p>Ha bár Bakator Ambrusnak, elég olcsónak látszék is az idő, minthogy legkisebb
                   teendőinél is jó darabokat szegdelt belőle; végre még is megsokalta maga is, hogy
                   két hónap mulva sem tudhatá tulajdonképen: miként áll Erzsivel? lesz-e a
@@ -3265,12 +3247,11 @@
                   többé olly itallal, melynek ura lenni nem bir, bedőle ágyába, mellyből epimenidesi
                   álom után, másnap későn, erősen kopogó főfájással kele ki.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XIX. FEJEZET.</head>
-            <div>
-               <head>A jegyváltás.</head>
+            <head>A jegyváltás.</head>
                <p>Pintes reggel pontosan megjelent, a gyűrüért kialkudott pénz átvételére.</p>
                <p>Nem igértem-e estve kigyelmednek többecskét az elégnél? kérdé a habozó Ambrus.</p>
                <p>Egy fillérrel sem, barátom uram; annyi a rám parancsolt ár; nekem becsületemre
@@ -3428,12 +3409,11 @@
                   tisztességes barátjától; jobbnak látván, magában fájlalni el kiármánykodott
                   veszteségeit.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XX. FEJEZET.</head>
-            <div>
-               <head>Uj párbaj.</head>
+            <head>Uj párbaj.</head>
                <p>Martial gróf, a lovárdai eclatant esemény óta, ludas ovatossággal oldalgott
                   Kakasdtól; de most nagy szándékkal hajtatott be Jávor udvarába. Kimért
                   udvariasságu volt fogadtatása a nőknél, kikről rövid tisztelgés után, átment Jávor
@@ -3522,12 +3502,11 @@
                   indulatos zajt, annál inkább nyugtalankodott, minél kevésbbé szünt meg magát
                   vádolni, mint a nevelő és növendék közti kedvetlen zsurlódás okozóját.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XXI. FEJEZET.</head>
-            <div>
-               <head>Avar tusája.</head>
+            <head>Avar tusája.</head>
                <p>Ha festész volnék, kitárt karokkal festném, a szeretet után epedező emberfajt, de
                   ezernyi ezer érdektől, sündisznótövisek alakjaiban, sürüen övedzett testtel. Ezen
                   átkos tövisek gátolják őt, hogy forrón, szorosan ölelhesse embertársát magához! Oh
@@ -3635,12 +3614,11 @@
                <p>Légy nyugodt barátom; a sors sülyeszt és emel, s nem ritkán egy csapással teszi
                   mindkettőt; - Szetényivel majd ellátok én.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XXII. FEJEZET.</head>
-            <div>
-               <head>Jávor, Ignácz urnál.</head>
+            <head>Jávor, Ignácz urnál.</head>
                <p>Alkalom után Jávornak nem sokáig kelle várnia. Ambrus jelenté, hogy cseléd érkezék
                   Ignácz urtól, minthogy ugymond, tens Ignácz ur beteg lenni méltóztatik, és gyönge
                   egészséggel dicsekszik. Jávor orvos urat hivatá, minthogy a buzamérésnél áthütötte
@@ -3836,12 +3814,11 @@
                <p>Ignácz ur, maga részéről szint igy vélekedék; különben is tanácsosnak látván, a
                   téglavetőre nézve, jó láboni állását Jávor urral.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XXIII. FEJEZET.</head>
-            <div>
-               <head>Mari vádoltatásai.</head>
+            <head>Mari vádoltatásai.</head>
                <p>Jávor, hazamentében, mindenfelé jártatá elméjét azon: mi történhetett a
                   szerelmesek között? Kegyencze volt mindkettő, s tiszta jellemeiket, valamint
                   szilárdságaikat is évek óta ismeré. - És még is gyarló az ember! ezt gondolja
@@ -3931,12 +3908,11 @@
                   sohajtá a zuzott keblű ifju; noha a kebel mélyében élt hite, hogy a ledér Martiál,
                   őt Marinál ki nem pótolandja soha!</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XXIV. FEJEZET.</head>
-            <div>
-               <head>Mari kalandja.</head>
+            <head>Mari kalandja.</head>
                <p>És mind a három férfiu lényegesen tévedett Mariban. Ő egy pillanatig sem habozott
                   Martiál fénye és személye irányában, kit igen ollyformán szenvedhet vala, mint
                   pókhálót szobájában. Atyjának Martiál felé hajlását ismeré ugyan; de általa még
@@ -3989,12 +3965,11 @@
                   mert, ugy­mond, legbiztosabb rejtélyfölderitő, szeszélycsillapitó és sebhegesztő
                   az idő!</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XXV. FEJEZET.</head>
-            <div>
-               <head>Rablás.</head>
+            <head>Rablás.</head>
                <p>Hiában! akarjuk, nem akarjuk, a lábra kapott divatnak, többé kevesebbé hódolnunk
                   kell. Ha sarkig lenyuló kabát a divat, nem ölthetünk ollyat, melly térdünket
                   verdesi; ha csak az utcza gyerekeit magunk után csőditni nem akarjuk. Az olly
@@ -4093,12 +4068,11 @@
                   inquisitióhoz. Annak az idegen nőnek sem igen hiszek én. Ugy látszik, igen szereti
                   az incognitót; mi csak igen nagy uraknak áll jól!</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XXVI. FEJEZET.</head>
-            <div>
-               <head>Fölfedezés.</head>
+            <head>Fölfedezés.</head>
                <p>Avar maga házához rendelte az inquisitusokat, s elhelyezte őket hadnagyi őrség
                   alatt, Erzsit egy üres kamrába, Pintest a pinczébe, melly szerencséjére a
                   viziszonyos delinquensnek, jelenleg nem tartalmazott vizet. Ambrus, kinek a Balázs
@@ -4180,18 +4154,17 @@
                <p>
                   <hi>Biztos</hi>. Ho, ho! tehát kóborló?</p>
                <p>
-                  <hi>Nő</hi>. Nem vagyok; rokonimhoz jöttem fel, miután azon
-                  szinésztársaság, mellynél szegődtetve voltam, eloszlott.</p>
+                  <hi>Nő</hi>. Nem vagyok; rokonimhoz jöttem fel, miután azon szinésztársaság,
+                  mellynél szegődtetve voltam, eloszlott.</p>
                <p>
                   <hi>Biztos</hi>. Tehát comediásné?</p>
                <p>
-                  <hi>Nő</hi>. Pór elnevezéssel igen; miveltebb körü czimzettel
-                  szinművésznő.</p>
+                  <hi>Nő</hi>. Pór elnevezéssel igen; miveltebb körü czimzettel szinművésznő.</p>
                <p>
-                  <hi>Biztos</hi>. Ismerem a látszatnak e művészetét és e deszkahadat;
-                  addig bábozik a virtusokkal, mig egészen elkoptatja azokat, hogy maskarának se
-                  használhassa többé, és otthon zsibvásáros rongyokba buvik! A görög nyelvben, mint
-                  tudom, hypocritának nevezik mind a szinészt, mind a kétszinüt! - Van férje az
+                  <hi>Biztos</hi>. Ismerem a látszatnak e művészetét és e deszkahadat; addig bábozik
+                  a virtusokkal, mig egészen elkoptatja azokat, hogy maskarának se használhassa
+                  többé, és otthon zsibvásáros rongyokba buvik! A görög nyelvben, mint tudom,
+                  hypocritának nevezik mind a szinészt, mind a kétszinüt! - Van férje az
                   asszonynak?</p>
                <p>
                   <hi>Nő</hi>. Nincs; hajadon vagyok.</p>
@@ -4200,22 +4173,21 @@
                <p>
                   <hi>Nő</hi>. Tens uram! -</p>
                <p>
-                  <hi>Biztos</hi>. No, no! ki cserényben született, nehezen lesz
-                  bibliothecárius! E szerint megengedhető, ugy-e? hogy Bálint fiam körül vetegeti ki
-                  hálóját? nem-e?</p>
+                  <hi>Biztos</hi>. No, no! ki cserényben született, nehezen lesz bibliothecárius! E
+                  szerint megengedhető, ugy-e? hogy Bálint fiam körül vetegeti ki hálóját?
+                  nem-e?</p>
                <p>
                   <hi>Nő</hi>. Erre nem felelhetek.</p>
                <p>
-                  <hi>Biztos</hi>. (fellobbanva) De felelnie kell, leányasszony!
-                  Tudja-e, hogy súlyos gyanu alatt áll, és olly hivatalos férfiu előtt -</p>
+                  <hi>Biztos</hi>. (fellobbanva) De felelnie kell, leányasszony! Tudja-e, hogy
+                  súlyos gyanu alatt áll, és olly hivatalos férfiu előtt -</p>
                <p>
-                  <hi>Nő</hi>. Ki szigorú ugyan, de igazságos. Én mindenben ártatlan
-                  vagyok!</p>
+                  <hi>Nő</hi>. Ki szigorú ugyan, de igazságos. Én mindenben ártatlan vagyok!</p>
                <p>
                   <hi>Biztos</hi>. Ismeri ezt a gyűrüt?</p>
                <p>
-                  <hi>Nő</hi>. Sajátom volt; Pintesnek adtam által eladás végett, ki
-                  hat forintot hozott nekem érte.</p>
+                  <hi>Nő</hi>. Sajátom volt; Pintesnek adtam által eladás végett, ki hat forintot
+                  hozott nekem érte.</p>
                <p>
                   <hi>Biztos</hi>. Tán nyolczat?</p>
                <p>
@@ -4227,36 +4199,35 @@
                <p>
                   <hi>Biztos</hi>. És az hol vette? ingyen vásárlotta, nem-e?</p>
                <p>
-                  <hi>Nő</hi>. Tens uram! anyám és én szerencsétlenek voltunk ugyan,
-                  és sok szükséggel küszdők, de mindenkor becsületesek. - Egy rezgő köny a nő
-                  szemében, majdnem kihozta szigorú hiva­ta­loskodása sodrából a biztost.</p>
+                  <hi>Nő</hi>. Tens uram! anyám és én szerencsétlenek voltunk ugyan, és sok
+                  szükséggel küszdők, de mindenkor becsületesek. - Egy rezgő köny a nő szemében,
+                  majdnem kihozta szigorú hiva­ta­loskodása sodrából a biztost.</p>
                <p>Jávor belépett, s futólagosan köszöntve a nőt, és kezet szoritva a biztossal,
                   félre fogott ülést az ablakban. Avar folytatá vallatását.</p>
                <p>
-                  <hi>Biztos</hi>. A leányasszony több ékszert is adott Pintesnek
-                  eladni által; mi ékszerek voltak azok?</p>
+                  <hi>Biztos</hi>. A leányasszony több ékszert is adott Pintesnek eladni által; mi
+                  ékszerek voltak azok?</p>
                <p>
-                  <hi>Nő</hi>. Azok részint szintén anyám hagyományai; részint pedig a
-                  kolosvári aradi és szegedi közönségek ajándékai voltak, mikben ollykor a
-                  szinésznők részeltetni szoktak.</p>
+                  <hi>Nő</hi>. Azok részint szintén anyám hagyományai; részint pedig a kolosvári
+                  aradi és szegedi közönségek ajándékai voltak, mikben ollykor a szinésznők
+                  részeltetni szoktak.</p>
                <p>
                   <hi>Biztos</hi>. Kivált ha szépek és lágyszivüek, nem-e?</p>
                <p>
                   <hi>Nő</hi>. Ezen észrevétel, tens uram, engem nem illet.</p>
                <p>Jávor mosolygva mozgott székén.</p>
                <p>
-                  <hi>Biztos</hi>. És miért esett kegyed olly nyakra-főre, ezen drága
-                  ereklyék elsikkasztásának?</p>
+                  <hi>Biztos</hi>. És miért esett kegyed olly nyakra-főre, ezen drága ereklyék
+                  elsikkasztásának?</p>
                <p>
-                  <hi>Nő</hi>. Mert pénzre vala szükségem, egy Szegeden maradt beteg
-                  rokonom fölsegéllésére.</p>
+                  <hi>Nő</hi>. Mert pénzre vala szükségem, egy Szegeden maradt beteg rokonom
+                  fölsegéllésére.</p>
                <p>
                   <hi>Biztos</hi>. Hát Bálint fiammal mi viszonya kegyednek?</p>
                <p>
                   <hi>Nő</hi>. Bálint becsül engem, s én viszont őt végtelenül.</p>
                <p>
-                  <hi>Biztos</hi>. Ugy-e? becsüli kegyedet? végtelenül? tán szereti
-                  is?</p>
+                  <hi>Biztos</hi>. Ugy-e? becsüli kegyedet? végtelenül? tán szereti is?</p>
                <p>Jávor felkaczagott: Kétségen kivül, Máté barátom!</p>
                <p>Avar rámereszté szemét. - Megbocsáss Elek barátom! szóla némi nehezteléssel; most
                   in officiosis foglalatoskodom.</p>
@@ -4379,12 +4350,11 @@
                   önsanyarnak tetszeni azok előtt, kik az ő megáldott superlativ étvágyát
                   ismerék.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XXVII. FEJEZET.</head>
-            <div>
-               <head>A nagy expeditió.</head>
+            <head>A nagy expeditió.</head>
                <p>Ilonka feltaláltatása, vagy politicus müszóval: verificátiója, senkinél sem
                   okozhatott, olly nyilt égbe ragadó hatást, gloria in excelsist, mint Szetényi
                   Marikánál. - Tehát nővére Bálintomnak, s én - én, a méltatlanul bizalmatlankodó,
@@ -4570,12 +4540,11 @@
                   megvetendő összegre rúghatott. Pénzre nem akadtak; hihető, azzal könnyebben
                   esheték meg, a czimborák közti osztály.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XXVIII. FEJEZET.</head>
-            <div>
-               <head>Fortély, erősebb az erőnél.</head>
+            <head>Fortély, erősebb az erőnél.</head>
                <p>Siker után zajosabb kedvvel tért vissza, a felkutatott jószággal a csapat. - A nap
                   hőse te valál Ambrus! szóla, botjával vállára legyintvén ennek, a biztos; csaknem
                   példátlan eset, hogy valakit félénk gyávasága üssön hőssé! veté kaczagva
@@ -4641,8 +4610,8 @@
                <p>Erzsi kétkedve mosolygott, s hajló volt félenyelgésnek venni a dolgot. - Értettem!
                   felele.</p>
                <p>
-                  <hi>Jávor</hi>. Tedd tehát kezedet kezembe, ki bűntelen vagyok! -
-                  Igy! Most ujra kérdelek leányzó: bűnös, vagy részes vagy-e a rablásban?</p>
+                  <hi>Jávor</hi>. Tedd tehát kezedet kezembe, ki bűntelen vagyok! - Igy! Most ujra
+                  kérdelek leányzó: bűnös, vagy részes vagy-e a rablásban?</p>
                <p>
                   <hi>Erzsi</hi>. Nem vagyok! felelt Erzsi kissé szorongó hangon.</p>
                <p>Jávor az alatt érintette szabad kezével a villanyt, s Erzsi egyszerre olly súlyos
@@ -4723,12 +4692,11 @@
                   Kakasdon, ki a büntetéses három hónap alatt, sem nem született, sem meg nem halt
                   ottan!</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XXIX. FEJEZET.</head>
-            <div>
-               <head>Kakasdon epocha nyílik.</head>
+            <head>Kakasdon epocha nyílik.</head>
                <p>Ősz felé hajlott az idő. Céres betakarított adományaira, készitette Bacchus a maga
                   áldomását; tarkult már a szőlőgerezd, miként tánczvigalomban, fejér hölgyek között
                   a barnább uracsok.</p>
@@ -4881,12 +4849,11 @@
                   olvasóinkat, ebben az X és Y alatti incognita quantitású jegyekre utasitani; Miska
                   ezen jegyek alatt tartja saját incogni­tóját is.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XXX. FEJEZET.</head>
-            <div>
-               <head>Nagyszerü mutatvány.</head>
+            <head>Nagyszerü mutatvány.</head>
                <p>Az előadáshoz orchestrumúl fölrendeltetének faluvégről a hindostániak. Ouverture
                   kép­viselőjéül, játszának ezek egy bánatos magyart, bánatost tudniillik annak, a
                   ki hallá. Azután felgördült az ágyteritői függöny, és Tschun-müng, a nagy mágusz,
@@ -4991,18 +4958,17 @@
                <p>
                   <hi>Jávor</hi>. S mit várt komám uram?</p>
                <p>
-                  <hi>Ignácz</hi>. Hogy aranyat készítsen vasból, vagy rézből. Ez
-                  volna az igazi mágia; a többi csak szemfényvesztés!</p>
+                  <hi>Ignácz</hi>. Hogy aranyat készítsen vasból, vagy rézből. Ez volna az igazi
+                  mágia; a többi csak szemfényvesztés!</p>
                <p>
-                  <hi>Jávor</hi>. Oh aranycsináló büvész van elég, csakhogy mi
-                  nézőség, vagyunk a vas és réz hozzá!</p>
+                  <hi>Jávor</hi>. Oh aranycsináló büvész van elég, csakhogy mi nézőség, vagyunk a
+                  vas és réz hozzá!</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XXXI. FEJEZET.</head>
-            <div>
-               <head>Szellemidézés.</head>
+            <head>Szellemidézés.</head>
                <p>Az egész előadás záradékául hagyatott a legcsattanósabb mutatvány, s mindenki szem
                   és fül vala, égő várakozásában rája. A nagy mágusz, értesitvén a közönséget, hogy
                   befejezésül, Quan-Lizang, egy nő elhalt férjének szellemét adandja életben vissza,
@@ -5151,12 +5117,11 @@
                   kölcsönös vidor felvilá­gositások és ömlengések között, késő éj vetette ágyba a
                   gazdát és vendégeit.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XXXII. FEJEZET.</head>
-            <div>
-               <head>Visszapillantás.</head>
+            <head>Visszapillantás.</head>
                <p>Nehogy történetünk mysteriumaiból, valamit zsebre rakni láttassunk, érintnünk
                   szükség né­melly pontokat a multból is, mikből az olvasó bölcsen megérthesse, hogy
                   nem volt szándé­kunk, némelly regényirók modorában, sületlenségeket kötni az
@@ -5241,24 +5206,21 @@
                   korában némi ellenszenvvel viseltetett, különösen éretlen csínjei miatt. Eleinte,
                   mig nagyobbra nem vágyott, nyomdájában kivánta őt, jövendő factornak kiképezni; de
                   nem boldogúlhatott vele. Pajzánul forgatta el Vincze a kiszedett betűket és
-                  szavakat: <hi>másolta</hi> helyett <hi>mázolta</hi>,
-                     <hi>tudós</hi> helyett <hi>tüdős</hi> szavakat
-                  tett; <hi>forditotta</hi> és <hi>igazság</hi>
-                  szavakból kihagyta az első betüket; <hi>költemények</hi> helyébe <hi
-                    >tölteményeket</hi>, <hi>poema</hi> helyébe <hi
-                    >poenát</hi> és <hi>előfizetés</hi> helyébe <hi
-                    >elfizetést</hi> csempészett be; s gyakran a legnevetségesebb
-                  sületlenségek kerültek a közönség elébe. Az exnyomdász, egy köszvényes mogorva
-                  öreg, ki fia levelének vételekor súlyosan beteg is volt, szerfelett nagyravágyó
-                  kedélyü vala, ki nem nyughatott, mig nemességet nem szerzett s miként nevezé,
-                  családját meg nem alkotá. Miután öregebb fia, Szetényi Ignácz, csupán kereskedési
-                  pályán feneklett meg, Vinczében szögellett össze minden nagyralátási reménye,
-                  idővel tán még királyi táblai ülnököt, s tanácsost is várván belőle. Imé most
-                  értesül, hogy ezen fia ellen vizs­gálódások, tanúvallatások rendeltettek, sőt mint
-                  hallá, ezeknek következtében, neve az ügyvédek sorából is kitörőltetett. Ingerült
-                  válaszában azt írá fiának, hogy többé szeme elébe ne jőjön, s meggyalázván Vincze,
-                  az általa fénynek indított Szetényi nevet, azt neki viselni, szigorún
-                  megtiltá.</p>
+                  szavakat: <hi>másolta</hi> helyett <hi>mázolta</hi>, <hi>tudós</hi> helyett
+                     <hi>tüdős</hi> szavakat tett; <hi>forditotta</hi> és <hi>igazság</hi> szavakból
+                  kihagyta az első betüket; <hi>költemények</hi> helyébe <hi>tölteményeket</hi>,
+                     <hi>poema</hi> helyébe <hi>poenát</hi> és <hi>előfizetés</hi> helyébe
+                     <hi>elfizetést</hi> csempészett be; s gyakran a legnevetségesebb sületlenségek
+                  kerültek a közönség elébe. Az exnyomdász, egy köszvényes mogorva öreg, ki fia
+                  levelének vételekor súlyosan beteg is volt, szerfelett nagyravágyó kedélyü vala,
+                  ki nem nyughatott, mig nemességet nem szerzett s miként nevezé, családját meg nem
+                  alkotá. Miután öregebb fia, Szetényi Ignácz, csupán kereskedési pályán feneklett
+                  meg, Vinczében szögellett össze minden nagyralátási reménye, idővel tán még
+                  királyi táblai ülnököt, s tanácsost is várván belőle. Imé most értesül, hogy ezen
+                  fia ellen vizs­gálódások, tanúvallatások rendeltettek, sőt mint hallá, ezeknek
+                  következtében, neve az ügyvédek sorából is kitörőltetett. Ingerült válaszában azt
+                  írá fiának, hogy többé szeme elébe ne jőjön, s meggyalázván Vincze, az általa
+                  fénynek indított Szetényi nevet, azt neki viselni, szigorún megtiltá.</p>
                <p>Tivadar bátyjánál, nem a családi hiú büszkeség dolgozott; mert hiszen ő
                   ellenzette, sőt gúnyolta volt, bátyjának nagyralátását, s maga megmaradt
                   tisztességes polgári állásában; de annál többet tartott becsületes jó nevére, s
@@ -5413,12 +5375,11 @@
                   még pedig nagybátyjáról átalános; azonban Ignácz ur jónak látta, némi valószinűség
                   mellett, azokba, mint saját birtokaiba, ülni be.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XXXIII. FEJEZET.</head>
-            <div>
-               <head>A testvérek.</head>
+            <head>A testvérek.</head>
                <p>Nem ugy telt estvéje és éje Ignácz urnak, mint Vincze testvérének és az
                   Avar-családnak. Nem volt ő olly zsindelyezett fejű, hogy át ne látott volna a
                   szitán, s meg ne értette volna az arrangírozott bűvészet czélzását, és valódi
@@ -5434,8 +5395,8 @@
                <p>Erre csak fejét rázta Ignácz ur. Érezte magában, hogy ő illy esetben, nem sokat
                   lenne képes engedni a magáéból, s per analogiam, Vinczéről sem tőn fel sokat e
                   részben.</p>
-               <p>Édes valami az az <hi>enyém</hi>! szóla búsan; és olly csemege,
-                  mellyel nem egykönnyen telik el az emberi étvágy!</p>
+               <p>Édes valami az az <hi>enyém</hi>! szóla búsan; és olly csemege, mellyel nem
+                  egykönnyen telik el az emberi étvágy!</p>
                <p>Reggelre kelve, Vincze Ilonkájával és Tivadarkájával karjain, látogatást tőn
                   Ignácz urnál, kinek halvány és zilált arczvonásai, mindgyárt belépténél,
                   szánalomra indíták a testvért. Belső megindulással nyújtá Vincze neki kezét,
@@ -5452,12 +5413,11 @@
                   ezt nem sokára követte a papi áldás is. Azonban a szívhajlam rendesen csak
                   buvósdit játszik a gyarló embernél, eltűn ollykor kis ideig, de első alkalommal
                   jogába tér vissza. O a gyarló ember, semmiben sem hagyja olly könnyen cserben
-                  emberi méltóságát, sőt ollykor halhatatlan lelkét is, mint midőn <hi
-                     >enyém</hi> és <hi>tied</hi> fölött tusáz. Ignácz ur, Kakasdot
-                  elhagyandó, ismét némi fukarkodással kezde kétkedni: mit hagyjon a gazdaságnál és
-                  háznál, s mit vigyen el magával? s végre is, Avar és Vincze megmosolygására,
-                  egyetlen, a falból ki nem vonhatott nagy tűkörszeg vala az, mit Kakasdon
-                  hagyott!</p>
+                  emberi méltóságát, sőt ollykor halhatatlan lelkét is, mint midőn <hi>enyém</hi> és
+                     <hi>tied</hi> fölött tusáz. Ignácz ur, Kakasdot elhagyandó, ismét némi
+                  fukarkodással kezde kétkedni: mit hagyjon a gazdaságnál és háznál, s mit vigyen el
+                  magával? s végre is, Avar és Vincze megmosolygására, egyetlen, a falból ki nem
+                  vonhatott nagy tűkörszeg vala az, mit Kakasdon hagyott!</p>
                <p>A titok kifejlése után, Tivadarka, Jávor háza nőinél, nem hágott, de szökött a
                   kegyben. Lucza asszony még azt is követelte postlimínium magának, hogy sejtelme
                   lévén, a gyermek jó házbóli érvényes születése felől, mindenkor különös
@@ -5478,12 +5438,11 @@
                <p>Lucza asszony, érzetében, hogy veje az igazi szegre ütött, hallgatással nyelte el
                   a kesernyés lapdacsocskát.</p>
 
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>XXXIV. FEJEZET.</head>
-            <div>
-               <head>Pour la dame.</head>
+            <head>Pour la dame.</head>
                <p>Mi természetesebb, mint hogy a kegyes olvasó, a regény végfonala megszakadta után
                   is tudni vágyjék: mi történt életfogytig, annak érdekes személyeivel? Erre
                   regényiróink, azt vélvén, hogy váltig eleget tettek feladataiknak, ha a szerelmes
@@ -5557,10 +5516,9 @@
                   tartott. Ő e részben, ugyan azzal a büszke önérzettel állott meg Vincze és Mari
                   kivívott boldogságuk előtt, mellyel a lúd állna meg a bibliothéca ajtajában,
                   mondván: és mindezen könyvhalmaz, lúdtollal iratott össze! - A bolt fölébe e
-                  sza­va­kat iratá, hosszabb betűkkel, mint pipája szárastul: <hi
-                     >Bakator Ambrus szatócsi nagykereskedése</hi>. Tivadarka szorgalmas látogatója
-                  volt boltjának, s csakhamar jobban tudá magánál Ambrusnál: hol áll a füge és sárga
-                  czukor?</p>
+                  sza­va­kat iratá, hosszabb betűkkel, mint pipája szárastul: <hi>Bakator Ambrus
+                     szatócsi nagykereskedése</hi>. Tivadarka szorgalmas látogatója volt boltjának,
+                  s csakhamar jobban tudá magánál Ambrusnál: hol áll a füge és sárga czukor?</p>
                <p>Miután Ambrus, időjártával beleokúlt a kalmárkodásba - mellynél azonban, a fontot,
                   latot, hagyá fontnak és latnak lenni, s a portékát sem bolygatá valódiságában -
                   még vagyonosodni, és testében annyira golyószerűleg gömbölyödni kezdett, hogy
@@ -5591,8 +5549,7 @@
                   legény lehet már ő kigyelme! - nem tudjuk. Ha él, legyen szíves, ezen
                   felszólitásunkra, szatócsboltjából, a dob mellől, jelenteni magát; mi kegyes
                   olvasóinknak, a veendő tudósítást, híven annoncírozni fogjuk!</p>
-               
-            </div>
+         </div>
          </div>
       </body>
    </text>

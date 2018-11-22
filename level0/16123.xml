@@ -5,7 +5,7 @@
       <fileDesc>
          <titleStmt>
             <title>Az utolsó: Regény három kötetben: ELTeC edition</title>
-            <author> Malonyay Dzeső (1866-1916) <idno type="VIAF">86172276</idno>
+            <author> Malonyay Dezső (1866-1916) <idno type="VIAF">86172276</idno>
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -17,6 +17,7 @@
          </titleStmt>
          <extent>
             <measure unit="words">94912</measure>
+            <measure unit="pages">445</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
@@ -26,7 +27,7 @@
                <title>Az utolsó: Regény</title>
                <date>2016-10-13</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
-               <ref target="http://mek.oszk.hu/17800/17873"/>
+               <ref target="http://mek.oszk.hu/16100/16123/"/>
                <respStmt>
                   <resp>Original Electronic Edition</resp>
                   <name>Vidiné Réfi Erzsébet</name>
@@ -35,8 +36,14 @@
                   <name>Fecz Ágnes</name>
                </respStmt>
                <relatedItem type="copyText">
-                  <bibl>Az utolsó : regény / Malonyay Dezsõ;Budapest : Athenaeum, 1896;(Az Athenaeum olvasótára)<ref
-                     target="http://nektar.oszk.hu/hu/manifestation/3346912"/>
+                  <bibl>
+                     <title>Az utolsó : regény</title>
+                     <author>Malonyay Dezsõ</author>
+                     <pubPlace>Budapest</pubPlace>
+                     <publisher>Athenaeum</publisher>
+                     <date>1896</date>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/3346912"/>
                   </bibl>
                </relatedItem>
             </bibl>

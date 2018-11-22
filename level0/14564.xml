@@ -17,6 +17,7 @@
          </titleStmt>
          <extent>
             <measure unit="words">27035</measure>
+            <measure unit="pages">157</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
@@ -34,8 +35,14 @@
                   <name>Mészáros Atilla</name>
                </respStmt>
                <relatedItem type="copyText">
-                  <bibl>Kisvárosiak : regény / Herman Ottóné;Budapest : Athenaeum, 1897;(Az Athenaeum olvasótára)<ref
-                     target="http://nektar.oszk.hu/hu/manifestation/3346904"/>
+                  <bibl>
+                     <title>Kisvárosiak : regény</title>
+                     <author>Herman Ottóné</author>
+                     <pubPlace>Budapest</pubPlace>
+                     <publisher>Athenaeum</publisher>
+                     <date>1897</date>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/3346904"/>
                   </bibl>
                </relatedItem>
             </bibl>

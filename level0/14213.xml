@@ -17,6 +17,7 @@
          </titleStmt>
          <extent>
             <measure unit="words">56949</measure>
+            <measure unit="pages">359</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
@@ -26,7 +27,7 @@
                <title>A hegység tündére: Regény</title>
                <date>2015-09-11</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
-               <ref target="http://mek.oszk.hu/17800/17873"/>
+               <ref target="http://mek.oszk.hu/14200/14213/"/>
                <respStmt>
                   <resp>Original Electronic Edition</resp>
                   <name>Vidiné Réfi Erzsébet</name>
@@ -34,8 +35,14 @@
                   <name>Mészáros Atilla</name>
                </respStmt>
                <relatedItem type="copyText">
-                  <bibl>A hegység tündére : regény / Beniczkyné Bajza Lenke;Budapest : Singer-Wolfner, 1890;(Egyetemes regénytár. V. ; 1-2.)<ref
-                     target="http://nektar.oszk.hu/hu/manifestation/3230637"/>
+                  <bibl>
+                     <title>A hegység tündére : regény</title>
+                     <author>Beniczkyné Bajza Lenke</author>
+                     <pubPlace>Budapest</pubPlace>
+                     <publisher>Singer-Wolfner</publisher>
+                     <date>1890</date>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/3230637"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -2700,9 +2707,7 @@
                <p>És ment. Egyedül hagyta boszankodó nővérét, ki odáig sem juthatott vele, hogy
                   arról beszéljen, a miről tulajdonképen akart: Selikáról, értésére kivánván adni,
                   hogy az halálosan szerelmes bele.</p>
-               <p>
-                  <hi>(Vége az első résznek.)</hi>
-               </p>
+                  <trailer>(Vége az első résznek.)</trailer>
                
             </div>
          </div>
@@ -6455,7 +6460,7 @@
                   elhanyagolt nevelés, sem a váratlan ma­gasra emelkedés nem birt benne megölni. Nő
                   volt a szó legmagasztosabb értelmében, s míg élt, sohasem szűnt meg az lenni minek
                   vadsága és tudatlanságában elnevezték: a hegység tündére...</p>
-               <p> (Vége.)</p>
+               <trailer> (Vége.)</trailer>
             </div>
          </div>
       </body>

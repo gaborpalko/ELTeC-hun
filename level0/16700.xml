@@ -17,6 +17,7 @@
          </titleStmt>
          <extent>
             <measure unit="words">34406</measure>
+            <measure unit="pages">151</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
@@ -26,7 +27,7 @@
                <title>Uzoni Margit: regény fiatal leányok számára</title>
                <date>2017-03-28</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
-               <ref target="http://mek.oszk.hu/17800/17873"/>
+               <ref target="http://mek.oszk.hu/16700/16700/"/>
                <respStmt>
                   <resp>Original Electronic Edition</resp>
                   <name>Vidiné Réfi Erzsébet</name>
@@ -35,8 +36,14 @@
                   <name>Góczán Andrea</name>
                </respStmt>
                <relatedItem type="copyText">
-                  <bibl>Uzoni Margit : regény fiatal leányok számára / Benedek Elek ; ill. Mühlbeck Károly;Budapest : Singer - Wolfner, 1908<ref
-                     target="http://nektar.oszk.hu/hu/manifestation/3035311"/>
+                  <bibl>
+                     <title>Uzoni Margit : regény fiatal leányok számára</title>
+                     <author>Benedek Elek</author>
+                     <pubPlace>Budapest</pubPlace>
+                     <publisher>Singer - Wolfner</publisher>
+                     <date>1908</date>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/3035311"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -3391,7 +3398,7 @@
                Az, az, a legszebb muzsika. Fájdalmat zsibbasztó, vágyakat altató, megnyugvást
                fakasztó... A regénynek vége...</p>
             <p>- Feküdjünk le, Zsuzsika!</p>
-            <p>VÉGE.</p>
+            <trailer>VÉGE.</trailer>
          </div>
       </body>
   </text>

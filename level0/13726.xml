@@ -17,6 +17,7 @@
          </titleStmt>
          <extent>
             <measure unit="words">31146</measure>
+            <measure unit="pages">160</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
@@ -35,8 +36,14 @@
                   <name>Góczán Andrea</name>
                </respStmt>
                <relatedItem type="copyText">
-                  <bibl>A vér : regény / Beniczkyné Bajza Lenke;Budapest : Singer-Wolfner, 1903;(Egyetemes regénytár. VII. ; 18.)<ref
-                     target="http://nektar.oszk.hu/hu/manifestation/3238864"/>
+                  <bibl>
+                     <title>A vér : regény</title>
+                     <author>Beniczkyné Bajza Lenke</author>
+                     <pubPlace>Budapest</pubPlace>
+                     <publisher>Singer-Wolfner</publisher>
+                     <date>1903</date>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/3238864"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -3292,7 +3299,7 @@
                azt csak az itélhette meg, ki fájdalmas felkiáltását hallotta, midőn halálhirét
                megtudta. - Hála neked Istenem, hogy magadhoz vetted ezt a szerencsétlen tévelygő
                lelket! - zokogott föl Leóna és hosszan, sokáig sirt keservesen...</p>
-            <p> - Vége -</p>
+            <trailer> - Vége -</trailer>
          </div>
       </body>
   </text>
