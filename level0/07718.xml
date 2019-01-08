@@ -16,9 +16,9 @@
             </respStmt>
          </titleStmt>
          <extent>
-            <measure unit="words">na</measure>
-            <measure unit="pages">na</measure>
-         </extent>
+    <measure unit="words">148819</measure>
+          <!--  <measure unit="pages">na</measure>
+  -->       </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
          </publicationStmt>
