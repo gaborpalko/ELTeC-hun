@@ -37,18 +37,13 @@
                </respStmt>
                <relatedItem type="copyText">
                   <bibl>
+                     <title level="s">Mikszáth Kálmán összes művei CD-ROM</title>
                      <title>A Noszty fiú esete Tóth Marival</title>
-                     <date>1999-01-11</date>
-                     <ref target="http://kindlevarazs.wordpress.com/kindle-teka/"/>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>
-                     <title>Mikszáth Kálmán összes művei CD-ROM</title>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Arcanum</publisher>
                      <date>1998</date>
                      <idno type="isbn-10">963 85923 5 4</idno>
+                     <ref target="http://kindlevarazs.wordpress.com/kindle-teka/"/>
                   </bibl>
                </relatedItem>
             </bibl>

@@ -16,9 +16,8 @@
             </respStmt>
          </titleStmt>
          <extent>
-            <measure unit="words"/>
-            <measure unit="pages"/>
-         </extent>
+            <measure unit="words">28483</measure>
+           </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
          </publicationStmt>
