@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Egri csillagok: Bornemissza Gergely élete</title>
                <date>2014-10-17</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -34,8 +34,8 @@
                   <name>Szabó Attila</name>
                   <name>Mészáros Attila</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="printSource">
                      <title>Egri csillagok : Bornemissza Gergely élete : regény</title>
                      <author>Gárdonyi Géza</author>
                      <pubPlace>Budapest</pubPlace>
@@ -45,6 +45,11 @@
                         target="http://nektar.oszk.hu/hu/manifestation/1579766"/>
                   </bibl>
                </relatedItem>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>Egri csillagok</title>
+               <author>Gárdonyi Géza</author>
+               <date>1901</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -63,16 +68,18 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2019-04-23"/>
+         <change when="2019-02-27"/>
          <change when="2018-10-03"/>
       </revisionDesc>
    </teiHeader>
   <text>
       <body>
-         <div type="vol">
+         <div type="volume">
             <head>
                 I. KÖTET.
             </head> 
-            <div type="group">
+            <div type="part">
                <head>
                    ELSŐ RÉSZ. HOL TEREM A MAGYAR VITÉZ?
                </head>
@@ -2146,7 +2153,7 @@
                   
                </div>
             </div>
-            <div type="group">
+            <div type="part">
                <head>
                    MÁSODIK RÉSZ. ODA BUDA!
                </head>
@@ -5311,7 +5318,7 @@
                   
                </div>
             </div>
-            <div type="group">
+            <div type="part">
                <head>
                    HARMADIK RÉSZ. A RAB OROSZLÁN.
                </head>
@@ -8688,11 +8695,11 @@
                </div>
             </div>
          </div>
-         <div type="vol">
+         <div type="volume">
             <head>
                 II. KÖTET.
             </head>
-            <div type="group">
+            <div type="part">
                <head>
                    NEGYEDIK RÉSZ. EGER VESZEDELME.
                </head>
@@ -9437,8 +9444,7 @@
                      amely láthatólag azért volt hányva, hogy a katonák átjárhassanak.</p>
                   <p>- Ez a külső vár, - mondotta Dobó. Láthatod, hogy kelet felől hegynek beillő
                      domb magaslik mellette. Ez a Királyszéke. Azért hívják így, mert Szent István
-                     király innen nézte a sátora előtt üldögélve a templom épülését.<hi
-                        xml:id="_ftnref4">[4]</hi> Ezt a dombot itt lent ketté kellett
+                     király innen nézte a sátora előtt üldögélve a templom épülését. Ezt a dombot itt lent ketté kellett
                      választani.</p>
                   <p>- Értem, - felelte Gergely, - okos ember volt, aki cselekedte.</p>
                   <p>- Perényi cselekedte ezelőtt tíz évvel. A túlsó végén is áll egy bástya, az a
@@ -10873,8 +10879,7 @@
                   <p>Almagyar, az a szép kis falu a Melegviz körül, ég. Minden háza ég.</p>
                   <p>A maklári úton végtelenségbe vesző hosszu fekete sora az ökröknek és a
                      bivalyoknak. Az mind ágyut vontat.</p>
-                  <p>A hegyoldalban a ragyogó vértezetü dsebedsik, s lent a vadaskert felé<hi
-                        xml:id="_ftnref6">[6]</hi> a piros-sapkás lovas akindsik nagy sokasága. Mi
+                  <p>A hegyoldalban a ragyogó vértezetü dsebedsik, s lent a vadaskert felé a piros-sapkás lovas akindsik nagy sokasága. Mi
                      minden jön még utánok!</p>
                   <p>- Hol a főkapitány úr?</p>
                   <p>- A templom tornyán.</p>
@@ -12790,7 +12795,7 @@
                   <p/>
                </div>
             </div>
-            <div type="group">
+            <div type="part">
                <head>
                    ÖTÖDIK RÉSZ. HOLD-FOGYATKOZÁS
                </head>

@@ -18,12 +18,13 @@
          <extent>
             <measure unit="words">66827</measure>
             <measure unit="pages">362</measure>
+            <measure unit="vols">2</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>A második férj :  Regény két kötetben </title>
                <date>2017-01-26</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -35,14 +36,15 @@
                   <name>Varjú Mária</name>
                   <name>Mészáros Atilla</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>A második férj :  Regény két kötetben </title>
                      <date>2017-01-26</date>
                   </bibl>
                </relatedItem>
-               <relatedItem type="printSource">
-                  <bibl><title>A második férj : regény. 1-2.</title>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
+                     <title>A második férj : regény. 1-2.</title>
                      <author>Abonyi Árpád</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Athenaeum</publisher>
@@ -68,20 +70,21 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-19"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-19"/>
       </revisionDesc>
    </teiHeader>
   <text>
       <body>
-         <div type="vol">
+         <div type="volume">
             <head>ELSŐ KÖTET.</head>
             
          </div>
          <div type="chapter">
             <head>ELSŐ FEJEZET.</head>
             <milestone type="subChapter" n="I"/>
-               <p>A szinházi villamos jelzők a <hi rend="italic">Sibilla</hi> harmadik felvonásának
+               <p>A szinházi villamos jelzők a <hi>Sibilla</hi> harmadik felvonásának
                   kezdetét jelentették. Az ajtó­csapkodás lassanként megszünt, a portás beczammogott
                   szük lakásába, s körmeit melengetve telepedett le a kemencze mellé. Kellemetlen
                   februári hideg járt; a hó nem akart eltakarodni. A szinház udvara üres volt. A
@@ -98,7 +101,7 @@
                   A sétáló, szürke ur megállt az ablak mellett és benézett. A kerek asztal mellett
                   még ült két tekintélyes mohikán; egyik Mefisztó nagy szerepében kiváló
                   nevezetesség, a másik a leghatalmasabb Tiborcz. Mefisztó ezuttal frackban, fehér
-                  nyakkendővel ült az asztal mellett; a <hi rend="italic">Sibilla</hi> harmadik
+                  nyakkendővel ült az asztal mellett; a <hi>Sibilla</hi> harmadik
                   felvonásában még dolga van; ki kell jelentenie egy izgalmas jelenetben rajongó
                   fiának Gusztávnak, hogy bolond, ha immorálisnak tart egy szép fiatal özvegyet,
                   csak azért, mert ez az asszony másodszor is férjhez szeretne menni. A sétáló ur az
@@ -124,7 +127,7 @@
                   hogy »szorongatott helyzetében« egy kis segélyt kérjen Feliczia tantikától, a
                   család szigoru fejétől, - akkor nem találkozott volna Clermontnéval sem, s a
                   fiatal hölgy nem lett volna abban a helyzetben, hogy levelét, melyet Fülöpnek, a
-                  mai <hi rend="italic">Sibilla</hi> szerzőjének, s a Münszter-család büszkeségének
+                  mai <hi>Sibilla</hi> szerzőjének, s a Münszter-család büszkeségének
                   irt, éppen az ő rokoni közvetitésére bizza. Igaz, hogy Fülöp is rokon, Clermontné
                   is Münszter leány, s igy rokona Fülöpnek is, neki is, de mégis csak
                   meggondolhatnák, hogy egy Boronkai végre is Boronkai; nem alkalmas arra, hogy
@@ -206,7 +209,7 @@
             <milestone type="subChapter" n="II"/>
                <p>Boronkai figyelme most a szinpadhoz vezető ajtó felé fordult, melyet e pillanattól
                   kezdve sürün nyitogattak. A kapus kirohant lakásából az utczára nyiló ajtó felé, s
-                  majdnem össze­ütközött a <hi rend="italic">Sibilla</hi> szerzőjével, a ki viszont
+                  majdnem össze­ütközött a <hi>Sibilla</hi> szerzőjével, a ki viszont
                   befelé igyekezett.</p>
                <p>Boronkai elébe sietett, s kezét nyujtotta.</p>
                <p>- Rád várok, Fülöp.</p>
@@ -215,7 +218,7 @@
                   szem elől.</p>
                <p>Boronkai türelmesen várt. Fölsétált megint a kutig, s ott uj szivarra gyujtott.
                   Megteheti. Fülöp kissé izgatottnak látszik, de jó kedvünek is, - s ez biztató jel.
-                  A <hi rend="italic">Sibilla</hi> határozottan nagy vonzerőt gyakorol a közönségre,
+                  A <hi>Sibilla</hi> határozottan nagy vonzerőt gyakorol a közönségre,
                   ma este tizennyolczadszor került előadásra, s az egész fényes nézőtér valósággal
                   tömve van ma is. Fülöp egyszerre meghóditotta nagy szellemi tehetségével a
                   közönséget; mások évekig kapaszkodnak, évekig kisérleteznek, mig némi hirnévre
@@ -262,7 +265,7 @@
                   pótolja majd vissza, ha egyszer elfogy?</p>
                <p>Fülöp izmos, nyulánk alakja alig tudott a tömegen átvergődni. Boronkai fanyar
                   mosolylyal várta. Boldog lehet; fiatal, huszonnyolcz éves, félig zöld, hajlékony
-                  ág, a kire még nagy jövő vár. <hi rend="italic">Sibillá</hi>-jának jelentékeny
+                  ág, a kire még nagy jövő vár. <hi>Sibillá</hi>-jának jelentékeny
                   sikere a legszebb kilátásokkal biztat. Itt-ott suttogva mutatnak rá: ez az, a
                   költő. Egy éltesebb hölgy, mielőtt férje karjába füzné satin-duchesse felhőbe
                   burkolt rizsporos karját, aggodalmas arczczal nógatja előre leánykáit: mit néztek
@@ -295,7 +298,7 @@
                <p>- Itt van; vedd át.</p>
                <p>S átnyujtotta az ifjunak a levelet. Szemeiben, ezekben az apró, lomha, nedves
                   szemekben megvillant egy szikrája a büszkeségnek. Nézd, itt van, vedd át, - nem
-                  törtem fel, <hi rend="italic">ezt</hi> nem. Rágalom tehát, hogy egy Boronkai a
+                  törtem fel, <hi>ezt</hi> nem. Rágalom tehát, hogy egy Boronkai a
                   becsület iránt való fogékonyságát valaha tökéletesen elveszthesse. Sok kényes
                   esetem volt, - vannak, kik ingyenélő, poltron embernek tartanak... a gonoszság
                   körmei hosszuk... de azért nincs veszve semmi. A lélek ép, a lélek enyém, ah! a
@@ -349,7 +352,7 @@
                   velem végeztetnek, pedig tudják, hogy egy Boronkai végre is Boronkai. Elém raknak
                   kérlek egy csomó megléniázott papirost, s annak a rubrikáiba nekem kell bevezetnem
                   a petróleumot, gépolajat, tengely­kenőcsöt, kőszenet, - nekem, Boronkai Imrének, a
-                     <hi rend="italic">ti</hi> rokonotoknak. Minap nyolcz kiló husz deka
+                     <hi>ti</hi> rokonotoknak. Minap nyolcz kiló husz deka
                   tengelykenőcs helyett kilencz kiló husz dekát irtam be tévedésből... orrot
                   kaptam... Le akarták vonni a fizetésemből. Abból az én silány fizetésemből, hiszen
                   tudjátok... hetvenöt forintot dobnak nekem havonként, kegyelemből, mint egy
@@ -432,7 +435,7 @@
                   voltál itt! Hogy vagy? Jól persze, te mindig jól vagy.</p>
                <p>- Ugy a hogy, édes Szirén, - aludtál?</p>
                <p>- Bizony már félig aludtam is. Apával jöttél? Magadtól ugy sem jöttél volna. Hagyd
-                  el kérlek, - megszoktuk. Mióta hires ember lettél, a <hi rend="italic"
+                  el kérlek, - megszoktuk. Mióta hires ember lettél, a <hi
                      >Sibilla</hi> ugyancsak gőgössé tett.</p>
                <p>- Dehogy tett.</p>
                <p>- Tapasztalásból beszélek. Mikor voltál utoljára nálunk? Szeptemberben, drága
@@ -768,7 +771,7 @@
                   aggódó szemökben az is feltünő körül­ménnyé élesedett, hogy Clermontné az idén már
                   október elején beköltözött »mária-család«-i kastélyából, - mig a mult évben csak
                   deczember tizedikén érkezett meg. Miért jött korábban? Clermontné azonnal megadta
-                  a választ, - azért jött korábban, mert jelen akart lenni a <hi rend="italic"
+                  a választ, - azért jött korábban, mert jelen akart lenni a <hi
                      >Sibilla</hi> premierején, mely október 23-án volt és jelentékeny sikerrel
                   járt. A tante e természetes ma­gya­rázattal látszólag meg volt elégedve, magában
                   azonban elhatározta, hogy a fiatal asszony minden mozdulatára szorgosan ügyelni
@@ -1040,7 +1043,7 @@
                   intézett hozzá Bécsből. Isten tudja mily impressziók alatt állt akkor; maga sem
                   emlékszik reá többé.</p>
                <p>Egy gyönyörü tavaszi estén egyedül sétált haza a Burg-szinházból, hol Grillparzer
-                     <hi rend="italic">Sapho</hi>-ját nézte; annyira megtelt szive a Melitta
+                     <hi>Sapho</hi>-ját nézte; annyira megtelt szive a Melitta
                   szerelméből kisugárzó szűzi gyönyörrel, hogy meg­világosodott tőle fantáziájában
                   az egész világ. Lakására érkezve sokáig sétált fel és alá, s ellenállhatatlan
                   benső kényszernek engedett, a midőn leült és szép cousinejának levelet irt. Nem
@@ -1195,7 +1198,7 @@
                   kezet melegen megszoritsa.</p>
                <p>- Ez az, a mit tudtodra akartam adni, s most jó éjt.</p>
                <p>- Jó éjt, atyám.</p>
-               <p>- Sokan nézték ma a <hi rend="italic">Sibillá</hi>-dat? Kérdezte Münszter,
+               <p>- Sokan nézték ma a <hi>Sibillá</hi>-dat? Kérdezte Münszter,
                   miközben felső kabátját karjára vette.</p>
                <p>- Tele ház.</p>
                <p>- Bravó! Nem gondoltam volna, hogy a közönség hősödet akczeptálni fogja. A dolog
@@ -1270,7 +1273,7 @@
                   senki sem fél, csak a tante. Fülöp legfölebb mosolyogni tud az egész kombináczión,
                   melynek sem a multban, sem a jelenben semmi elfogadható alapja nincs. Clermontné -
                   az ő neje! Az őrnagy özvegye... nem, nem! Ilyesmiről szó sem lehet.</p>
-               <p>A <hi rend="italic">Sibilla</hi> merész thezise sokkal mélyebben gyökerezett e
+               <p>A <hi>Sibilla</hi> merész thezise sokkal mélyebben gyökerezett e
                   fiatal ember lelkének redői között, semhogy az a közönség, mely a drámát ma este
                   is figyelemmel nézte végig, arról bár meg­közelitő sejtelemmel is birhatott
                   volna.</p>
@@ -1649,11 +1652,11 @@
                <p>- Oh, önök mindig kegyetlenül bántak velem, - felelte mosolyogva az ifju, -
                   kigunyolták gyöngéimet, nevettek védekezésem fölött, s oly élvezettel
                   gyomlálgatták első virágocskáimat, hogy majdnem kétségbeestem. De azért most is
-                  csak azt mondhatom, hogy <hi rend="italic">Semiramis</hi> czimü első drámai
+                  csak azt mondhatom, hogy <hi>Semiramis</hi> czimü első drámai
                   bimbócskámért korántsem érdemeltem annyi csipős jóindulatot, mint a mennyit
                   önöktől szenvednem kellett.</p>
                <p>Clermontné oly szivesen engedte át magát a mult e derült emlékeinek, melyek
-                  izgatottságát jótékonyan enyhitették, hogy a <hi rend="italic">Semiramis</hi>
+                  izgatottságát jótékonyan enyhitették, hogy a <hi>Semiramis</hi>
                   emlitésére vidáman elnevette magát. Hálásan nézett az ifjura: mily szerencse, hogy
                   eljöttél, valóban nagy szükségem volt reá, hogy kimeneküljek a Szeniczeinével
                   lefolyt borzasztó jelenet hatása alól. - »Igaza van, Fülöp, annyi boszantást
@@ -1872,7 +1875,7 @@
                   házat, ha nem ragaszkodnám annyi naiv gyerekességgel a lakásomhoz. Meg vagyok
                   szokva butoraimhoz, szőnyegeimhez, iró­asztalomhoz, a levegőhöz, nagy fekete
                   diványomhoz, s a szemben levő házfödélhez, melyen minden reggel végig sétál egy
-                  gyönyörü szürke macska... Ott irtam meg szegény <hi rend="italic">Sibilla</hi>
+                  gyönyörü szürke macska... Ott irtam meg szegény <hi>Sibilla</hi>
                   leányomat is -</p>
                <p>Clermontné keskeny metszésü, rózsás ajkain remegés futott végig erre a névre. »Ah,
                   lehelte zavartan, az ön Sibillája«...</p>
@@ -1923,7 +1926,7 @@
                <p>- Miért ne én is?</p>
                <p>- Ön, kedves Fülöp, - mondotta a hölgy, s az ifjura emelte bársonyos tekintetét,
                   melyben egy kis szelid vád is lappangott a hosszu pillák finom árnyéka alatt, -
-                  abban a pillanatban, midőn <hi rend="italic">Sibillá</hi>-jának terve és
+                  abban a pillanatban, midőn <hi>Sibillá</hi>-jának terve és
                   tendencziája szivében megfogamzott, valószinüleg örökre lemondott arról, hogy mi
                   is hizelegve emlékezzünk meg tehetségéről. Megvallom, nem szivesen beszélek
                   darabjáról s ezt ön tudja. Az imént is azonnal megbánta, hogy véletlenül kiejtette
@@ -2010,7 +2013,7 @@
                   második férjnek is hitvesévé válik - kényszerüség­ből, vagy szerelemből, az egyre
                   megy, - immorálisnak tartja? Lehetetlen effélét nyiltan is megmon­dani... De hát
                   miért? kérdezte elégedetlenül. Ha meg merte mondani ezernyi ember­nek a
-                  szinpad­ról a <hi rend="italic">Sibillá</hi>-ban, - ha föl tudta állitani a
+                  szinpad­ról a <hi>Sibillá</hi>-ban, - ha föl tudta állitani a
                   thezist és megfelelt rá, ha teremtett oly szituacziók között egy férfit és egy
                   nőt, hogy a választ még azok is lehetségesnek és elfogad­ha­tónak tartották, kik a
                   szokás, a törvény, a közmorál közönséges utjához lévén szokva, nem képesek a lelki
@@ -2041,7 +2044,7 @@
                   volt elég bátorsága az igazság nyilt kimondására, pedig ime megtehette volna. S
                   Fülöp kelletlen meglepetéssel állapodott meg ennél a pontnál. Ha tovább szövi
                   gondolatainak ezt a fonalát, akaratlan eljut odáig is, hogy igy kell önmagához
-                  szólania: - »Ha bevallod, hogy ugy érezel, mint a <hi rend="italic">Sibilla</hi>
+                  szólania: - »Ha bevallod, hogy ugy érezel, mint a <hi>Sibilla</hi>
                   hőse, vagy legalább is hasonlóan ahoz, akkor ez a fiatal asszony oly embert, mint
                   te, - vagy mondjuk téged - soha szivének vonzalmával nem ajándékozhat meg. Bármely
                   férfié lehet, csak a tied nem. Ez lesz eredménye a nyiltságodnak, a melyet
@@ -2184,7 +2187,7 @@
                   máskép cselekszik, mint a hogy beszél? Nemde csalónak, vagy komédiásnak? Vagy mind
                   a kettőnek. Nézzetek meg hát engem figyelmesebben, mint eddig és be fogjátok
                   látni, hogy nincs szerencsém beletartozni abba a jeles társaságba, melyben csalók,
-                  ámitók és komédiások foglalják el a diszhelyeket. Láttad a <hi rend="italic"
+                  ámitók és komédiások foglalják el a diszhelyeket. Láttad a <hi
                      >Sibillá</hi>-mat.«</p>
                <p>- Láttam, te adtál jegyet, különben nem láttam volna. S a lány őszinte
                   elragadtatással kiáltott fel: Nagyon szép volt, Fülöp! a bucsuzás ott a sárga
@@ -2543,7 +2546,7 @@
                   nehéz lelki küzdelemről melyet átszenvedtem, erre képtelen volnék... hisz igy is
                   azt képzelem, hogy tövis korona van homlokomon, mely összevérez. De mire nem képes
                   egy anya, ha gyermekéről van szó! Kérem, hallgasson meg. Ön nemes szivü, lovagias
-                  ember, hirneves szerzője a <hi rend="italic">Sibilla</hi> czimü darabnak, melyről
+                  ember, hirneves szerzője a <hi>Sibilla</hi> czimü darabnak, melyről
                   mindenki beszél, s mely már annyi dicsőséget és hódolatot szerzett önnek.
                   Könyörüljön rajtam és legyen segélyemre; nyujtson erkölcsi támogatást, semmit
                   egyebet, csak támogatást és én imáimba foglalom nevét. Senkim sincs Budapesten, a
@@ -2654,7 +2657,7 @@
                   hogy bizonyos stréber hajlamoknak adja jelét az öregekhez való barátságosabb
                   viszonya által, - jóllehet valamennyien meg voltak róla győződ­ve, hogy ez a vád
                   nem egyéb egy kis szokásos megrágalmazásnál.</p>
-               <p>A fiatal ember <hi rend="italic">Sibillá</hi>-jának nagy és tartós hatása után
+               <p>A fiatal ember <hi>Sibillá</hi>-jának nagy és tartós hatása után
                   egyszerre magasra szökkent az eladdig csak gyéren megnyilatkozó ellenszenv. A
                   stréberség vádját megdöntötte a siker; azzal tehát elhallgattak. Beállt azonban a
                   népszerütlenség korszaka, s ugylátszik mindaddig állandó marad, mig a
@@ -2677,9 +2680,9 @@
                   hatalmába, midőn ő maga kénytelen beismerni, hogy az alkotás annyi tervéből,
                   melyet lázas fantáziája hatalmas arányu, oszlopos palotának szinezett ki,
                   tehetsége csak szerény kunyhót tudott épiteni, hasonlót érték, forma és gyöngeség
-                  dolgában ezernyi máshoz. Pailleron <hi rend="italic">Grigneux</hi>-je a
+                  dolgában ezernyi máshoz. Pailleron <hi>Grigneux</hi>-je a
                   »Komédiások«-ban, halhatatlan. Tragédiájának mélysége semmivel sem áll hátrább a
-                  nagy britt <hi rend="italic">Antonius</hi>-ának tragédiája mögött. A müvészet
+                  nagy britt <hi>Antonius</hi>-ának tragédiája mögött. A müvészet
                   csillogó eszményé­nek szerelme teszi boldogtalanná a szegény Grignieux-t is, mint
                   annyi mást, kiknél a képzelő tehetség nem szárny, hanem méreg, - megrontó
                   ellenséges mámora egész életüknek. Az alko­tó erő hiánya pótolhatatlan gyöngesége
@@ -2741,13 +2744,12 @@
                   meghuzták az enyészet halálharangját, s bármily előkelő tehetség legyen is Dumas
                   pére Francziaországban, egy Jókai a magyar belletristikában, az időt futásában még
                   e kiváló férfiak sem képesek megakasztani. Mennyivel mélyebb és igazabb hatása van
-                  Dumas filsnek, vagy Zolának, a kik valószinüleg régen megbánták már, hogy a <hi
-                     rend="italic">Kameliás hölgy</hi>-ért és az <hi rend="italic">Álom</hi>-ért az
+                  Dumas filsnek, vagy Zolának, a kik valószinüleg régen megbánták már, hogy a <hi>Kameliás hölgy</hi>-ért és az <hi>Álom</hi>-ért az
                   apaságot nekik kell vállalniok. Az uj, egészséges áramlat utját a »Mouret abbé
-                  vétké«-nek <hi rend="italic">Paradicsom</hi> czimü fejezete szabja meg. A ki e
+                  vétké«-nek <hi>Paradicsom</hi> czimü fejezete szabja meg. A ki e
                   gyönyörü minta igazságát és szépségét nem tudja méltányolni, az nem érti korát,
                   melyben él, s nem lehet kilátása reá, hogy hatása a közönségre állandó marad. Lám,
-                  a <hi rend="italic">Sibilla</hi> verizmusa is sokkal mélyebben hatott, mint a mü
+                  a <hi>Sibilla</hi> verizmusa is sokkal mélyebben hatott, mint a mü
                   romantikus szinezetü részletei! Ez tehát az üdvözülés egyedül helyes utja; aki
                   álszeméremből bedugja fülét és nem akarja a dolgok valódi nevét meghallani, az
                   egyszerüen poseur, ki magánéletében bizonyára egyike a leginmorálisabb embereknek,
@@ -2765,7 +2767,7 @@
                   kelletlen kényszerből látta ő méltóságát szalonjának vendégei között, mellőzni
                   azonban nem lehetett.</p>
                <p>Fülöp végig sétált a köruton, - estefelé betért egy kávéházba, elolvasta az
-                  estilapokat, azután meglátogatta az Operát. Leoncavallo <hi rend="italic"
+                  estilapokat, azután meglátogatta az Operát. Leoncavallo <hi
                      >bajazzoi</hi> voltak müsorra tüzve. Ez volt két év óta a »Cavalleria
                   rusticana« mellett legkedvesebb operája. Ha csak halaszthatatlan teendői nem
                   akadtak, mindig meghallgatta a fiatal olasz mester e forró zenedrámáját, melynek
@@ -2789,8 +2791,7 @@
                   ebből azt következtette, hogy valószinüleg se az előadás végét nem várja be, se
                   Katalint nem fogja haza kisérni. Leginkább pedig az volna inyére, ha most nyomban
                   jó estét kivánhatna nejének, s itt hagy­hatná az Operát.</p>
-               <p>Katalin egyszer sem tekintett a baloldalra. A mint a függöny felment, s a <hi
-                     rend="italic">Bajazzók</hi> nagy khórusa felhangzott, tekintetét a szinpadra
+               <p>Katalin egyszer sem tekintett a baloldalra. A mint a függöny felment, s a <hi>Bajazzók</hi> nagy khórusa felhangzott, tekintetét a szinpadra
                   forditotta, s elmélyedve, odaadó figyelemmel engedte át magát a zene gyönyörének,
                   mely az ifju lelkét is azonnal hatalmába keritette. Ilyenkor érezte mindig egész
                   nagyságában azt az előnyt, melyet a zene élvez a szavak fölött. Mily más ez a
@@ -2883,15 +2884,15 @@
                   volna hozzá, - alig vett észre belőlük egy-egy erősebb, sugárzóbb részt. -
                   »Megvárod a balletet is?« kérdezte szórakozottan.</p>
                <p>- Nem, felelte Katalin, s kihuzta kesztyüjéből a ruhatári számot. Én is csak az
-                  opera kedvéért jöttem el, a <hi rend="italic">Korrigán</hi>-t nem szeretem. Nagyon
+                  opera kedvéért jöttem el, a <hi>Korrigán</hi>-t nem szeretem. Nagyon
                   monoton balletnek tartom. Megnézed?</p>
                <p>- Nem.</p>
                <p>- Akkor gyerünk, - inditványozta az asszony és előre ment. Az urak utat nyitottak
                   neki, s kedvtelve, kissé nagyon is pikáns tetszéssel nézték, mig soraik között
                   végig haladt. Fülöp mozdulatlan, hideg arczczal haladt utána, s nem vette észre,
-                  hogy a <hi rend="italic">Nemzeti Hiradó</hi> egyik előkelő munkatársa udvariasan
+                  hogy a <hi>Nemzeti Hiradó</hi> egyik előkelő munkatársa udvariasan
                   köszöntötte. - »No hiszen várj csak« - mormogta sértődve a gentleman, s beharapta
-                  az ajkát. A <hi rend="italic">Kritikai Szemle</hi> referense észrevette a
+                  az ajkát. A <hi>Kritikai Szemle</hi> referense észrevette a
                   jelenetet, s elmo­solyogta magát. »Neked is megadta az uj »csillag« - gondolta
                   kárörvendve. Ti énekeltetek hódoló himnuszokat, midőn feltünt, méltányos tehát,
                   hogy most egyétek is meg, a mit főztetek.«</p>
@@ -3002,8 +3003,7 @@
                   kedves Fülöp, hogy ezt ily őszintén mondom a szemedbe, de igy van. Te is mindig
                   vagy a nagy stilü vonásokat, vagy a legfinomabb, tehát a legritkább érzelmi okokat
                   bonczolgatod, a helyett, hogy a közönséges, az egyszerü, a leg­egyszerübb okokat
-                  keresnéd előbb és csak azután a többit. Ott van például az a te jeles hősöd a <hi
-                     rend="italic">Sibillá</hi>-ban. Mondhatom, hogy sajátságos egy legény. Érdekes,
+                  keresnéd előbb és csak azután a többit. Ott van például az a te jeles hősöd a <hi>Sibillá</hi>-ban. Mondhatom, hogy sajátságos egy legény. Érdekes,
                   nem állitom az ellenkezőt, de nagyon, nagyon sajátságos.</p>
                <p>Fülöp kérdőleg tekintett a hölgyre; valjon mit akarhat? Nem valószinü, hogy ez a
                   kitérés véletlen.</p>
@@ -3211,7 +3211,7 @@
                <p>- Az! Nagyon! Lásd, milyen egyszerü? Tréfa... valóban semmi más, csak egy kis
                   tréfa. Te is orvos vagy, Fülöp, de te sem veszed be az orvosságot, a mit rendelsz.
                   Meg akarsz menteni, de csak ugy, ha ez semmi áldozattal nem jár. Mihelyt arról van
-                  szó, hogy <hi rend="italic">igazán</hi> megments és szembe is szállj érettem az
+                  szó, hogy <hi>igazán</hi> megments és szembe is szállj érettem az
                   emberekkel, az előitélettel, a vétekkel, mely az enyém, s a tisz­tasággal a mely a
                   tied, - meghátrálsz és megütközve, majdnem elhalaványodva mondod: tréfa ez
                   Katalin, nem értelek...</p>
@@ -3327,7 +3327,7 @@
                valamelyik asztala mellett szivarozgatnak együtt a rendes piccolo kapucziner
                mellett.</p>
             <p>Clermontné türelmesen hallgatta a titkár ur megjegyzéseit, melyekből ezuttal is
-               kitünt, hogy a <hi rend="italic">Sibilla</hi> irója a miniszteri bureauk ifjusága
+               kitünt, hogy a <hi>Sibilla</hi> irója a miniszteri bureauk ifjusága
                előtt sem örvend tulságos népszerüségnek. Zentelki óvatosan ugyan, de elég érthetően
                fejezte ki magát. Szerinte mindaz, a mi Fülöp munkájában figyelmet érdemel, egyetlen
                szóval is kifejezhető, s ez a friseség. A szinházi közönség a maga nagy tömegében sok
@@ -3402,7 +3402,7 @@
                talán meg­tetszett neki Szera, miért izgatja ez őt, a ki az ifjú szivéből örökre ki
                van zárva? Gondolnia sem szabad reá, hogy valaha bizalmasabb viszonyba léphessen
                vele, - s nyilván Fülöp se gondol erre a lehetőségre, mert ezzel azt az egész
-               hitvallást, melyet a <hi rend="italic">Sibillá</hi>-ban ékes­szó­lá­sának minden
+               hitvallást, melyet a <hi>Sibillá</hi>-ban ékes­szó­lá­sának minden
                erélyével, drámairó tehetségének egész tüzes áradásával fölépitett, egy csapással
                döntené romba. Nevetségessé válna önmaga előtt, s ez sokkal elviselhetlenebb, mintha
                a társaság kárörvendő gunyjával kellene szembe szállnia. Ezt le tudná győzni,
@@ -3469,7 +3469,7 @@
                vissza.</p>
             <trailer> VÉGE AZ ELSŐ KÖTETNEK.</trailer>
          </div>
-         <div type="vol">
+         <div type="volume">
             <head>MÁSODIK KÖTET.</head>
             
            <div type="chapter">
@@ -3501,7 +3501,7 @@
                   évszázadok óta jár az emberi társadalom a nélkül, hogy a házasság lényegének
                   helyes, vagy helytelen természetére nézve valakinek aggodalmai támadtak volna. S
                   azonnal meg­találta az indokot is. - »Akár én leszek az, a kinek erre a feladatra
-                  vállalkoznia <hi rend="italic">kell</hi>, akár más valaki a családból, -
+                  vállalkoznia <hi>kell</hi>, akár más valaki a családból, -
                   egyikünknek föl kell áldoznia magát«... Oly jól esett fülének ez a hang, melyet
                   nyugtalan szive talált ki ébredő szerelme mentegetésére, hogy egészen átengedte
                   magát a remény friss fakadásának, - hisz ez az »önfeláldozás«, a melyre czélzott,
@@ -3516,7 +3516,7 @@
                   család czéljaival, csak a végrehajtás módjaiban lesz egészen más. Ő is csak azt
                   fogja akarni, a mit a család: Fülöp jövőjének biztositását, mely közös érdeke,
                   közös boldogsága mindnyájoknak. Az eddigi figyelem azonban, melylyel az ifjút
-                  elhalmozták, nem elégséges. <hi rend="italic">Sibillá</hi>-ja, bizonyitja
+                  elhalmozták, nem elégséges. <hi>Sibillá</hi>-ja, bizonyitja
                   leg­inkább, hogy a társadalmi szokások akczeptálásának módját, a társaság
                   gondolkozását, meg­nyilatkozási formáját, s az embereknek egymással való
                   érintkezését Fülöp nem ismeri eléggé, különben sem az általános felfogások
@@ -3615,7 +3615,7 @@
                <p>Homályos árnyék gyanánt lengett szemeim előtt egy kép. Ugy tetszett, mintha majd
                   vala­mikor, talán egy percz, vagy évezredek után, - ki tudja... elfátyolozott
                   elmém nem mérhette föl az időben levő különbséget... egészen más formája lesz
-                  ennek a sebesen rohanó gömbnek, melyet <hi rend="italic">Föld</hi>-nek nevezett
+                  ennek a sebesen rohanó gömbnek, melyet <hi>Föld</hi>-nek nevezett
                   egykor az emberiség.</p>
                <p>Ezek a csodálatosan sáppadt violaszinü ködfoltok, melyek most usznak a lélegzésre
                   alig alkalmas, ritka levegőben, nem voltak egykor sehol. Folyamok és patakok bő
@@ -3637,8 +3637,7 @@
                   viszhangja volt, - méltatlan reá, hogy érdeklődésemet továbbra is ébren tartsa.
                   Ragadjon tehát magával miszti­kus szárnyán e csodálatos játéka a szabadon
                   eresztett agyvelőnek és sodorjon magával a világ­egyetem legtitokzatosabb
-                  rejtelmei felé. S ime, képzelődés ez is, mint egész alakja a haldokló <hi
-                     rend="italic">Föld</hi>-nek. Nincs megsemmisülés. Valamikor volt, megtörtént,
+                  rejtelmei felé. S ime, képzelődés ez is, mint egész alakja a haldokló <hi>Föld</hi>-nek. Nincs megsemmisülés. Valamikor volt, megtörtént,
                   folytatását hiába várja - emberek hijján - a természet, mely egyedül van. Elringat
                   a levegő átlátszó homályában tulajdon fantáziám; millió kérdés pattan elém a
                   szines ködfoltokból, de hiába keresnék ő rájuk felelet. Nem ad választ a
@@ -3898,8 +3897,7 @@
                   meg. Bármiképp álljon is a dolog, abban hogy atyja semmit sem tud a
                   Braniczki-Katalin viszonyról, kétsége nem lehetett.</p>
                <p>- Hallottam, - jegyezte meg mosolyogva Münszter, hogy Wolff ezredes ma a tante
-                  után téged is meglátogatott, s harczias készsége maradványaival küzdött <hi
-                     rend="italic">Sibillád</hi> thezise ellen. Mivel védted magad?</p>
+                  után téged is meglátogatott, s harczias készsége maradványaival küzdött <hi>Sibillád</hi> thezise ellen. Mivel védted magad?</p>
                <p>- Az ezredes kemény ember, - mondá az ifju, s szórakozottan tekintett végig a Duna
                   rak­partjain, melyeken a gyorsan közeledő tavasz már megnyitotta a nagy forgalmat.
                   - Őszintén szólva, - folytatta egyszerüen, - nem is törekedtem valami tulságosan,
@@ -3946,7 +3944,7 @@
                   befolyásolásukra vállal­kozik, nem sorozható a legbölcsebbek közé. Sokszor
                   mondottam már, hogy igazatok van, ha egyéni felfogásom czáfolatául az életre
                   hivatkoztak. Nem állitottam az ellenkezőt, - igazat adtam nektek, s magam is ugy
-                  tartom jónak, ha <hi rend="italic">másokról</hi> van szó, a mint a társadalmi élet
+                  tartom jónak, ha <hi>másokról</hi> van szó, a mint a társadalmi élet
                   e kérdést megoldotta. De bocsánat, ha én készségesen elismerem, hogy igazatok van,
                   - engedjétek meg nekem ti is, hogy ha rólam van szó, kizárólag az én egyéni
                   felfogásomról, helyesnek tarthassam én is azt, a minek az ellenkezőjéről senki az
@@ -4101,7 +4099,7 @@
                   meg­jegyzés annyira jellemző volt arra az egész viszonyra, melyben a család tagjai
                   a tante szemé­lyéhez állottak, hogy akaratlanul is sok komikumot talált benne. Ime
                   atyja, a közel ötven éves, előkelő állami tisztviselő, szükségesnek tartja előre
-                  bocsátani, hogy <hi rend="italic">ezuttal</hi> nem szócsöve a matrónának. - »S ha
+                  bocsátani, hogy <hi>ezuttal</hi> nem szócsöve a matrónának. - »S ha
                   az is volnál, atyám, - felelte gyöngéd tekintetet vetve atyjára, - azt hiszed,
                   hogy akkor kevesebb figyelemmel lennék arra, a mit nekem mondani akarsz?«</p>
                <p>- Nem, kedves Fülöp, - más kapcsok füznek hozzád, semhogy ilyesmi valaha eszembe
@@ -4196,7 +4194,7 @@
                kilobban, ha semmiféle külső befolyás nem ingerli, mint a szerelem, melyet magára
                hagynak, s a környezet hatásán kivül kerül. Fülöp soha sem vesztette el helyes
                érzékét a figyelme elé kerülő momentumok gyors megitélésében; igazat kellett tehát
-               adnia ezuttal is annak a végzetes szerepnek, melyet Echegaray <hi rend="italic"
+               adnia ezuttal is annak a végzetes szerepnek, melyet Echegaray <hi
                   >Galeotto</hi>-jában a környezet játszik végig a szegény Ernesto és az ártatlan
                Theodóra megejtésére, kik vétkezés nélkül, jó formán akaratuk ellenére kerülnek bele
                a bukásba, a környezet rágalmainak esvén áldozatul. A rágalom szó ebben az esetben
@@ -4216,7 +4214,7 @@
                tartják e, hogy megóvására szövetséget is hajlandók kötni, vagy oly napraforgó
                jellemnek, ki ma a legnagyobb könnyüvérüséggel dobja félre azt, a mit tegnap még
                tiszteletben tartott? Ha azt ismételgették volna neki, hogy Clermontné is özvegy,
-               tehát bele tartozik abba a thézisbe, melyet a <hi rend="italic">Sibillá</hi>-ban
+               tehát bele tartozik abba a thézisbe, melyet a <hi>Sibillá</hi>-ban
                fölállitott, ezt az indokolást bizonyára elfogadta volna, - a család azonban
                kizárólag a pénzbeli hátrányokat emlegette, Clermontné vagyontalanságára hivatkozott,
                s ez megszégyenitette az ifjut. Hisz ebbe mintha hallgatólag azt is bele értenék,
@@ -4367,7 +4365,7 @@
                meglepetve figyelte ezeket a zavart mozdulatokat. Szera arczkifejezése oly ijedt,
                annyira szenvedélyes és félreismerhet­lenül elfogult volt, hogy egy pillanatig sem
                hagyhatta többé kétségben érzelmei felől. S e fölfedezés a legnagyobb zavarba
-               ejtette. Annyit eddig is tudott, hogy a leány ragaszkodik hozzá, <hi rend="italic"
+               ejtette. Annyit eddig is tudott, hogy a leány ragaszkodik hozzá, <hi
                   >erre</hi> az eshetőségre azonban nem volt elkészülve. Föltámadt szivében az
                önvád; vigyáz­ni kellett volna. Szera fiatal, kicsit könnyelmü, de hü és ragaszkodó
                teremtés... vele szemben legalább mindig az volt... nem lett volna tehát szabad annyi
@@ -4630,7 +4628,7 @@
                <p>Feliczia tante csendesen ingatta fejét. Azt hitte, hogy mindent kitalált. - »Nem
                   is kérdezek többet gyermekem... szólt megnyugtatva, - hisz végre is talán igazad
                   van, ha elhagysz minket... Te érzed legjobban, hogy van-e rá szükség, vagy nincs.
-                  Ha van, úgy csak menj, menj... <hi rend="italic">én</hi> nem foglak
+                  Ha van, úgy csak menj, menj... <hi>én</hi> nem foglak
                   visszatartani«.</p>
                <p>Fülöp némán meghajtotta magát Clermontné előtt és elhagyta a szalónt.</p>
                
@@ -4743,7 +4741,7 @@
                   nyugtatta tekintetét az ifju vonásain. Hangjának melegségében sok komolyság
                   rejlett, midőn termé­sze­tes szemérmét végre annyira le tudta győzni, hogy
                   megszólalhatott. - »Katalint, édes Fülöp, azért nem emliti senki, mert mindnyájan
-                  ismerjük az ön <hi rend="italic">Sibillá</hi>-ját és nem kételkedünk abban sem,
+                  ismerjük az ön <hi>Sibillá</hi>-ját és nem kételkedünk abban sem,
                   hogy ebben a szép műben ön őszinte volt«..</p>
                <p>Fülöp meglepetve ránczolta össze a szemöldökét. Erre a fordulatra nem számitott.
                   Mintha jéghideg vizet öntött volna végig tagjain egy ellenséges kéz, oly gyorsan
@@ -4751,7 +4749,7 @@
                   titokban most is megcsodálta. Nem adott mindjárt választ. Visszatette az asztalra
                   a névjegytartót, lassu, inkább kicsinylő, sem mint neheztelő mozdulattal vállat
                   vont és közelebb tolta székét a kerevethez. - »Igaza van Julia, - törte meg végre
-                  a kellemetlenül elhuzódó csendet, - őszinte voltam, de az én <hi rend="italic"
+                  a kellemetlenül elhuzódó csendet, - őszinte voltam, de az én <hi
                      >Sibillám</hi> hősnőjében egyetlen vonás sincs, mely Katalinhoz tehetné
                   hasonlóvá. Önök nem ismerik Katalint«...</p>
                <p>- Óh, én...</p>
@@ -4798,13 +4796,13 @@
                   idővel közelebb hozhatott volna. De csalódtam, - ön csak határtalan gyöngédségének
                   akarta ujabb jelét adni. Meg akart győzni oly dologról, melyet már akkor tudtam,
                   midőn ön még a mi fehér Juliánk volt, az a tartózkodó, hallgatag, magába mélyedt
-                  leány, ki az én szegény <hi rend="italic">Semiramis</hi> komédiámat oly kegyetlen
+                  leány, ki az én szegény <hi>Semiramis</hi> komédiámat oly kegyetlen
                   nevetéssel jutalmazta, hogy azóta sem tudok megfeledkezni erről a lesujtó
                   jutalomról. Ön érezte... igen, igen... éreznie kellett, hisz elég ügyetlen, elég
                   önhitt voltam és nem csináltam belőle titkot... hogy ellenszenvet érezek iránta,
                   nem azért mert férjhez ment, hanem azért, mert ebben a házban mindenki öntől
                   féltett. Emlékszik még a multra? Ön volt egész családunkban az egyetlen, a kinek
-                  sohasem mondtam, hogy <hi rend="italic">te</hi>. Jelentéktelen semmiségnek
+                  sohasem mondtam, hogy <hi>te</hi>. Jelentéktelen semmiségnek
                   látszik, pedig nem az: benne van egész viszonyunk kora ifjúságunktól kezdve
                   egészen a mai napig. Azt a szere­pet játszottuk, mint két ellenkező irányból
                   közeledő üstökös, a kiknek összeütközése a családi csillagrendszer félelmes
@@ -4889,8 +4887,7 @@
                <p>- Szivesen Fülöp, - felelte halkan, visszahuzódva az asszony. Mennyire rosszul
                   estek szivének ezek az üres szavak. - »Nem ért engem... nem ért engem«...
                   sóhajtotta szomoruan. Nehány percz előtt még rémülten gondolt reá, hogy Fülöp
-                  kitalálta titkát és neki nem lesz elég ereje, hogy eltagadja, pedig el <hi
-                     rend="italic">kell</hi> tagadnia és most, - óh hihetetlen ellentmondásai a női
+                  kitalálta titkát és neki nem lesz elég ereje, hogy eltagadja, pedig el <hi>kell</hi> tagadnia és most, - óh hihetetlen ellentmondásai a női
                   szivnek! - valóságos fájdalommal tépelődött azzal a gondolattal, hogy Fülöp nem
                   értette, a mit meg kellene értenie, hiszen oly rosszul tudja eltitkolni.</p>
                <p>- Elkisérem az Operába, - mondotta az ifju.</p>
@@ -4947,7 +4944,7 @@
                   a méltatlan gondolatot. Nem szabad megsértenie a nőt. Clermontné őszinte volt;
                   szereti. Elárulta magát. De hát ő? Mit érez, mit hisz, mit akar tenni? Dráma
                   fejlődik-e ebből a megadott expoziczióból, vagy komédia, a melyen nevetni kell? A
-                  helyzet nagy vonásokban ugyanaz, a mi a <hi rend="italic">Sibillá</hi>-ban.</p>
+                  helyzet nagy vonásokban ugyanaz, a mi a <hi>Sibillá</hi>-ban.</p>
                <p>- Az ördögbe is, - mormogta homlokát dörzsölve, s fáradt tekintettel, lehangoltan
                   nézte mint tünik el a szemben levő palota csillogó palafedeléről a márcziusi
                   napfény, - úgy látszik, elhamarkodtam a dolgot...</p>
@@ -5023,7 +5020,7 @@
                   mint az őrnagy. Később azonban kiigazitotta magát: igaztalan volt, hisz végtelen
                   szerencse az, hogy ilyen! Mi lenne belőle az őrnagy oldalán, ha az igazi Júliához
                   hasonlitana? Mily szörnyü útja volna az a szenvedésnek, ha meg tudná érezni, hogy
-                     <hi rend="italic">mi</hi> ő, midőn a szerelem mindent megnemesitő gyönyöre
+                     <hi>mi</hi> ő, midőn a szerelem mindent megnemesitő gyönyöre
                   nélkül adja át magát egy embernek, a ki hitvesévé teszi....</p>
                <p>Fülöpöt ez a gondolat most még erősebben rázta meg, mint akkor. De mig akkor csak
                   vállat vont reá és nem törődött vele tovább, most ki szerette volna gúnyolni magát
@@ -5074,7 +5071,7 @@
                <p>- Menjen, csunya... felelte szendén a hölgy, s kaczér nehezteléssel forditotta
                   félre fejét, hogy a tehetséges szerző nyakának meleg fehérségét annál könnyebben
                   megláthassa. - Komolyan beszélek barátom, a vágás is jó a szinpadon, de a
-                  visszavágás az, a mi biztosan hat. Gondoljon csak a <hi rend="italic">Sibilla</hi>
+                  visszavágás az, a mi biztosan hat. Gondoljon csak a <hi>Sibilla</hi>
                   harmadik felvonására. Mihályfi karjai között tartja Emmát, megcsókolja és igy szól
                   hozzá: »Mire gondolsz Sibil?« »Oh érzem Gusztáv, hogy megvetsz engem, mert a tied
                   vagyok.« »Én már akkor megvetettem magamat, mielőtt az enyém lettél volna«...
@@ -5127,7 +5124,7 @@
                   felejtem az ágyon a kabátomat. Hát nem kikotorta megint a zsebeimet! Hát nem
                   megtalálta azt a húsz forintot is, a mit ma délben Katalintól kértem kölcsön, hogy
                   nyomorult tavaszi lebernyegem helyett ujat vegyek? Tekints reám, ilyen ordináré
-                  felsőben liflangol már három éve a <hi rend="italic">ti</hi> rokonotok. Illik ez?
+                  felsőben liflangol már három éve a <hi>ti</hi> rokonotok. Illik ez?
                   Szomorú, nagyon szomorú, pedig egy Boronkai végre is Boronkai... nem? Rozál!
                   kiáltottam reá, hol van a pénzem? Azt lesd, semmiházi! sivitotta vissza hetykén, -
                   nem adom, nem adom, nem adom! »Skorpió asszony!« orditottam én. »Czégéres
@@ -5340,7 +5337,7 @@
                <p>- Beteg?</p>
                <p>- Azt hiszem migraine...</p>
                <p>- Szabad meglátogatni?</p>
-               <p>- Ha ugy jelenteted be magad, hogy <hi rend="italic">bucsuzni</hi> akarsz, minden
+               <p>- Ha ugy jelenteted be magad, hogy <hi>bucsuzni</hi> akarsz, minden
                   bizonnyal elfogad.</p>
                <p>- Csak ugy?</p>
                <p>Münszter fia karjába füzte karját és sétálni kezdett vele a teremben. Ki akarta
@@ -5651,7 +5648,7 @@
                   hazudtolhassam meg önmagamat. Elhatároztam tehát, hogy erő­szakkal fogom önt
                   kiragadni abból a szerepből, melyet félelme súgott a szivének. Ne tagadja, - az
                   volt... Oly tisztán látok e pillanatban, mint még soha. Attól félt, hogy magamat
-                  rajzoltam le abban a <hi rend="italic">komédiában</hi>... s mi lesz akkor sorsa az
+                  rajzoltam le abban a <hi>komédiában</hi>... s mi lesz akkor sorsa az
                   én oldalam mellett. A komédia maradjon komédiának, - szeretem önt és ön nem
                   utasithat vissza.</p>
                <p>Clermontné végigvonta homlokán keskeny, forró kezét, s még mindig elhomályosodott,
@@ -5679,7 +5676,7 @@
                <p>- Az én hitvesem, Julia, - mondotta komolyan, - ha akarja ugy, ha nem, akarata
                   ellenére is. Azért hoztam ide. Innen ön csak az én karomon, az én nevemmel léphet
                   az emberek közé. Igy határoztam és ennek meg kell lenni. E pillanattól kezdve ön
-                  ebben a villában <hi rend="italic">itthon van</hi>. Holnap reggel elmegyek a
+                  ebben a villában <hi>itthon van</hi>. Holnap reggel elmegyek a
                   plébániára, azután intézkedni fogok, hogy az ön butorait ide hozzák. És most jó
                   éjt, kedvesem! Mondjon le róla, hogy ezt a házat elhagyhassa. Én ébren maradok és
                   őrizni fogom egész éjjel.</p>
@@ -5716,7 +5713,7 @@
                minisztériumban levő hivatalába, a hol háboritlanul olvashatta végig fia leveleit.
                Fülöp elég gyakran irt. Ime az utolsó levél:</p>
             <p>
-               <hi rend="italic">Verona,</hi> május 2.</p>
+               <hi>Verona,</hi> május 2.</p>
             <p>Kedves atyám! Barangolásunk negyedik hetében tegnapelőtt ide Veronába érkeztünk, a
                hová nemcsak nőm, de én is szivesen jöttem, mert most már rohamosan közeledünk ahoz
                az időponthoz, hogy a vasutaktól és a szállodáktól végre megszabaduljunk. Ha az
@@ -5761,7 +5758,7 @@
                maga is meg fog győződni róla, hogy én vagyok ezen a világon a legszerencsésebb
                ember, nehezteléséből valamicskét majd csak engedni fog.</p>
             <p>
-               <hi rend="italic">Fülöp.</hi>
+               <hi>Fülöp.</hi>
             </p>
             <p>Münszter e levelek tartalmából csak annyit közölt a tante-al, hogy fia jól érzi magát
                és most itt, majd ott van; egyebet nem tartott tanácsosnak előhozni. Az agg hölgy
@@ -5852,8 +5849,7 @@
                pihegett öltözékének csipkéi alatt, csak azt a boldog elragadtatást árulta el, mely
                át meg átjárta testének minden izét.</p>
             <p>- Maradjunk itthon Fülöp, - felelte halkan.</p>
-            <p>- Jól van, itthon maradunk, - kikötöm azonban, hogy egy szóval se emlitse <hi
-                  rend="italic">Sibillát</hi>, különben én is vissza fogok emlékezni a
+            <p>- Jól van, itthon maradunk, - kikötöm azonban, hogy egy szóval se emlitse <hi>Sibillát</hi>, különben én is vissza fogok emlékezni a
                »Mária-család«-i kastélyra, melyet ön titokban bizonyára meg­gyászolt.</p>
             <p>- Fülöp, megtiltom!</p>
             <p>- Semmi erőszak! Engem nem lehet megfélemliteni, asszonyom, - szólt kötekedve, emelt
@@ -5949,13 +5945,12 @@
                boldogságában lelke befogni tudott. Könnyü lép­tekkel haladt a kert főutján a hátulsó
                ajtó felé. Ez az a feledhetetlen ajtó, melyen erőszakkal vonszolta be Fülöp, hogy
                soha többé ő tőle el ne váljon. Szeretettel, hálásan vetett egy pillantást a barnára
-               festett vasajtóra: ime, nem mese, hogy a paradicsomnak ajtaja van, - <hi
-                  rend="italic">ez</hi> az. Mire megfordult, az ifju állt szigoru arczczal előtte,
+               festett vasajtóra: ime, nem mese, hogy a paradicsomnak ajtaja van, - <hi>ez</hi> az. Mire megfordult, az ifju állt szigoru arczczal előtte,
                mint egy inkvizitor.</p>
-            <p>- Figyelmeztetem asszonyom, - mondá emelt hangon, - hogy ez az ajtó <hi rend="italic"
+            <p>- Figyelmeztetem asszonyom, - mondá emelt hangon, - hogy ez az ajtó <hi
                   >most is</hi> be van zárva. Hiába tekintget reá, nem nyilik meg.</p>
             <p>- Már nem baj.</p>
-            <p>- Ez azt jelenti, hogy <hi rend="italic">akkor</hi> baj volt, tehát ön még mindig
+            <p>- Ez azt jelenti, hogy <hi>akkor</hi> baj volt, tehát ön még mindig
                emlékszik reá és még mindig nem bocsátott meg. Ez az ön nagylelküsége?</p>
             <p>Clermontné kezét nyujtotta férjének.</p>
             <p>- Mindent megbocsátottam Fülöp, mindent! felelte elfogultan, mély érzelemmel, - de ne
@@ -6215,8 +6210,7 @@
                   van...</p>
                <p>»Álmos vagy?</p>
                <p>»Egy kicsit.</p>
-               <p>»S a hölgy lehajtotta fejét a párnára. A férj megcsókolta a homlokát és <hi
-                     rend="italic">nem</hi> vette észre, hogy gyenge pir ömlött végig e pillanatban
+               <p>»S a hölgy lehajtotta fejét a párnára. A férj megcsókolta a homlokát és <hi>nem</hi> vette észre, hogy gyenge pir ömlött végig e pillanatban
                   az asszony szép kicsi arczán, s megremegett egész testében, mint egy félénk
                   gyermek. A férj állt pedig mellette és nem az orvos. A férj gyanakvó,
                   bocsánatkérő, nyugtalan tekintete tapadt az arczára, és nem az orvosé. A nagy,
@@ -6228,7 +6222,7 @@
                   nyarat... Oly szomoru ősz lengett feléje Fülöp e befeje­zetlen kéziratából, a
                   melytől megrémült. Hogyan, kérdezte magától elkábulva, hát azalatt, mig férje
                   kezét fogja és szemébe mosolyog, mig itt játszanak a hitvesi boldogság kedves
-                  bizalmasságával, <hi rend="italic">ilyen</hi> gondolatok fogamzanak meg agyában?
+                  bizalmasságával, <hi>ilyen</hi> gondolatok fogamzanak meg agyában?
                   Lehetetlen, lehetetlen... Fülöp képtelen reá, hogy annyira ámitani tudjon.
                   Lehetetlenség, hogy reá gondolt volna, midőn leirta, hogy azt a nőt, a ki
                   másodszor is férjhez megy, nem tartja egészen tisztességes asszony­nak...</p>
@@ -6240,7 +6234,7 @@
                   föl abból a csodálatos bódultságból, mely eltompitotta figyelmét, s az asszonyi
                   nyár édesen lankasztó forróságával vakitotta el érzékeit.</p>
                <p>Hetek óta abban a hitben ringatta magát, hogy Fülöp maga is belátta annak a
-                  felfogásnak a nagy tévedését, melynek a <hi rend="italic">Sibillá</hi>-ban
+                  felfogásnak a nagy tévedését, melynek a <hi>Sibillá</hi>-ban
                   kifejezést adott, hisz oly előzmények után vette őt nőül, melyek inkább egy
                   regényesen naiv és szangvinikus fiatal emberre, semmint egy megálla­podott, érett
                   és meggondolt férfiura vallanak. Méltán hihette tehát, hogy a régi Fülöp egész
@@ -6357,7 +6351,7 @@
                <p>- Gondoltam, hogy igy van...</p>
                <p>- Miből?</p>
                <p>- Csak ugy...</p>
-               <p>- <hi rend="italic">Ebből?</hi> kérdé némi habozással Fülöp s megintette ujjával
+               <p>- <hi>Ebből?</hi> kérdé némi habozással Fülöp s megintette ujjával
                   az asztalon heverő kéziratot. Clermontné igenlőleg intett. Férje hangjának
                   bizonytalansága ismét fölébresztette félelmét. - »Ebből a semmiségből? folytatta
                   könnyedén az ifju és félre dobta a papiros lapokat. Ah, kedves Juliám, ha a
@@ -6381,11 +6375,11 @@
                   nyugtalanul, s már nem igyekezett, de nem is tudta megváltozott hangulatát
                   elleplezni. Megérezte, hogy válságos helyzet előtt állanak mindaketten. Számitott
                   erre a helyzetre; nem áltatta magát egy pillanatig sem azzal, hogy a szerelem
-                  rajongása örökké tart; a gyönyörben felolvadt <hi rend="italic">Én</hi> az első
+                  rajongása örökké tart; a gyönyörben felolvadt <hi>Én</hi> az első
                   nagy mámor hatása után vissza kivánja a maga jogait és nincs hatalom elég erős,
                   akarat elég törhetetlen arra, hogy megnyilatkozását erőszakkal elfojthassa.
                   Bármennyire félt is ettől az időponttól, az napról-napra sebesebben közeledett, s
-                  neki nem állt hatalmában, hogy el­temesse. Az <hi rend="italic">Én</hi> föltámad a
+                  neki nem állt hatalmában, hogy el­temesse. Az <hi>Én</hi> föltámad a
                   sirból, s a szerelem maradványait dobja be maga helyett. A krizis azonban jóval
                   gyorsabban állt be, semhogy előre elkészülhetett volna reá. Clermontné
                   elhalványodó, majd lázas pirban égő szép arcza a legnagyobb zavarba hozta.
@@ -6402,14 +6396,14 @@
                   a legvirágosabbig, s ön legfölebb csak sejtette volna, hogy takargatok valamit a
                   nélkül, hogy a bizonyosságra valaha rá jöhetett volna. Gondoltam erre is, - nem
                   tagadom, de hamar lemondtam róla. Miért tagadnám a valót, kérdeztem magamtól
-                  nyugodt szivvel, - az <hi rend="italic">én</hi> hitvesemnek tudnia kell, hogy a
+                  nyugodt szivvel, - az <hi>én</hi> hitvesemnek tudnia kell, hogy a
                   férj egészen az övé, az iró nem. A férj hűsége, gyöngédsége, szerelme, öröme és
                   bánata, egész élete a hitvesé, - az iró külön világa, melyben fantáziája és alkotó
                   erejének hatása alatt áll, az a másik ember, azzal a másik lélekkel, - az, édes
                   Juliám nemcsak az öné. Ön ezt mindig tudta és lássa mégis szeretett engem. Én is
                   tudtam, hogy nem mondhatok le érzékenységemnek talán téves, de egyéni és egész
                   valómmal össze forró felfogásáról és mégis szeretem önt, ugy, mint házasságunk
-                  legelső napján, ma is, mert a <hi rend="italic">Sibilla</hi> irójának az ön
+                  legelső napján, ma is, mert a <hi>Sibilla</hi> irójának az ön
                   férjéhez, a ki itt, az ön oldala mellett végtelen gyönyörrel érzi otthon magát,
                   semmi, de semmi köze! Miért akarja tehát kinozni magát, a midőn erre semmi
                   szükség? Hiszen ha nem biztam volna magamban, hogy külön tudom választani ezt a
@@ -6465,10 +6459,10 @@
                   világos japán-sárga butorai voltak elhelyezve. Ott megállt egy magas arabeszkekkel
                   diszitett tükör előtt és igy szólt: »Fogadást ajánlok önnek, édes Juliám, hogy ha
                   holnap estefelé meg fogunk jelenni a dunai korzón, épp oly kellemes feltünést
-                  keltünk, mint Velenczében a Lidón, vagy Párisban az <hi rend="italic">Odeon</hi>
+                  keltünk, mint Velenczében a Lidón, vagy Párisban az <hi>Odeon</hi>
                   páholyában. Ön azért, mert szép, mint egy Junó, én azért, mert karomat nyujthatom
                   önnek. Ne szakitson félbe! Ez is nyiltság, s ön kikötötte, hogy a legteljesebb
-                  nyiltsággal nyilatkozzam. Emlékszik, mily ingerült lettem az <hi rend="italic"
+                  nyiltsággal nyilatkozzam. Emlékszik, mily ingerült lettem az <hi
                      >Odeon</hi>-ban, midőn észrevettem, hogy egyszerre tiz látcső is kitartó ostrom
                   alá veszi páholyunkat, a melynek sötét hátterében nem birtam annyira eltünni, hogy
                   az ostromló ellenség ne vegyen észre. Ugy van, asszonyom, - féltettem önt és ezt a
@@ -6516,7 +6510,7 @@
                   szemébe mondja, - ha azonban kivánja, meg kell mondanom, hogy nem változtam meg.
                   Szeretem önt, de az vagyok most is, a ki eddig voltam. Nem akartam bánatot okozni
                   önnek, higyje el, hogy követelése a legsulyosabb feladatot rójja reám... annak a
-                  második <hi rend="italic">én</hi>-nek azonban, mely nemcsak az öné, hanem a világé
+                  második <hi>én</hi>-nek azonban, mely nemcsak az öné, hanem a világé
                   is, nem vagyok képes megparancsolni, hogy alkalmazkodjék a férjhez, a ki
                   végtelenül szereti nejét.</p>
                <p>- Első házasságomra gondol...</p>
@@ -6643,7 +6637,7 @@
                   mint a józan ész elébe szabta, s a gyakorlat helyesnek fogadta el.</p>
                <p>Mindenütt talál mentséget, mindenkivel szemben meg tudja magát védeni, emelt
                   homlokkal, nyugodt lelkiismerettel tekinthet bárkinek a szeme közé, - milliók
-                  közül nincs csak egyetlen egy: a férj, ki <hi rend="italic">azzal</hi> a
+                  közül nincs csak egyetlen egy: a férj, ki <hi>azzal</hi> a
                   szerelemmel, melyet iránta érez, megszégyeniti és pirulni készteti ön­maga előtt.
                   Könnyü kimondani a halált. Ez a boldogtalan asszony azonban szerette férjét és nem
                   akart megválni tőle. Oly kimondhatatlan gyávaság zsibongott végig egész testén
@@ -6704,7 +6698,7 @@
                   tökéletesen eltünteti őket, mint a hófuvás a lábnyomokat.</p>
                <p>Mi marad az egészből? Egy kevés kesernyés füst és egy marék hamu. S vajjon ki elég
                   éretlen arra, hogy bátorsága legyen igy szólni hozzánk; különbséget tudok tenni
-                  hamu és hamu között; <hi rend="italic">ez</hi> a hamu valamivel szennyesebb, mint
+                  hamu és hamu között; <hi>ez</hi> a hamu valamivel szennyesebb, mint
                   a többi...</p>
                <p>Mosolyogva utasitanók vissza bizonyára mindnyájan és odaképzelnők fejére
                   meghibbant értelme jelvényét: a csörgősipkát.</p>

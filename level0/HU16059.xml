@@ -16,13 +16,14 @@
             </respStmt>
          </titleStmt>
          <extent>
-            <measure unit="words">28483</measure>
-           </extent>
-        <publicationStmt>
+            <measure unit="words">28554</measure>
+            <measure unit="pages">154</measure>
+         </extent>
+         <publicationStmt>
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Mézes hetek :  Egy fiatal asszony naplója   Regény </title>
                <date>2016-09-29</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -37,14 +38,14 @@
                   <name>Varjú Mária</name>
                   <name>Fecz Ágnes</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>Mézes hetek :  Egy fiatal asszony naplója   Regény </title>
                      <date>2016-09-29</date>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>Mézes hetek : egy fiatal asszony naplója : regény</title>
                      <author>Vértesi Arnold</author>
                      <pubPlace>Budapest</pubPlace>
@@ -72,8 +73,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-19"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-19"/>
       </revisionDesc>
    </teiHeader>
   <text>

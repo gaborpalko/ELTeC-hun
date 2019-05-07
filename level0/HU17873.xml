@@ -23,7 +23,7 @@
                 <p>Published as part of ELTeC</p>
             </publicationStmt>
             <sourceDesc>
-                <bibl>
+                <bibl type="digitalSource">
                     <title>Az élet esélyei: Regény</title>
                     <date>2018-02-23</date>
                     <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -33,8 +33,8 @@
                         <name>Halász Istvánné</name>
                         <name>Varjú Mária</name>
                     </respStmt>
-                    <relatedItem type="copyText">
-                        <bibl>
+                    <relatedItem type="source">
+                        <bibl type="firstEdition">
                             <title>Az élet esélyei : regény</title>
                             <author>Jósika Júlia</author>
                             <pubPlace>Pest</pubPlace>
@@ -67,7 +67,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="group">
+            <div type="part">
                 <head> Első könyv. Rejtélyes események. </head>
                 <div type="chapter">
                     <head>I.</head>
@@ -613,7 +613,7 @@
                     egészen más körülmények közt, fogjuk ezt ismét fölvenni.</p>
                 </div>
             </div>
-            <div type="group">
+            <div type="part">
                 <head> Második könyv. A koldus fiu. </head>
                 <div type="chapter">
                     <head>I.</head>
@@ -1204,7 +1204,7 @@
                     ismét találkozni fogunk a koldus­fiuval.</p>
                 </div>
             </div>
-            <div type="group">
+            <div type="part">
                 <head> Harmadik könyv. Az Oxenstjern család. </head>
                 <div type="chapter">
                     <head>I.</head>
@@ -2094,7 +2094,7 @@
                     van, harmadnapra pedig gyámatyjával együtt visszatért Pestre.</p>
                 </div>
             </div>
-            <div type="group">
+            <div type="part">
                 <head> Negyedik könyv. A remete. </head>
                 <div type="chapter">
                     <head>I.</head>
@@ -2877,7 +2877,7 @@
                 <p>Mohácsy Sándornénak.</p>
                 </div>
             </div>
-            <div type="group">
+            <div type="part">
                 <head> Végjelenetek. </head>
                 <div type="chapter">
                     <head>I.</head>

@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Egyenes úton - egyedül :  Regény </title>
                <date>2018-02-28</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -36,14 +36,8 @@
                      Katalin
                   </name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
-                     <title>Egyenes úton - egyedül :  Regény </title>
-                     <date>2018-02-28</date>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>gyenes úton - egyedül : regény</title>
                      <author>Ritoók Emma</author>
                      <pubPlace>Budapest</pubPlace>
@@ -71,13 +65,14 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-19"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-19"/>
       </revisionDesc>
    </teiHeader>
   <text>
       <body>
-         <div type="group">
+         <div type="part">
             <head>ELSŐ RÉSZ</head>
             <div type="chapter">
                <head>I.</head>
@@ -698,7 +693,7 @@
                   egynéhány órával ezelőtt éppen így hajolt előre, így emelte fel a karját, mikor a
                   másik szobába átmenet a kilincsre tette kezét, igy - és mégis milyen
                   másképpen!</p>
-               <p>Hogy is juttathatta eszébe <hi rend="italic">ez a</hi> leány azt a másikat!</p>
+               <p>Hogy is juttathatta eszébe <hi>ez a</hi> leány azt a másikat!</p>
                <p>Egyszerre düh és szégyen fogta el. Felkiáltott, és mintha menekülne, futni kezdett
                   az utcán lefelé... A másik csodálkozva nézett utána.</p>
                <p>Lénárd egész hajnalig az utcán csatangolt és elhatározta, hogy soha többé, vagy
@@ -1715,7 +1710,7 @@
                   becsület, - boldogság, - mind hazugság volt, csak jőjj vissza! El fogunk költözni
                   innen, senki sem fog tudni a szégyenedről.</p>
                <p>- Ágnes! úgy beszélsz, mintha valami szolgáló volnék, akit a tüzoltója
-                  elcsábított! <hi rend="italic">Én</hi> akartam vele menni, mert <hi rend="italic"
+                  elcsábított! <hi>Én</hi> akartam vele menni, mert <hi
                      >én</hi> is a saját életemet akartam élni, a saját boldogságomat keresni és ha
                   a társadalmi korlátokon belül nem lehetett, hát azokon kivül...</p>
                <p>- De miért nem lehetett a korlátokon belül? Mert a férfinak így kényelmesebb, mert
@@ -2071,7 +2066,7 @@
                
             </div>
          </div>
-         <div type="group">
+         <div type="part">
             <head>MÁSODIK RÉSZ.</head>
             <div type="chapter">
                <head>I.</head>

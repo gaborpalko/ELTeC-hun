@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Gróf Kaczaifalvi László avagy a természetes ember</title>
                <respStmt>
                   <resp>Original Electronic Edition</resp>
@@ -31,8 +31,8 @@
                </respStmt>
                <ref target="http://mek.oszk.hu/07500/07541"/>
                <date>na</date>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>Gróf Kaczaifalvi László avagy a természetes ember</title>
                      <name>Kindlevarázs</name>
                      <name>Internet Archive</name>
@@ -40,15 +40,14 @@
                      <ref target="http://kindlevarazs.wordpress.com/kindle-teka/"/>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>Gróf Kaczaifalvi László avagy A természetes ember : egy igen mulatságos tanúságokkal bõvelkedõ történet</title>
                      <author>Verseghy Ferencz</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Franklin-Társulat</publisher>
                      <date>1911</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/3083065"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/3083065"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -69,6 +68,8 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2019-04-23"/>
+         <change when="2019-02-27"/>
          <change when="2018-11-14"/>
       </revisionDesc>
    </teiHeader>
@@ -226,8 +227,8 @@
             <p>Istóknak verítéke nagy cseppekkel tolódott ki homlokából.</p>
             <p>Nos hát Istók! mondd meg, mi nekem a nevem?</p>
             <p>Az úrnak a neve - kezdé felelni az öreg szolga.</p>
-            <p>Ostoba! mondá viszontag hevesen a gróf, a <hi rend="italic">te neved</hi>! így
-               beszélj velem, nem pedig: az úrnak a neve. <hi rend="italic">Te</hi> vagyok én neked,
+            <p>Ostoba! mondá viszontag hevesen a gróf, a <hi>te neved</hi>! így
+               beszélj velem, nem pedig: az úrnak a neve. <hi>Te</hi> vagyok én neked,
                valamint te viszontag nekem.</p>
             <p>Az öreg Istók szégyenletében elpirult s nem mert a grófra egyébkép, hanem csak
                oldalvást és lopva tekinteni.</p>
@@ -241,7 +242,7 @@
                szózattal.</p>
             <p>Kezded már egyszer a dolgot érteni? Akarj, cselekedj, a mit tetszik! Szabad vagy
                vele.</p>
-            <p>Én tehát ezen szempillantástól fogva <hi rend="italic">gróf uramnak</hi> akarom az
+            <p>Én tehát ezen szempillantástól fogva <hi>gróf uramnak</hi> akarom az
                urat nevezni, nem pedig te névvel illetni.</p>
             <p>Takarodj szemeim elől, balgatag ember! mondá hevesen a gróf.</p>
             <p>Soha Istók gyorsabban nem engedelmeskedett, mint ennek a szónak. Felugrott azonnal és
@@ -323,7 +324,7 @@
                homályosítsa elméjét. Így azután az embereknek ezerféle nevetséges vélekedései minden
                bizonynyal visszavezetik őtet e völgybe, hol szabadon gondolkodhat mindenről, a mit
                megfoghat. Ezt mondván, a ház ajtajának felébe azonnal felírta nagy betűkkel e két
-               szót: <hi rend="italic">Igazság és Szabadság</hi>, hogy soha el ne felejtse azt a
+               szót: <hi>Igazság és Szabadság</hi>, hogy soha el ne felejtse azt a
                nagy czélt, melyet magában a kis Grófnak nevelésére nézve feltett.</p>
             <p>Az öreg Kaczajfalvinak valaha magyar ugyan, de csupán csak tudós nevelője volt, kitől
                felette sok és messze terjedő tudománybeli kincseket gyűjtött, melyeknek számát
@@ -6163,7 +6164,7 @@
                magasabbra emelkedni látta volna, meg kellett volna vallania, hogy a régi poétáknak
                arany kora nem álom, nem mese. A völgynek ajtaján ezen igék olvastattak:</p>
             <p>
-               <hi rend="italic">A természetnek, a szeretetnek és a boldogságnak lakóhelye!</hi>
+               <hi>A természetnek, a szeretetnek és a boldogságnak lakóhelye!</hi>
             </p>
             
             <trailer>-&amp;-</trailer>

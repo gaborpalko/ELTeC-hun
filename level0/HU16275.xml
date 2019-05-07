@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Napraforgó :  Regény </title>
                <date>2016-11-25</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -35,14 +35,14 @@
                   <name>Szever Pál</name>
                   <name>Uri-Kovács József</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>Napraforgó :  Regény </title>
                      <date>2016-11-25</date>
                   </bibl>
                </relatedItem>
-               <relatedItem type="printSource">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="printSource">
                      <title>Napraforgó : regény</title>
                      <author>Krúdy Gyula</author>
                      <pubPlace>Budapest</pubPlace>
@@ -51,6 +51,11 @@
                      <ref target="http://nektar.oszk.hu/hu/manifestation/3142306"/>
                   </bibl>
                </relatedItem>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>Napraforgó</title>
+               <author>Krúdy Gyula</author>
+               <date>1918</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -69,8 +74,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-19"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-19"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -1623,8 +1629,8 @@
                belvárosi leánynevelőintézet növendé­kének, ahol Evelin ifjúságát töltötte), amikor
                még Kálmán tetterejében volt s ő gondolkozott a leányka helyett is. A lengő
                gyermekleány azonban mélázó, messzire néző tekintetével csak­hamar felülemelkedett a
-               dolgokon, - <hi rend="italic">azt is látta</hi>, amit Kálmán akkor cselekszik, amikor
-               egyedül van, azt is <hi rend="italic">látta</hi>, hogy mit gondol magában Kálmán,
+               dolgokon, - <hi>azt is látta</hi>, amit Kálmán akkor cselekszik, amikor
+               egyedül van, azt is <hi>látta</hi>, hogy mit gondol magában Kálmán,
                hogyan él, megy az uccákon s kivel találkozik, - látni kezdte Kálmánt a megdöbbenésig
                híven, bár még alig töltötte be tizenhetedik életévét. Ekkor adta át az első
                ezerforintos bankót Kálmánnak (amelyhez meg­foghatatlan módon jutott a gazdag, de
@@ -1709,7 +1715,7 @@
                a vándorló. Ő Evelint látta odafent az oszlopon és a leányhoz szállt szíve hangja, a
                csodatevő hölgyhöz, a gyógyító lehelethez, a mindent felejtető simogató kézhez.</p>
             <p>- Evelin, - csuklotta végül, oly fájdalmasan, mintha ezért különös bűnbocsánatban
-               részesülne a leánytól, aki <hi rend="italic">mindent</hi> lát. Látta rideg
+               részesülne a leánytól, aki <hi>mindent</hi> lát. Látta rideg
                magatartását Ninonnal, látta menekülését és látja most itt buzgó könyörgését is. S
                ezért meg kell neki bocsátani, még ha jéghegyek állnának is közöttük.</p>
             <p>Messze, a magyar faluban, korán reggel, szokás szerint kártyát vetett Evelinnek öreg
@@ -2923,7 +2929,7 @@
                nőt, akihez ő ragaszkodna.</p>
             <p>Így vagyunk a szavakkal és egyéb életjelenségekkel is.</p>
             <p>Maszkerádi kisasszony körülbelül két esztendő előtt társalgás közben ezt a szót
-               ejtette ki, hogy: <hi rend="italic">kroncsi</hi>, ami a pesti népnyelvben koronát
+               ejtette ki, hogy: <hi>kroncsi</hi>, ami a pesti népnyelvben koronát
                jelent. A jelenvolt Álmos Andor nyomban gyanakodni kezdett a kisasszonyra. Nem sok
                időnek kellett elmúlni, hogy Maszkerádi kis­asszony a bujdosi kúriában bizonyos
                „vidéki palikról” beszélt oly megvetéssel, hogy Álmos Andor csaknem elszólta magát.
@@ -4388,8 +4394,8 @@
                virágos vizében fürösztötték őket, ugyanazon halottak voltak az őseik és a magvak a
                földből kibújva, egyformán táplálták őket. A szemeik a szélmalom forgását látták a
                látóhatáron, a fülük a vadmadarak kiáltozását hallotta, a lábuk ugyanazt a táncot
-               járta gyermekkorukban, a szüreteken és a fosztókákon. Az <hi rend="italic">e</hi> és
-                  <hi rend="italic">i</hi> betűt kicsinyt szlávosan ejtik s ugyanazon népdalok
+               járta gyermekkorukban, a szüreteken és a fosztókákon. Az <hi>e</hi> és
+                  <hi>i</hi> betűt kicsinyt szlávosan ejtik s ugyanazon népdalok
                mellett növekedtek fel. Ugyanaz az áprilisi felhő mosta le arcukról a tavasz szeplőit
                és a nyírségi göröngyök egyformán ismerték Kövi Dinka és Nyirjes Evelin őnagysága
                lába sarkát. Ah, sarokban egyformák a nők! Nyáron, midőn mezítláb járnak az úri
@@ -4591,7 +4597,7 @@
                tekintete, mintha tükördarabot csillantottak volna meg a távolban. Pistoli
                elégedetten bólintott a vissza­nézőnek. Így gondolta.</p>
             <p>Aztán egész úton hazafelé azon gondolkozott, hogy elmondja-e egymásnak a két barátnő,
-               hogy mit imádkozott a pócsi búcsún? „Ezek - a <hi rend="italic">nők</hi>!” -
+               hogy mit imádkozott a pócsi búcsún? „Ezek - a <hi>nők</hi>!” -
                dünnyögte magában és belátta, hogy már nem érdemes tovább élni a világon.</p>
             
          </div>
@@ -4708,7 +4714,7 @@
             <p>*</p>
             <p>A levél, amelyet Pistoli úr a köpenyében elvitt, igy hangzott:</p>
             <p>
-               <hi rend="italic">Pistoli-udvar, 18- május. </hi>
+               <hi>Pistoli-udvar, 18- május. </hi>
             </p>
             <p>Királynő!</p>
             <p>Midőn utoljára vallom be önnek mindazon gyengéd tiszteleteket: szívemnek vadrózsáit;
@@ -4772,7 +4778,7 @@
             <p>Fogadja mindazt, amit egy haldokló adhat. Áldást. Szegény szolgája:</p>
             <p>Kmf.</p>
             <p>
-               <hi rend="italic">Pistoli, m. p. </hi>
+               <hi>Pistoli, m. p. </hi>
             </p>
             <p>*</p>
             <p>Pistoli, miután hiába nézett körül, hogy megfelelő segédeket találjon, akik a

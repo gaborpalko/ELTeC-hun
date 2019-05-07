@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>A régi ház : regény</title>
                <respStmt>
                   <resp>Original Electronic Edition</resp>
@@ -31,8 +31,8 @@
                </respStmt>
                <ref target="http://mek.oszk.hu/07200/07264"/>
                <date>2009-07-23</date>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>A régi ház</title>
                      <name>Internet Archive</name>
                      <name>Kindlevarázs</name>
@@ -40,8 +40,8 @@
                      <ref target="http://kindlevarazs.wordpress.com/kindle-teka/"/>
                   </bibl>
                </relatedItem>
-               <relatedItem type="printSource">
-                  <bibl><title>A régi ház : regény</title>
+               <relatedItem type="source">
+                  <bibl type="printSource"><title>A régi ház : regény</title>
                      <author>Tormay Cécile</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Singer és Wolfner</publisher>
@@ -50,6 +50,11 @@
                         target="http://nektar.oszk.hu/hu/manifestation/3123563"/>
                   </bibl>
                </relatedItem>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>A régi ház</title>
+               <author>Tormay Cécile</author>
+               <date>1814</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -68,8 +73,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-14"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-14"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -334,7 +340,7 @@
             megosztoztak rajtuk, onnan a gyerekszoba ablakából és, mert Kristóf toporzékolt, Anna
             neki adta a budai városház zsindelyes tornyát is és a csillagvizsgálót a Gellérthegyen.
             Csak a Jezsuita-lépcsőt tartotta meg magának.</p>
-         <p>- De az is az enyém, - mondotta a fiú telhetetlenül, <hi rend="italic">- </hi>különben
+         <p>- De az is az enyém, - mondotta a fiú telhetetlenül, <hi>- </hi>különben
             megmondom Tininek, hogy mikor fodrászt játszottunk, lenyírtad a kendőjéről a rojtot.</p>
          <p>- Én pedig megmondom, hogy beleköptél az írnok poharába. Nem, nem adom! - Anna olyan
             erősen megrázta fejét, hogy szőke haja össze-vissza keveredett a szeme előtt. A

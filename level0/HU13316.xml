@@ -24,7 +24,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>A Kont-eset :  Fantasztikus regény a XXI. századból </title>
                <date>2014-09-25</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -36,14 +36,14 @@
                   <name>Molnár Éva</name>
                   <name>Borcsiczky Krisztina</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>A Kont-eset :  Fantasztikus regény a XXI. századból </title>
                      <date>2014-09-25</date>
                   </bibl>
                </relatedItem>
                <relatedItem type="printSource">
-                  <bibl>
+                  <bibl type="firstEdition">
                      <title>A Kont-eset : fantasztikus regény a XXI. századból </title>
                      <author> Szemere György</author>
                      <pubPlace>Budapest</pubPlace>
@@ -71,8 +71,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-19"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-19"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -117,10 +118,10 @@
                álmából és segítségért kiabált. A többiek is menekülni szerettek volna, de eszükbe
                jutott, hogy őseik gyávaságukon való szégyenükben megfordulnának kriptáikban, hát
                helyt állottak, csak a tudós szaladt el; annak még nem voltak ősei.</p>
-            <p>És síri csend támadt a fényes teremben. Minden szem a vén <hi rend="italic"
+            <p>És síri csend támadt a fényes teremben. Minden szem a vén <hi
                   >betörő</hi> kezére tapadt. Némelyek előregurnyadtak, hogy első gyanús mozdulatára
                rávessék magukat. Lélek sem akadt a társa­ság­ban, a ki meg ne esküdött volna, hogy
-               bomba van az <hi rend="italic">anarchista</hi> keblében s hogy fel akarja a kaszinót
+               bomba van az <hi>anarchista</hi> keblében s hogy fel akarja a kaszinót
                robbantani.</p>
             <p>Az ellenben csak állott, nem nyult a kebelébe. Aczélos, nyugodt szemét szinte
                kedélyes kiváncsisággal legeltette a díszes társaságon és mintha sohase látott volna
@@ -129,8 +130,7 @@
             <p>Jó egy pár másodperczig tartott, míg fölengedett valamennyire az általános rémület
                fagya s felszabadultak a megdermedt idegek. Az agyak elkezdtek szabályosan működni s
                hovatovább arra az eredményre jutottak, hogy nincs félelemre ok. Újabb magatartásából
-               itélve, nem bomba­vető anarchista a jövevény, hanem valami szegény kiszabadult <hi
-                  rend="italic">őrült.</hi>.. Az urak a szerint bántak vele.</p>
+               itélve, nem bomba­vető anarchista a jövevény, hanem valami szegény kiszabadult <hi>őrült.</hi>.. Az urak a szerint bántak vele.</p>
             <p>Első sorban Kanut, a tigrisvadász s legtöbb ősű utód a jelenlevők között, érezte
                magát hiva­tottnak, hogy szembeszálljon a lefokozódott veszedelemmel. Kivágta mellét
                s egy lépést tett az őrült felé.</p>
@@ -156,7 +156,7 @@
             <p>Tibay báró belebújt a telefonbódéba és a mentőkért telefonált.</p>
             <p>Az öreg Szentmarjay elkezdett hahotázni.</p>
             <p>Kanut összesúgott Gekszi gróffal. Ez megértése jeléül bólintott a fejével, aztán
-               átvette barát­jától a vezető szerepet. Odalépett az <hi rend="italic">őrülthöz</hi>
+               átvette barát­jától a vezető szerepet. Odalépett az <hi>őrülthöz</hi>
                és megfogta a karját. De azonmód el is eresz­tette, akárcsak egy villamos-telepbe
                markolt volna bele. És alig birta kinyögni:</p>
             <p>- Üljön le kk... edves bb... arátom!</p>
@@ -165,7 +165,7 @@
             <p>- Uraim, - jelentette ki a grófocska félhangon, barátai felé fordulva, - sohase
                tapasztaltam én ilyen csudát. Olyan ennek az embernek a karja, mint a vert vas, vagy
                öntött aczél; megütöttem benne a körmömet...</p>
-            <p>Az <hi rend="italic">őrült</hi> különben engedett a Gekszi gróf felszólításának,
+            <p>Az <hi>őrült</hi> különben engedett a Gekszi gróf felszólításának,
                belevágta magát egy angol bőr­zsöllébe, széjjelterpesztette lábát, egyet sodorintott
                hatalmas bajuszán, aztán csipőjére vágta kezét, úgy nézett farkasszemet a
                rábámészkodó társasággal.</p>
@@ -176,7 +176,7 @@
                veszedelmes emberrel, nehogy tartózkodásuk gyanút keltsen benne.</p>
             <p>- Honnan jött, kedves barátom? - kérdezte tőle Klimanóczy, raccsolást, orrhangot
                felejtve reszketegen.</p>
-            <p>Az <hi rend="italic">őrült</hi> rákapta szemét, oly hirtelen fejmozdulattal, hogy a
+            <p>Az <hi>őrült</hi> rákapta szemét, oly hirtelen fejmozdulattal, hogy a
                jó Muki ijedtében majd hanyatt­esett.</p>
             <p>- Mondom, hogy részegek vagytok, kedves véreim, - szólalt meg, - avagy bolondgomba
                terem ezen a vidéken... nem tudom.</p>
@@ -184,8 +184,8 @@
                ne aknázza.</p>
             <p>- Miért gondolja uraságod, - kérdezte a bolondtól, miközben szemöldöke alá nyomta
                monok­liját, - miért gondolja, hogy bolondok vagyunk?</p>
-            <p>- Csak azért, - válaszolt ez, - mert ép az imént hivtatok <hi rend="italic">le</hi>
-               magatok közé s alighogy rászántam magamat erre a rengeteg <hi rend="italic"
+            <p>- Csak azért, - válaszolt ez, - mert ép az imént hivtatok <hi>le</hi>
+               magatok közé s alighogy rászántam magamat erre a rengeteg <hi
                   >megalázkodásra</hi>, kapja magát az a keskenyfejű (s újjal rámutatott Kanutra) és
                azt ajánlja: távozzam föltűnés nélkül, kend meg - fordult Szentmarjay felé - azt
                kérdezi tőlem: honnan jöttem?... Véreim, - konkludált a szerencsétlen (?) ember, - ez
@@ -200,9 +200,9 @@
                nyomulhasson a szerencsétlen ember lelki világába, - persze, mi csakugyan berúgtunk
                kissé a spiritusztól, mint mondani tetszett és végkép elfelejtettük, hogy hivtuk
                uraságodat. Nem emlékeztetne rá, ki s mikor hivta?</p>
-            <p>- Szivesen, - s térdére csapott az <hi rend="italic">őrült</hi>. - A bolonddal és
+            <p>- Szivesen, - s térdére csapott az <hi>őrült</hi>. - A bolonddal és
                részeg emberrel csakugyan úgy kell bánni, mint a kis gyerekkel... Hát - adta meg a
-               választ, - a tizenhatodik ükunokám hítt <hi rend="italic">le</hi>.</p>
+               választ, - a tizenhatodik ükunokám hítt <hi>le</hi>.</p>
             <p>... A tizenhatodik ükunokája!... Az őrült mániája mind mulatságosabb körvonalakban
                bonta­ko­zott ki a társaság szemében. Mert hogy valaki egy élő ember tizenhatodik
                ősének képzelje magát: az már olyan perverzitása még a beteg agyvelőnek is, a milyet
@@ -216,10 +216,10 @@
             <p>- Azt tudom, - kedélyeskedett a gróf, - csak a nevét nem tudom, nevet kérünk.</p>
             <p>- Hüm, - s hümmögött a bolond, - akkora lurkó lenne az ükunokám: lóvá tette volna az
                ük­öregapját!... Azt mondta nekem, - fordult méltatlankodva a társaság felé, - hogy
-               az egész nemzet nevében és megbizásából szólít a <hi rend="italic">földre</hi>. Hogy
+               az egész nemzet nevében és megbizásából szólít a <hi>földre</hi>. Hogy
                mindnyájan vártok rám; veszélyben a haza, rántsam ki valahogy a páczból, a mibe
                belesavanyították a király lelketlen tanácsosi... Becsapott volna a lókötő, senki se
-               várt rám, csak a maga nevében csalt <hi rend="italic">le</hi>?</p>
+               várt rám, csak a maga nevében csalt <hi>le</hi>?</p>
             <p>Az urak hovatovább egész hozzászoktak, mondhatni: hozzákedélyesedtek a furcsa s
                nyilván ártalmatlan őrülthöz. Nem is igen bánták, hogy késnek a mentők.</p>
             <p>- Nevet kérünk, - ösztökélte újból Szentmarjay, - azzal még mindig adós nekünk
@@ -229,7 +229,7 @@
             <p>Az urak összesunyítottak. Alig birták visszafojtani kitörni vágyó kaczagásukat...
                Hédery Gábris! A kis gőgpolcz, a ki röstelkedve fog kezet mindenkivel, a kinek
                legalább is egy máltai lovagságra való családfája nincs! Valóságos irónia, kaczagtató
-               komédia, hogy az <hi rend="italic">őrült</hi> épen egy ilyen embert választott
+               komédia, hogy az <hi>őrült</hi> épen egy ilyen embert választott
                ükunokájának. Úgy kell neki! Micsoda heczczet csinálnának vele, ha most hirtelen
                közéjük toppanna! Holtra kaczagnák magukat.</p>
             <p>- Hihihi, - súgta nevetve Gekszi gróf a Kanut fülébe, - addig idézte Gábris a
@@ -239,7 +239,7 @@
                a hét eget, sőt bízott a reinkarnaczióban, a materializáczióban is... (Hát ime itt
                van a matériája!)</p>
             <p>Azonban nem lehetett sokat mókázni, hogy ki ne találjon valahogy törni, szórakoztatni
-               kellett az érdekes <hi rend="italic">őrültet</hi>.</p>
+               kellett az érdekes <hi>őrültet</hi>.</p>
             <p>- Tehát kegyed egy Héderi Kont, - konstatálta komoly képpel Kanut. - Szabad tudnunk,
                hogy melyik? Mikor született?</p>
             <p>Az őrült gőggel tért ki a részletes felelet elől, mellbecsapta magát:</p>
@@ -247,29 +247,28 @@
             <p>A Garay versét nem ismerte Kanut.</p>
             <p>- Jó, de mikor született? - okvetetlenkedett a gőgös őssel.</p>
             <p>
-               <hi rend="italic">Kont</hi> megcsóválta hatalmas üstökét.</p>
+               <hi>Kont</hi> megcsóválta hatalmas üstökét.</p>
             <p>- Hát - s felsóhajtott, - csakugyan igaza volt az én Garay komámnak. Ennyire sülyedt
                a magyar, hogy vértanúit sem tartja számon!? Csak a lantosok tudnak róluk, azokra
                pedig fittyet hány a nemzet!</p>
             <p>- Ahá, - kiáltott fel az öreg Szentmarjay, véknyát fogva, hogy a kaczagás ki ne
                csattanjon a száján. - Uraságod az a Kont, a ki összeesküvést forralt Zsigmond király
                ellen.</p>
-            <p>- És - tódította az <hi rend="italic">őrült</hi>, - a ki ezért a merészségért
+            <p>- És - tódította az <hi>őrült</hi>, - a ki ezért a merészségért
                lefejeztetett... Tehát - konstatálta boldogan, - mégse felejtettetek el, becsapott
                Garay... De megállj, imposztor, - fenyegette meg a jó poétát, - ezért bevádollak; nem
                érdemled meg a harmadik eget.</p>
             <p>- Ott találkozott uraságod Garayval? - kérdezte nekibátorodva a sunyi Klimanóczy.</p>
             <p>- Ott. Egy rangban voltam vele. Nekem az összeesküvés miatt hétszáz esztendő kellett
-               ahhoz, a mihez neki negyven is elég volt... Hiába, - sóhajtott <hi rend="italic"
+               ahhoz, a mihez neki negyven is elég volt... Hiába, - sóhajtott <hi
                   >Kont</hi>, - a lantosoknak az egek is kedveznek.</p>
             <p>- Bruhaha, - tört ki Kanut akarata ellenére, - hát az égben is van protekczió?</p>
             <p>- Van. Protekczió csak a hetedik égben nincs. Ott, a legfelső fokon teljes a
                rény.</p>
             <p>De ezt már senki se állotta meg kaczagás nélkül. Kitört a jókedv zivatarja: a fényes
-               terem csak úgy harsogott bele. Az urak, vesztükre, megfeledkeztek róla, hogy <hi
-                  rend="italic">őrülttel</hi> van dolguk.</p>
+               terem csak úgy harsogott bele. Az urak, vesztükre, megfeledkeztek róla, hogy <hi>őrülttel</hi> van dolguk.</p>
             <p>
-               <hi rend="italic">Kont</hi> felpattant, mintha aczélrúgó lökte volna fel és
+               <hi>Kont</hi> felpattant, mintha aczélrúgó lökte volna fel és
                megfenyegette a rovására mulató társa­ságot.</p>
             <p>- Elég legyen a nyiharászásból, mert ütök!</p>
             <p>A kaszinó urai megszeppentek. (A roham! A roham!) Összeszedték minden tapintatukat,
@@ -277,18 +276,18 @@
             <p>- Papa... pardon! - kérlelte hebegve Klimanóczy, - mi nem uraságodon nevettünk, csak
                a pompás viczczein.</p>
             <p>A többiek is mentegetődztek, hajlongtak és vigyorogtak neki...</p>
-            <p>Jó magyar természete volt <hi rend="italic">Kont</hi> úrnak; az udvarlástól
+            <p>Jó magyar természete volt <hi>Kont</hi> úrnak; az udvarlástól
                egyszeribe úgy lelohadt a mérge, mint az ökörhólyag, a mibe tűt szúrtak.</p>
             <p>- Nohát - s fújt egyet, - tanácslom is, hogy tisztességgel legyetek, ha köztetek
                vagyok.</p>
             <p>- Meglesz... Jók leszünk...</p>
-            <p>- Akkor, - bökte ki <hi rend="italic">Kont</hi> úr s egy nagyot ásított hozzá, -
+            <p>- Akkor, - bökte ki <hi>Kont</hi> úr s egy nagyot ásított hozzá, -
                adjatok egy kis gyömbéres bikahúst s egy kupa bort a tetejébe, mert rettenetesen
                megéheztem útközben... Nem csuda - tette hozzá, - hisz nyolcz milliárd mértföldet
                utaztam két hajtásra.</p>
             <p>- Ha szabad tudnom, - kérdezte most már szerényen Szentmarjay, - merre tetszett jönni
                és honnan?</p>
-            <p>- Mondtam már egyszer, - hujjantott rá az <hi rend="italic">őrült</hi>, - hogy a
+            <p>- Mondtam már egyszer, - hujjantott rá az <hi>őrült</hi>, - hogy a
                harmadik égből. Mindössze a Saturnuson tartottam stácziót.</p>
             <p>- És - érdeklődött ugyancsak szerényen Gekszi gróf, - milyen alkalmatosságon
                méltóztatott utazni?</p>
@@ -302,13 +301,13 @@
             <p>- Hogyne, hiszen mindenttudó szellem voltam mindaddig, a míg a szobájába léptem; csak
                ott vettem magamra a butító porhüvelyt.</p>
             <p>Az urak csak ámultak-bámultak. Oly könnyed és biztos volt az őrült ember minden
-               felelete, mint a tudósé, a ki úr a tudománya felett. <hi rend="italic">Őrült</hi>
+               felelete, mint a tudósé, a ki úr a tudománya felett. <hi>Őrült</hi>
                volt, de (azt mindenkinek be kellett látnia) rendszer volt az őrületében.</p>
             <p>- Persze, - folytatta magától az égi utas, - most már megbántam kissé a komédiát...
                Ez a fránya gúnya is vágja a hónomat: szűk.</p>
             <p>- Ugyan - kérdezte Kanut, csakhogy mondjon valamit, - kitől tetszett a ruhát
                kapni?</p>
-            <p>- Az ükunokám adta rám, - válaszolt az <hi rend="italic">őrült</hi> egyszerűen. - Az
+            <p>- Az ükunokám adta rám, - válaszolt az <hi>őrült</hi> egyszerűen. - Az
                égben nem csinálnak ruhát.</p>
             <p>Kont úrnak, hogy egyszer szóba hozta, egyszeribe tűrhetetlenné lett a frakkja.
                Addig-addig feszengett benne, míg csakugyan megrepedt a hóna alatt.</p>
@@ -340,21 +339,21 @@
             <p>- Ne-ne-nem, - hebegte, - a Ko-Ko-Kont szelleme.</p>
             <p>Az urak összenéztek. Klimanóczy kiszaladt, hogy utána nézzen a mentőknek.</p>
             <p>
-               <hi rend="italic">Kont</hi> ezenközben megúnta, hogy senki sem foglalkozik vele s
+               <hi>Kont</hi> ezenközben megúnta, hogy senki sem foglalkozik vele s
                hogy súgnak-búgnak a háta megett, megsürgette előbbeni kérését.</p>
             <p>- Hát mi lesz azzal a bikahússal? Éhen csak nem veszhetek magyarok között!</p>
             <p>Az urak megbiztatták:</p>
             <p>- Azonnal Kont úr, a szakács főzi már a bikahúst...</p>
-            <p>- Mondja csak, kedves ős, - faggatta az <hi rend="italic">őrültet</hi> a
+            <p>- Mondja csak, kedves ős, - faggatta az <hi>őrültet</hi> a
                javíthatatlan Szentmarjay, - hogy került kegyed az unokájától így egymagában a mi
                társaságunkba? Miért nem kisérte el kedves ükunokája?</p>
-            <p>- Az nagyon egyszerű, - válaszolt <hi rend="italic">Kont</hi> úr készségesen, - az
-               éhség hozott ide. Az ükunokám ugyanis kétszer is elájult, mióta <hi rend="italic"
+            <p>- Az nagyon egyszerű, - válaszolt <hi>Kont</hi> úr készségesen, - az
+               éhség hozott ide. Az ükunokám ugyanis kétszer is elájult, mióta <hi
                   >megérkeztem</hi>. Még talán most is ott hever az asztal alatt. Hát, mondok,
                keresek magamnak egy vigabb házat, a hol enni is kapok, a helyett, hogy elájuljanak
                tőlem... Ez a ház itt igen ki volt világítva, mondok, e helyt valami áldomást tarthat
                a gazda, jutni fog belőle nekem is.</p>
-            <p>Szörnyű gyanú czikázott át a Kanut agyvelején... Hédery elájult az <hi rend="italic"
+            <p>Szörnyű gyanú czikázott át a Kanut agyvelején... Hédery elájult az <hi
                   >őrült</hi> szerint, (még most is ott fekszik az asztal alatt). Mitől ájulhatott
                volna el? Nyilván leütötte az őrült... (Ezzel meg­került a frakkérdés kulcsa is.)</p>
             <p>- Urak, - jelentette ki magából kikelve, - én szaladok a Hédery-palotába. Ki tudja,
@@ -364,16 +363,16 @@
             <p>- Nincs a gyereknek kutyabaja se, csak elszédült, mint az egynapos liba.</p>
             <p>Az urak most már beszüntették úgy a félelmet, mint a kedélyeskedést; idegenül,
                gyülölettel nézték az ártalmatlannak tartott, de immáron közveszélyesnek bizonyult
-                  <hi rend="italic">őrültet</hi>. Kanutnak (mielőtt távozott volna) volt annyi
+                  <hi>őrültet</hi>. Kanutnak (mielőtt távozott volna) volt annyi
                bátorsága, hogy szóra is váltsa indulatát.</p>
-            <p>- Mit csinált a gróffal? - támadt rá <hi rend="italic">Kont</hi> úrra. - Bizonyára
+            <p>- Mit csinált a gróffal? - támadt rá <hi>Kont</hi> úrra. - Bizonyára
                megütötte!</p>
             <p>
-               <hi rend="italic">Kont</hi> megbotránkozott az inszinuáczion.</p>
+               <hi>Kont</hi> megbotránkozott az inszinuáczion.</p>
             <p>- Ütötte a manó. A saját ükunokámat csak nem fogom bántani.</p>
             <p>- Akkor mitől ájult el?</p>
             <p>
-               <hi rend="italic">Kontnak</hi> nem volt ideje felelni. A lépcsőházból sulyos lépések
+               <hi>Kontnak</hi> nem volt ideje felelni. A lépcsőházból sulyos lépések
                kongása hallatszott be a terembe s egy parancsoló hang harsány rendelkezése.</p>
             <p>Az urak föllélekzettek... Végre megérkeztek a mentők. Legfőbb ideje volt!</p>
             <p>Csakugyan! Nyilt az ajtó s megjelent benne a Klimanóczy feje.</p>
@@ -384,20 +383,20 @@
             <p>A fogdmegek körülfogták főnöküket. A kaszinótagok borzalommal vegyes érdeklődéssel
                néztek elébe a lefülelési műveletnek.</p>
             <p>Az orvos ravaszul, szép szóval kezdte:</p>
-            <p>- Kedves uram, - szólította meg az <hi rend="italic">őrültet</hi>, - önön nincs
+            <p>- Kedves uram, - szólította meg az <hi>őrültet</hi>, - önön nincs
                kabát... Szabad egygyel megkinál­nom? Ez épen passzolna önre.</p>
             <p>Az őrült általános meglepetésre, első szóra elfogadta a kinált kényszerzubbonyt. Még
                oda is tartotta karjait a fogdmegeknek, hogy megkönnyítse a dolgukat.</p>
             <p>- Zsupsz! - A két markos legény egy-kettőre belerázta a beteget a szomorú zubbonyba.
                Most már a kabátújjak hátrakötése következett volna, de ez már nem ment olyan
-               szaporán. Azaz sehogyse ment. <hi rend="italic">Kont úr</hi> gyanúra kapott s mint
+               szaporán. Azaz sehogyse ment. <hi>Kont úr</hi> gyanúra kapott s mint
                csattogó agyarú vadkan a szelindekfalkát, le­rázta magáról a két betegápolót.</p>
             <p>- Miért akarjátok hátrakötni a kezemet? - ordította s megrázta oroszlánüstökét. - A
                mai királyotokat nem bántottam én.</p>
-            <p>Az urak csak dűltek-hűltek... Kont szerepéhez következetes marad az <hi rend="italic"
+            <p>Az urak csak dűltek-hűltek... Kont szerepéhez következetes marad az <hi
                   >őrült</hi> a kényszerzub­bony igája alatt is... Jellemes őrült, annyi
                bizonyos!</p>
-            <p>- Zsigmondot sem <hi rend="italic">ráztam</hi> volna meg, - folytatta Kont úr, - ha
+            <p>- Zsigmondot sem <hi>ráztam</hi> volna meg, - folytatta Kont úr, - ha
                meg nem sérti vala a nemesek törvényeit s az esküjét, a mit ezekre a törvényekre
                tett. De megsértette!... Én nem tettem egyebet, teljesítettem legszentebb
                kötelességemet. S vértanúhalált haltam a hazámért... Azt hittem, - folytatta
@@ -411,27 +410,26 @@
                antik veretű hős sziluettje. Feje kevélyen hátracsuklott, szeme szinte szikrázott az
                elszántság tüzében.</p>
             <p>Az orvos hozzálépett.</p>
-            <p>- Tévedni tetszik, - csöndesítette <hi rend="italic">betegét</hi>, - nem vérpadról
+            <p>- Tévedni tetszik, - csöndesítette <hi>betegét</hi>, - nem vérpadról
                van itt szó, inkább javát akarjuk uraságodnak; ápolni, szeretni fogjuk, mert
                beteg.</p>
-            <p>- Beteg a menydörgős ménkű! - szitkozódott <hi rend="italic">Kont</hi> úr. - Ismerem
+            <p>- Beteg a menydörgős ménkű! - szitkozódott <hi>Kont</hi> úr. - Ismerem
                én már - folytatta, - ezeket a jámbor fogásokat. Be akartok csapni, hogy könnyebb
                legyen a dolgotok, mert tudjátok, hogy Kont vitéz ingyen nem adja meg magát! Átlátok
                a szitán!</p>
             <p>Az orvos nem okoskodott tovább. Megadta a jelt a négy emberének.</p>
             <p>- Rajta!</p>
-            <p>A fogdmegek (most már négyen) rávetették magukat az <hi rend="italic">őrültre</hi>.
+            <p>A fogdmegek (most már négyen) rávetették magukat az <hi>őrültre</hi>.
                Ki a kezét, ki a lábát, ki a nyakát kapta el. De hajna, nem használt az erőlködésük
-               semmit. <hi rend="italic">Kont</hi> úr egyet pördült a sarkán s úgy széjjelhányta
+               semmit. <hi>Kont</hi> úr egyet pördült a sarkán s úgy széjjelhányta
                elszánt támadóit, hogy alig lehetett őket összeszedni az asztalok és kanapék
                alól.</p>
             <p>Felséges látvány volt. Az uraknak meghült a vérük. Az orvos bámulatában szinte
                elvesztette itélőképességét.</p>
-            <p>- Ez nem <hi rend="italic">emberi</hi> erő, - motyogta. - Ilyen embert nem szül <hi
-                  rend="italic">mai</hi> anya.</p>
+            <p>- Ez nem <hi>emberi</hi> erő, - motyogta. - Ilyen embert nem szül <hi>mai</hi> anya.</p>
             <p>- Hát - szólt s újabb támadáshoz gyürkőzött Kont vitéz, - nem is mai anya szült
                engem. Ha még most se hiszitek, bebizonyítom nektek másképen is.</p>
-            <p>Alig ejtette ki a <hi rend="italic">fenyegetést</hi>, forgószélnél sebesebben, a
+            <p>Alig ejtette ki a <hi>fenyegetést</hi>, forgószélnél sebesebben, a
                saját ingénél fehérebben, égnek meredő hajjal, nyakkendőtelenül egy czingár kis alak
                viharzott be a társaságba.</p>
             <p>- Urrak! - kiabálta magából kikelve. - Megjött az ükapám.</p>
@@ -445,9 +443,9 @@
                az urak: nem tud­hat­ták, hogy az ükapámmal van dolguk.</p>
             <p>Azzal leránczigálta Kont úrról a kényszerzubbonyt.</p>
             <p>- Hát nem akartok felakasztani? - kérdezte ez lelohadva.</p>
-            <p>- Nem, nem, nem, - állította az <hi rend="italic">ükunokája</hi>, - majd
+            <p>- Nem, nem, nem, - állította az <hi>ükunokája</hi>, - majd
                megmagyarázom nekik az esetet...</p>
-            <p>- Hát magyarázd, - biztatta <hi rend="italic">Kont</hi> úr, - csak sebesen, mert irtó
+            <p>- Hát magyarázd, - biztatta <hi>Kont</hi> úr, - csak sebesen, mert irtó
                éhes vagyok.</p>
             <p>Héderi Gábris pózba vágta magát a társaság előtt.</p>
             <p>- Uraim, - fogott a beszédbe illő czerimóniával, - van szerencsém nektek bemutatni
@@ -460,7 +458,7 @@
                gróf további szavait.</p>
             <p>- Mint látom, - folytatta ez, - meg vagytok döbbenve. Nem csuda. Magam sem lehettem
                elkészülve arra a nagy megtiszteltetésre, a melyben az egek engem, az egész hazát,
-               boldogult ükapám szellemének <hi rend="italic">reinkarnáltatása</hi> által
+               boldogult ükapám szellemének <hi>reinkarnáltatása</hi> által
                részesítették.</p>
             <p>- Hát nem is a te szép szemedért jöttem le, - szólt közbe Kont úr, - hanem mert a
                hazára hivatkoztál. Gondoltam: ha csakugyan veszélyben a hon, lejövök közétek emberi
@@ -468,8 +466,7 @@
             <p>- Áldott légy érte, ükapám! - zengedezte Gábris gróf, majd így folytatta
                fölvilágosításait:</p>
             <p>- Az asztalkám mellett ülök és elmélyedek; hivom a szellemeket: a jó angyalt és az
-               ükapámat. Az asztalka rögtön reagál; elkezd ugrálni, irni... Nemsokára <hi
-                  rend="italic">transzba</hi> esem. A jó angyal és ükapám közvetlenül beszélgetnek
+               ükapámat. Az asztalka rögtön reagál; elkezd ugrálni, irni... Nemsokára <hi>transzba</hi> esem. A jó angyal és ükapám közvetlenül beszélgetnek
                velem. Oda vagyok az áhitattól. Mint rendesen, arra kérem ükapámat, segítsen ezen az
                árva nemzeten; adjon valami honmentő tanácsot, hiszen az, a ki meghalt a hazájáért,
                el nem felejthette azt az egekben sem.</p>
@@ -486,14 +483,13 @@
                az ükapám? Rettenetes pánik fogott el az eltűnése miatt. Kiszaladtam az utczára, mint
                egy őrült, kérdezősködtem, futkostam, míg végre, hála a magyarok Istenének,
                megtalál­tam köztetek...</p>
-            <p>- Éhes voltam, azért szöktem el, - világosította fel <hi rend="italic">Kont</hi>
+            <p>- Éhes voltam, azért szöktem el, - világosította fel <hi>Kont</hi>
                vitéz aggódó ivadékát.</p>
             <p>...Gekszi gróf, hogy agyáról (a Gábris előadása folytán) eloszlott a homály,
                egyszeribe meg­gyógyult. Helyette azonban a többi úr betegedett meg, mint a kiknek
-               agy veleje még nem érkezett megemészteni a <hi rend="italic">csudát</hi>.</p>
-            <p>A <hi rend="italic">Kont</hi> biztos magatartása, a frakk megvilágított eredete, a
-               Hédery előadása, melynek minden egyes szava összhangba volt hozható az őrültnek <hi
-                  rend="italic">vélt</hi> idegen állításaival: olyan perspektivát állított az urak
+               agy veleje még nem érkezett megemészteni a <hi>csudát</hi>.</p>
+            <p>A <hi>Kont</hi> biztos magatartása, a frakk megvilágított eredete, a
+               Hédery előadása, melynek minden egyes szava összhangba volt hozható az őrültnek <hi>vélt</hi> idegen állításaival: olyan perspektivát állított az urak
                elé, a melytől megzsibbadtak az érzékek és felborult az itélőképesség
                egyen­sulya.</p>
             <p>Száz kérdés kavarodott össze az elmék homályában: Csuda történt-e csakugyan, vagy
@@ -509,21 +505,20 @@
                lett volna a földön. De abban (bár Héderi három példát is tudott rá), senki se hitt.
                Ilyenformán meg­bukott a józan ész, az urak képtelenek voltak a megfoghatatlant
                valónak elfogadni. A csuda nem csuda, csak a véletlenek csudálatos végzetes
-               összejátszása; Kont valami svindler akrobata, a ki <hi rend="italic"
+               összejátszása; Kont valami svindler akrobata, a ki <hi
                   >megbabonázta</hi> Héderyt, mert az csak mégse lehet, hogy egy máltai lovag
-               roszhiszeműleg <hi rend="italic">csaljon</hi>.</p>
+               roszhiszeműleg <hi>csaljon</hi>.</p>
             <p>Ez hát rendben lett volna, a kérdés most már csak az volt: mitévők legyenek az urak?
-               Kiadják-e a <hi rend="italic">szélhámost</hi> a mentőknek, vagy elzárassák őt? Avagy
+               Kiadják-e a <hi>szélhámost</hi> a mentőknek, vagy elzárassák őt? Avagy
                egyszerűen kilökjék az utczára?</p>
             <p>Mindegyik eszmének meg volt a maga bibéje. A kilökés, a vasgyúró roppant erejénél
                fogva, aligha lett volna foganatosítható. Az elzáratásra nem volt elegendő ok. Maradt
                volna az őrültekháza, de az ellen meg Héderi tiltakozott... Vagy őt is a svindler
                mellé csukassák, ha okvetetlenkedik?...</p>
             <p>A kaszinótagok összesúgtak-búgtak, tanácskoztak, veszekedtek, s végre is abban
-               állapodtak meg, hogy meg kell eszelni Héderit: ne gördítsen akadályt az <hi
-                  rend="italic">ükapja megfigyeltetése</hi> elé. Ugyis kieresztik, ha épeszűnek
+               állapodtak meg, hogy meg kell eszelni Héderit: ne gördítsen akadályt az <hi>ükapja megfigyeltetése</hi> elé. Ugyis kieresztik, ha épeszűnek
                bizonyul.</p>
-            <p>Kapaczitálták a kis embert, de az hallani sem akart a <hi rend="italic"
+            <p>Kapaczitálták a kis embert, de az hallani sem akart a <hi
                   >merényletről</hi>.</p>
             <p>- Megőrültetek? - rikácsolta. - Az én ükapámat, a vértanut őrültek közé csukatni!
                Inkább meg­halok...</p>
@@ -535,8 +530,7 @@
             <p>Héderi a haját tépte.</p>
             <p>- Nem engedem megvizsgáltatni! - kiabálta. - Ez kegyeletsértés! Infámia!</p>
             <p>Szerencsére Kont kedélyesebb volt unokájánál.</p>
-            <p>- Hagyd őket, fiam, - csillapította kedvelt vérét, - hadd vizsgáljon meg a <hi
-                  rend="italic">fizikus</hi>. Elvégre - tette hozzá, - nem csuda, ha őrültnek
+            <p>- Hagyd őket, fiam, - csillapította kedvelt vérét, - hadd vizsgáljon meg a <hi>fizikus</hi>. Elvégre - tette hozzá, - nem csuda, ha őrültnek
                hisznek. Hiszen te is fölfordultál, mikor a szobádba pottyan­tam. (Azzal az orvoshoz
                fordult.) Legyen vége a komédiának; szedje elő a birkalapoczkáját és rakja meg a
                tüzet.</p>
@@ -555,9 +549,9 @@
             <p>Héderi megharagudott a hitetlenségükért.</p>
             <p>- Még most is kételkedtek? - fakadt ki idegesen.</p>
             <p>Az urak megvonogatták vállukat.</p>
-            <p>- Ükapa, - fordult Gábris gróf <hi rend="italic">Konthoz</hi>, - bizonyítsd be nekik
+            <p>- Ükapa, - fordult Gábris gróf <hi>Konthoz</hi>, - bizonyítsd be nekik
                valahogy a személyazonos­ságodat.</p>
-            <p>Erre meg <hi rend="italic">Kont</hi> úr vonogatta meg a vállát.</p>
+            <p>Erre meg <hi>Kont</hi> úr vonogatta meg a vállát.</p>
             <p>- Hogy bizonyítsam be?</p>
             <p>- Idézz egy szellemet és tétess vele csudát.</p>
             <p>- Ez egy eszme, - helyeselte Kont az ötletet s mindjárt ott állóhelyében megidézte a
@@ -592,7 +586,7 @@
             <p>Egy negyedóra múlva megérkeztek a szabó, a lakáj és a ruhák. Egy másik negyed múlva
                már a Rottberger úr művében feszített Kont vitéz. Az ükunokája most már bemutathatta
                őt az egész kaszinónak. A díszterembe vezette...</p>
-            <p>A <hi rend="italic">csuda</hi> hirére nagyszámban összeverődött tagok ünnepies
+            <p>A <hi>csuda</hi> hirére nagyszámban összeverődött tagok ünnepies
                zúgással s a várakozás lázától pirosan fogadták a 700 éves vértanút. (Jól nézett ki
                az öreg a koczkás angol szabású jacketjé­ben és piros nyakkendőjével.) Majd
                fölszabadultak az izgalomtól lenyügözött tüdők s olyan éljenrivalgás csattant ki a
@@ -604,7 +598,7 @@
                ősötöket. Sose is felejtsétek el: a kort és a virtust tisztelni kell... Ükunokámtól
                hallottam, - folytatta, - hogy nem boldog a magyar. Még az égbe üzente fel nekem,
                hogy beszüntettétek a nádorságot. Ez irtó nagy hiba volt. A minthogy az az emberfia,
-               a kit az ő helyére a király nevez ki, <hi rend="italic">nem ti választotok</hi> (s
+               a kit az ő helyére a király nevez ki, <hi>nem ti választotok</hi> (s
                itt az irtó hiba), már össze is szűrte a levet a némettel, félig-meddig eladta nekik
                a hazát. Azért jöttem le hozzátok az égből, hogy segítsek ezen a rettentő szégyenen.
                Hát - s magasra emelte kezét, - fogadom is, hogy addig nem megyek vissza az égbe, a
@@ -619,14 +613,14 @@
             <p>...A többit - folytatta a szónok, - rám lehet bízni. Nem vagyok szerénytelen, ha azt
                mondom, hogy valamennyiőtöknél jobban értek az országlászathoz. De - s lendületet
                vett a szava - nemcsak a szűkebb értelemben vett országlászatot tudom én, értek a
-               hadviseléshez, az <hi rend="italic">össze­esküvéshez</hi> is. (Mozgás.) Saját kárán
+               hadviseléshez, az <hi>össze­esküvéshez</hi> is. (Mozgás.) Saját kárán
                okul a magyar! Azt hiszem, senki sincs köztetek olyan, a kinek alkalma lett volna a
                saját feje árán kibővítenie az összeesküvés terén szerzett tapasz­talatait. Egyszóval
                megbízhattok bennem... Ki is nevezem magamat tüstént a vezéreteknek, mert, úgy
                látszik, manapság a kinevezések divatja járja...</p>
             <p>Ihletten szívta fel Kont vitéz szavait a magyarok lelke. Csak az utolsó passzust
                találták kissé borsosnak Árpád loyalis ivadékai. Némelyek megfeszengtek a frakkjukban
-               (szerettek volna a föld alá bujni), mások egy <hi rend="italic">felvilágosító</hi>
+               (szerettek volna a föld alá bujni), mások egy <hi>felvilágosító</hi>
                szónoklaton törték a fejüket, hogy mérsékeljék a vértanú túlzott buzgalmát. Akadtak
                azonban olyanok is, örök kurucz lelkek nyugtalan, szilaj vérű ivadéki, a kik
                megfeledkeztek arról, hogy egy igen bölcs, méltóságosan konzervativ úri társaság
@@ -650,9 +644,9 @@
             <p>- Dicső uram! - kezdte - Mélyen tisztelt barátaim! Egy, mondhatnám, sőt közérzésem
                paran­csára mondom is: egy kínos kötelességet ró rám igazgatói állásom. Ez a
                kötelesség: a kaszinó nemes tradiczióit, előkelő szellemét minden viszonyok között
-               épentartani. A mi magas, mond­hatnám, sőt mondom is: a mi <hi rend="italic"
+               épentartani. A mi magas, mond­hatnám, sőt mondom is: a mi <hi
                   >magasztos</hi> vendégünk és elődünk, Istenben boldogult, de szerencsésen újra
-               életre kelt Kont vitéz az imént egy oly szót ejtett ki, beösmerem: <hi rend="italic"
+               életre kelt Kont vitéz az imént egy oly szót ejtett ki, beösmerem: <hi
                   >fönséges</hi> száján, a mit remegve bár, de megjegyzés nélkül nem hagyhatok. Ez a
                szó: összeesküvés... Itt - folytatta a szónok akadozva bár, de elszántan, - a mi
                fényes termeinkben idegen ez a szó. Mi lojális, békés alattvalók vagyunk, imádjuk
@@ -661,13 +655,13 @@
                különben: Éljen Kont vitéz!</p>
             <p>Kont kezet fogott az öreg kegyelmessel, jószivüen, kordiálisan.</p>
             <p>- Nem értettél meg öcsém, - mondta neki. - Ki akarja bántani a királyotokat, ha
-               betartja a törvényt? A német király ellen izgattam én: a <hi rend="italic"
-                  >császár</hi> ellen, épen hogy a <hi rend="italic">királyunk mellett</hi>.</p>
+               betartja a törvényt? A német király ellen izgattam én: a <hi
+                  >császár</hi> ellen, épen hogy a <hi>királyunk mellett</hi>.</p>
             <p>A rendes körülmények között természetes mentség Kont őszinte (?) bámulatára roppant
                zavarba hozta az előkelő publikumot</p>
             <p>Belényessy gróf hápogott valamit, de a hangját nem lehetett hallani, csak a szája
                járt. Azt is befogta (teljes tisztelettel bár), Hédery Gábor, az ükunoka.</p>
-            <p>- Ne beszélj, holnap majd megmagyarázom ükapának a <hi rend="italic"
+            <p>- Ne beszélj, holnap majd megmagyarázom ükapának a <hi
                >viszonyokat</hi>.</p>
             <p>A kegyelmes bólintott.</p>
             <p>- Jó, - mondta, - de jól magyarázd meg, hogy megértse valahogy.</p>
@@ -789,7 +783,7 @@
             <p>(Az igazgató kiintette a szolgaszemélyzetet. Igen drukkolt már a vértanú szabad
                szájától.)</p>
             <p>Kivonulván a szolgák, rákezdte Kont vitéz:</p>
-            <p>- Véreim! Azt már idáig is kitapasztaltam: bor és <hi rend="italic">kupa</hi> mellett
+            <p>- Véreim! Azt már idáig is kitapasztaltam: bor és <hi>kupa</hi> mellett
                víg legények vagytok, kor­társaim sem voltak különbek nálatok. Úgy is való az,
                gyerekek, mert hozzá tartozik a magyar virtushoz, hogy minden téren: gyalog, lóháton,
                mennyben és pokolban, áldomásnál, csata zivatarában, országgyűlésen, szép asszony
@@ -879,7 +873,7 @@
             <p>A segédek megneveztettek.</p>
             <p>Kont Kanutot és ükunokáját bizta meg a további tárgyalással, Klimanóczy két jámbor
                béke­barátot: az igazgatót és Zárday grófot.</p>
-            <p>De ezzel aztán meg is áporodott a <hi rend="italic">magnum áldomás</hi> ize
+            <p>De ezzel aztán meg is áporodott a <hi>magnum áldomás</hi> ize
                végképen.</p>
             <p>Az urak szökdösni kezdtek és hazavitték Gábrist is, a ki végkép elázott...</p>
             <p>Kont vitéz, mikor végkép lefogyott a mulatók száma, füle mellé rendelte a czigányt és
@@ -980,7 +974,7 @@
             <p>Gabi a hajába markolt.</p>
             <p>- Az én lovammal?</p>
             <p>- Azt hiszem, - vélte a komornyik, - mert az öreg gróf úr aligha hozott magával az
-               égből <hi rend="italic">tizenhat</hi> lovat!</p>
+               égből <hi>tizenhat</hi> lovat!</p>
             <p>- Tizenhatot?!... Miért épen tizenhatot?</p>
             <p>- Annyian vannak a czigányok.</p>
             <p>Gabi visszamászott az ágyába és fejére húzta a paplant, hogy ne halljon. De csakhamar
@@ -1352,154 +1346,154 @@
                és körül­fogták a mesebeli vendéget karéjban. A részben előre megállapított
                főkérdéseket a legtekinté­lye­sebb lap (a «Magyar Birodalom») tette fel.</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> Sziveskednék méltóságod megmondani, mi birta rá,
+               <hi>A tudósító:</hi> Sziveskednék méltóságod megmondani, mi birta rá,
                hogy otthagyja mennybéli hazáját s magas poziczióját gyarló porhüvelylyel cserélje
                fel?</p>
             <p>
-               <hi rend="italic">Kont:</hi> A hazámért való aggodalom.</p>
+               <hi>Kont:</hi> A hazámért való aggodalom.</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> És mi úton értesült méltóságod a haza mostoha
+               <hi>A tudósító:</hi> És mi úton értesült méltóságod a haza mostoha
                sorsáról?</p>
             <p>
-               <hi rend="italic">Kont:</hi> Az ükunokám üzente fel nekem egy asztalláb
+               <hi>Kont:</hi> Az ükunokám üzente fel nekem egy asztalláb
                segítségével.</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> És rögtön leszállott méltóságod a hivására?</p>
+               <hi>A tudósító:</hi> És rögtön leszállott méltóságod a hivására?</p>
             <p>
-               <hi rend="italic">Kont:</hi> Nem épen rögtön, de annyit panaszkodott a Gábor, hogy
+               <hi>Kont:</hi> Nem épen rögtön, de annyit panaszkodott a Gábor, hogy
                végre is megsajnáltam a hazát.</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> S mi úton-módon szándékozik méltóságod a haza
+               <hi>A tudósító:</hi> S mi úton-módon szándékozik méltóságod a haza
                sorsán segíteni?..</p>
             <p>
-               <hi rend="italic">Kont:</hi> Arról most nem nyilatkozhatom. Először meg kell
+               <hi>Kont:</hi> Arról most nem nyilatkozhatom. Először meg kell
                ismerkednem a népemmel, mert a mint kigyelmetek képéből is kitűnik, súlyos
                vérkavarodások történhettek itt Zsigmond óta.</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> Helyes; a faj megnemesedett, de ki fog-e
+               <hi>A tudósító:</hi> Helyes; a faj megnemesedett, de ki fog-e
                méltóságod igazodni a földön hét század öltő távollét után?</p>
             <p>
-               <hi rend="italic">Kont:</hi> Ki, barátom. Annyit már most is elárulhatok, hogy
+               <hi>Kont:</hi> Ki, barátom. Annyit már most is elárulhatok, hogy
                hétszáz év alatt alig változott itt valami. Úgyszólván csak formát cseréltek az
                emberek és a házak.</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> Nem vitatkozom méltóságoddal...</p>
+               <hi>A tudósító:</hi> Nem vitatkozom méltóságoddal...</p>
             <p>
-               <hi rend="italic">Kont</hi> (szavába vágva): Azt nem is tanácsolom.</p>
+               <hi>Kont</hi> (szavába vágva): Azt nem is tanácsolom.</p>
             <p>
-               <hi rend="italic">A tudósító</hi> (megsértődre, némi gúnynyal): Mi a czivilizált
+               <hi>A tudósító</hi> (megsértődre, némi gúnynyal): Mi a czivilizált
                világ első nagyhatalma vagyunk, de az éggel még sem akarunk perbe szállni.</p>
             <p>
-               <hi rend="italic">Kont:</hi> A világ első nagyhatalmai a kötél és a patkány. (Óriási
+               <hi>Kont:</hi> A világ első nagyhatalmai a kötél és a patkány. (Óriási
                konsternáczió.)</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> Lenne szives méltóságod megmagyarázni, miként
+               <hi>A tudósító:</hi> Lenne szives méltóságod megmagyarázni, miként
                értelmezi eme merész állítását?</p>
             <p>
-               <hi rend="italic">Kont:</hi> Hát megmagyarázom <hi rend="italic">kendteknek</hi> úgy,
+               <hi>Kont:</hi> Hát megmagyarázom <hi>kendteknek</hi> úgy,
                hogy még kendtek is megérthessék... Egy jó hatrét kötéllel föl lehet kötni sorjában
                az egész emberiséget s a patkány egy óra alatt megeszi ezt a kötelet. Akkor pedig az
-               egész emberiség <hi rend="italic">élete</hi> a patkány gyomrában van.</p>
+               egész emberiség <hi>élete</hi> a patkány gyomrában van.</p>
             <p>A zseniális paradox mondás óriási szenzácziót keltett. Volt a zsurnaliszták közt egy
                drámairó is. Ez a magasságba ugrott tőle és elkiáltotta magát:</p>
             <p>- Homéri, shakespeari, isteni!</p>
             <p>- Sst, - intette rendre a vezénylő tudósító. - A következő kérdés: Milyen az ég?</p>
             <p>
-               <hi rend="italic">Kont:</hi> Sajnos, az hivatalos titok</p>
+               <hi>Kont:</hi> Sajnos, az hivatalos titok</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> Kitől tetszett szabadságot kapni?</p>
+               <hi>A tudósító:</hi> Kitől tetszett szabadságot kapni?</p>
             <p>
-               <hi rend="italic">Kont:</hi> A közvetlen feljebbvalómtól.</p>
+               <hi>Kont:</hi> A közvetlen feljebbvalómtól.</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> Ki volt méltóságodnak közvetlen feljebbvalója?</p>
+               <hi>A tudósító:</hi> Ki volt méltóságodnak közvetlen feljebbvalója?</p>
             <p>
-               <hi rend="italic">Kont:</hi> Ez is hivatalos titok.</p>
+               <hi>Kont:</hi> Ez is hivatalos titok.</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> És égi s légi útjának mikéntje?</p>
+               <hi>A tudósító:</hi> És égi s légi útjának mikéntje?</p>
             <p>
-               <hi rend="italic">Kont:</hi> Ezt nem értem. Zsigmond király korában nem így beszéltek
+               <hi>Kont:</hi> Ezt nem értem. Zsigmond király korában nem így beszéltek
                magyarul.</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> Úgy értse méltóságod: kegyeskedjék elmondani
+               <hi>A tudósító:</hi> Úgy értse méltóságod: kegyeskedjék elmondani
                földreszállása történetét.</p>
             <p>
-               <hi rend="italic">Kont: </hi>Az egyszerű. Kikerestem a régi testemet s szellemem
+               <hi>Kont: </hi>Az egyszerű. Kikerestem a régi testemet s szellemem
                fölibe vettem. Aztán letörtem egy darabot a Saturnus csillagból, leterítettem az éj
                nedves fátyolával, (hogy meg ne gyúljak vele együtt,) ráültem s leereszkedtem
                rajta.</p>
             <p>
-               <hi rend="italic">Mind:</hi> Óriási!... (Szünet. Hátborzongás.)</p>
+               <hi>Mind:</hi> Óriási!... (Szünet. Hátborzongás.)</p>
             <p>
-               <hi rend="italic">A tudósító</hi> (hebegve érzései súlya alatt): Mondaná meg
+               <hi>A tudósító</hi> (hebegve érzései súlya alatt): Mondaná meg
                méltóságod...</p>
             <p>
-               <hi rend="italic">Egy göndörhajú</hi> (görbe lábacskáin Kont színe elé karikázik és
+               <hi>Egy göndörhajú</hi> (görbe lábacskáin Kont színe elé karikázik és
                mutatóújjával megczélozza a főriportert): Halt! Mielőtt tovább mennénk, azt mondja
-               meg a méltóságos úr, hol <hi rend="italic">létezik</hi> az a meteor, a min
+               meg a méltóságos úr, hol <hi>létezik</hi> az a meteor, a min
                leutazott?</p>
             <p>A kérdést zseniálisnak találta minden lélek, maga az ükunoka is. Az ám, a meteor!
                Halljuk! Halljuk! Mi van a meteorral? - zengett-zúgott az érzelmek viharja
                szerteszét.</p>
             <p>
-               <hi rend="italic">Kont</hi> (roppant flegmával): Azt tudjam először, mi az a
+               <hi>Kont</hi> (roppant flegmával): Azt tudjam először, mi az a
                meteor?</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> Az a csillagdarab, a mit letört. Minden
+               <hi>A tudósító:</hi> Az a csillagdarab, a mit letört. Minden
                csillagdarab, a mi a földre hull, meteornak neveztetik.</p>
             <p>
-               <hi rend="italic">Kont:</hi> Vagy úgy... Hát azt ott hagytam a Rákos mezején.</p>
+               <hi>Kont:</hi> Vagy úgy... Hát azt ott hagytam a Rákos mezején.</p>
             <p>Erre egyszeribe vizsgálóbiróvá változtatta a főriportert a vére: szimatoló
                inkvizitorrá.</p>
             <p>- Mondja meg nekem méltóságod, - kérdezte s újjával két szeme közé czélozott a
                vértanúnak, - meg tudná-e találni azt a meteort?</p>
             <p>
-               <hi rend="italic">Kont:</hi> Hogy a manóba ne!</p>
+               <hi>Kont:</hi> Hogy a manóba ne!</p>
             <p>
-               <hi rend="italic">A tudósító</hi> (feláll): Mindjárt?</p>
+               <hi>A tudósító</hi> (feláll): Mindjárt?</p>
             <p>
-               <hi rend="italic">Kont:</hi> Akár mindjárt.</p>
+               <hi>Kont:</hi> Akár mindjárt.</p>
             <p>
-               <hi rend="italic">Mind</hi> (felugrálnak, majd bátortalanul vigyorogva az egymás
+               <hi>Mind</hi> (felugrálnak, majd bátortalanul vigyorogva az egymás
                szemébe néznek, végül össze­csattannak a tenyerek): Kolosszális! Fenomenális!
                Rettenetes!</p>
             <p>Ezeknek a felkiáltásoknak az a magyarázatuk, hogy a zsurnaliszták el voltak ugyan
                készülve arra, hogy egy nagyszabású szélhámos üzelmeivel állanak szemközt, de ilyen
                merészségről még álmodni se mertek!..</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> Hajlandó-e méltóságod személyazonossága igazolása
+               <hi>A tudósító:</hi> Hajlandó-e méltóságod személyazonossága igazolása
                érdekében bennünket azon­nal odavezetni, a hol a meteorkő a földre esett?</p>
             <p>
-               <hi rend="italic">Kont:</hi> Nem, barátom! Afféle kicsiségekért nem vagyok hajlandó a
+               <hi>Kont:</hi> Nem, barátom! Afféle kicsiségekért nem vagyok hajlandó a
                lábamat megmozdítani.</p>
             <p>
-               <hi rend="italic">Mind:</hi> Áhá!</p>
+               <hi>Mind:</hi> Áhá!</p>
             <p>
-               <hi rend="italic">Kont:</hi> Hanem ha vártok addig, a meddig elintézem azt a párbajt,
+               <hi>Kont:</hi> Hanem ha vártok addig, a meddig elintézem azt a párbajt,
                a mire egy csantra kamasz tegnap kihítt, megmutathatom nektek a csillagforgácsot,
-               mert a Rákos mezején lesz az <hi rend="italic">isten­itélet</hi> is.</p>
+               mert a Rákos mezején lesz az <hi>isten­itélet</hi> is.</p>
             <p>
-               <hi rend="italic">Mind</hi> (másodszor is összecsapják tenyerüket).</p>
+               <hi>Mind</hi> (másodszor is összecsapják tenyerüket).</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> Tehát a Rákos mezején tetszett kiszállani?</p>
+               <hi>A tudósító:</hi> Tehát a Rákos mezején tetszett kiszállani?</p>
             <p>
-               <hi rend="italic">Kont:</hi> Ott.</p>
+               <hi>Kont:</hi> Ott.</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> És ott lesz a párbaj is?</p>
+               <hi>A tudósító:</hi> És ott lesz a párbaj is?</p>
             <p>
-               <hi rend="italic">Kont:</hi> Már egyszer mondtam.</p>
+               <hi>Kont:</hi> Már egyszer mondtam.</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> És ott lehetünk mi is?</p>
+               <hi>A tudósító:</hi> És ott lehetünk mi is?</p>
             <p>
-               <hi rend="italic">Kont:</hi> Bánom is én...</p>
+               <hi>Kont:</hi> Bánom is én...</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> És meglátjuk a meteort?</p>
+               <hi>A tudósító:</hi> És meglátjuk a meteort?</p>
             <p>
-               <hi rend="italic">Kont:</hi> Meg hát!</p>
+               <hi>Kont:</hi> Meg hát!</p>
             <p>
-               <hi rend="italic">A tudósító:</hi> És nem tart bennünket bolonddá a méltóságos
+               <hi>A tudósító:</hi> És nem tart bennünket bolonddá a méltóságos
                úr?</p>
             <p>
-               <hi rend="italic">Kont:</hi> Mi haszna lenne. A ki nem bolond, attól úgyse bolondulna
+               <hi>Kont:</hi> Mi haszna lenne. A ki nem bolond, attól úgyse bolondulna
                meg.</p>
             <p>A bámulatnak is csak egy bizonyos számú foka van; a fogas zsurnaliszták elképedése
                már nem tudott nagyobbra nőni. A főriporter megfeledkezett róla, hol áll és
@@ -1509,11 +1503,10 @@
             <p>- A véleményeteket - rivallt rá a tintanyaló hadra, - mondjátok el az egymás fejének
                a hátam megett. Előttem úgy viselkedjetek, mintha dárdát nyeltetek volna.
                Értettétek?</p>
-            <p>Ezt megértették az ujságirók. Csak azt nem sejtették, hogy fogja magát a <hi
-                  rend="italic">modern Cagliostro</hi> a meteor bemutatási kényszere alól
+            <p>Ezt megértették az ujságirók. Csak azt nem sejtették, hogy fogja magát a <hi>modern Cagliostro</hi> a meteor bemutatási kényszere alól
                kisvindlizni? És miféle agyafúrt kitalálásokkal fogja foly­tatni a megkezdett
                üzletet, ha lelepleztetik!... A zsurnaliszták meg voltak róla győződve, hogy botba
-               szaladt az <hi rend="italic">ipse</hi>. De persze kifejezést nem adtak a
+               szaladt az <hi>ipse</hi>. De persze kifejezést nem adtak a
                meggyőződésüknek...</p>
             <p>Informáltatták magukat a párbaj ideje és körülményei felől s megszállották a szemben
                levő sarokkávéházat, hogy ott várják be a legközelebbi fejleményeket. Azonban addig
@@ -1524,7 +1517,7 @@
                ajtót a nagyközönség izgalmas érdeklődése elől, inkább felsrófolták a fantáziákat: ez
                jövedelmezőbbnek tetszett...</p>
             <p>Elkészülvén a riportok, egy pár pohárka borovicska, ürmös vagy állás felhörpintése
-               után izgelődni kezdtek az <hi rend="italic">első nagyhatalom</hi> előőrsei, mert
+               után izgelődni kezdtek az <hi>első nagyhatalom</hi> előőrsei, mert
                immár elérkezett az ebéd ideje, de még nyomuk sem mutatkozott a várvavárt
                párbajsegédeknek. Még tűrtek vagy egy órahosszat, aztán, tekintve, hogy el nem
                hagyhatták a posztjukat, megrendelték a debreczenit, vagy a két tojást pohárban, s
@@ -1544,13 +1537,13 @@
                antrébilétákat, aztán visszahem­zsegett a kávéházba és újabb kutyanyelvekre újabb
                riportokat firkált:</p>
             <p>
-               <hi rend="italic">«Szenzácziós középkori párbaj egy inkarnált szellemmel.»</hi>
+               <hi>«Szenzácziós középkori párbaj egy inkarnált szellemmel.»</hi>
             </p>
             <p>
-               <hi rend="italic">«Kont, a kemény vitéz és Klimanóczy!»</hi>
+               <hi>«Kont, a kemény vitéz és Klimanóczy!»</hi>
             </p>
             <p>
-               <hi rend="italic">«Meteorkeresés a Rákos mezején!»</hi>
+               <hi>«Meteorkeresés a Rákos mezején!»</hi>
             </p>
             <p>A krajczáros ujság nagykövetei még további három sort irtak a riportjuk fölé. A
                külföldi lapok tudósítói a következő szörnyű sürgönyt röpítették világgá:</p>
@@ -1566,7 +1559,7 @@
             <p>Kanut és Gekszi gróf ezalatt jelentést tettek felüknek ügyének mikénti állásáról:
                hogy Klima­nóczy csudálatosképen azonnal belement a kivánságukba, sőt némi gyanús
                megkönnyebbülést mutatott, midőn azt értésére adták... Ilyenformán elhárult minden
-               akadály a lovas párbaj elől, az ellenfelek holnap <hi rend="italic">hajnali</hi>
+               akadály a lovas párbaj elől, az ellenfelek holnap <hi>hajnali</hi>
                nyolcz órakor vígan összeütközhetnek a Rákos mezején...</p>
             
          </div>
@@ -1578,8 +1571,7 @@
                lumpol, míg egy garasa marad. Ez jó metódus, mert a zsurnalisztának szüksége van az
                eszére, már pedig semmi sincs a világon, a mi jobban gyógyítaná a mámort, mint az
                abszolut pénztelenség.</p>
-            <p>A mi riportereink sem voltak <hi rend="italic">roszabbak</hi> másoknál s a <hi
-                  rend="italic">nagy</hi> párbajt megelőző éjszakát össze­sen hét mulatóhelyen
+            <p>A mi riportereink sem voltak <hi>roszabbak</hi> másoknál s a <hi>nagy</hi> párbajt megelőző éjszakát össze­sen hét mulatóhelyen
                dőzsölték át. Utolsónak a New-York-kávéház maradt, mert ott hitelez a főpinczér.</p>
             <p>Hajnali öt órakor hatalmas eszméje támadt Hunyady Mátyásnak, a «Hirverő»
                riporterének.</p>
@@ -1762,7 +1754,7 @@
                az eszünkön túljárjanak.</p>
             <p>Kont elnevette magát, mint a kocsizó utas, a kit krajczárért visongó purdék üldöznek,
                aztán kezére ütvén a lova kantárját czibáló ujságirónak, csendet intett:</p>
-            <p>- Hát komolyan látni akarjátok a csillagot, ficzkók? Ott van a <hi rend="italic"
+            <p>- Hát komolyan látni akarjátok a csillagot, ficzkók? Ott van a <hi
                   >karám</hi> sarkában (s arrafelé mutatott a kardjával), abban a gödörben; ha
                iparkodtok, estére kivájhatjátok a körmötökkel is. - Mondván, visszadugta kardját
                hüvelyébe, megsarkantyúzta lovát és azt se mondta, bá - elvágtatott. Nyomában a
@@ -1827,13 +1819,12 @@
                mindössze azokra tett, a kik az események lejátszódása alkalmával véletlenül a
                szinpadon voltak s a Kont mindenesetre hatalmas, rend­kívülien érdekes egyéniségének
                közvetlen hatása alá kerültek. Bár egy pár gyenge idegzetű, szertelenségekre hajló
-               fantaszta kivételével ezek is kiheverték a <hi rend="italic">mámorukat</hi>
+               fantaszta kivételével ezek is kiheverték a <hi>mámorukat</hi>
                hamarosan, úgy­szólván egy éjszakán át. A kaszinó igen röstellte s a nyilvánossággal
                szemben egyszerűen letagadta azt a nagyszabású dáridót, a mibe a vitéz úgyszólván
                belekergette, midőn tagjai között megjelent.</p>
             <p>Föltétlen hivői a Kont reinkarnálási esetének csupán a spiritiszta-társaságok tagjai
-               között akad­tak. A XXI. században erősen <hi rend="italic">burjánzott</hi> ez a <hi
-                  rend="italic">szekta</hi>, úgyszólván annak jegyében indult útjának a század, a mi
+               között akad­tak. A XXI. században erősen <hi>burjánzott</hi> ez a <hi>szekta</hi>, úgyszólván annak jegyében indult útjának a század, a mi
                viszont az előtte lezajlott idők forrongó társadalmi evolucziói közepette és
                következtében meggyöngült, illetve túlfinomodott érzékek halluczinácziójának volt az
                okozata.</p>
@@ -1866,7 +1857,7 @@
                jelenségét mutatja. A Kont-féle meteornál az utóbbi esetnek kellett fenforognia,
                különben látta volna az egész főváros, midőn a földre zuhant. Holott senkise vette
                észre. Ilyenformán Kont sem égi tünemény útján szerezhetett róla tudomást. Hogyan
-               hát? Rendes <hi rend="italic">emberi úton</hi> semmi esetre sem. Tehát egy isteni
+               hát? Rendes <hi>emberi úton</hi> semmi esetre sem. Tehát egy isteni
                kijelentés, vagy valamely emberileg nem érzékelhető lelki áttétel útján: mondották a
                tudósok. Ettől a tételtől már csak egy lépés választja el a spiritiszták
                reinkarnálási elméletét. S ezt a lépést is áthidalta lassacskán azoknak a titokzatos
@@ -1891,7 +1882,7 @@
                hogy megvilágítsa a Kont-ügyet.</p>
             <p>A hatóság (azon a jogczímen, hogy a vitéz legendás nimbusza valóságos lázba ejtette
                Buda­pest közönségét s ezzel állítólag erkölcsi károkat tett a lelkekben, azonkívül
-               forgalmi torló­dásoknak, csoportosulásoknak lőn az okozója) <hi rend="italic"
+               forgalmi torló­dásoknak, csoportosulásoknak lőn az okozója) <hi
                   >személyazonosságának</hi> igazolására szólította fel Kontot.</p>
             <p>Az eljárás teljesen korrekt volt s mégis nevetett rajta az egész főváros. Illetve
                azon a válaszon, a mit Kont a rendőrkapitánynak adott.</p>
@@ -1915,7 +1906,7 @@
                És konstatálom, hogy szellem korában is szakasztott olyan volt a stilusa, mint ma...
                Valahányszor magamra maradtam a palotámban, - folytatta Gábris gróf, -
                ellenállhatatlanul elfogott a vágy, hogy keressem vele az összeköttetést. Ez a vágyam
-               mind intenzivebbé lett, míg végre <hi rend="italic">transzba</hi> estem... Ükapám
+               mind intenzivebbé lett, míg végre <hi>transzba</hi> estem... Ükapám
                kétféle módon érintkezett velem. Irásban és szóval. Néha sajátkezűleg irt, néha csak
                a mediális asztalkámnak diktált... Ime az irása szellem korában, és ime a mai
                irása...</p>
@@ -2030,7 +2021,7 @@
                túlbecsülése. Mihelyt egy rendkívüliséggel jutunk szembe, azonnal megkap eme
                arrogancziánk s nem is bocsát­ko­zunk bele egy nagy, természetfelettinek látszó
                jelenség vagy tünemény mélyebb elbirálásába, mihelyest az a természetnek az ember
-               által <hi rend="italic">önkényüleg</hi> elképzelt örök rendjével össze­függésbe nem
+               által <hi>önkényüleg</hi> elképzelt örök rendjével össze­függésbe nem
                hozható. Holott - és itt a bökkenő - a természet összes titkait emberi elme sohase
                lesz képes kiszondirozni, mert hiányzanak az ahhoz való eszközei. Minden agymunka
                relativ értékű, mert az az öt érzék, a mely rendelkezésünkre áll, csak igen csekély
@@ -2040,16 +2031,14 @@
                eljussunk az örök törvények egyetemes kodexéhez. De az emberi észszerűség mértékével
                mérve a tételt, sem lehet jogunk ahhoz, hogy pálczát törjünk egy jelenség felett
                azért, mert annak genezisét öt érzékünkkel megérzé­kelni s gyenge elménkkel
-               megfejteni képesek nem vagyunk. A mi <hi rend="italic">van</hi>, azt épen nem lehet
-               letagadni. Nem szabad. Mert olyan dolgok is vannak, a melyek számunkra <hi
-                  rend="italic">nincsenek</hi>. Millió és millió ilyen dolog van. Kont van.
+               megfejteni képesek nem vagyunk. A mi <hi>van</hi>, azt épen nem lehet
+               letagadni. Nem szabad. Mert olyan dolgok is vannak, a melyek számunkra <hi>nincsenek</hi>. Millió és millió ilyen dolog van. Kont van.
                Inkarnált szellem-e, vagy a természet egyéb kivétele a mindenség örök szabálya alól,
                nyilt kérdés marad. A tudomány származását illetőleg merev álláspontra ép úgy nem
                helyezkedhetik, valamint nem vállalkozhatik az isteni kijelentések csudáinak
                természettani alap hijján való megtagadására: Krisztus művének
                széjjelrombo­lá­sára... Ezzel a saját hitelét tenné tönkre...</p>
-            <p>Egy szó mint száz, a tudomány a Kont-ügy elbirálásánál szabad teret engedett a <hi
-                  rend="italic">hitnek</hi>: az <hi rend="italic">érzések</hi> fórumába utalta az
+            <p>Egy szó mint száz, a tudomány a Kont-ügy elbirálásánál szabad teret engedett a <hi>hitnek</hi>: az <hi>érzések</hi> fórumába utalta az
                esetet. Itt meleg fogadtatásra talált az. Az emberek megfakult érzés­világa, a mely
                Istenhez való közeledést sejtetett a csudában, új fényt nyert, a miszti­kumra
                mindenha szomjas, nyughatatlan emberi lélek felfrissült benne.</p>
@@ -2067,7 +2056,7 @@
                bukdácsolásával és marakodá­sával szemben is. Őt nem érdekelte, mint vélekednek róla
                az emberek, hova-tovább meg is tagadott tőlük minden további felvilágosítást, vitába
                nem bocsátkozott velök. Egész maga­tartása azt a látszatot keltette, hogy az ő
-               kivételes isteni eredetének megbolygatását <hi rend="italic">hiábavaló</hi>, sőt
+               kivételes isteni eredetének megbolygatását <hi>hiábavaló</hi>, sőt
                szentségtelen törekvésnek tartja. Bár kifejezést nem adott eme véleményének. Valamint
                soha egyetlen oly mesterkélt fogással nem élt, a melylyel az emberek tekintélyök
                gyarapítása szempontjából egymást bolondítani szokták. Nem vágott nagy képeket, nem
@@ -2208,7 +2197,7 @@
                népség - pedig soha senkit sem bánt... Csakhogy mindezt nem látja, nem hallja az ura.
                Az asszony nagyon vigyáz arra, hogy az ő kedves párja szemében annak a szelid, félénk
                hölgyecskének lássék, a milyet egy kemény harczos illuziója megkövetel...</p>
-            <p>Hát mit keressenek a férfiak <hi rend="italic">az asszonyrészen</hi>: emez imádságos,
+            <p>Hát mit keressenek a férfiak <hi>az asszonyrészen</hi>: emez imádságos,
                félénk fehérnép között, a melynek nem illik se ülni, se nevetni, se járni, a kiknek
                nem szabad idegen férfi szemébe nézni, még hangosan beszélni sem?</p>
             <p>A lakoma: az más! Ott hivatása van az asszonynak: a kinálgatás...</p>
@@ -2257,8 +2246,8 @@
                maradhat a régi, a fő, hogy a szivetek és öklötök legyen magyar.</p>
             <p>Ezzel aztán véget is értek a felköszöntők, a nélkül, hogy a vadtósztokra került volna
                a sor. Ennek a veszedelemnek maga a házigazda vette elejét.</p>
-            <p>- Igyatok véreim, mulassatok és ne magasztaljatok többet, mert csak <hi rend="italic"
-                  >ezentúl</hi> fogtok engem <hi rend="italic">igazán</hi> megérteni.</p>
+            <p>- Igyatok véreim, mulassatok és ne magasztaljatok többet, mert csak <hi
+                  >ezentúl</hi> fogtok engem <hi>igazán</hi> megérteni.</p>
             <p>Volt ebben a kijelentésben is valami titokszerűség, a melynek hatása alól nem
                egyhamar szabadúltak a várúr vendégei. Pedig immár jócskán fogyott a pezsgő, rég
                elérkezett volna az az időpont, a melynél rendes körülmények között kifényesednek a
@@ -2338,7 +2327,7 @@
             <p>A herczegnő lesütötte szemét.</p>
             <p>- Igyekeztem tetszésedet megnyerni, háziasszonyi teendőimet hozzád méltóan
                teljesíteni...</p>
-            <p>Kont egy pár pillanatig hallgatagon gyönyörködött <hi rend="italic">kései
+            <p>Kont egy pár pillanatig hallgatagon gyönyörködött <hi>kései
                   ivadékának</hi> harmatos arczában és fejedelmi termetében, aztán feléje nyujtotta
                kezét.</p>
             <p>Az asszony beletette a magáét.</p>
@@ -2371,8 +2360,8 @@
             <p>- Megőrültél?!</p>
             <p>Zeüsi homlokán kidagadtak az erek. Az asszony megbánta vakmerőségét, vagy megijedt
                tőle. Maga se tudta, mit érez, mit cselekszik. Összetette remegő két kezét:</p>
-            <p>- Bocsánat, <hi rend="italic">ennyire</hi> nem akartam megsérteni.</p>
-            <p>- Nem szabad engem megsértened <hi rend="italic">semennyire</hi> sem, - mondta Kont,
+            <p>- Bocsánat, <hi>ennyire</hi> nem akartam megsérteni.</p>
+            <p>- Nem szabad engem megsértened <hi>semennyire</hi> sem, - mondta Kont,
                szinte fenyegető hangon, - engem szeretned kell... szeretni fogsz, mert úgy kivánják
                magasabb érdekek és mert - úgy akarom!</p>
             <p>A herczegnőnek keblére esett a feje. Aztán sarkon fordult s gépiesen, öntudatlanul,
@@ -2442,7 +2431,7 @@
             <p>A kaszinó előtt szállott le a nagyúr s lova kantárát egyik csatlósának dobva,
                belépett a kapun.</p>
             <p>- Fönt van az ükunokám? - kérdezte a portástól.</p>
-            <p>- Épen most jött, <hi rend="italic">kegyelmes</hi> uram, - jelentette hajlongva a
+            <p>- Épen most jött, <hi>kegyelmes</hi> uram, - jelentette hajlongva a
                bundás férfiú.</p>
             <p>- No csak - rendelkezett vele Kont vitéz, - szaladjon valaki Ikerváry herczegnőhöz és
                tudassa vele, hogy nála estebédelek.</p>
@@ -2559,8 +2548,8 @@
                mondta, hogy szerelmes. Még az ellen sem tiltakozott, hogy idegen embert sejtsen
                benne... Egy vakmerő, izgalmas, kéjes játékot játszott vele, s az eredmény: «Nem volt
                félelemre okom.»</p>
-            <p>Mi ez? Képmutatás? Taktika? Avagy most már csakugyan maga is <hi rend="italic"
-                  >hiszi</hi>, hogy az ükapja szerinte az akkori érzése <hi rend="italic"
+            <p>Mi ez? Képmutatás? Taktika? Avagy most már csakugyan maga is <hi
+                  >hiszi</hi>, hogy az ükapja szerinte az akkori érzése <hi
                >csalt</hi>?</p>
             <p>Hát majd megtudja, hányadán áll vele. Mire helyet foglalt a szép asszonynyal
                szemközt, már kész volt a vitéz a tervvel is, a melynek segítségével a herczegnő
@@ -2580,8 +2569,8 @@
             <p>- Azt, - válaszolta Emerenczia herczegnő, - a mit maga: magasabb érdekből viselem a
                konzek­vencziáit.</p>
             <p>- Ez nem felelet.</p>
-            <p>- Annyira az, hogy válasz az előbbi kérdésre. Sőt kulcsa az én <hi rend="italic"
-                  >kiábrándulásomnak</hi> is. Egy olyan férfitól, a ki <hi rend="italic">magasabb
+            <p>- Annyira az, hogy válasz az előbbi kérdésre. Sőt kulcsa az én <hi
+                  >kiábrándulásomnak</hi> is. Egy olyan férfitól, a ki <hi>magasabb
                   érdekből</hi> csókol meg egy nőt, félni nem lehet.</p>
             <p>Kont vitéznek kissé megpirosodott az arcza.</p>
             <p>- Addig, míg nem tudott erről a magasabb érdekről, - kérdezte lassan, szinte tagolva
@@ -2610,7 +2599,7 @@
             <p>- Azt - jegyezte meg a herczegnő egyszerűen, - minden asszony megkövetelheti, hogy
                magá­ért szeressék...</p>
             <p>Most egy kis szünet következett. A vitéz szólalt meg először.</p>
-            <p>- És - kérdezte, - ha azt mondanám neked <hi rend="italic">valamikor</hi>, hogy
+            <p>- És - kérdezte, - ha azt mondanám neked <hi>valamikor</hi>, hogy
                magadért szeretlek, elhinnéd nekem?</p>
             <p>- Nem.</p>
             <p>Kont újra megakadt. Lesütötte szemét. A herczegnő picziny lábára tévedt a tekintete.
@@ -2634,7 +2623,7 @@
                helye­zett bizalma. Annyit egy asszony sem érdemel meg senkitől.</p>
             <p>- Igen, - mondta Kont, - tegezni foglak ezentúl is... négyszemközt is... De a
                bizalmamat nem sokallom. Benned biztos vagyok, te eszes, érdekes, csábos asszony!</p>
-            <p>- És ha egyszer mégis el találom árulni a világnak, hogy <hi rend="italic">előttem
+            <p>- És ha egyszer mégis el találom árulni a világnak, hogy <hi>előttem
                   leleplezte</hi> magát?</p>
             <p>- Azt én nem tettem, - állította Kont komolyan.</p>
             <p>- Ugyan, édes Kont, - ellenvetette a szép asszony némi ingerültséggel, - előbb
@@ -2750,10 +2739,10 @@
             <p>De bizony arra többé nem került rá a sor... Egy megdöbbentő, szinte hihetetlennek
                látszó hirt jelentett a távirat. A miniszter halálra sáppadt bele. Kezéből kiesett a
                sürgöny. Kanut felkapta és felolvasta:</p>
-            <p>«Szendrey István gróf, a belváros országgyűlési képviselője <hi rend="italic">hat
+            <p>«Szendrey István gróf, a belváros országgyűlési képviselője <hi>hat
                   órakor</hi> szivszélhüdés­ben elhalálozott.»</p>
             <p>A kaszinó urainak önkénytelenül az órára tévedt a tekintetük... Hét óra volt...
-               Körülbelől <hi rend="italic">egy órája</hi> lehetett annak, hogy Kont elhagyta a
+               Körülbelől <hi>egy órája</hi> lehetett annak, hogy Kont elhagyta a
                kaszinó épületét...</p>
             <p>Az urak annyira meg voltak döbbenve, hogy hamarjában nem voltak képesek
                összekapcsolni a két eseményt: a Kont föllépését a megrendítő ténynyel. Gábrist
@@ -2836,7 +2825,7 @@
             <p>- Hát - magyarázta Kincses Károly, - minden embernek annyi az értéke, mint a
                mennyivel többet tud inasoknál. A rendes ember, azaz a négy kereken járó, semmit se
                ér, mert csak azt tudja, a mit már mások is konstatáltak. Következésképen a bolond,
-               vagyis az ötkerekes ember értékesebb, mert az olyat is <hi rend="italic">tud</hi>, a
+               vagyis az ötkerekes ember értékesebb, mert az olyat is <hi>tud</hi>, a
                mit senki sem tudott.</p>
             <p>Kont nem volt megelégedve a fejtegetéssel, megcsóválta fejét.</p>
             <p>- Kire czéloz kigyelmed?</p>
@@ -2861,9 +2850,9 @@
             <p>Gábor gróf igen kiváncsi lett: vajjon mi lehet az a képtelenség, a minek
                megvalósítását ükapja rá akarja bizni az agyafurt fiskálisra? Valami ostoba sejtelem
                igen piszkálta a máját...</p>
-            <p>- Mi nekünk nem szabad tudnunk arról a <hi rend="italic">képtelenségről</hi>? -
+            <p>- Mi nekünk nem szabad tudnunk arról a <hi>képtelenségről</hi>? -
                kérdezte feszengve, bátortalanul.</p>
-            <p>- <hi rend="italic">Lehetőségről</hi>, akarod mondani, - javította ki Kont.</p>
+            <p>- <hi>Lehetőségről</hi>, akarod mondani, - javította ki Kont.</p>
             <p>- Jó, mondjuk úgy.</p>
             <p>- Miért ne mondanám meg? Vissza akarom perelni azt a 172 uradalmat, a mi azalatt, míg
                távol voltam, szerteszét mászott az utódaim között.</p>
@@ -2895,7 +2884,7 @@
                Kont vitéz...</p>
             <p>Kincses mester szót se szólt eddig a tárgyhoz, nem is hallotta a Kont és a Gábor gróf
                között lezajlott disputát, annyira belemélyedt a maga jogi kombináczióiba. Tehát
-               komolyan foglal­kozott a <hi rend="italic">képtelen</hi> ügygyel.</p>
+               komolyan foglal­kozott a <hi>képtelen</hi> ügygyel.</p>
             <p>Ám hogy reá hivatkozott a vitéz, Gábor gróf menten belekapott egy óramű pontosságával
                működő agya kerekeibe.</p>
             <p>- Ügyvéd úr, - zökkentette ki a nagyeszű urat egy logikai czirkulus kellő közepéből,
@@ -2996,9 +2985,9 @@
             <p>Oly komikusan hatott e kijelentése, hogy még a plébános is elmosolyodott rajta.</p>
             <p>- Az más, - mondta Kincses uram, - akkor felelek... Hát abból, a mit a gróf úr most
                rám mon­dott, egy szó sem igaz, mert egy krajczárt sem fogadok el a perért, puszta
-                  <hi rend="italic">dicsőségből</hi> foly­tatom.</p>
+                  <hi>dicsőségből</hi> foly­tatom.</p>
             <p>De erre már kétfelé kérezkedett a nazarénus füle is.</p>
-            <p>- Ejnye, - jegyezte meg, - ki hitte volna-, hogy olyan <hi rend="italic">biztos</hi>
+            <p>- Ejnye, - jegyezte meg, - ki hitte volna-, hogy olyan <hi>biztos</hi>
                ez a per.</p>
             <p>Kincses uram fölpeczkelte a tokáját és felállott, hogy jobban hasson a szava.</p>
             <p>- De csak egy embernek biztos ezen a kerek világon, - vágta ki a szót és a mellét, -
@@ -3049,7 +3038,7 @@
                már költő is, ügyvéd is, katona is, buddista pap is, de kálvinista pap is. Amerikában
                csatornatisztító voltam, Stambul­ban eunuk, Aetiópiában testőr, végre Délafrikában
                megettem egy ártatlan kis gyereket, a mi, bár tévedésből, marhahúsnak ettem, igen
-               megfeküdte a <hi rend="italic">szivemet</hi>... Azóta semmi sem vagyok, csak
+               megfeküdte a <hi>szivemet</hi>... Azóta semmi sem vagyok, csak
                nazarénus.</p>
             <p>Kont vitéz csak ámult-bámult.</p>
             <p>- Akkor kegyelmed igen tudós ember!</p>
@@ -3119,7 +3108,7 @@
                hangot és modort cserélve, - úgy mint én! - És kifeszítette hatalmas karjait, hogy a
                ruhája szinte repedezett bele. - Jó lesz barátom? - enyelgett a nazarénussal, mint
                apa gyermekével. - Ugye jó?</p>
-            <p>- Jó, - mondta a nazarénus és imádattal nézett fel a <hi rend="italic"
+            <p>- Jó, - mondta a nazarénus és imádattal nézett fel a <hi
                >hősre</hi>.</p>
             
          </div>
@@ -3214,8 +3203,7 @@
             <p>Kont összeránczolta az orrát.</p>
             <p>- Tudomásul veszem, de nem hiszem.</p>
             <p>- Miért, instállak? - kérdezte a miniszter. - Mi haladók vagyunk.</p>
-            <p>- Azért, - világosította fel a vitéz, - mert cserébe azért, hogy felveszitek a <hi
-                  rend="italic">műsorozatba</hi> az én eszmémet, nekem is lesz rajtatok némi
+            <p>- Azért, - világosította fel a vitéz, - mert cserébe azért, hogy felveszitek a <hi>műsorozatba</hi> az én eszmémet, nekem is lesz rajtatok némi
                követelni valóm.</p>
             <p>- Mi?...</p>
             <p>- Az, hogy el kell törülni az egész eddigi rendszert, mert az én pontjaim el nem
@@ -3334,8 +3322,7 @@
                látni fogja az ország, hogy miként a buddhista szentek, a végin mégis épkézláb járja
                a tüzes mezőt...</p>
             <p>A második lépéshez már erős várakozásokat fűzött Kont. Azt tehát nem volt szabad
-               elhamar­kodnia. Annak döntenie kellett további pályája sorsa fölött. Egy <hi
-                  rend="italic">kiáltványon</hi> dolgozott már hetek óta, (csakugyan azért zárkózott
+               elhamar­kodnia. Annak döntenie kellett további pályája sorsa fölött. Egy <hi>kiáltványon</hi> dolgozott már hetek óta, (csakugyan azért zárkózott
                be a várkastélya fölszentelése után is). A tervezettel régen elkészült, csak a
                klasszikus formáját nem találta még meg. E tekintetben számított a Lombos Keresztély
                tudására és tapasztalataira. Úgy vélte, egy sokat szenvedett, hányatott embernek
@@ -3350,8 +3337,8 @@
                ezeknek a beszerzéséhez is jó hasznát fogja venni a hű nazarénusnak. Az majd
                összehordja az anyagot Kincses mesternek, feldolgozás alá; meg fogja állapítani
                azoknak a falvaknak jegyzékét, a melyek felett lefejeztetése előtt Kont, a kemény
-               vitéz <hi rend="italic">uralkodott</hi>. És levezeti a családfáját, hogy
-               konstatálhatók legyenek a ma élő örökösök. Az <hi rend="italic">alperesek</hi>!</p>
+               vitéz <hi>uralkodott</hi>. És levezeti a családfáját, hogy
+               konstatálhatók legyenek a ma élő örökösök. Az <hi>alperesek</hi>!</p>
             <p>Kont persze nem számíthatott arra, hogy az egész hagyatékot az örökösök kezén találja
                hétszáz év után, azt is belátta, hogy az időközben idegen kézre jutott javakat
                harmadik szemé­lyeken keresni határos lett volna a komikummal, de a mire eddigi
@@ -3369,7 +3356,7 @@
                esetben úgyszólván a birák lelkiismeretének befolyásolásában, az adhoc igazság
                szuggerálásában merül ki. Mert hiszen abszolut igazság úgy sincs, következésképen
                mindig az veendő igazságnak, a mit az ember annak érez. A tétel, a melyből ki fogok
-               indulni, - folytatta a hires ügyvéd: - <hi rend="italic">élő embernek nem lehetnek
+               indulni, - folytatta a hires ügyvéd: - <hi>élő embernek nem lehetnek
                   örökösei</hi>. Következésképen az utódok kezein található Kont-vagyon nem
                hagyatéki tömegnek, csupán res derelictának tekinthető. Alperesek ezzel szemben az
                elévülés jogalapjára fognak helyez­kedni, a mi azonban a jelen esetben nem lehet
@@ -3382,7 +3369,7 @@
                természetesen tökéletesen felfordul, ha egy évszázadok óta háborítatlanul birtoklott
                s többizben bona fide átöröklött vagyon elüttetik a birtoklók kezéről, de ezt az
                elméletet úgyis czélszerűségi szem­pontok pattantották ki s növesztették jogi
-               dogmává, következésképen értéküket vesztik, mihelyest magasabb <hi rend="italic"
+               dogmává, következésképen értéküket vesztik, mihelyest magasabb <hi
                   >czélszerüségi</hi> szempontokkal jutnak összeütközésbe.</p>
             <p>- Jogászi okfejtésemen kívül - jelentette ki Kincses, - főképen erre alapozom perünk
                kedvező esélyeit. Negyven-ötven családnak jóhiszemű birtokaiból való hirtelen
@@ -3395,9 +3382,8 @@
                igazság fogalmai - folytatta - a jelen században amúgy is egy erjedési, ujjáalakulási
                folyamatba kerültek. Az embernek (látván, hogy minduntalan változnak a fel­fogások
                igazságról, eszményről), nincsenek többé megállapodott, kialakult képzetei; az
-               embe­rek, mondom, ebben az ideges korban inkább hajlandók <hi rend="italic"
-                  >érzéseiket</hi> követni, a melyekben ritkán csalatkoztak, mint az <hi
-                  rend="italic">eszüket</hi>, a mely minduntalan megcsalja őket. Már pedig -
+               embe­rek, mondom, ebben az ideges korban inkább hajlandók <hi
+                  >érzéseiket</hi> követni, a melyekben ritkán csalatkoztak, mint az <hi>eszüket</hi>, a mely minduntalan megcsalja őket. Már pedig -
                konklu­dált Kincses, - a tömeget kétségtelenül a nagy uram pártjára hajtja a szive.
                Gondviselésszerű feltámadásának, úgyszólva isteni eredetének nimbusza (a mely a
                népnek immáron a vérébe ment át s onnan többé ki nem irtható) oly tényezővé
@@ -3419,7 +3405,7 @@
                jogalapját...</p>
             <p>- Azt nem látom, - ismerte be Kont, - de azért ne tartson roszhiszemű
                perpatvarkodónak. Mert mi a jogalap, a jog, ha társadalmakat reformáló, nemzetképző
-               törekvésekkel és czélokkal kerül szembe? Az egyén igaza, <hi rend="italic"
+               törekvésekkel és czélokkal kerül szembe? Az egyén igaza, <hi
                   >magánhaszna</hi> a köz, a társadalom, az emberiség kárára.</p>
             <p>Kincses mester intett a fejével.</p>
             <p>- Úgy van. Minden emberi érték relativ. Az ember végczélja, a míg világ a világ,
@@ -3470,7 +3456,7 @@
          <div type="chapter">
             <head>X.</head>
             <p>
-               <hi rend="italic">Kiáltvány a magyar nemzethez!</hi>
+               <hi>Kiáltvány a magyar nemzethez!</hi>
             </p>
             <p>Véreim! Tapasztalván, hogy nem tudjátok, mi a jogotok és kötelességetek,</p>
             <p>Tapasztalván, hogy sáfárjaitok nincsenek tisztában az erőtökkel és
@@ -3488,12 +3474,12 @@
                mindennapi kenyeret, mint lelketek jogos táplálékát: az élvezetet.</p>
             <p>Az államnak módjában áll eme követeléseitek teljesítése, mert rengeteg vagyon felett
                rendelkezik a nemzet, bőséggel eltarthatná tagjait, ha háromannyian volnának is. Az
-               alföldi humusz ontja az <hi rend="italic">életet</hi>, a hegyvidék a lángsugarú bort,
+               alföldi humusz ontja az <hi>életet</hi>, a hegyvidék a lángsugarú bort,
                zamatos, édes gyümöl­csöt. A föld méhében rengeteg kincs alszik: kőszén, arany,
                ezüst, drágakő, márvány. És mindeme javaknak a tizedrésze sem került eddig
                forgalomba, mert olyan volt a gazdál­kodás. A holt tőkét fel kell éleszteni, az
                elevent mozgósítani és igazságosan megosztani, hogy mindenkinek jusson belőle, a ki
-               munkájával és hűségével érdemet szerzett rá. <hi rend="italic">Becsületes embernek
+               munkájával és hűségével érdemet szerzett rá. <hi>Becsületes embernek
                   nem szabad éheznie.</hi> Ez a legfőbb emberi törvény, a mit sem nektek, sem
                sáfárjaitoknak szem elől téveszteni nem szabad.</p>
             <p>Magyarok!</p>
@@ -3520,7 +3506,7 @@
             <p>Elmondván ezeket tinektek, még csak annyi a szavam hozzátok: a ki bízik bennem,
                kövessen engem, az én zászlóm az új Nagymagyarország zászlója.</p>
             <p>
-               <hi rend="italic">Kont.</hi>
+               <hi>Kont.</hi>
             </p>
             <p>...Ime Kont vitéznek a Lombos által megfogalmazott politikai hitvallása.</p>
             <p>A nagyúr kinyomatta a kiáltványt egy millió példányban és menten intézkedett, hogy
@@ -3673,7 +3659,7 @@
             <p>- Engedelmet, - ellenvetette a miniszterelnök, - így vagyok kénytelen beszélni,
                valameddig programmod problémáinak a kulcsát kezünkbe nem adod.</p>
             <p>Kont erre még ridegebb lett.</p>
-            <p>- Azt én oda fogom adni, vagy neked, vagy egy <hi rend="italic">merészebb</hi>
+            <p>- Azt én oda fogom adni, vagy neked, vagy egy <hi>merészebb</hi>
                lakatosmesternek.</p>
             <p>- Merészség kell hozzá? - kérdezte a miniszterelnök savanyú arczczal. - Koczkáztatni
                kell?</p>
@@ -3740,14 +3726,14 @@
                Nadány...</p>
             <p>És felolvasott még vagy nyolczvan községnevet.</p>
             <p>De már erre végkép eloszlott az előkelő társaság elfogódottsága. Némelyek
-               röstelkedtek, hogy beugrottak a vitéz <hi rend="italic">tréfájának</hi>, mások nagyot
+               röstelkedtek, hogy beugrottak a vitéz <hi>tréfájának</hi>, mások nagyot
                nevettek rajta, ki tapintatból, ki tiszta szivből, olyan, a ki komolyan vette volna a
                birtok-listát, egy sem akadt.</p>
             <p>Kont, ha nem lett volna olyan nagyszabású férfiú, mint a milyen volt, megcsappant
                tekintély­lyel, komikus pózban került volna ki az urak dévaj kedvének hullámai közül.
                Ám az ő fölényes humora egyszeribe fölibe kerekedett az urak jókedvének. Pedig
                mindössze csak ennyit mondott nekik:</p>
-            <p>- Azt hiszem, senkiről sem <hi rend="italic">felejtkeztem</hi> meg közületek, a kik
+            <p>- Azt hiszem, senkiről sem <hi>felejtkeztem</hi> meg közületek, a kik
                utánnam örököltetek.</p>
             <p>- Dejszen - tréfált most már Kanut, - az egyik birtokomat kihagytad a
                lajstromból.</p>
@@ -3782,13 +3768,12 @@
             <p>- A haza nevében köszönöm.</p>
             <p>Ezzel azután széjjel is széledt az előkelő társaság nagy része. Kinek kártyázni
                kellett, ki udva­rolni ment, ki a szinházba. Alig maradt tiz ember Kont körül. Egy
-               pár percz múlva még egy­gyel szaporodott ez a tiz, Gábris gróffal. Az <hi
-                  rend="italic">ükunoka</hi> meglehetősen sápadt volt. Összerezzent ükapja láttán,
+               pár percz múlva még egy­gyel szaporodott ez a tiz, Gábris gróffal. Az <hi>ükunoka</hi> meglehetősen sápadt volt. Összerezzent ükapja láttán,
                de mégse kerülte el. Hozzálépett és üdvözölte.</p>
             <p>- Ha itt lettél volna, - mondta neki Kanut, - kiveresedett volna a nevetéstől a
                pápista képed.</p>
             <p>- Hogy-hogy? - kérdezte Gábris gróf unottan.</p>
-            <p>- Ükapácskád pompás <hi rend="italic">heczczet</hi> csinált velünk.</p>
+            <p>- Ükapácskád pompás <hi>heczczet</hi> csinált velünk.</p>
             <p>- Ugyan?</p>
             <p>- Megigérte, hogy visszaveszi birtokainkat, valamennyi csak Kont révén származott
                reánk.</p>
@@ -3805,12 +3790,12 @@
             <p>Az előbbeni tiz hang ismét egyszerre:</p>
             <p>- Akkor te bolondultál meg!</p>
             <p>Gábris ükapjára emelte szemrehányó tekintetét.</p>
-            <p>- Látod? Még engem is bolondnak hisznek, pedig <hi rend="italic">nem én</hi>
+            <p>- Látod? Még engem is bolondnak hisznek, pedig <hi>nem én</hi>
                perelek.</p>
             <p>- Az téged ne bántson, - vigasztalta Kont, - attól, hogy valakit bolondnak tartanak,
                még nem bolondult meg senki sem.</p>
             <p>A Kont környezetének, tapasztalván a Gábor fakó kedvét s hallván a hirt, hogy a vitéz
-                  <hi rend="italic">tréfája</hi> komoly peranyaggá formálódik a Kincses kezén,
+                  <hi>tréfája</hi> komoly peranyaggá formálódik a Kincses kezén,
                egyszeribe elváltozott a képe. Olyan lett, mint a fejen ütött bornyúé, a mi hét kaput
                lát egyszerre és mégse lát egyet se.</p>
             <p>Kanut karoncsípte Gábor grófot és erőszakkal magával vonszolta:</p>
@@ -3825,7 +3810,7 @@
                háromszor is elolvasta a czimet. Nyilván öröme telt a herczegnő finom és mégis
                határozott irásában.</p>
             <p>- Kell válasz? - kérdezte aztán a komornyikot.</p>
-            <p>- Igenis, a herczegi huszár az előcsarnokban vár <hi rend="italic"
+            <p>- Igenis, a herczegi huszár az előcsarnokban vár <hi
                   >nagyméltóságod</hi> válaszára.</p>
             <p>Kont elfordult kissé a komornyiktól és zsebkésével óvatosan, szinte gyöngédséggel
                felbon­totta a levelet. Elolvasta. Elpirult, szeme szelíd fényben úszott.</p>
@@ -3844,7 +3829,7 @@
                említették is előtte a Kont nevét... Ilyenkor kigyúlt az arcza s zavaros lett a
                beszéde, a miért nagyon, de nagyon haragu­dott magára. De legyőzni nem tudta magát.
                Hiszen tisztában sem volt érzéseivel. Alapjában haragudott ő a vitézre is. Bántotta
-               női méltóságát, hogy az úgy bánt vele, mint naiv gyer­mekkel s hogy <hi rend="italic"
+               női méltóságát, hogy az úgy bánt vele, mint naiv gyer­mekkel s hogy <hi
                   >betolakodott</hi> a bizalmába, a nélkül, hogy képes lett volna őt magától
                elhárítani. Igaz, hogy azt meg se igen kisértette, nem akarta, nem merte; kénytelen
                volt magának beval­lani, hogy az ismeretlen származású impozáns férfi beczézése,
@@ -3852,15 +3837,14 @@
                hasonló egyéniséggel nem találkozott életében. Mindenkinél szebb volt, eszesebb és
                mégis természetesebb... S ime, ez a férfi méltó­nak találta őt arra, hogy beavassa
                titkaiba!... Mert hiszen nem is igen tagadta már előtte, hogy nem az, a kinek a világ
-               tartja... Csak a világot csalja, őt nem. De mégis csaló. A vele való viszony: <hi
-                  rend="italic">kaland</hi>.</p>
+               tartja... Csak a világot csalja, őt nem. De mégis csaló. A vele való viszony: <hi>kaland</hi>.</p>
             <p>...Kaland! Kaland!... Igen, igen, Kontot kalandornak tartotta a herczegnő és mégis
                meghivta magához. Azt is tudta róla (Kincses mester elmondta neki), hogy Kont jusson
                egy csomó arisztokrata család vagyonára pályázik, természetesen az övére is és -
                mégsem vetette meg... A csókja ott ég az ajkán, ölelése ott reszket a szivében,
                minduntalan hallja a hangja pompás bariton zenéjét s látja sörényes oroszlánfejét...
                Nem tud tőle menekülni, pedig jó izlése, nevelése, hagyományai, minden ize-idege
-               ellentmond <hi rend="italic">bűnös</hi> érzéseinek.</p>
+               ellentmond <hi>bűnös</hi> érzéseinek.</p>
             <p>Emerenczia herczegnő belátta ezek után, hogy tisztáznia kell a helyzetet közötte és
                az - új Cagliostro között. Teljes vallomásra kell birnia Kontot, kilétét, terveit,
                czéljait illetőleg. S ha nem igazolja magát, szakítania kell vele, különben herczegnő
@@ -3896,8 +3880,8 @@
                volt szüksége, mert nagyon vert a szive...</p>
             <p>A szomszéd szobából valami nesz hallatszott be a budoárba. A herczegnő
                összeborzongott és felugrott zsölléjéből... Hallgatódzott.</p>
-            <p>Ah nem, nem <hi rend="italic">ő</hi> volt, csak a komornyik, a csúszó-mászó
-               selyemember, az <hi rend="italic">ő</hi> léptei alatt dönög a padmaly a vastag keleti
+            <p>Ah nem, nem <hi>ő</hi> volt, csak a komornyik, a csúszó-mászó
+               selyemember, az <hi>ő</hi> léptei alatt dönög a padmaly a vastag keleti
                szőnyegen keresztül is. Kopogtattak...</p>
             <p>- Szabad!...</p>
             <p>A frakkos komornyik megáll az ajtóban és mélyen meghajtja magát. Várja a jelt, a mely
@@ -3934,10 +3918,9 @@
             <p>Kont elkapta. Először a kezét, aztán a karját. A kezét megcsókolta, a karját
                megsimogatta.</p>
             <p>A herczegnő föllázadt ez ellen a merészség ellen.</p>
-            <p>- Maga bánt engem, - mondta, miközben elkapta kezét, - maga visszaél a <hi
-                  rend="italic">hatalmával</hi>... Ez nem lovagias eljárás.</p>
+            <p>- Maga bánt engem, - mondta, miközben elkapta kezét, - maga visszaél a <hi>hatalmával</hi>... Ez nem lovagias eljárás.</p>
             <p>Kont csak mosolygott.</p>
-            <p>- Édesem, ha bántja magát a <hi rend="italic">szerelmem</hi>, miért árulja el, hogy a
+            <p>- Édesem, ha bántja magát a <hi>szerelmem</hi>, miért árulja el, hogy a
                hatalmamban van?</p>
             <p>A herczegnő fölvetette büszke kis fejét.</p>
             <p>- Nem vagyok a hatalmában.</p>
@@ -3967,8 +3950,7 @@
             <p>- Ragaszkodom a kérdéshez: ki ön?</p>
             <p>Kont felállott.</p>
             <p>- Az oly tökéletesen mindegy, herczegnő, - mondta kelletlenül megrázva fejét. -
-               Gondolja: a megtestesült eszme vagyok, vagy ha tetszik, egy eszmévé vált ember: <hi
-                  rend="italic">az ember</hi>, Isten teremt­ménye, észszel, lélekkel, szivvel... Mi
+               Gondolja: a megtestesült eszme vagyok, vagy ha tetszik, egy eszmévé vált ember: <hi>az ember</hi>, Isten teremt­ménye, észszel, lélekkel, szivvel... Mi
                szükség van a nevemre, a mikor az csak egy meg­különböztetési tényező; az ember
                lényének meghatározására annál semmi sem kevésbbé lényeges.</p>
             <p>- A formákhoz ragaszkodnom kell, - állította a herczegnő, - a társadalom tagja
@@ -3980,7 +3962,7 @@
             <p>A herczegnő meghajtotta fejét.</p>
             <p>- S mit csinálnék én ott - egyedül?</p>
             <p>- Hát én senki se vagyok? - kérdezte Kont és büszkén tarkójába vágta a fejét.</p>
-            <p>- Senki, a meddig nem tudom, hogy <hi rend="italic">ki</hi>. Reám nézve senki.</p>
+            <p>- Senki, a meddig nem tudom, hogy <hi>ki</hi>. Reám nézve senki.</p>
             <p>- Pedig én azt akarom, hogy magára nézve mindenki legyek: az egész világ.</p>
             <p>A herczegnő kiemelkedett székéből, olyan mozdulattal, mintha menekülni akarna a
                merész férfi elől. De csak nem menekült.</p>
@@ -4016,7 +3998,7 @@
                mende­mondától fél? Vagy csakugyan azt hiszi, hogy szélhámos vagyok? Hogy pirulnia
                kellene, ha leleplezne valaki? Hát tudja meg, Emerenczia, hogy igen, el fog jönni az
                az idő, midőn saját magam fogom magamat leleplezni; ki fog tünni, hogy túljártam az
-               egész világ eszén: kor­mányoztam, <hi rend="italic">talpraállítottam egy beteg
+               egész világ eszén: kor­mányoztam, <hi>talpraállítottam egy beteg
                   országot</hi> hatalom nélkül s óriási vagyonra tettem szert, a nélkül, hogy
                mellettem lett volna az igazság, a törvény és a jog. Csak a végczél és az emberek
                jóhiszeműsége szólott mellettem, a nemzet belém helyezett fanatikus hite, a mi fel
@@ -4052,9 +4034,9 @@
             <p>- És követni fogsz engem a szegénységbe?</p>
             <p>- Én nem a szegénységtől félek, - válaszolt Emerenczia alig hallhatóan.</p>
             <p>- Mitől?</p>
-            <p>- Attól, hogy nem fog sikerülni a <hi rend="italic">terve</hi> és akkor...</p>
+            <p>- Attól, hogy nem fog sikerülni a <hi>terve</hi> és akkor...</p>
             <p>- Nos?</p>
-            <p>- Akkor - fejezte be a szép asszony, - mi lesz <hi rend="italic">velünk</hi>?!</p>
+            <p>- Akkor - fejezte be a szép asszony, - mi lesz <hi>velünk</hi>?!</p>
             <p>- Velünk?!</p>
             <p>Kont keble mélyéből egy tagolatlan ujjongásszerű hang tört ki. Az asszony
                önkéntelenül fel­ugrott. A vitéz átnyalábolta a derekát, a vállát és magasra emelte,
@@ -4167,11 +4149,11 @@
             <p>- Én? - fortyant fel Belényessy mérgesen, mint egy pulykakakas, - mikor egy
                talpalattnyi földet sem örököltem a Kont javakból?</p>
             <p>- Igen ám, - eszelte Gyimóthy, - de forradalom esetén nem azt fogja a paraszt nézni,
-               hogy mi kié <hi rend="italic">volt</hi>, hanem azt, hogy mi kié <hi rend="italic"
+               hogy mi kié <hi>volt</hi>, hanem azt, hogy mi kié <hi
                   >most</hi>.</p>
             <p>Belényessy megaprehendált, mint mindig, mikor valaki fején találta a szöget és kiment
                vacso­rázni.</p>
-            <p>Az ajtóban majdnem összekoczczant egy gömbölyded férfival. <hi rend="italic">Kincses
+            <p>Az ajtóban majdnem összekoczczant egy gömbölyded férfival. <hi>Kincses
                   volt.</hi> Egy Kont-féle dohánytorpedó füstölt az orra alatt.</p>
             <p>A társaság megmozdult és képet változtatott. A keresztbecsapott lábak kicserélődtek,
                egy­némely úr megköszörülte a torkát, mások megcsavargatták nyakukat az inggallérban,
@@ -4184,7 +4166,7 @@
             <p>De Kanut nem engedte elillanni.</p>
             <p>- Hová sietsz, főfiskus? Ülj le közénk.</p>
             <p>Kincses megállott.</p>
-            <p>- Nem zavarlak benneteket? Azt hittem, <hi rend="italic">magatok közt</hi> akartok
+            <p>- Nem zavarlak benneteket? Azt hittem, <hi>magatok közt</hi> akartok
                lenni, - jegyezte meg szatiri­kusan.</p>
             <p>És körülnézett, úgyszólván mindenkit megkérdezve a szemével, hogy csakugyan nem
                alkal­matlan-e? S miután leolvasta volt az arczokról, hogy a pokolba kivánja őt az
@@ -4193,7 +4175,7 @@
             <p>- Debreczeni jogászkoromban történt: egy vén aszuképű alakkal találkoztam a kollégium
                előtt... Épen vasárnap volt…</p>
             <p>Gábrist elfogta a düh.</p>
-            <p>- Tudjuk kérem, <hi rend="italic">hová</hi> akar kilyukadni az adomájával, -
+            <p>- Tudjuk kérem, <hi>hová</hi> akar kilyukadni az adomájával, -
                szakította félbe a körmönfont férfiút, - elengedjük a viczczeit.</p>
             <p>- Hová? - kérdezte ez az őszinte csudálkozás hangján. - Mert eddig még, becsületemre
                mondom, magam se tudom.</p>
@@ -4268,7 +4250,7 @@
             <p>- Képes volna forradalomba kergetni az országot? - kérdezte Kanut, aránylag
                hidegen.</p>
             <p>- A forradalom tisztítja a levegőt, s az a forradalom, a mi ennek a pernek a nyomán
-                  <hi rend="italic">támad­hatna</hi>, olyan egészséges anyagcserét idézne elő a
+                  <hi>támad­hatna</hi>, olyan egészséges anyagcserét idézne elő a
                nemzet testében, a mely annak örök időkre való megizmosodását eredményezné... Remélem
                azonban, - tette hozzá, - el lehet érni ezt az anyagcserét drasztikum nélkül is. Mi
                ebben fáradunk.</p>
@@ -4343,12 +4325,10 @@
             <p>- Urraim, a jog, a törvény, az igazság, az összes eszmények az emberért vannak,
                mihelyt meg­szűntek azért lenni, annak használni, nem azok többé, a mik voltak,
                elveszítették lényegüket önmaguktól Konttal, Kincsessel, vagy Kont és Kincses nélkül.
-               Jól megjegyezzék, uraim, hogy az emberi eszmények közül csak egy az örök: a <hi
-                  rend="italic">rend</hi>, a többi, ha nem khiméra, mind e körül a tengely körül
+               Jól megjegyezzék, uraim, hogy az emberi eszmények közül csak egy az örök: a <hi>rend</hi>, a többi, ha nem khiméra, mind e körül a tengely körül
                forog. Ergo, ha úgy követeli a rend, új törvények, új jog, új igazság fog
-               kelet­kez­ni a régi tetemén. Én - vágta ki süvöltő hangon, - másodsorban a <hi
-                  rend="italic">rend</hi>
-               <hi rend="italic">nevében</hi> és érdeké­ben perelek.</p>
+               kelet­kez­ni a régi tetemén. Én - vágta ki süvöltő hangon, - másodsorban a <hi>rend</hi>
+               <hi>nevében</hi> és érdeké­ben perelek.</p>
             <p>Kincses mester ezzel a levegőbe vágott az öklével pont helyett s nyugodtan előszedve
                torpedóját, ismét rágyújtott...</p>
             <p>Az urakat végkép megszédítette az a káprázatos dialektikai kötéltáncz, a mit a
@@ -4380,7 +4360,7 @@
                szelleme lengje át... A biró ne puszta jogot oszszon, de mérlegeljen is, mint a
                kereskedő: hol a haszon, hol a kár?... A mi biráink - konkludált Kincses uram, - be
                fogják látni, hogy nem szabad egy országot lángba borítaniok csak azért, hogy egy pár
-               nagy urat <hi rend="italic">sza­bályszerűen</hi> kiszolgáljanak... Aztán tekintetbe
+               nagy urat <hi>sza­bályszerűen</hi> kiszolgáljanak... Aztán tekintetbe
                fogják venni azt is, hogy egy providencziális próféta-emberrel szemben nem járhatnak
                el úgy, mint akárki fiával. Azon úgyse fog az emberi igazságszolgáltatás, valamint
                nem fogott Krisztuson. Az apostolok nyomán új törvények támadnak s ezeket a
@@ -4392,7 +4372,7 @@
             <p>Kincses mester megrázta buksi fejét.</p>
             <p>- Nem lesztek koldusok, mert dolgozni fogtok... A franczia forradalom áldozatai, a
                marquisk, a vicomteok voltak a koldusok, a kiknek vagyonát egyik napról a másikra
-               seperte el a leg­rémítőbb <hi rend="italic">itélő igazság</hi>, a nép dühe, a nélkül,
+               seperte el a leg­rémítőbb <hi>itélő igazság</hi>, a nép dühe, a nélkül,
                hogy meghagyta volna emberi jogaikat. Még az életüket is megkivánta áldozatul - a
                forradalom. Mennyivel enyhébb - tette hozzá Kincses mester szatirikusan, - a ti
                helyzetetek. Egy kis döczczenés az egész.</p>
@@ -4520,7 +4500,7 @@
                zuhanyt... Tetszik érteni?</p>
             <p>- Nem egészen.</p>
             <p>- Beadtam nekik, hogy nincs jog, se igazság; az lesz a jog és az az igazság, a mit
-                  <hi rend="italic">mi</hi> vallunk annak.</p>
+                  <hi>mi</hi> vallunk annak.</p>
             <p>- És elhitték? - kérdezte Kont komoly érdeklődéssel.</p>
             <p>- A két ellentétes művelet, a melyen gyors egymásutánban keresztülbuktattam
                agyrendsze­rü­ket, - czikornyázta ki Kincses, - annyira kihozta őket az egyensulyból,
@@ -4599,9 +4579,9 @@
                kis ijedtség, egy kis presszió s elveszti az itélőképességét, a törvényekbe, az
                igazságba vetett hitét. Valóban fájlalom, - folytatta, - hogy ezzel a gyengeséggel
                kellett visszaélnünk, hogy czélt érjünk, csak az vigasztal, miszerint ebben az
-               esetben a czél csakugyan szentesíteni fogja az eszközöket… <hi rend="italic">Meg
+               esetben a czél csakugyan szentesíteni fogja az eszközöket… <hi>Meg
                   fogom a nemzetet menteni, meg fogom erősíteni, gazdagítani...</hi>
-               <hi rend="italic">Isten a tanum, hogy nem segíthetett rajta immáron csak a
+               <hi>Isten a tanum, hogy nem segíthetett rajta immáron csak a
                   csudatevés.</hi>
             </p>
             <p>- Vagy annak a látszata, - bátorkodott Kincses megjegyezni.</p>
@@ -4615,7 +4595,7 @@
          <div type="chapter">
             <head>XIV.</head>
             <p>
-               <hi rend="italic">Meg fogom a nemzetet menteni, gazdagítani!...</hi> Az apostolos
+               <hi>Meg fogom a nemzetet menteni, gazdagítani!...</hi> Az apostolos
                szavak úgy belecsendültek a Kincses lelkébe, hogy akarva se tudott volna tőlük
                szabadulni, míg elméjében meg nem hányta-vetette azok jelentőségét... Hiszen
                megérezte ő a hatalmas férfi nagy szándékát már akkor, a mikor nyakába vette a perét,
@@ -4663,7 +4643,7 @@
                milyen esz­közökkel szándékozik a vitéz tervét megvalósítani, támpont hijján
                mindezideig okoskodni is röstellt. Ám most, hogy kiszállt a kastélyból, a nagyúr
                prófétai szavainak hatása alatt berregni kezdtek hatalmas és tökéletes agyában a
-               gondolat kerekei. A rugó, a mely megindította a szerves óraművet: <hi rend="italic"
+               gondolat kerekei. A rugó, a mely megindította a szerves óraművet: <hi
                   >«A föld azé legyen, a ki jobban meg tudja azt becsülni.»</hi>
             </p>
             <p>Tehát - konstatálta Kincses bevezetőül, - egy radikális birtokpolitika
@@ -4803,11 +4783,11 @@
                Ránehezedett szivére az urak némasága s még inkább a szó, a mit ajkán ki akart
                ejteni. Végre legyőzte magát, meg­rázta vállát s felütötte fejét.</p>
             <p>- Fiaim, - kezdte beszédjét, - köszönöm nektek, hogy nem ellenkeztetek velem.
-               Hiábavaló lett volna, de <hi rend="italic">késleltette</hi> volna a szent ügyet.
+               Hiábavaló lett volna, de <hi>késleltette</hi> volna a szent ügyet.
                Főképen ezért mondok nektek köszönetet. És most már tovább is mehetek.
                Bebizonyítottátok, hogy méltók vagytok a bizalmamra: ime, vegyétek érte jutalmatokat.
                Kont-hitre, a mi szilárdabb a hegyek szikláinál, ezennel kijelentem nektek, hogy azt
-               a vagyont, a mit <hi rend="italic">elvettem</hi> tőletek, megkétszerezve fogom nektek
+               a vagyont, a mit <hi>elvettem</hi> tőletek, megkétszerezve fogom nektek
                visszaszolgálni rövid időn. Nem lett volna méltó hozzám, hogy ezzel a kijelentéssel
                az egyesség megkötése előtt korteskedjem a magam ügye mellett és sokkal többre
                becsültelek benneteket is, mint hogy a tárgy lényegéhez nem tartozó hatáseszközökkel
@@ -4917,29 +4897,28 @@
                se menne... Vegyék jegyző­könyvbe, uraim.</p>
             <p>És diktálni kezdett Kont vitéz:</p>
             <p>
-               <hi rend="italic">Először.</hi> Egy parczella hat magyar holdat fog kitenni és kisebb
+               <hi>Először.</hi> Egy parczella hat magyar holdat fog kitenni és kisebb
                részre nem osztható.</p>
             <p>
-               <hi rend="italic">Másodszor.</hi> Egy család négy ilyen teleknél többet nem vehet
+               <hi>Másodszor.</hi> Egy család négy ilyen teleknél többet nem vehet
                meg.</p>
             <p>
-               <hi rend="italic">Harmadszor.</hi> A gazdálkodás irányítását, a vetésforgás
+               <hi>Harmadszor.</hi> A gazdálkodás irányítását, a vetésforgás
                megállapítását egyelőre fentartom magamnak.</p>
             <p>
-               <hi rend="italic">Negyedszer.</hi> Minden telektulajdonos annyi és oly fát tartozik a
+               <hi>Negyedszer.</hi> Minden telektulajdonos annyi és oly fát tartozik a
                birtokán elültetni, mint a mennyit s mint a milyet e czélra kirendelt vándorgazdáim
-               javaslata alapján köztük <hi rend="italic">ingyen</hi> kiosztani fogok. Az elpusztult
+               javaslata alapján köztük <hi>ingyen</hi> kiosztani fogok. Az elpusztult
                fák azonnal pótlandók.</p>
             <p>
-               <hi rend="italic">Ötödször.</hi> Attól, a ki megszegi a kikötött föltételeket,
+               <hi>Ötödször.</hi> Attól, a ki megszegi a kikötött föltételeket,
                visszaveszem, hogy érdemesebbre ruházzam át az eladott telket.</p>
             <p>Kincses uram felrántotta a szemét karikára.</p>
             <p>- Hogy gondolja ezt, nagyuram? Kötött föld a XXII. században!</p>
             <p>Kont felpattant székéről s az asztalra csapott.</p>
             <p>- Azzal én nem törődöm. A jelszavak nekem nem imponálnak, valameddig meg nem érlelte
                azokat az idő. Én a czélszerűség elvét tartom szem előtt csupán, mert eredményt
-               akarok látni, s nem elégszem meg a félsikerrel, midőn egészet is elérhetem. <hi
-                  rend="italic">Ez a nép imádja a földet, de nem ismeri.</hi> Meg kell őt a
+               akarok látni, s nem elégszem meg a félsikerrel, midőn egészet is elérhetem. <hi>Ez a nép imádja a földet, de nem ismeri.</hi> Meg kell őt a
                gazdálkodásra tanítani. Hogy azt vesse a földjébe, a mi bele való s legtöbb hasznot
                hoz. A rögöt - folytatta a nagyúr, - meg kell elemezni: mennyi légeny, foszfor, mész,
                vas stb. van benne s ahhoz képest kell beleszórni a magot, hogy jól érezze magát
@@ -4987,8 +4966,8 @@
             <p>- El ne felejtse a terhes pontokat...</p>
             <p>- Az úgy lesz megcsinálva, hogy pengni fog, mint a jóféle kasza. Csak bankot
                találjunk alkal­ma­tosat.</p>
-            <p>- Azzal se törődöm, ha nem kapunk <hi rend="italic">itthon</hi> bankot, - vágta ki
-               Kont, - akkor majd <hi rend="italic">idegenből</hi> hozom a pénzt...</p>
+            <p>- Azzal se törődöm, ha nem kapunk <hi>itthon</hi> bankot, - vágta ki
+               Kont, - akkor majd <hi>idegenből</hi> hozom a pénzt...</p>
             <p>Kincses mester felkapta fejét, mintha állon lökte volna valaki. A látcsöves ánglus és
                az a másik, a láthatatlan ánglus jutott az eszébe. Nem állotta meg, hogy ki ne
                böffentse, a mi a fejében motoszkált:</p>
@@ -5028,7 +5007,7 @@
             <p>- Ezzel - jelentette ki Kont, - még nem győzött meg annak a szükségéről, hogy azt is
                tudassam önnel, a mi egyedül csak rám tartozik.</p>
             <p>Majd egy pillanatnyi gondolkozás után így folytatta:</p>
-            <p>- A mi beszédre <hi rend="italic">kényszerít</hi>, az a tudat, hogy látott vagy sejt
+            <p>- A mi beszédre <hi>kényszerít</hi>, az a tudat, hogy látott vagy sejt
                valamit s az attól való félelem, hogy sejtelme nyomán előbb-utóbb sikerülni fog önnek
                kikutatni a titkomat s hatalmában lesz visszaélni velük.</p>
             <p>Kincses egy tiltakozó mozdulatot tett, Kont leintette.</p>
@@ -5046,8 +5025,8 @@
                hangja, de el is volt fogódva, tehát hallgatott.</p>
             <p>- Mindent elmondok önnek, Kincses s hogy hézagot ne hagyjak az előadásomban,
                rendszerbe foglalom a mondanivalómat. Először a tényállással fogom önt megismertetni,
-               hogy lássa, <hi rend="italic">mennyi</hi> a koczkázatom, aztán arról fogom
-               felvilágosítani, hogy <hi rend="italic">miben áll</hi> a koczkázat: miért kellett
+               hogy lássa, <hi>mennyi</hi> a koczkázatom, aztán arról fogom
+               felvilágosítani, hogy <hi>miben áll</hi> a koczkázat: miért kellett
                magamra öltenem a titokzatosság varázsköpenyegét.</p>
             <p>Most Kont is leült szembe Kincsessel és így folytatta fiskális uram ámulatára.</p>
             <p>- Egy év óta vagyok Magyarországon. Csakugyan Amerikából jöttem. Hogy kerültem oda s
@@ -5138,7 +5117,7 @@
                szükségem, hanem a nagy tömeg hipnoti­zálására. Azokra számítottam, a kik hisznek a
                Mária szeplőtelen fogantatásában, Krisztus csudatevéseiben, felfeszíttetése utáni
                feltámadásában. Ezeknek a hitére pályáztam s nem hiába. Mert a nagy tömeg hite ma az
-               én erőm forrása, a mely a szemfényvesztő, szuggerált csudák után a <hi rend="italic"
+               én erőm forrása, a mely a szemfényvesztő, szuggerált csudák után a <hi
                   >valódi csudára</hi> is képesíteni fog... Mert az lesz, ha megmentem ezt az
                enervált nemzetet…</p>
             <p>Kincsesnek leesett a feje.</p>
@@ -5258,7 +5237,7 @@
             <p>Kont kézen fogta a herczegasszonyt és egy kerevethez vezette; beleültette, mint egy
                gyermeket.</p>
             <p>- És én mégis fölfedem előtted a titkot, a mely származásomat takarja, - mondta
-               szelid komolysággal, - mert <hi rend="italic">most már</hi> férfiúi becsületem is azt
+               szelid komolysággal, - mert <hi>most már</hi> férfiúi becsületem is azt
                követeli… Aztán - tette hozzá, - el is foglak jegyezni, addig, míg gyürűt nem
                váltottunk, nem távozom innen…</p>
             <p>- Ah!</p>
@@ -5518,7 +5497,7 @@
                törvényt kell hozni, mint a mennyi életviszony szabályozásra szorul, a termelésnek
                arányban kell állania a növe­kedő szükséglettel ezen a téren is.</p>
             <p>«Csak oly monopóliumoknak van jogosultságuk, a melyek nem sértik egyesek érdekeit; az
-               állam, polgárai rovására, nem üzérkedhetik; legföljebb az <hi rend="italic"
+               állam, polgárai rovására, nem üzérkedhetik; legföljebb az <hi
                   >érdekükben</hi> szerepelhet, mint köz­vetítő. A buzát például az államnak kell a
                termelőtől megvennie, mert az jobban értékesítheti azt, a maga hitelével és
                tekintélyével kedvezőbb piaczot teremthet számára, mint jobb minő­ségű terménynek,

@@ -18,12 +18,13 @@
          <extent>
             <measure unit="words">52587</measure>
             <measure unit="pages">431</measure>
+            <measure unit="vols">2</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Jávor orvos és szolgája, Bakator Ambrus: Szeszélyes regény</title>
                <respStmt>
                   <resp>Original Electronic Edition</resp>
@@ -33,14 +34,14 @@
                </respStmt>
                <ref target="http://mek.oszk.hu/08100/08163"/>
                <date>2010-04-07</date>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>Jávor orvos és szolgája, Bakator Ambrus: Szeszélyes regény</title>
                      <ref target="http://books.google.com/books?id=DAYoAAAAYAAJ"/>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>Jávor orvos és szolgája Bakator Ambrus : szeszélyes regény</title>
                      <author>Fáy András</author>
                      <pubPlace>Pest</pubPlace>
@@ -68,14 +69,15 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-09-30"/>
-         <change when="2018-10-03"/>
+         <change when="2019-04-23"/>
          <change when="2018-10-12"/>
+         <change when="2018-10-03"/>
+         <change when="2018-09-30"/>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="vol">
+         <div type="volume">
             <head>ELSŐ KÖTET.</head>
          <div type="group">
             <head>ELŐSZÓ OLVASÓIMHOZ.</head>
@@ -2787,7 +2789,7 @@
                   a pipabőjtök s egyéb poenitentiák!</p>
             </div>
          </div>
-         <div type="vol">
+         <div type="volume">
             <head>MÁSODIK KÖTET.</head>
             
          <div type="chapter">

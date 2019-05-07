@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Faust orvos: Regény</title>
                <date>2015-09-09</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -34,8 +34,8 @@
                   <name>Erdélyi Zsolt</name>
                   <name>Mészáros Attila</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="printSource">
                      <title>Faust orvos : regény</title>
                      <author>Bródy Sándor</author>
                      <pubPlace>Budapest</pubPlace>
@@ -45,6 +45,11 @@
                         target="http://nektar.oszk.hu/hu/manifestation/3230725"/>
                   </bibl>
                </relatedItem>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>Faust orvos</title>
+               <author>Bródy Sándor</author>
+               <date>1888</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -63,6 +68,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2019-04-23"/>
          <change when="2018-10-03"/>
       </revisionDesc>
    </teiHeader>
@@ -113,8 +119,7 @@
                   páfrány-csoport a szögletekben, a gyászruhás komolyképü inas a rendelő szoba
                   ajtajában, az orvosok váró-termeinek egyéb különösségeivel, szinte meggyógyitotta
                   bajaikat egy pillanatra.</p>
-               <p>Azután szemlátomást örültek annak, hogy igy együtt vannak, mindannyian <hi
-                     rend="italic">komoly </hi>betegek, testvérek a legnagyobb emberi nyomoruságban.
+               <p>Azután szemlátomást örültek annak, hogy igy együtt vannak, mindannyian <hi>komoly </hi>betegek, testvérek a legnagyobb emberi nyomoruságban.
                   S bár féltékenykedtek, sőt irigykedtek a miatt, hogy ki jusson elébb a tanár szine
                   elé, mégis részvéttel tekintettek egymásra. Egy kövér ur - valószinüleg
                   uralkodáshoz szokott vidéki birtokos - hangosan, dühösen méltatlankodott, hogy az
@@ -161,7 +166,7 @@
                   tehetetlenül és tudatlanul ereszti le kezeit az orvos: bizva, kétségbeesve,
                   reménykedve és szepegve beszélték el egymásnak bajaikat, melyeknek nehezebb része
                   saját szenvedésükön kivül abból állt: mi lesz a családból, a gyerekekből, az
-                  asszonyból, az eltartott anyából, vagy kis testvérekből, ha ez <hi rend="italic"
+                  asszonyból, az eltartott anyából, vagy kis testvérekből, ha ez <hi
                      >még </hi>igy tart sokáig?</p>
                <p>Könnyen kötődtek az ismeretségek, de mégis voltak zárkózott urak, hölgyek,
                   könnyebb betegek, a kik nem igen ereszkedtek beszédbe. Egy elegáns ügyvéd, kinek
@@ -195,7 +200,7 @@
                   inas szárazon felelé:</p>
                <p>- Nem lehet... holnap...</p>
                <p>
-                  <hi rend="italic">Ez </hi>az egyenlőség jól esett nekik. Szóba került, hogy egy
+                  <hi>Ez </hi>az egyenlőség jól esett nekik. Szóba került, hogy egy
                   bécsi professzor milyen módon dorgálta meg a királynét. Hires orvosokról kezdtek
                   anekdotázni, mig egy kecskeszakállu ur - naiv és jóságos arczczal - az orvosok
                   karakteréhez szolgáltatott adatokat. Bejárta Európa minden nevesebb
@@ -262,7 +267,7 @@
                   ment.</p>
                <p>- Hazafiságból?</p>
                <p>- Bajosan. Beteg mindenütt van az egész világon. Más lesz az oka...</p>
-               <p>- Asszony? - kérdé egy <hi rend="italic">asszony</hi>.</p>
+               <p>- Asszony? - kérdé egy <hi>asszony</hi>.</p>
                <p>Az orvosnövendék mosolygott.</p>
                <p>- Nem hinném. Beszélnek ugyan titkos és nyilt viszonyairól, hóditásairól, melyeket
                   itt a mágnásnegyedben és tulnan a Lipót-városban tett, de hát ezek csak apró
@@ -552,7 +557,7 @@
                <p>Egyelőre hát kevesebbel kell megelégedni.</p>
                <p>Például kikutatni a sarkalatos kérdést:</p>
                <p>
-                  <hi rend="italic">Micsoda elváltozásokat, milyen betegségeket, milyen különös
+                  <hi>Micsoda elváltozásokat, milyen betegségeket, milyen különös
                      jelenségeket idézhet elő az asszonyban a szerelem? </hi>Persze normalisan
                   egészséges asszonyról, de nem normalisan egészséges szerelemről lehet szó.
                   Szerelemről, melyben kétséget, boldogságot, csalódást, hitszegést,
@@ -584,7 +589,7 @@
                   tele.</p>
                <p>Aztán egy asszonyra esett választása. Elvetette. Következett a második, harmadik.
                   Egy sem volt jó erre a czélra.</p>
-               <p>És a mig igy válogatott, <hi rend="italic">az elképzelt szerelem meleg szellője
+               <p>És a mig igy válogatott, <hi>az elképzelt szerelem meleg szellője
                      csapta meg</hi>. Mint az elgyötrött testnek valami langyos fürdő: lelkének
                   olyan zsongitó, kellemes volt ez az állapot.</p>
                <p>Mind frisebb, ruganyosabb, erősebbnek érezte magát. Immár nem volt kétsége az
@@ -784,7 +789,7 @@
                   tánczol és szaval... ime.</p>
                <p>Sovány, hosszu fiatal ember lépett a pódiumra.</p>
                <p>- Végzett szinésziskolai növendék, - sugta az igazgató.</p>
-               <p>- «<hi rend="italic">A holló</hi>», Poe Edgartól, - mondá meglehetősen csengő
+               <p>- «<hi>A holló</hi>», Poe Edgartól, - mondá meglehetősen csengő
                   hangon a szinész-fiu.</p>
                <p>Az igazgatóné zongorakiséretének mollja megszólalt. A szavalat megkezdődött,
                   eleintén elég jól, de később mind rosszabbul hangzott. A tüdővész-gyártó iskola
@@ -816,7 +821,7 @@
                   csinálja a prospektusokat, ő csinál a betegek előtt férjéből nagy tudóst, és ő -
                   várja titokban, immár husz esztendeje a meggazdagodott, de beteg, az ügyetlenül
                   haszonleső, tudatlan és elbizakodott férj halálát.</p>
-               <p>Egy erélyes, <hi rend="italic">fiatal </hi>orvos kellene ide s aranybánya volna ez
+               <p>Egy erélyes, <hi>fiatal </hi>orvos kellene ide s aranybánya volna ez
                   a hely. «Nagykereskedés betegekkel.»</p>
                <p>Mert a mi most folyt itten, az nem volt egyéb, mint egy jól csorrantó egészséges
                   forgalmu detail-üzlet korhadó emberekkel. Semmi az egész, ötven-hatvan beteg
@@ -910,7 +915,7 @@
                <p>- Ida, jer szobádba! szólt hozzá erélyes hangon.</p>
                <p>A lány engedte magát elvezettetni. A különös csoportban önfeledten állva, nézett
                   utána Lengyel Dénes.</p>
-               <p>- <hi rend="italic">Ez az! </hi>gondolta magában felvillanyozva.</p>
+               <p>- <hi>Ez az! </hi>gondolta magában felvillanyozva.</p>
                <p>És czéljai ujra világosan ragyogtak fel előtte. «Ez kell nekem», ismétlé
                   félhangon. S egészen elmerülve gondolataiba, nem is vette észre, hogy alig van már
                   a szalonban valaki.</p>
@@ -1032,7 +1037,7 @@
                <p>Világosodott. A közeledő hajnal viola s krizopraz szinei vegyültek a
                   gyöngyházfényü szemhatáron.</p>
                <p>A tanár megmutatta a lánynak az indulóház villamos lámpáját.</p>
-               <p>- Messze van, de majd csak <hi rend="italic">odaérünk</hi>!</p>
+               <p>- Messze van, de majd csak <hi>odaérünk</hi>!</p>
                <p>Némán ballagtak előre. A erdő zugását nem hallották immár. A lány egészen
                   lecsendesedett. Kérdő tekintetét is fel merte vetni a mellette ballagó,
                   gondolataiba mélyedt férfira. Sőt egy kis habozás s némi zavar után zsebébe nyult
@@ -1115,7 +1120,7 @@
                <p>Paloták során, csillogás, tarkaság, zaj között robognak tova. Ez lehetett a város.
                   Egyszer-egyszer valami kéz simitotta végigégő homlokát: a férfi keze volt. Vasutra
                   ülnek, az volt, hallotta sivitását, - talán jönnek hazafelé, valószinüleg
-                  elaludt... <hi rend="italic">Biztosan </hi>két szem szelid nézése ébresztette
+                  elaludt... <hi>Biztosan </hi>két szem szelid nézése ébresztette
                   fel.</p>
                <p>Annak a tekintete volt az, a ki ime szemben vele, még mindig egy könyvbe néz s még
                   azt sem látszik észrevenni, hogy valaki itt van közelében s ez a valaki felnyitván
@@ -1123,7 +1128,7 @@
                <p>«Itt vagyok, tegyen velem, a mit akar! A mit velem tett, ismeretlen, haszontalan
                   lánynyal, mivel tudjam én meghálálni? Akarja, hogy szolgálója legyek, le akar
                   vetkőztetni, el akar hurczolni? csak tegyen velem, a mit akar»...</p>
-               <p>Petrovics Ida ugy érezte, hogy égeti <hi rend="italic">ez a hála </hi>s a milyen
+               <p>Petrovics Ida ugy érezte, hogy égeti <hi>ez a hála </hi>s a milyen
                   gyönyörrel töltötte el elébb, ugy kinozta most. Torka kiszáradt, nem tudott ülni
                   helyén, felállt.</p>
                <p>A tanár feléje forditá tekintetét.</p>
@@ -1462,8 +1467,8 @@
                   az emberfiában. Valami villamos szikra-e ez, mely a mint megjelen, hat, gyujt,
                   cselekszik s a másik pillanatban eloszlik a mindenségben. De meglehet, hogy
                   hirtelen megjelenő égi test, valami uj bolygó, mely napja körül forogni meg nem
-                  szün <hi rend="italic">soha</hi>, hozzá van csatolva <hi rend="italic"
-                  >örökre</hi>, vele marad <hi rend="italic">mindig</hi>!</p>
+                  szün <hi>soha</hi>, hozzá van csatolva <hi
+                  >örökre</hi>, vele marad <hi>mindig</hi>!</p>
                <p>A lány gyönyörrel hallgatta a férfit, a ki egyszerre csak elnevette magát. Nagyon
                   komikusnak tünt fel saját magának a filozóf-poéta szokatlan szerepében. Hirtelen
                   változtatott is a beszédtárgyon:</p>
@@ -1535,8 +1540,7 @@
                   megállt utja elején. Ma ostobaságnak tartotta kisérletezni ezzel a lánynyal, és
                   ostobának tartotta magát, mert semmi eredményre se lelt még. Félt magától és
                   féltette a lányt. Nem tudta mit érez-e iránta: a férfi érdeklődését a nővel
-                  szemben, avagy <hi rend="italic">egy </hi>férfi mániákus érdeklődését <hi
-                     rend="italic">egy </hi>bizonyos nővel szemben?</p>
+                  szemben, avagy <hi>egy </hi>férfi mániákus érdeklődését <hi>egy </hi>bizonyos nővel szemben?</p>
                <p>Egy-egy pillanatra elfelejtette: micsoda czéljai is voltak, és ugyan e
                   pillanatokban arra gondolt: jó volna ezt a lányt örökre magához lánczolnia. Immár
                   nem volt azzal se tisztában: kivánja-e avagy nem. Vádolni kezdte odaadásáért s
@@ -1613,7 +1617,7 @@
                   féltek, hogy nekik kell eltartani a nagy családot, ha az apa meghal...</p>
                <p>Ilyen dolgokat beszélt a lánynak Richter Sándor. Egy cseppet se szégyelte
                   eredetét, sem fiatalkora gyötrődéseit, nyomorát. Sőt egyszer egész őszintén azt is
-                  elbeszélte Idának, hogy két évi egyetemi életét egy <hi rend="italic">leány
+                  elbeszélte Idának, hogy két évi egyetemi életét egy <hi>leány
                   </hi>apja tette neki elviselhetővé. Havonként negyven forintot küldött neki. Ez
                   összeg a lány hozományának előlege volt. Ha tanulmányait elvégzi, el kellett volna
                   vennie, de a szegény Hanna, ismeretségük második évében meghalt és a «negyven
@@ -1856,7 +1860,7 @@
                   szintigy vágyakoznék arra a lányra, mint ez az ember itt, s a lány nem őt, de ezt
                   szeretné!... Szerencsére a dolog nem igy áll.</p>
                <p>Lengyel Dénest szinte vidámmá tette az a gondolat, hogy a lány nem szereti ezt a
-                  férfit - ezt a beteg kost - hanem őt, s neki mégis hatalmában, <hi rend="italic"
+                  férfit - ezt a beteg kost - hanem őt, s neki mégis hatalmában, <hi
                      >erejében </hi>van összekapcsolni őket.</p>
                <p>Férj és feleséggé tenni! Óh, ez mégis kegyetlen egy kissé. Kegyetlen? és miért.
                   Hát ha még boldogok is lesznek? Esett már ilyen. És akkor a lány, ez a páratlan
@@ -2210,8 +2214,7 @@
                <p>Többet nem szólt, a tanár hiába várt a folytatásra. Hidegen szólott hát:</p>
                <p>- Hanem most már munkához kell látni... Ön tudja, hogy családos ember létére az
                   egyetemen nem lehet többé segédem... hanem itt megmarad, azonkivül ajánlani fogom
-                  háziorvosnak egy pár házba, helyettem. Csinált már háztartási előirányzatot <hi
-                     rend="italic">őnagysága</hi>?</p>
+                  háziorvosnak egy pár házba, helyettem. Csinált már háztartási előirányzatot <hi>őnagysága</hi>?</p>
                <p>- Csináltunk, igen, bámulatosan tud gazdálkodni... Alig kell nekünk valami, alig
                   tudom visszatartani a munkától... nem akar csak egy cselédet... Ma már a folyosón
                   maga huzta fel az ágynemüt, hátrakötött kendővel a fején... kis fehér
@@ -2399,7 +2402,7 @@
                <p>Két napig kimaradt a tanár látogató-jegye. Az ötödik napon azonban ismét behozta a
                   szobaleány. Most azonban boritékban volt.</p>
                <p>Petrovics Ida gépiesen olvasta rajta az irást:</p>
-               <p>«Beszélni akarok önnel, látni akarom önt. <hi rend="italic">Akarom.</hi>»</p>
+               <p>«Beszélni akarok önnel, látni akarom önt. <hi>Akarom.</hi>»</p>
                <p>- Nem! szólt Ida csendesen. - Mondja meg, hogy nem lehet! szólt a
                   szobaleányhoz.</p>
                <p>Egy pár pillanat mulva hallotta, a mint Lengyel Dénes mögött becsukódott az ajtó.
@@ -2407,7 +2410,7 @@
                   ajtót.</p>
                <p>Aztán a magasba emelte karjait, hogy lélegzeni tudjon... Este felé járt az idő.
                   Ida leült az asztalhoz s irt férjének:</p>
-               <p>«Jól vagyok, semmi baj, ne aggódjon, <hi rend="italic">itthon minden
+               <p>«Jól vagyok, semmi baj, ne aggódjon, <hi>itthon minden
                   rendben!</hi>»</p>
                
             </div>
@@ -2622,7 +2625,7 @@
                <p>- És a maga nyulainak.</p>
                <p>- Olyan nincs.</p>
                <p>- De engem tyukjaimmal együtt hamar meg fog unni... Nem lehet.</p>
-               <p>- Mert már meguntam..<hi rend="italic">.</hi> Nézze ezt a rettenetes urat a
+               <p>- Mert már meguntam..<hi>.</hi> Nézze ezt a rettenetes urat a
                   sarokban, le nem veszi rólunk a szemeit, még csak a kezeit sem foghatom meg...
                   Milyen hosszu állomás...!</p>
                <p>- És tanitványai?</p>
@@ -2891,7 +2894,7 @@
                <p>- A tekintetes urtól... a ki az elébb ment el. Ida felszakitotta a czimtelen
                   boritékot, és félhangon olvasta az irónnal irt egyetlen egy sort:</p>
                <p>
-                  <hi rend="italic">«Nem lehet folytatni utunkat együtt. Nem tudok hazudni
+                  <hi>«Nem lehet folytatni utunkat együtt. Nem tudok hazudni
                      tovább.»</hi>
                </p>
                <p>Nem sikoltotta el magát, nem ájult el Richter Sándorné. Belékapaszkodott a

@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>A nagy véletlen</title>
                <date>2017-05-03</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -35,14 +35,14 @@
                   </name>
                   <name>Góczán Andrea</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>A nagy véletlen</title>
                      <date>2017-05-03</date>
                   </bibl>
                </relatedItem>
-               <relatedItem type="printSource">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>A nagy véletlen : regény</title>
                      <author>Ritoók Emma</author>
                      <pubPlace>Budapest</pubPlace>
@@ -70,8 +70,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-19"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-19"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -1909,7 +1910,7 @@
                   diszharmónikusnak lenni. Ha egy kicsit kevesebb sexualitást vegyítenénk bele és
                   több baráti érzelmet...</p>
                <p>- Ha! Csakhogy ez nem tőlünk függ. A multkor hallottam... egy... egy tanártól
-                  Lichtenbergnek azt a mondását, hogy nem <hi rend="italic">mi</hi> gondolkozunk,
+                  Lichtenbergnek azt a mondását, hogy nem <hi>mi</hi> gondolkozunk,
                   hanem „es denkt in uns”. De talán még igazabb volna, hogy nem mi szeretünk, hanem
                   „es liebt in uns”. Barátságban úgy szeretek, amint jól esik, szerelemben úgy,
                   ahogy kényszerülve vagyok. Talán ez a kényszer, igen ez az, egy akaratunkon kivül
@@ -2518,7 +2519,7 @@
                   meg­valósíthatatlan után, a művész vágya, minden érzelme, hangulata, a teremtő
                   energia nélkül; akinek minden akaratereje felszívódik ebben a tehetetlen vágyban.
                   A talajvesztettek vágya ez, de magánál csak ideiglenes, talán csak a mostani
-                  környezet idegensége keltette fel, - de <hi rend="italic">annak</hi> a vágyát
+                  környezet idegensége keltette fel, - de <hi>annak</hi> a vágyát
                   örökössé teszi - a kétkedés önmagában.</p>
                <p>Gertrud megérezte, hogy Zajzon magáról beszél.</p>
                <p>- Hiszen egy kis kétkedés nem ártana meg, - folytatta Zajzon, - az is sokszerűbbé
@@ -2530,8 +2531,7 @@
                   életemből, aki szenvedélyes, impulsiv, nem okoskodó, nem ironizál, ha érez -
                   egyszóval az ellentétem - aki fanatizálni tudott volna. Sokszor - ne nevessen ki -
                   egészen izgatott leszek arra a gondolatra, ha asszonyok mellett megyek el az
-                  utcán, hogy talán ez, vagy a másik, ki tudja melyik, aki mellett elmegyek: <hi
-                     rend="italic">az</hi>... csak egy véletlen kellene... látja, ezért nem lettem
+                  utcán, hogy talán ez, vagy a másik, ki tudja melyik, aki mellett elmegyek: <hi>az</hi>... csak egy véletlen kellene... látja, ezért nem lettem
                   én művész.</p>
                <p>- És hiszi, hogy van olyan asszony, - hogy vannak egyáltalában emberek, akik
                   csakugyan kiegészitői egymásnak?</p>
@@ -4034,8 +4034,7 @@
                   hangtalan együttléttől. A férfiak bemutatkoztak és Annamária kezet nyújtott
                   Zajzonnak.</p>
                <p>És az a férfi, aki minden mellette elmenő asszonyban félve sejtette azt, akit
-                  keresett, nyugod­tan viszonozta kézszorítását és meg sem álmodta, hogy <hi
-                     rend="italic">annak</hi> a szemébe néz.</p>
+                  keresett, nyugod­tan viszonozta kézszorítását és meg sem álmodta, hogy <hi>annak</hi> a szemébe néz.</p>
                <p>A Prokojev keskeny, sápadt arcán különös boldog mosoly jelent meg, ahogy félénken
                   tenye­rébe fogta a Gertrud kezét. Larssen titokban a két asszonyt hasonlította
                   össze.</p>
@@ -4343,7 +4342,7 @@
                <p>- Nos?</p>
                <p>- Miféle viszonyban vagy Larssennel? - kérdezte egyszerre egész brutálisan.</p>
                <p>A leány felugrott, s aztán gúnyosan elhúzta a száját: - Mi közöd hozzá?</p>
-               <p>- Hogy mi közöm hozzá? hogy <hi rend="italic">nekem</hi> mi közöm hozzá. Nem tudom
+               <p>- Hogy mi közöm hozzá? hogy <hi>nekem</hi> mi közöm hozzá. Nem tudom
                   melyikünk őrült, hogy ilyet kérdeztetsz! Vártam, tudod hogy vártam Berlinben és
                   hallgattam - vártam valami csodára, bíztam benne... de most nem engedlek el többé,
                   nem - nem!</p>

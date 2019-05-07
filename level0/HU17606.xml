@@ -24,7 +24,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Tabu :  Regény </title>
                <date>2017-12-11</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -35,14 +35,14 @@
                   <name>Erdélyi Zsolt</name>
                   <name>Góczán Andrea</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>Tabu :  Regény </title>
                      <date>2017-12-11</date>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>Tabu : regény </title>
                      <author>Szikra</author>
                      <pubPlace>Budapest</pubPlace>
@@ -70,13 +70,15 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-19"/>
+         <change when="2019-04-23"/>
+         <change when="2019-02-27"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-19"/>
       </revisionDesc>
    </teiHeader>
   <text>
       <body>
-         <div type="group">
+         <div type="part">
             <head>ELSŐ RÉSZ.</head>
             <div type="chapter">
                <head>I.</head>
@@ -680,8 +682,7 @@
                <p>- Nagyon köszönöm, édes Bóra. Tudom, hogy jó vagy, de azért én is ígérem, hogy
                   sohasem fogok alkalmatlankodni nálatok...</p>
                <p>Vécsy és felesége meglepetve néztek rá. Helyette azonban anyja felelt:</p>
-               <p>- Margitnak teljesen igaza van, kedveseim. Az én leányom sohasem fogja magát <hi
-                     rend="italic">lenézetni</hi> a ti nagyúri vendégeitekkel. »Kutya kutyával,
+               <p>- Margitnak teljesen igaza van, kedveseim. Az én leányom sohasem fogja magát <hi>lenézetni</hi> a ti nagyúri vendégeitekkel. »Kutya kutyával,
                   csuka csukával!«, mondta az én szegény ipam és igaza volt... Mi Árkossyak tartjuk
                   magunkat legalább is annyinak, mint... mint akárki más, épen ezért - »drei Schritt
                   vom Leib!«</p>
@@ -726,8 +727,7 @@
                <p>- Ez valamit enyhít a dolgon. De azért nem vonom vissza, amit mondtam, aztán meg:
                   Piroska folyton általánosít és ez idegessé tesz.</p>
                <p>- Általánosít?</p>
-               <p>- Hogyne. Neki nem létezik »egy«, - hanem minden »a«. »A kalmár angol<hi
-                     rend="italic">.</hi>« »A brutális német.« »A piszkos zsidó«... Na, úgy-e? De
+               <p>- Hogyne. Neki nem létezik »egy«, - hanem minden »a«. »A kalmár angol<hi>.</hi>« »A brutális német.« »A piszkos zsidó«... Na, úgy-e? De
                   hogy is lehet folyton-folyvást általánosítani?</p>
                <p>- No hát, ebben meg már épen nincs igazad. Igenis, lehet. Igenis, mindig
                   általánosítunk. Minden ítéletünkben, vádunkban, szeretetünkben, eszményeink
@@ -961,7 +961,7 @@
                   fejezték ki, amit lelkükben éreztek.</p>
                <p>Vajjon, - tünődött Bóra, mialatt mosolyogva válaszolt Zimonyiné, vagy Járayné,
                   vagy más előkelőség kérdésére - vajjon ezek között, akik itt körülöttük ülnek,
-                  van-e csak egy is, aki annyira tudna, annyira <hi rend="italic">merne</hi>
+                  van-e csak egy is, aki annyira tudna, annyira <hi>merne</hi>
                   lelkesedni? Van-e olyan, akit az elteltség közönye örökre ki nem zárt a Szép
                   birodalmából?</p>
                <p>Körülötte most már az emberszólásnál tartottak. Szentlélekyné gőgös borzalommal
@@ -1243,7 +1243,7 @@
                   semmit.</p>
                <p>- Hidd el, hogy itt minden ilyesmi mindegy! - felelt Bóra - mert a mai
                   kényelmetlenségen és a tegnapi kopottságon át az ember érzi, folyton azt érzi,
-                  hogy igen, <hi rend="italic">de</hi> száz és száz esztendő óta itt folyton laktak,
+                  hogy igen, <hi>de</hi> száz és száz esztendő óta itt folyton laktak,
                   sírtak, szerettek, örültek, nevettek; szóval nemzedékek ki nem fogyó sora ezt a
                   házat otthonának tudta, védte, szerette és ez olyan melegséget, olyan meghittséget
                   sugá­roz mindenre, hogy az ember megszűnik azzal a mértékkel nézni az itteni
@@ -1636,7 +1636,7 @@
                <p>- No már kérem, - pattant fel a tiszteletes asszony - én még sohasem láttam
                   előkelő magyar urat, aki az anyját, meg a feleségét tiszteletben ne tartotta
                   volna.</p>
-               <p>- Egy <hi rend="italic">a</hi> betű különbségét kérem kiemelni; így: tiszteletben
+               <p>- Egy <hi>a</hi> betű különbségét kérem kiemelni; így: tiszteletben
                   ne tartatta volna, »tatta« kérem és nem »totta!« Tetszik érteni? Óriási különbség.
                   Ismerem én őket! Demokrata vagyok, feléjök sem nézek, de azért nagyon jól ismerem
                   és azért azt mondom én önnek, kedves tiszteletes asszonyom, hogy nincs az
@@ -2106,7 +2106,7 @@
                
             </div>
          </div>
-         <div type="group">
+         <div type="part">
             <head>MÁSODIK RÉSZ.</head>
             <div type="chapter">
                <head>I.</head>
@@ -3343,7 +3343,7 @@
                   kedvessel előhuzakodni, hogy Ádám iránti hűségének szószólója legyen. »És ha nem
                   volna semmi, ha a vele töltött hét év egy sivár pusztaság lenne, még akkor is...
                   Most, amikor tudom, hogy mit szenved, mit gyötrődik, mit nélkülöz ott künn a
-                  hadifogságban... Nem, nem!... Egy cél van, ami egész életemet be <hi rend="italic"
+                  hadifogságban... Nem, nem!... Egy cél van, ami egész életemet be <hi
                      >kell</hi> hogy töltse, egyetlen­egy: Ádámot boldoggá tenni. Ha egyszer
                   hazajön... És addig?« tolakodott előtérbe egy hivatlan kérdés, de Vécsy Bóra, kis
                   selyem utipárnáját feje alá gyűrködve, dacosan felelte: »Addig? Semmi.
@@ -4115,7 +4115,7 @@
                
             </div>
          </div>
-         <div type="group">
+         <div type="part">
             <head>HARMADIK RÉSZ.</head>
             <div type="chapter">
                <head>I.</head>
@@ -4385,7 +4385,7 @@
                <p>- Nagy baj van, Margit nagysád, rémes!</p>
                <p>- De mi? Az Istenért, de mi?</p>
                <p>Újabb körülnézés, aztán suttogva, egészen közelről:</p>
-               <p>- <hi rend="italic">Ádámot megölték.</hi>..</p>
+               <p>- <hi>Ádámot megölték.</hi>..</p>
                <p>- Megőrült?</p>
                <p>- Pszt. Csendesen! Azért jöttem, hogy magának megmondjam: Bécsből a
                   külügyminisz­tériumból tudom. Tudja, Iván, Sternenfels Iván.</p>
@@ -4499,8 +4499,8 @@
                   újra és újra előlről kezdett, kicsinyes zsörtölődésével, oktalan szeszélyével
                   sok-sok felesleges könnyet sajtolt a szemébe. Féltékenysége is bántotta, sértette,
                   mert hisz tisztában volt azzal, hogy nem »szerelemféltés« ébresztette volt azt,
-                  hanem az, ami minden asszonyra annyira lealázó »az <hi rend="italic">én</hi>
-                  feleségem«, »az <hi rend="italic">én</hi> asszonyom«, »az <hi rend="italic"
+                  hanem az, ami minden asszonyra annyira lealázó »az <hi>én</hi>
+                  feleségem«, »az <hi>én</hi> asszonyom«, »az <hi
                      >én</hi> nevem viselője«-féle zsarnokoskodás.</p>
                <p>Igen. Tagadhatatlan. Mindez, sőt talán még sok minden egyéb is eszébe jutott
                   olykor és fájt és sebzett és rombolt, de ilyenkor Bóra önfegyelemmel sietett egy
@@ -4598,7 +4598,7 @@
                   nagyon kérlek, ne feledd, hogy Vécsy Ádám sírját még soha senki sem látta...</p>
                <p>Szeretettel ölel nénéd</p>
                <p>
-                  <hi rend="italic">Lóri</hi>.«</p>
+                  <hi>Lóri</hi>.«</p>
                <p>Bóra e levél olvasása után úgy érezte magát, mintha hernyó mászna a tarkóján:
                   szörnyű ott tudni, de iszonyat hozzányúlni. Milyen különös is! Némely ember mintha
                   még a jó hírt is mérgezett, szennyes kútból merítené!... De hátha Lórinak van
@@ -4768,8 +4768,7 @@
                   mint amilyen én vagyok, akár bevallják, akár nem, világteremtés óta csak egyetlen
                   egy asszonyt irígyelnek. Tudja kit? Megmondom: Évát.</p>
                <p>- Évát?</p>
-               <p>- Igen. És megmondjam miért? Azért, mert ő volt az első. L’inédite!... Vele <hi
-                     rend="italic">egyszerre</hi> nem volt még egy második bűnös asszony a földön.
+               <p>- Igen. És megmondjam miért? Azért, mert ő volt az első. L’inédite!... Vele <hi>egyszerre</hi> nem volt még egy második bűnös asszony a földön.
                   Senki. Senki más, csak ő! Egyedül csak ő. Lehetett bűnében rossz vagy jó,
                   kegyetlen vagy odaadó, lehetett akármilyen, de ő csak egy volt. Az egyetlen.
                   Képzelje el! Anélkül, hogy egy második, egy harmadik, egy tizenkettedik Éva
@@ -4819,7 +4818,7 @@
                   magának az esetről s amint választ kap, magához rendel újra. Ez ma, 1917 május
                   28-án történt meg. És úgy-e, mondtam, hogy Ádám él?! Hát él... Jelenleg még az
                   Urálban, egy rettenetes nevű fogolytáborban, ahová büntetésből zárták szökése után
-                  (onnan nem írhat senki, <hi rend="italic">azért</hi> nem kaptál tőle soha
+                  (onnan nem írhat senki, <hi>azért</hi> nem kaptál tőle soha
                   levelet). Aki meghalt, mert bizony azt megölték szegényt, az nem gróf Vécsy Ádám,
                   de Béchy Ádám mérnök. Béchy Ádám - tout court. - No, az ugyan megjárta, hogy egy
                   fogolytáborba került egy Vécsy gróffal. De mi is, mert így történt a szörnyű
@@ -4887,8 +4886,8 @@
                   amit nemrég láttam. Ugyanis a Kerenszkyék engedélyével bejutottam egy Moszkva
                   melletti kórházba, amelyben csupa idegsokos és egészen őrült magyar foglyokat
                   tartanak. Le sem írhatom, hogy milyen rettenetes hely ez, mert meg sem értenéd.
-                     <hi rend="italic">Ezt</hi> látni kell, mint hogy én láttam. Például...</p>
-               <p>- Szörnyű, szörnyű! Hogy ilyennek is <hi rend="italic">kell </hi>lenni! - mormolta
+                     <hi>Ezt</hi> látni kell, mint hogy én láttam. Például...</p>
+               <p>- Szörnyű, szörnyű! Hogy ilyennek is <hi>kell </hi>lenni! - mormolta
                   Bóra egyre-másra, mialatt hol letette, hol újra felvette a levelet, mert
                   egyfolytában nem is bírta olvasni a benne leírt borzalmakat. De amint egy új
                   oldalba kezdett, egy néven akadt meg a szeme: »Hollókeöy...« Lehetséges?
@@ -4947,7 +4946,7 @@
                   »akarod?«, vagy az a mindent helyrehozó szó, hogy »együtt« csak egyszer is
                   előfordulna az egész levélben? És Bóra még mást is keresett benne: azt a kedves,
                   csak úgy dadogva, értelmetlenül, egyedül állón, mindent feledőn, találomra
-                  ide-odahintett <hi rend="italic">te</hi> szócskát; azt, amely után két év óta
+                  ide-odahintett <hi>te</hi> szócskát; azt, amely után két év óta
                   annyit sóvárgott; azt, amely úgy hatna, mint a ruha fodrára, csipkére, kézre,
                   tarkóra válogatás nélkül hulló szerel­mes csókok özöne. De nem találta. És akkor
                   mit ért neki az a te, amely itt-ott józanul, csakis a mondatfűzés szükséglete
@@ -5442,7 +5441,7 @@
                   módjára, mohón kaptak mindenféle »fasírt« és töltött ételek után, nem gondolva
                   meg, hogy az úrnak 1918-ik esztendejét jelzi a naptár és hogy az eljövendő
                   gyönyörű évek plutokratái a világháború imhol negyedik dicsőséges évét aknázzák ki
-                  ezerféle újabb és újabb <hi rend="italic">pót-</hi>ételek és keverékek nyilt és
+                  ezerféle újabb és újabb <hi>pót-</hi>ételek és keverékek nyilt és
                   titkos forgalombahozatalával.</p>
                <p>Lóri bárónő meg is jegyezte, hogy jó lenne vigyázni, de Sülelmedy hamisítatlan
                   »Kismeth«-filozófiával felelte azt, hogy »Bizalmam az ősi erényben« és falatozta,
@@ -5557,7 +5556,7 @@
                   állapotban.</p>
                <p>Egy szeszélyes, fagyra álló, kora márciusi napon mégis elhatározta, hogy elmegy
                   Bóráért. Nem ír neki, mert hátha el sem olvasná levelét, de egyszerűen beállít
-                  hozzá és megérteti vele, hogy mindkettőjük érdekében <hi rend="italic">kell</hi>
+                  hozzá és megérteti vele, hogy mindkettőjük érdekében <hi>kell</hi>
                   hogy visszatérjen Vécsre.</p>
                <p>Senkinek sem szólt terveiről. Az állomásnál még jegyet sem váltott, nehogy a főnök
                   meg­sejtse szándékát. A szárazkérdi állomásra érve azonban, mégis be kellett
@@ -5742,7 +5741,7 @@
                <p>- Irni mer nekem! - mormolt. - Igazán hallatlan!</p>
                <p>»Mindenekelőtt, Ádám - így kezdte Ghymessy levelét - becsületszavadat kérem, hogy
                   ezt a levelet sohasem fogod Bóra grófné tudomására juttatni. (Vajjon tudja-e, hogy
-                  Bóra rég elköltözött Vécsről?) Értsd meg, <hi rend="italic">soha.</hi> Most pedig
+                  Bóra rég elköltözött Vécsről?) Értsd meg, <hi>soha.</hi> Most pedig
                   vedd úgy, mintha ez nem is levél volna, de egy - gyónás. Gyónás egy haldokló
                   részéről (mert intézkedtem, hogy csakis akkor jusson ez az írás hozzád, ha én már
                   nem leszek). Gyónás egy olyan ember részéről, aki életében csak egyetlen egyszer
@@ -5751,11 +5750,11 @@
                <p>Nem szépítem a dolgot. Amit akkor mint orvos mondtam, most se vonom vissza.
                   Csakhogy ahelyett, hogy én mint orvos elmagyaráztam volna neked a helyzetet;
                   ahelyett hogy mint orvos figyelmeztettelek volna a mindkettőtök jövendőbeli sorsát
-                  fenyegető veszélyekre, én - <hi rend="italic">mert</hi> nemcsak mint orvos álltam
+                  fenyegető veszélyekre, én - <hi>mert</hi> nemcsak mint orvos álltam
                   előtted, de irígyen, éhesen, remény­telen vágyaktól marcangolva, igen, ezért,
                   főleg ezért hazudtam. Tudtam, hogy ezáltal eltiltom Bórát az ölelésedtől; tudtam,
                   hogy ezzel jót teszek vele, de annak reménye, hogy ez az eltiltásom sikerülni fog,
-                     <hi rend="italic">ez</hi> esett jól nekem. Erre vágytam. Ezt akartam elérni.
+                     <hi>ez</hi> esett jól nekem. Erre vágytam. Ezt akartam elérni.
                   Minden módon, még mindkettőtök boldogsága árán is. És most már tudhatod azt is,
                   hogy Bórát szeretem, szerettem első percztől, mikor mint menyasszonyodat
                   megpillantottam és valószínűleg szeretni fogom utolsó lehelletemig, ami különben

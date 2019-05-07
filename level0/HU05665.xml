@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>A vörös Regina</title>
                <date>2008-02-13</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -36,14 +36,15 @@
                   <name>Kiss András</name>
                   <name>Ollé Krisztián</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>A vörös Regina</title>
                      <date>2008-02-13</date>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl><title>A vörös Regina : regény </title>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
+                     <title>A vörös Regina : regény </title>
                      <author>Abonyi Árpád</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Athenaeum</publisher>
@@ -70,8 +71,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-14"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-14"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -1168,8 +1170,7 @@
                   immel-ámmal, kedvetlenül, mintha sokallotta volna a kérdezősködést:</p>
                <p>- Regina.</p>
                <p>Lám, ez a vörös nem akarja a vezetéknevét megmondani. Csak nem tart valamitől?
-                  Vajjon mi az istencsodájától? És vajjon mi az istencsodájáért vagyok <hi
-                     rend="italic">én</hi> kíváncsi a vezetéknevére... szeretném tudni? Hát nem
+                  Vajjon mi az istencsodájától? És vajjon mi az istencsodájáért vagyok <hi>én</hi> kíváncsi a vezetéknevére... szeretném tudni? Hát nem
                   mindegy nekem, akárminek is hívják?</p>
                <p>Elnevettem magamat, annyira együgyűnek találtam a magam csacsiságat. A kis vörös
                   Regina mintha gyanút fogott volna nevetésemre, mert egyszerre összerezzent,
@@ -1189,8 +1190,7 @@
                   disznók... folytatta ijedt hangon - azok az átkozottak... azok az
                   átkozottak...</p>
                <p>Ohó! Sejteni kezdtem valamit.</p>
-               <p>- Mondja csak, kis leány, - fordultam hozzá legnyájasabb hangon - nem <hi
-                     rend="italic">onnan</hi> való maga?</p>
+               <p>- Mondja csak, kis leány, - fordultam hozzá legnyájasabb hangon - nem <hi>onnan</hi> való maga?</p>
                <p>Kinyújtottam karomat és a porráégett tanya romjai felé mutattam.</p>
                <p>A leány kimeresztett szemmel nézett a mutatott irányba.</p>
                <p>- Igen, ott... Ott laktunk. Én is ott laktam. A néni is, - a többiek is ott laktak
@@ -1225,7 +1225,7 @@
                <p>Elfordította tekintetét és megint a tanya felé bámészkodott. Látta-e, nem-e, hogy
                   ott minden korom, hamu és romhalmaz - nem bizonyos.</p>
                <p>- Tudja mit, Regina, - rukkoltam ki egy indítvánnyal, abban a reményben, hogy
-                  hátha vissza­ugrik régebbi helyére a fejéből kihibbant szeg - <hi rend="italic"
+                  hátha vissza­ugrik régebbi helyére a fejéből kihibbant szeg - <hi
                      >menjen haza</hi> oda a tanyára, ahol lakott és nézze meg.</p>
                <p>- Menjek oda?</p>
                <p>- Bátran mehet, - nincs ott senki</p>
@@ -1296,7 +1296,7 @@
                <p>- Nem megyek egyedül... mormogta fejét rázva. Félek, hogy eltévedek... Szeretnék
                   tiszta lenni, de félek...</p>
                <p>- Ugyan kitől?</p>
-               <p>- <hi rend="italic">Azoktól</hi>... riadt fel összerázkódva és gyorsan, ijedten
+               <p>- <hi>Azoktól</hi>... riadt fel összerázkódva és gyorsan, ijedten
                   körülnézett.</p>
                <p>Még mindig a kozákoktól rettegett a szerencsétlen.</p>
                <p>- Hányadszor mondjam, hogy azokat a gazfickókat már rég elvitte az ördög! Azoktól
@@ -1362,7 +1362,7 @@
                <p>- Nagyon gondolhatom, mert akkor már itt voltunk.</p>
                <p>- Láttad a tüzet is?</p>
                <p>- Persze, hogy láttam!</p>
-               <p>- Hát akkor tudod... Egy láng lett minden, amikor <hi rend="italic">azok</hi>
+               <p>- Hát akkor tudod... Egy láng lett minden, amikor <hi>azok</hi>
                   jöttek és mindent felgyújtottak. Mi szaladtunk. Én egyenesen az erdőbe szaladtam.
                   A többiek... a többiek... Nem is emlékszem, hogy mi lett a többiekkel? Azt
                   gondoltam, hogy a többiek most is ott vannak... de nincsenek ott. Senki sincs
@@ -1450,8 +1450,8 @@
                <p>- De rögtön gyere vissza! Különben nem maradok itt.</p>
                <p>- Maradhatsz bátran, - szóltam vissza neki a vállamon keresztül - századszor
                   mondom, hogy nem érhet semmi veszedelem.</p>
-               <p>- Nem, nem! <hi rend="italic">Azok</hi> a föld alól is kibújnak... félek...</p>
-               <p>- Azok ugyan, akik <hi rend="italic">akkor</hi> nálatok voltak, többé nem bújnak
+               <p>- Nem, nem! <hi>Azok</hi> a föld alól is kibújnak... félek...</p>
+               <p>- Azok ugyan, akik <hi>akkor</hi> nálatok voltak, többé nem bújnak
                   ki... No, de most fogj hozzá! Addig elhozom a köpenyeget. Minden ruhádat kimosd,
                   Regina!</p>
                <p>- Tudom, tudom! Nem kell századszor mondanod, hogy minden büdös... Mondtam már,
@@ -1520,7 +1520,7 @@
                <p>- Hol?</p>
                <p>- Itt a bokrok mögött.</p>
                <p>- Akkor jól van... ha itt vagy. Te erős ember vagy, megvédesz. Nem engeded, hogy
-                     <hi rend="italic">azok</hi> meg­fogjanak, mint ahogy a nagy Reginát megfogták.
+                     <hi>azok</hi> meg­fogjanak, mint ahogy a nagy Reginát megfogták.
                   Regina kisasszonyt hárman is tartották, le­tépték róla a ruhát és röhögve cipelték
                   a szénakazal mögé... Elhoztad a köpenyeget?</p>
                <p>- El.</p>
@@ -1587,7 +1587,7 @@
                <p>Sehol sincs inkább helyén a bölcs közmondás, hogy az okosabb enged, mint hasonló
                   esetekben.</p>
                <p>- Fekete szakálla volt - dunnyogta lassankint lecsillapodva a leány - és vastag
-                  orra... és veres vércseszeme... <hi rend="italic">Ez</hi> volt az, aki Regina
+                  orra... és veres vércseszeme... <hi>Ez</hi> volt az, aki Regina
                   kisasszonyt először ragadta meg és leszakította melléről a ruhát... Ez volt az a
                   disznó... Ó, ó... erre a cudarra jól emlékszem...</p>
                <p>Haszontalan fáradság lett volna, ha meg akartam volna vele értetni, hogy a
@@ -1730,7 +1730,7 @@
                <p>- Nem szabad rád nézni?</p>
                <p>- Szabad, de nem így.</p>
                <p>- Hogy?</p>
-               <p>- <hi rend="italic">Igy</hi>, mint te!</p>
+               <p>- <hi>Igy</hi>, mint te!</p>
                <p>- Lám... hát én hogy nézek?</p>
                <p>- Azt hiszed, nem tudom, hogy bolondnak tartasz?</p>
                <p>Ohó!... ez vágott, mint a kés. A hang is volt olyan éles, mint egy kés. A dühös
@@ -1744,7 +1744,7 @@
                <p>- Ne dühösködj, Regina - válaszoltam engesztelő hangon.</p>
                <p>- Beszélhetsz... tudom én jól, hogy bolondnak tartasz, azért nézel így rám, mint
                   Frau Mikelre a doktor... Frau Mikel azonban igazán bolond volt és amikor a doktor
-                  megvizsgálta és <hi rend="italic">így</hi> nézett rá, mint te rám és amikor azt
+                  megvizsgálta és <hi>így</hi> nézett rá, mint te rám és amikor azt
                   mondta neki, hogy Liebe Frau, sie müssen nach Lemberg in a Sanatórium géhén - hát
                   akkor Frau Mikel úgy megütötte a doktor arcát, hogy csupa vér lett és
                   belekapaszkodott szakállába is és jó csomót ki is tépett belőle... igen, azt
@@ -1919,7 +1919,7 @@
                <p>- Nem vagyok paraszt, - dunnyogta egykedvűen.</p>
                <p>- Hm... én sem.</p>
                <p>- Azt én nem is mondtam... és nem is bánom, akárki vagy. Azt is csak úgy említem,
-                  hogy árván maradtam és akkor kerültem <hi rend="italic">oda</hi> a rokonaimhoz,
+                  hogy árván maradtam és akkor kerültem <hi>oda</hi> a rokonaimhoz,
                   akik cselédnek használtak - ha rossz­kedvük volt. Ha jó kedvük volt, én is épen
                   úgy éltem, mint a nagy Regina.</p>
                <p>- Mégis nagyságos kisasszonynak kellett szólítanod?</p>
@@ -1987,7 +1987,7 @@
                <p>- Az? Egy fiú. A bácsim fia, - a nagy Regina testvére.</p>
                <p>- Aha! Tehát afféle házi tolvajszarka.</p>
                <p>- Mi az?</p>
-               <p>- <hi rend="italic">Most</hi> már semmi...</p>
+               <p>- <hi>Most</hi> már semmi...</p>
                <p>Nem akartam hozzátoldani, hogy most már ez a boldogtalan éretlen szoknyavadász
                   »Fratz« is ott keveredik a többi hamuval, családjának elhamvadt pora között...</p>
                <p>Regina tovább fűzögette a megkezdett szálat. Csöppet sem érdekelt ez az egész
@@ -2066,7 +2066,7 @@
                <p>Intettem, hogy beszélhet, ha akar. Elég közel vagyok és különben is nagyszerű
                   füleim vannak.</p>
                <p>- Azt akarom mondani, - folytatta lassú hangon - hogy ha nincs otthon senkid,
-                  veled megyek. Tudod... itthagyom <hi rend="italic">azokat</hi> és elmegyek veled,
+                  veled megyek. Tudod... itthagyom <hi>azokat</hi> és elmegyek veled,
                   akármeddig kellene is mennem. De csak ha ezután is jó leszel hozzám és ha igazán
                   nincs otthon se feleséged, se szeretőd, se gyereked... ha egyedül vagy, mint ahogy
                   én egyedül vagyok. Tudod... én innen már nem fogok többet hazamenni, hanem
@@ -2109,7 +2109,7 @@
                <p>- Nem.</p>
                <p>A leány kiköpte a szájában tartogatott fűszálat és valami effélét mormogott maga
                   elé:</p>
-               <p>- Akkor szeretném, ha <hi rend="italic">azok</hi> jó sokan jönnének...</p>
+               <p>- Akkor szeretném, ha <hi>azok</hi> jó sokan jönnének...</p>
                <p>- De nem jönnek!</p>
                <p>- Csak annyit mondtam, hogy szeretném, ha jönnének...</p>
                <p>- Nem igaz beszéd ez, Regina.</p>
@@ -2195,7 +2195,7 @@
                   karomat és talpraszökött.</p>
                <p>- Gott... én már látom... én már látom - rebegte kétségbeesve, miközben fölkapta
                   nagykendőjét és riadt szemei az üldözött vad rémületével fordultak az erdő felé, -
-                     <hi rend="italic">azok</hi> jönnek ott... Szent isten...</p>
+                     <hi>azok</hi> jönnek ott... Szent isten...</p>
                <p>- Jól látsz, Regina? - vetettem oda, mialatt holmimat a legnagyobb sietséggel
                   szintén össze­szedtem.</p>
                <p>- Jól látok... szent isten, szaladjunk az erdőbe! Csak az erdőbe... az erdőbe...
@@ -2320,7 +2320,7 @@
                   bújkálásra elkerülhetetlen szükség volt, még jól is érezhettem volna magamat ebben
                   a medvebarlangban. Igy azonban folytonosan ott motoszkált fejemben a kétség.</p>
                <p>A kis Regina meg volt magával elégedve. Otthonosan elhelyezkedett és tízszer
-                  egymásután is elmondotta, hogy semmitől sem kell tartanunk. <hi rend="italic"
+                  egymásután is elmondotta, hogy semmitől sem kell tartanunk. <hi
                      >Azok</hi> nem fognak ily mélyen bejönni az erdőbe és ha be is jönnek, nem
                   találnak meg. Egy baj azonban van és ez a víz. Az egész környéken nincs egy
                   aprócska forrás sem. Legfölebb esővizet lehetne felfogni. Esőre pedig nincs
@@ -2376,12 +2376,11 @@
                <p>A leány abban a pillanatban talpraszökött.</p>
                <p>- Megbolondultál? Hová akarsz menni? - támadt rám szinte fenyegetve, s a barlang
                   szája elé ugorva, elállta az utat.</p>
-               <p>- Meg kell tudnom, hogy jóbarát van-e most a Standomon, vagy ellenség. <hi
-                     rend="italic">Kell!</hi> Tehát megyek. Légy szíves, fiacskám, eredj félre az
+               <p>- Meg kell tudnom, hogy jóbarát van-e most a Standomon, vagy ellenség. <hi>Kell!</hi> Tehát megyek. Légy szíves, fiacskám, eredj félre az
                   útból, különben...</p>
                <p>- Mit különben? Azt hiszed, félek tőled?</p>
                <p>- Különben félreteszlek...</p>
-               <p>- Nem szabad kimenned, hallottad! Nem engedem! <hi rend="italic">Én</hi> mondom,
+               <p>- Nem szabad kimenned, hallottad! Nem engedem! <hi>Én</hi> mondom,
                   hogy azok a disznók jöttek vissza... ez nem elég?</p>
                <p>- Nem elég.</p>
                <p>- Hör zu - sziszegte arcomba a leány - megverhetsz, ha nem mondtam igazat. Nem
@@ -2418,7 +2417,7 @@
                   kényszerített. Úgy rémlett, mintha távoli ágyúmorajt hallottam volna... Feszült
                   figyelemmel hallgatóztam, de néhány percig ismét csak a könnyű esti szélben
                   megmozduló falevelek susogó hangja szivárgott füleimhez a csendességben.</p>
-               <p>Csalódtam volna? És ha <hi rend="italic">nem</hi> csalódtam, mi történhetett a
+               <p>Csalódtam volna? És ha <hi>nem</hi> csalódtam, mi történhetett a
                   fronton, melyről azt kellett képzelnem, hogy igen nagy távolságra huzódhatott
                   észak és észak-nyugat felé? Megfordult volna a harcban álló vonal? Visszafelé
                   hullámzik talán az óriási kiterjedésű ütközet s a bal­szerencse vagy egy magasabb
@@ -2490,7 +2489,7 @@
                <p>- Itt akarok lenni... válaszolta inkább a szemeivel.</p>
                <p>A nagy lelki izgalom e feszült pillanatában is arra gondoltam, hogy valami roppant
                   változás­nak kellett végbemennie e szegény lelkecske egész törékeny lényében,
-                  különben nem tudta volna legyőzni az irtózatot, melyet <hi rend="italic">azok</hi>
+                  különben nem tudta volna legyőzni az irtózatot, melyet <hi>azok</hi>
                   iránt érzett... De legyőzte, el mert jönni, itt guggolt mellettem és csak a szája
                   remegett. Egyébként mozdulatlanul és csendesen ült.</p>
                <p>Leshelyemmel szemközt most félrecsapódtak az ágak és három jól megtermett orosz
@@ -2538,7 +2537,7 @@
                   tudta győzni és ide mert jönni? Megkerült talán az a bizonyos negyedik szeg és
                   ismét normális értelem dolgozott benne? És ha csakugyan visszazökkent értelme az
                   eredeti helyes kerékvágásba, nem támad-e ismét egy kritikus pont, amelyen
-                  felborul? Eddig állandóan <hi rend="italic">azokon</hi> borult föl... az orosz
+                  felborul? Eddig állandóan <hi>azokon</hi> borult föl... az orosz
                   katonáktól iszonyodott... most azonban ide mert jönni, szemtől-szembe látta őket
                   és mégis megmaradt a helyes kerékvágásban: nem mutatott semmi hisztérikus
                   írtózatot. Sőt íme, utánuk lopódzott... utánuk mert lopódzni... hogy kilesse őket.
@@ -2799,7 +2798,7 @@
                <p>Az állatnak csak homályos körvonalait tudtam kivenni a sötétségben, mérges morgása
                   azonban eléggé világosan elárulta, hogy ott van valahol a barlang nyílása
                   közelében.</p>
-               <p>- Ez a kutya <hi rend="italic">azoké</hi>... súgta fülembe a leány - vagy talán
+               <p>- Ez a kutya <hi>azoké</hi>... súgta fülembe a leány - vagy talán
                   egy másik ellenségé, amely azóta telepedett a fánk alá és ezt a kutyát magával
                   hozta... Mihelyt reggel lesz - nyakunkra fogja őket hozni.</p>
                <p>Az ördögbe! Szépen vagyunk.</p>
@@ -2884,7 +2883,7 @@
                <p>- Nit plausch... Kum!</p>
                <p>- Kum, kum... arról van szó, hogy nem jól vezetsz.</p>
                <p>- De!</p>
-               <p>- Ugyanazon az úton megyünk, amelyen előttünk <hi rend="italic">azok</hi>
+               <p>- Ugyanazon az úton megyünk, amelyen előttünk <hi>azok</hi>
                   mentek...</p>
                <p>- Tudom.</p>
                <p>- Tessék?</p>
@@ -3072,7 +3071,7 @@
                <p>- Aber ja! Épen oda akarok menni - mondotta biztos hangon.</p>
                <p>- Akkor hát nem tudod, mi vár odalenn?</p>
                <p>- Dehogy nem tudom! Voltam én már ott elégszer.</p>
-               <p>- <hi rend="italic">Abba</hi> a faluba?</p>
+               <p>- <hi>Abba</hi> a faluba?</p>
                <p>- Igen, abba... Ladomirskában, mert így hívták, mikor még emberek laktak benne. De
                   ez már régen volt. Akkor még egyikünk sem volt a világon. Azóta úgy hívják az erre
                   vidéki parasz­tok, hogy »Pokoltorok«... Peklopapula és jól hívják, mert csakugyan
@@ -3197,8 +3196,7 @@
                   borzasztó vége lesz...</p>
                <p>...Ez a megindult, csöndes hang annyira meglepett, hogy egy kis bakatúlzással
                   szólva - majdnem lefordultam a kőpadról, amelyen ültem. Ez nem a tegnapi vörös
-                  Regina hangja, hanem egy értelmes, érző, öntudatos és gyöngéd léleké, aki <hi
-                     rend="italic">tudja</hi>, hogy mit mond. Feszülten figyeltem, hogy mi fog
+                  Regina hangja, hanem egy értelmes, érző, öntudatos és gyöngéd léleké, aki <hi>tudja</hi>, hogy mit mond. Feszülten figyeltem, hogy mi fog
                   következni, de nem következett semmi, ami impressziómat elrontotta volna.</p>
                <p>A leány csöndesen ingatta vörös fejét.</p>
                <p>- Talán jobb neki, hogy azok a gazok bedobták a tűzbe és meghalt - mormogta maga
@@ -3595,7 +3593,7 @@
                   szemrehányást magam­nak, hogy látásom ily nagy távolságra az esti homályban nem
                   megbízható.</p>
                <p>A rövid szünetek után újra megismétlődő ágyúdörgés kizavarta normális állapotából
-                  a nyugalmamat. Nem voltam »<hi rend="italic">fölhúzva</hi>«, amint germán
+                  a nyugalmamat. Nem voltam »<hi>fölhúzva</hi>«, amint germán
                   féltréfával mondani szokás, de éreztem, hogy az izgatottság lassanként
                   meg-megborzongatja rajtam a bőrt...</p>
                <p>Ez nem volt félelem, csak egyik megnyilatkozási formája a félelemnek. Az a
@@ -3613,7 +3611,7 @@
                <p>Felugrottam a bokor alól, amely alatt eddig kuporogtam.</p>
                <p>Még pedig olyan gyorsan, mint egy gummilabda. A fülembe érkező kiáltások
                   ugrasztottak fel.</p>
-               <p>- <hi rend="italic">Huj, huj!</hi>...</p>
+               <p>- <hi>Huj, huj!</hi>...</p>
                <p>Ezer villám... hisz ez a mieink csataordítása! A mi embereink kapták föl az
                   ős-magyarságnak ezt a hajdanta európaszerte rettegett »pogány« kiáltását, mely a
                   turk-nomádok ajkán mai napig is ebben az eredeti formájában viharzik föl.</p>
@@ -4393,7 +4391,7 @@
                   kérdezte:</p>
                <p>- Hova lett innen az...</p>
                <p>- Az?</p>
-               <p>- Igen, <hi rend="italic">az</hi>... mert nincs itt.</p>
+               <p>- Igen, <hi>az</hi>... mert nincs itt.</p>
                <p>- Utazik.</p>
                <p>- Csak nem...</p>
                <p>- Nem, nem, - siettem a további aggodalmas kérdésnek elejét venni - attúl már nem
@@ -4519,7 +4517,7 @@
                   volna tiszta a levegő...</p>
                <p>- A patvarba! Dehogy is nem az! Képtelenség, hogy ide most ellenséges katona
                   eljuthasson.</p>
-               <p>- Nem mondom, hogy <hi rend="italic">azok</hi> közül való, aki ott mozog... Nézd!
+               <p>- Nem mondom, hogy <hi>azok</hi> közül való, aki ott mozog... Nézd!
                   most ismét megmozdult... de valamiféle ember, az bizonyos.</p>
                <p>Ebben a pillanatban én is megláttam a nyírfa alatt mozgó emberi alakot.</p>
                <p>- Hogy az ördög vigye el... csakugyan mozog ott valaki!</p>
@@ -5888,8 +5886,7 @@
                <p>Elégedett és boldog voltam a csizma birtokában.</p>
                <p>- Mit fizessek a csizmáért, Heiszer úr?</p>
                <p>A mester arcán minden ráncocska nevetett.</p>
-               <p>- Viccelni méltóztatik, kérem! Mi a haragos istennyilát csináljak én <hi
-                     rend="italic">itt</hi> a pénzzel? Hisz jó­formán már azt is elfelejtettem, hogy
+               <p>- Viccelni méltóztatik, kérem! Mi a haragos istennyilát csináljak én <hi>itt</hi> a pénzzel? Hisz jó­formán már azt is elfelejtettem, hogy
                   valami pénznek nevezett papirka is van a világon. Adtak ott valamit pénzért, ahol
                   nagyságod eddig tartózkodni méltóztatott?</p>
                <p>Igaza volt. Az egész idő alatt egyetlenegyszer sem jutott eszembe, hogy ilyenféle
@@ -5985,7 +5982,7 @@
                <p>A kerti ház mellett, közvetlenül a bejárat küszöbe közelében - megpillantottam egy
                   üres gyufatartót. Afféle garasos jószág volt, amilyeneket vásárokon szoktak
                   árulni. Fából való, csappantyús fedelű, olcsó portéka. »Dobsinai emlék«
-                  felirattal. De az <hi rend="italic">enyém</hi> volt... ezer villám és vakablak!...
+                  felirattal. De az <hi>enyém</hi> volt... ezer villám és vakablak!...
                   az én gyufatartóm, ugyanaz, amelyet több egyéb holmimmal együtt Regina birtokában
                   hagytam.</p>
                <p>Hogy került ez ide?...</p>
@@ -6042,7 +6039,7 @@
                   rekedt, erőtlen hördülések érkeztek füleimhez. Voltak azonban más hangok is.
                   Ismerős dörrenések. Ezek nem az égből hallatszanak...</p>
                <p>Megálltam és figyelmesen hallgatóztam.</p>
-               <p>...Nem bizony, <hi rend="italic">ezek</hi> a hangok nem az égből jönnek. Ismerős
+               <p>...Nem bizony, <hi>ezek</hi> a hangok nem az égből jönnek. Ismerős
                   érctorkok ordítják őket, teljes úri nevükön: k. und k. 15 cm. Mörser Abt.
                   Batterien. Komoly, mély hangjukat a leghevesebb tábori ágyútűzben is azonnal
                   megismerjük.</p>
@@ -6098,8 +6095,7 @@
                <p>- Én vagyok, őrmester úr, berukkoltam.</p>
                <p>- Az ám, hogy az Istennyila csapjon bele ebbe a komisz planétába... tisztára
                   megfeledkeztünk nagyságodról. Morelli kapitány úr már el is rendelte, hogy
-                  töröljék nagysádat a Verflégs-Standból, olyan bizonyosra veszi, hogy <hi
-                     rend="italic">amazoknak</hi> a kosztjára tetszett kerülni.</p>
+                  töröljék nagysádat a Verflégs-Standból, olyan bizonyosra veszi, hogy <hi>amazoknak</hi> a kosztjára tetszett kerülni.</p>
                <p>- Nem tetszett.</p>
                <p>- Éljen! Egye meg amazokat a fene... Helyezze magát kényelembe, tanácsos úr, -
                   nevetett vidáman az óriás, - ez itt a mi szállásunk, tetszik látni, -
@@ -6130,7 +6126,7 @@
                <p>Ebben a pillanatban magányos puskalövés hangzott el az orosz állások felől, s
                   nyomban utána éles fütty sivított el az őrmester feje fölött.</p>
                <p>- Tetszik látni, - mondotta megvetéssel, miközben széles gesztussal körülmutatott
-                  a fedezéke­ken, - <hi rend="italic">ennyit</hi> ér ez a pocsék munka...</p>
+                  a fedezéke­ken, - <hi>ennyit</hi> ér ez a pocsék munka...</p>
                <p>Ezzel szép nyugodtan leült velem szembe egy üres töltényládára, előszedte
                   dohánytárcáját és hozzá fogott egy vékony cigaretta megsodrásához.</p>
                <p>Amikor a cigarettával elkészült, rágyújtott és egymásra csapva izmos lábait,
@@ -6361,7 +6357,7 @@
                   amelyre izgatott várakozásában tízszer is leült, hogy ismét felálljon és hátrább
                   rúgja.</p>
                <p>- Megyünk?</p>
-               <p>- Megyünk, tanácsos úr! A distancia odáig... <hi rend="italic">azokhoz</hi>...
+               <p>- Megyünk, tanácsos úr! A distancia odáig... <hi>azokhoz</hi>...
                   valamivel több, mint négyszáz lépés. Nagyságodnak ennyit elég tudni.</p>
                <p>Intettem, hogy elég.</p>
                <p>A következő pillanatban az őrmester hatalmas alakja eltűnt mellőlem. Csak halkan
@@ -6375,7 +6371,7 @@
                   elmaradjunk. Az oroszoknak nem voltak fényszóróik, különben nem lehetett volna ezt
                   a vakmerő »stikli«-t elkövetni.</p>
                <p>Három perc mulva a balszélső vonalak felől már felhangzott a hosszan elnyújtott,
-                  harsány <hi rend="italic">hurrá!</hi>... Ott már sturmoltak a fiúk. Gyorsabb lábuk
+                  harsány <hi>hurrá!</hi>... Ott már sturmoltak a fiúk. Gyorsabb lábuk
                   volt, mint nekünk. Igaz, hogy a terep is símább azon a szakaszon, mint a miénken,
                   ahol az ember folyton botlott.</p>
                <p>Összevissza fegyverropogás... néhány géppuska... sípjelek... És rettenetes kaosza
@@ -6935,7 +6931,7 @@
                   lehetett fogni, és íme, mégsem volt képtelenség és nem volt képzelődés, hanem
                   valóság: az a gyorsan hozzámsiető vézna teremtés az ő apró szemeivel, fintorgató
                   mókus-orrával, sipka alá szorított dús vörös hajával és kevélyen előreálló
-                  mellével - <hi rend="italic">Regina</hi> volt, a harapós vadmacska, akinek apró
+                  mellével - <hi>Regina</hi> volt, a harapós vadmacska, akinek apró
                   foganyomát most is meg lehetett látni a kezem fején.</p>
                <p>Amikor egészen közel érkezett hozzám, elmosolyodott és maga alá kapva az orosz
                   köpenyből részére átformált köntöst, gyorsan leült a földre.</p>
@@ -7094,7 +7090,7 @@
                   Morelli kapitány úr mondani szokta - hogy »a schneidig katona nem mindent tudja«,
                   odavetőleg rögtön megjegyeztem:</p>
                <p>- Én is tudom, hogy hol vagyok.</p>
-               <p>- Lehet... De nem tudod <hi rend="italic">eléggé</hi>, különben jobban
+               <p>- Lehet... De nem tudod <hi>eléggé</hi>, különben jobban
                   sietnél.</p>
                <p>- Ennél sebesebben már csak a gyorsvonat megy...</p>
                <p>A leány fejcsóválva vetett egy pillantást hatalmas csizmáimra.</p>
@@ -7183,7 +7179,7 @@
                   alávaló gazember volt.</p>
                <p>Hát hiszen persze, persze... Okos ember azonban óvatosan kerüli ennek a dolognak
                   körülmé­nyesebb megvitatását és nem feszegeti a magyarázatot. Főleg pedig óvakodik
-                  valamiképen megsejtetni, hogy <hi rend="italic">ebben</hi> a restelni való
+                  valamiképen megsejtetni, hogy <hi>ebben</hi> a restelni való
                   komiszságban katona és katona között nem igen lehet különbséget tenni... Láttam
                   effélét is eleget. S ha még oly kegyetlen büntetés fenyegeti is az embereket, a
                   szemeik elé kerülő szoknya nincs tőlük biztonságban. Egy pillanat alatt megvakul,
@@ -7263,7 +7259,7 @@
                   hangulatomban nem állhattam jót...</p>
                <p>- Szomjas lehetsz, Regina, - kanyarodtam vissza a közömbös országútra - vízzel
                   azonban nem szolgálhatok, csak pá... Ohó! Ki se mondom.</p>
-               <p>- Hiába mondanád, - hangzott a válasz a sötétségből - <hi rend="italic">az</hi> a
+               <p>- Hiába mondanád, - hangzott a válasz a sötétségből - <hi>az</hi> a
                   csúfság csak egyszer eshetett rajtam... Igaz, hogy nagyon szomjas vagyok, de
                   reggelig majd csak kibírom. Ha elalszom, elfelejtem szomjúságomat is. Már pedig
                   hamar el fogok aludni. Te nem vagy álmos?</p>
@@ -7330,7 +7326,7 @@
                   követhette volna, mert fölkavartam a tócsát s a víz szürke lett az iszapos sártól.
                   Későn vettem észre, hogy ezt a sáros iszapot is a pofámra locsoltam. Mindegy, nem
                   szabad finnyásnak lenni...</p>
-               <p>- Én majd csak <hi rend="italic">otthon</hi> fogok megmosdani - jelentette ki a
+               <p>- Én majd csak <hi>otthon</hi> fogok megmosdani - jelentette ki a
                   leány s rosszalva csóválgatta fejét, amikor látta, hogy törölközőnek az ingemet
                   neveztem ki. Valamibe azonban meg kellett törölköznöm. Az ingemen ott marad az
                   iszap fotográfiája, ezt majd ki fogom mosni, ha ráérek és több víz lesz raktáron,
@@ -7425,7 +7421,7 @@
                   e pilla­natban azonban inkább ez a szó fogott meg, hogy »otthon«. A leány már több
                   ízben használta ezt a kifejezést.</p>
                <p>- Mondd csak, Regina, - kérdeztem inkább némi érdeklődéssel, semmint kíváncsian -
-                  mit értesz te azalatt, hogy <hi rend="italic">»otthon«</hi>? Hol van neked vagy
+                  mit értesz te azalatt, hogy <hi>»otthon«</hi>? Hol van neked vagy
                   nekem - otthon?</p>
                <p>A leányt szemmelláthatóan meghökkentette a kérdés. Csodálkozva meresztette rám
                   apró, hunyorgó szemeit és sokáig nem tudta, hogy mit válaszoljon. Egész lényéről
@@ -7453,7 +7449,7 @@
                   magánkívüli örömével tapsolt és ugrált... nyilván maga sem tudta, hogy mit
                   csinál... mert egyszerre csak mellemre vetette magát és belekiáltotta az
                   arcomba:</p>
-               <p>- Most már nem félek! <hi rend="italic">Itthon vagyunk</hi>... itthon vagyunk!</p>
+               <p>- Most már nem félek! <hi>Itthon vagyunk</hi>... itthon vagyunk!</p>
                <p>Fölkaptam a kis kamerádot, mint egy pelyhet, körüllendítettem a levegőben, mint
                   ahogy a pólyásbabát hintáztatja karján a dajka, azután nyilván én sem tudtam, hogy
                   mit csinálok, mert bizony olyan katonás csókot nyomtam az ajakára, hogy akár tüzes
@@ -7636,8 +7632,7 @@
                   tenyerébe fektette sovány kis arcát - különösen, ha a holnapra gondolok, amely
                   bizonytalan. Akárhogy erőlködöm, nem tudok belelátni... Egyébre nem is gondolok,
                   csak mindig... mindig erre... Minden más emlékem, egész eddigi életem olyan, mint
-                  ez a sötétség, mely percenkint nagyobb és nagyobb... Egyetlen gondolatom a <hi
-                     rend="italic">holnap</hi>. Mi lesz holnap és mi lesz velem ebben a bizonytalan
+                  ez a sötétség, mely percenkint nagyobb és nagyobb... Egyetlen gondolatom a <hi>holnap</hi>. Mi lesz holnap és mi lesz velem ebben a bizonytalan
                   holnapban?... Nem tudok, nem érzek, nem sejtek semmit, csak azt tudom egész
                   bizonyosan, hogy holnap is melletted leszek.</p>
                <p>Ismét az iménti mélázó, bánatos hang... S oly nagy melegség égett ebben az alig

@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Az urak :  Regény </title>
                <date>2009-12-17</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -34,15 +34,15 @@
                   <name>Heyer Arthur</name>
                   <name>Varga Tünde</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>Az urak :  Regény </title>
                      <date>2009-12-17</date>
                      <ref target="http://www.archive.org/details/magyarregnyir50miksuoft"/>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="printSource">
                      <title>Az urak : regény</title>
                      <author>Tolnai Lajos</author>
                      <pubPlace>Budapest</pubPlace>
@@ -52,6 +52,11 @@
                         target="http://nektar.oszk.hu/hu/manifestation/3220741"/>
                   </bibl>
                </relatedItem>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>Az urak</title>
+               <author>Tolnai Lajos</author>
+               <date>1872</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -70,8 +75,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-17"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-17"/>
       </revisionDesc>
    </teiHeader>
   <text>

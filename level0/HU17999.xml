@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Szeretet könyve</title>
                <date>2018-03-29</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -33,14 +33,8 @@
                   <name>Lipták Éva</name>
                   <name>Baloghné BárdosKatalin</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
-                     <title>Szeretet könyve</title>
-                     <date>2018-03-29</date>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>Szeretet könyve</title>
                      <author>Emilia</author>
                      <pubPlace>Pest</pubPlace>
@@ -68,8 +62,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-19"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-19"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -124,7 +119,7 @@
         </div>
      </front>
       <body>
-         <div type="vol">
+         <div type="volume">
             <head>
                 ELSŐ KÖTET.</head>
             
@@ -2982,7 +2977,7 @@
                
             </div>
          </div>
-         <div type="vol">
+         <div type="volume">
             <head>
                 MÁSODIK KÖTET.
             </head>

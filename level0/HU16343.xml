@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Az elzárt gyámleány :  Víg elbeszélés </title>
                <date>2016-12-14</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -35,22 +35,27 @@
                   <name>Erdélyi Zsolt</name>
                   <name>Góczán Andrea</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>Az elzárt gyámleány :  Víg elbeszélés </title>
                      <date>2016-12-14</date>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="printSource">
                      <title>Az elzárt gyámleány : víg elbeszélés</title>
-                     <author> Degré Alajos</author>
+                     <author>Degré Alajos</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Athenaeum</publisher>
                      <date>1894</date>
                      <ref target="http://nektar.oszk.hu/hu/manifestation/3068921"/>
                   </bibl>
                </relatedItem>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>Az elzárt gyámleány</title>
+               <author>Degré Alajos</author>
+               <date>1878</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -69,8 +74,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-19"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-19"/>
       </revisionDesc>
    </teiHeader>
   <text>

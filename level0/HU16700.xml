@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Uzoni Margit: regény fiatal leányok számára</title>
                <date>2017-03-28</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -35,8 +35,8 @@
                   <name>Rónyainé Varga Tünde</name>
                   <name>Góczán Andrea</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>Uzoni Margit : regény fiatal leányok számára</title>
                      <author>Benedek Elek</author>
                      <pubPlace>Budapest</pubPlace>
@@ -64,6 +64,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2019-04-23"/>
          <change when="2018-10-03"/>
       </revisionDesc>
    </teiHeader>

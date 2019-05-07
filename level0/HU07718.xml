@@ -4,9 +4,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kálozdy Béla</title>
-            <author>na<idno type="VIAF">na</idno>
-            </author>
+            <title>Kálozdy Béla : Regény : ELTeC edition</title>
+            <author ref="viaf:73093732">Beöthy Zsolt</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -16,39 +15,49 @@
             </respStmt>
          </titleStmt>
          <extent>
-            <measure unit="words">148819</measure>
-           <!-- <measure unit="pages">na</measure>-->
+            <measure unit="words">149978</measure>
+            <measure unit="pages">734</measure>
+            <measure unit="vols">2</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
-               <title>na</title>
+            <bibl type="digitalSource">
+               <title>Kálozdy Béla : Regény</title>
+               <date>2009-12-10</date>
+               <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
+               <ref target="http://mek.oszk.hu/07700/07718"/>
                <respStmt>
                   <resp>Original Electronic Edition</resp>
-                  <name>na</name>
-                  <name>na</name>
-                  <name>na</name>
+                  <name>Mikszáth Kálmán</name>
+                  <name>Mikszáth Kálmán</name>
+                  <name>Kacziány Ödön</name>
+                  <name>Szever Pál</name>
+                  <name>Kiss András</name>
+                  <name>Ollé Krisztián</name>
                </respStmt>
-               <ref target="na"/>
-               <date>na</date>
-               <relatedItem type="copyText">
-                  <bibl>
-                     <title>na</title>
-                     <ref target="na"/>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
+                     <title>Kálozdy Béla : Regény</title>
+                     <date>2009-12-10</date>
+                     <ref target="http://www.archive.org/details/magyarregnyir43miksuoft"/>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl><title>na</title>
-                     <author>na</author>
-                     <pubPlace>na</pubPlace>
-                     <publisher>na</publisher>
-                     <date>na</date>
-                     <ref
-                        target="na"/>
+               <relatedItem type="source">
+                  <bibl type="printSource">
+                     <title>Kálozdy Béla : regény</title>
+                     <author> Beöthy Zsolt</author>
+                     <pubPlace>Budapest</pubPlace>
+                     <publisher>Franklin-Társ.</publisher>
+                     <date>1908</date>
                   </bibl>
                </relatedItem>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>Kálozdy Béla : Regény</title>
+               <author>Beöthy Zsolt</author>
+               <date>1875</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -67,15 +76,16 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2019-04-23"/>
          <change when="2018-11-17"/>
       </revisionDesc>
    </teiHeader>
   <text>
       <body>
          
-         <div type="vol">
+         <div type="volume">
             <head>ELSŐ KÖTET</head>
-            <div type="group">
+            <div type="part">
                <head>ELSŐ RÉSZ.</head>
                <div type="chapter">
                   <head>I. FEJEZET.</head>
@@ -127,7 +137,7 @@
                         hogy elérkezett az idő, melyben ki kell sietnie az elméletek homályából a
                         gyakorlat verőfényére, mert a házban bölcső, a bölcsőben pedig egy nyikorgó
                         kis jószág van, ki bölcs vezetőre várakozik. A professzor úr, a mint első
-                        ámulatából a nagy ujságra magához tért, (nem feledvén el a <hi rend="italic"
+                        ámulatából a nagy ujságra magához tért, (nem feledvén el a <hi
                            >Didactica magná</hi>-nak azt a lapját szamárfüllel jegyezni meg, mely
                         mellett a rárontó szolgáló meglepte), azzal az örömmel indult felesége
                         szobája felé, melyet a szegény szobrász érezhet, mikor hosszas és
@@ -431,7 +441,7 @@
                         elkeseredett kifakadásai csinálták a legnagyobb lármát a háznál, nem az ő
                         víg nevetkérezése) egy reggel halkan, talán lábujjhegyen és kissé remegve
                         belépett a várlakba, a por, pókok és hideg e titokteljes birodalmába. A
-                        nagytiszteletü úr, ki épen Faludi <hi rend="italic">Nemes urfi</hi>-jától
+                        nagytiszteletü úr, ki épen Faludi <hi>Nemes urfi</hi>-jától
                         kért bölcs tanácsokat a kerti ház jobb módu kvártélyosainak nevelésére
                         nézve, csak akkor vette észre, mikor a kis galamb hátulról már befödte
                         nyakát fehér szárnyaival, arczát pedig elárasztotta piros szája csókjaival,
@@ -921,7 +931,7 @@
                         mindenki mosolyog felettök, mindenki visszaóhajtja és mindenki megkönyezi
                         őket. Hol szent legendák, hol egyek a száz közül; de mindig ugyanazon
                         apróságok. Béla és Mari is átélték e történeteket. Volt meséjök a
-                        meg­szárított rózsabimbóról, a <hi rend="italic">Karthauzi</hi>-nak egy
+                        meg­szárított rózsabimbóról, a <hi>Karthauzi</hi>-nak egy
                         bizonyos lapjáról, egy esti csónakázásról a hold-világította Dunán, a
                         majálisról a szőlőhegyen, az emberek kinevetett suttogásairól, egy
                         észrevétlen csókról hajdan egy betegágy felett, a rejtegetett fájdalomról
@@ -1373,13 +1383,13 @@
                      <p>Így hajt a kocsi, mely embert gázolt keresztül és menekszik.</p>    
                </div>
             </div>
-            <div type="group">
+            <div type="part">
                <head>MÁSODIK RÉSZ.</head>
                <div type="chapter">
                   <head>V. FEJEZET.</head>
                   <head>A kálozdi kastély.</head>
                      <p>A kálozdi kastély földgömbünk azon kevés pontja közé tartozott, hol a
-                        rabszolgatartás - Wilberforce és Lincoln, az <hi rend="italic">Abolition
+                        rabszolgatartás - Wilberforce és Lincoln, az <hi>Abolition
                            act</hi> és a richmondi harcz ellenére - még sokáig virágjában volt.</p>
                      <p>Az igaz, hogy e kastély ugyancsak el is volt zárva mindenfelől az
                         elégedetlen, suttogó, lázongó, rohanó, szabad világtól. A kis faluval együtt
@@ -1980,7 +1990,7 @@
                         emléklapokat. Íme a régi, szellemes ötletek: az egyiken girbe-gurba írás
                         magyarázza, hogy milyen az élet; valamelyik udvarlója a hitet, reményt és
                         szeretetet óhajtotta nyújtani neki ismert jelképeikben; volt olyan is, ki
-                        egy csinos versszakkal adta bizonyságát, hogy ismeri Himfy <hi rend="italic"
+                        egy csinos versszakkal adta bizonyságát, hogy ismeri Himfy <hi
                            >Szerelmei</hi>-t. A mint Biró Eufrozina kisasszony hamiskás szeme a
                         névre esett, a mely az olvadozó sorok és lágy rímek alatt állt, megdöbbenve
                         kapta föl a fejét és egy önkénytelen, gyönge szemrehányás tört ki
@@ -4051,7 +4061,7 @@
                         a paróka és festett bajusz, melyeknek csillaga e napon feltünt.</p>    
                 </div>
             </div>
-            <div type="group">
+            <div type="part">
                <head>HARMADIK RÉSZ.</head>
                <div type="chapter">
                   <head>XI. FEJEZET.</head>
@@ -4595,8 +4605,7 @@
                         türelmetlenül topogtak s a kántusprézesnek minden tekintélyét fel kellett
                         használnia, hogy a gyász­programm ellenére bele ne kezdjenek az utolsó
                         énekbe, mikor alkonyat fele szerencsé­sen kimutattatván a szomorú orczának
-                        kétségtelen előbbvalósága a nevetőnek fölötte s eldördülvén a rég várt <hi
-                           rend="italic">amen</hi>, egyszerre csak előáll fakó, vöröses palástjában
+                        kétségtelen előbbvalósága a nevetőnek fölötte s eldördülvén a rég várt <hi>amen</hi>, egyszerre csak előáll fakó, vöröses palástjában
                         a reszkető kezű, fogatlan, vén gadóczi pap és még egy imádságba kezd,
                         melyből egyetlen szót sem lehetett megérteni.</p>
                      <p>Kálozdy Benedek úr már lenn nyugodott örökös pihenő helyén. A vendégek mind
@@ -5488,7 +5497,7 @@
                         hosszú ideig mozdu­lat­lanul maradt. Majd hánykolódni kezdett és szemeinek
                         meredt, vörös karikái fényleni látszot­tak a sötétben. Felkönyökölt ágyán s
                         száraz, ércztelen hangján morogta: - Tetthez fogok; mihez, még nem tudom; de
-                        rá a földnek is remegni kell! - Miután azonban a <hi rend="italic">Lear</hi>
+                        rá a földnek is remegni kell! - Miután azonban a <hi>Lear</hi>
                         részint kivül esett szerepkörén, részint Hollaki Pető dráma- és
                         népszinmű-társulata által sohasem jutott előadásra, nem igen volt kilátás
                         rá, hogy ama földet remegtető tetthez hozzá fogjon egy­hamar. Már szobájának
@@ -5686,8 +5695,7 @@
                         mellé, majd csizmájának bojtjai a sarkát verdesték. Ő volt az egyik «türt».
                         A másik Bélának iskolatársa volt: Bige Géza, valami
                         vándor-ujság-szerkesztő­féle, ki nemrég költözött ide Rábavárról és
-                        hallatlanul befonván az idevaló könyvnyomtatót, meginditotta a <hi
-                           rend="italic">Karámosi hiradó</hi>-t. Ezek is megkötötték, vagy
+                        hallatlanul befonván az idevaló könyvnyomtatót, meginditotta a <hi>Karámosi hiradó</hi>-t. Ezek is megkötötték, vagy
                         felujitották mindaketten - noha általános lenézés között - Bélával a
                         barátságot s a szerkesztő nem mulasztotta el lapja legutolsó számának egy,
                         zsebéből előhuzott tiszteletpéldányával kedveskedni.</p>
@@ -5736,8 +5744,7 @@
                         türel­met­lenség nem csöndesül; Gál Andris szép lassan kihuzza a széket
                         szónok alul.) Mert ha nem, úgy egyszerü szavammal felhivom önöket, hogy
                         együtt maradván az egész szép koszoru, siessünk föl az emeletre a szinházba,
-                        hol Muskotai Györgyike k. a. jutalmára a halhatatlan Schillernek <hi
-                           rend="italic">Ármány és szerelem</hi> czimű szomorújátéka adatik.</p>
+                        hol Muskotai Györgyike k. a. jutalmára a halhatatlan Schillernek <hi>Ármány és szerelem</hi> czimű szomorújátéka adatik.</p>
                      <p>Vincze bácsi azonban, ki épen egy palaczk halandó schillernek járt a végére,
                         nagy zajjal adta ki a jelszót, hogy innen egy tapodtat sem mozdulnak. Gencsy
                         Laczi találóan magyarázta el, hogy miután nekik e nagy napon (ölelj meg,
@@ -5869,7 +5876,7 @@
                         sálját nyaka körül tekergette, méltán kiáltott fel: - Úgy látom én, uraim,
                         hogy mi a vészektől hányatott óczeánról egy megvihatatlan kikötőbe
                         jutottunk! Muki, az én vacsorámhoz számíts még egy pohár sziverősítőt és
-                        mindjárt hozd is el magaddal. Uraim, holnap: <hi rend="italic">Miczbán és
+                        mindjárt hozd is el magaddal. Uraim, holnap: <hi>Miczbán és
                            fiai!</hi>
                      </p>
                      <p>Bármily szép remények szövettek, szarvasgomba-pástétomok, puncsok
@@ -5912,7 +5919,7 @@
                         azt ő már ezelőtt harmincz esztendővel meg­hó­dította; a többi mind
                         lárifári! Az arany ifjúság azonban ez általánosságokban szóló biztatások
                         ellenére sem tudta egy darabig, mihez kezdjen már most.</p>
-                     <p>A töprengés e napjaiban látott világot a <hi rend="italic">Karámosi
+                     <p>A töprengés e napjaiban látott világot a <hi>Karámosi
                            hiradó</hi> hasábjain B. G. aláirással a követ­kező kis költemény:</p>
                      <p> VÁR ÉS SZIV.</p>
                      <p>A női szív más, mint a vár,</p>
@@ -5971,7 +5978,7 @@
                         kiknek kipróbált torkuk és tenyerük volt. Bige Géza kedveskedései teljesen a
                         szerencsétlen könyvnyomtató rovására mentek, miután e kiváló képességű
                         fiatal ember az erdők magányos daláráról való gondolatát egészen komolyan
-                        vette és ha a <hi rend="italic">Karámosi hiradót</hi> zöld erdőnek
+                        vette és ha a <hi>Karámosi hiradót</hi> zöld erdőnek
                         képzeljük, úgy ez erdő valamennyi lombja zengett szívekhez szóló daloktól.
                         Bizonyos tekintetben ilyen módon próbálkozott a sanyarú vagyoni viszonyok
                         közt élő Mátéfi Rudi is, ki családi gitárjával éjjelenként meg-megjelent a
@@ -6634,7 +6641,7 @@
                      <p>- Nem csalódik, kisasszony. A kérés tulajdonképen egy töredelmes vallomáson
                         kezdődik, mely, félek, félszeg helyzetben fog bemutatni önnek. Én nagyon
                         fiatal koromban a múzsáknak is áldoztam és sok-sok rossz verset összeírtam.
-                        Van köztük egy drámai költemény is, melynek czíme: <hi rend="italic">A
+                        Van köztük egy drámai költemény is, melynek czíme: <hi>A
                            nemtő</hi>. Ismerőseim, kik azt az előadást rendezik a szükölködők
                         javára, melyre most az egész város készül, levettek lábamról, hogy
                         költeményemet engedjem át a műsorozatnak. Mindig azt hittem, hogy igen
@@ -6657,7 +6664,7 @@
                         hanem valósággal féltem művemet. Kérem kisasszony, ne vessen rám ilyen
                         neheztelő szemeket, mert megakadok. Tudja, hogy őrültekkel és költőkkel
                         szemben mindig készen kell tartani egy sereg bocsánatot. Megkapom? Tehát
-                        kimondom, a mire készülök. Engedje meg, hogy <hi rend="italic">A nemtő</hi>
+                        kimondom, a mire készülök. Engedje meg, hogy <hi>A nemtő</hi>
                         betanulásánál segítségére lehessek.</p>
                      <p>Ilona egypár pillanatig látszólag szórakozottan tekintett ki az ablakon. Így
                         is érezte, mint gyúl ki erősebb és erősebb tűz Béla szemeiben s
@@ -6685,7 +6692,7 @@
                      <p>Egyszersmind az iránt is kifejezte reményét, hogy ma lesz a napja, hogy az
                         elbolondított publikum végre eszére tér.</p>
                      <p>- De uraim és hölgyeim, - rikácsolt a keselyü, - térjenek önök is eszükre és
-                        gondolják meg, hogy a <hi rend="italic">Világ kedvencze</hi> nem tréfa!
+                        gondolják meg, hogy a <hi>Világ kedvencze</hi> nem tréfa!
                         Kálmánka, te mosd meg a pofádat, mert így senki sem fogja elhinni, hogy
                         folytonosan közel vagy a halálhoz. Folytassuk tehát. (Súlytalan lábával
                         egyet dobbant és vékony madárfejét hátraveti.) Mindnyájatokhoz szólok, deli
@@ -6721,7 +6728,7 @@
                         nézegettek egymásra soká, hosszan a bús ifjú és a nevető férfi. Hallottuk,
                         hogy a legnagyobb fájdalom: nyomorogva emlékezni régi boldogságunkra; vajjon
                         e mosolygó emlékezés az egykori bánatokra a leg­nagyobb örömet jelenti-e?
-                           <hi rend="italic">A nemtő</hi> meglett. Egy kis hímzett könyvjelző
+                           <hi>A nemtő</hi> meglett. Egy kis hímzett könyvjelző
                         hullott belőle a földre és tünt el a szőnyeg fodrai közt, mintha csak azt
                         akarta volna, hogy feledkezzenek el róla végkép. Béla ledült a kerevetre, de
                         álma nagyon nyugtalan lehetett, mert Istók - ki többször elsétált a
@@ -6775,8 +6782,8 @@
                         lovaival, és úgy látszott, mintha mindenkorra letette volna az alázatossági
                         fogadást, csak úgy félvállról beszélt az emberekkel, ha a nevezetes estéről
                         volt szó. Hogy a zajos előkészületek a távolban is visszhangot ébresztettek,
-                        kitetszik a <hi rend="italic">Karámosi hiradó</hi> legújabb számából,
-                        melynek <hi rend="italic">Tárogató</hi> czimű rovata nagy örömmel jelenti,
+                        kitetszik a <hi>Karámosi hiradó</hi> legújabb számából,
+                        melynek <hi>Tárogató</hi> czimű rovata nagy örömmel jelenti,
                         hogy a közelgő ünnepélyes alkalomra Paróka Gusztáv, jó nevű fodrász és Őszi
                         Rózsa kisasszony, ügyes kezű virágkészítőnő Pestről megérkeztek s a karámosi
                         világnak ajánlják szolgálataikat. A borbélyok dühös lenézéssel fogadták
@@ -6793,14 +6800,14 @@
                         előnyösen szeretné bemutatni. Godonyi Márta kisasszony szavalna, ha ugyan
                         idejében meg­­érkezik Pestről a ruhája (a szobaleány naponkint hatszor
                         fordul meg a postán tudakozódni), és ha udvarlói vállvetett erőfeszítésének
-                        sikerülni fog elhitetni vele, hogy az <hi rend="italic">Élő szobrot</hi> nem
+                        sikerülni fog elhitetni vele, hogy az <hi>Élő szobrot</hi> nem
                         annyira Vörös Marczi, mint inkább Vörösmarty írta. Bige Géza tükör előtt
                         készül felolva­sására, mely a szükölködés alkalomszerű képeiben ki fogja
                         keresni a humoros vonásokat s egy nagy hatásu felszólításon végződik a
                         nemzet leányaihoz.</p>
                      <p>Mind e készülődések közül a legzajtalanabb, de kétségkívül a legbuzgóbb,
                         leghosszabb és legizgalmasabb az volt, mely a Fekete Sas egyik kis
-                        szobájában folyt. Itt tanulták <hi rend="italic">A nemtő</hi> főszerepét,
+                        szobájában folyt. Itt tanulták <hi>A nemtő</hi> főszerepét,
                         mely úgy teljesíti magas hivatását, hogy beleszeret a költőbe s ennek
                         ajándékozza szívét, melyben a haza bánata legmélyebbre metsz s
                         vigasztalására a leggyöngédebb és leg­merészebb hangok fakadnak. Hosszú
@@ -7113,7 +7120,7 @@
                   <head>A vén tölgy lábánál.</head>
                      <p>Az előbbi fejezet végén leirt eseményekre harmadnap jelent meg a Karámosi
                         Híradó leg­közelebbi száma. Jól tudom ugyan, hogy nem mondok vele már
-                        senkinek ujságot, ha a <hi rend="italic">Tárogató</hi> czímű rovatnak első
+                        senkinek ujságot, ha a <hi>Tárogató</hi> czímű rovatnak első
                         hírét közlöm; de maga Bige Géza, a vándorszerkesztő kétségkivül még jobban
                         tudta, mégis megírta a következő sorokat:</p>
                      <p>*HYMEN. A legőszintébb öröm elragadtatásával értesítjük olvasóinkat az
@@ -7307,9 +7314,9 @@
                </div>
             </div>
          </div>
-         <div type="vol">
+         <div type="volume">
             <head>MÁSODIK KÖTET</head>
-            <div type="group">
+            <div type="part">
                <head>NEGYEDIK RÉSZ</head>
                <div type="chapter">
                   <head>XVII. FEJEZET.</head>
@@ -10231,7 +10238,7 @@
                         Béla és letérdelt a bölcső mellé.</p>
                </div>
             </div>
-            <div type="group">
+            <div type="part">
                <head>ÖTÖDIK RÉSZ</head>
                <div type="chapter">
                   <head>XXII. FEJEZET.</head>
@@ -11918,7 +11925,7 @@
                         szolgáltatják, természetesen a megkivántató zöld tollakkal együtt.</p>
                      <p>Ellenére ezeknek a napról-napra jobban dráguló és ingadozó fejeknek;
                         ellenére a hatalmas kardforgatásnak és nem pihenő sárdobálásnak, melyet a
-                           <hi rend="italic">Karámosi Hiradó</hi> Béla és a szent ügy érdekében
+                           <hi>Karámosi Hiradó</hi> Béla és a szent ügy érdekében
                         véghezvitt; ellenére Vincze bácsi könnyüvérű bizodalmának: a kálozdi
                         haditanács többsége a választást megelőző napok alatt mégis abban a nézetben
                         volt, hogy a csata sorsa átkozottul kétséges. A hevesebbek káromkodva
@@ -13058,7 +13065,7 @@
                      <p>Az érkező vonat fütyült, megállt és tovább robogott Pest felé.</p>
                </div>
             </div>   
-            <div type="group">
+            <div type="part">
                <head>HATODIK RÉSZ</head>
                <div type="chapter">
                   <head>XXVII. FEJEZET</head>
@@ -14333,8 +14340,7 @@
                         a fejét, hogy ugyan mikép kinozhassa meg most a rektort, majd az egyházfit,
                         azután a harangozót, valamennyi alattvalóját. Bizony gondolni sem szeret rá,
                         mikor szemtül szemébe mondta neki, hogy - miután a gyermekeket nem
-                        silabizálva tanítja többé olvasni - maga sem ért a silabizáláshoz; a <hi
-                           rend="italic">Kis tükör</hi> gyönyörű versei is bizonyosan kipárologtak a
+                        silabizálva tanítja többé olvasni - maga sem ért a silabizáláshoz; a <hi>Kis tükör</hi> gyönyörű versei is bizonyosan kipárologtak a
                         fejéből, azért nem fogja rájuk az iskolásokat; a zsoltárok áriájához nem is
                         konyit és örül, hogy már nem kell soká hallgatnia azt az ordítozást, a mit a
                         tanítványai véghez visznek a templomban; hát a Hübnernek vajjon hallotta-e
@@ -14487,7 +14493,7 @@
                         hű sólyom se hiányoz­zék, egy-egy kandi veréb odaszállt az ablak vasrácsára.
                         De voltak vigabb napjai is ez ódon, poros várfalaknak. Béla a nagy képes
                         könyveket mind ismerte már, az olvasás mestersége a tudós emberek közé
-                        avatta, az <hi rend="italic">Orbis pictus</hi> figurás lapjai nem voltak
+                        avatta, az <hi>Orbis pictus</hi> figurás lapjai nem voltak
                         talány előtte s a hogy iskolába került, a legszorgalmasabb deák lett belőle.
                         Olyan exámeneket adott, hogy ha valaki, ő csakugyan megérdemelte, de meg is
                         kapta az aranyos »execzicziót«. Tudós lesz belőle, - gondolá mosolyogva az
@@ -15009,8 +15015,7 @@
                <div type="chapter">
                   <head>UTOLSÓ FEJEZET.</head>
                   <head>A történet vége.</head>
-                     <p>Már megirtam az utolsó vonásokat is ez elbeszélésen, mikor a <hi
-                           rend="italic">Karámosi hiradó</hi>-nak egy ujabb száma a kezembe került.
+                     <p>Már megirtam az utolsó vonásokat is ez elbeszélésen, mikor a <hi>Karámosi hiradó</hi>-nak egy ujabb száma a kezembe került.
                         Abban olvastam a következő ujdonságot:</p>
                      <p>GYÁSZHÍR. Szomorodott szivvel jelentjük úgy a magunk, mint az egész
                         karámos-vármegyei tisztikar nevében, e diszes testület egyik nagyérdemű

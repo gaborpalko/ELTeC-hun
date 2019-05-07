@@ -10,10 +10,7 @@
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
-               <name>
-                  Palkó
-                  Gábor
-                  <ref target="https://viaf.org/viaf/65989506"/>
+               <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
                </name>
                <name>Fellegi Zsófia</name>
                <name>Takács Emma</name>
@@ -27,7 +24,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Piroska</title>
                <date>2008-05-19</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -39,14 +36,14 @@
                   <name>Kiss András</name>
                   <name>Ollé Krisztián</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>Piroska</title>
                      <date>2008-05-19</date>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="printSource">
                      <title>Piroska</title>
                      <author>Cholnoky László</author>
                      <pubPlace>Budapest</pubPlace>
@@ -57,6 +54,11 @@
                         target="http://nektar.oszk.hu/hu/manifestation/428331"/>
                   </bibl>
                </relatedItem>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>Piroska</title>
+               <author>Cholnoky László</author>
+               <date>1919</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -75,8 +77,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-19"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-19"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -164,11 +167,11 @@
                megszokta és nem kereste a bajok forrását, sőt legtöbbször magukat a bajokat sem
                ismerte fel, vagy ha mégis felismerte őket, azokat habozás nélkül olyan okokra
                vezette vissza, amelyek neki kellemesek voltak: irigységnek, később féltékenységnek
-               tartotta az egészet. Vagyonos szülei elkényeztették; az ilyen: <hi rend="italic">hogy
+               tartotta az egészet. Vagyonos szülei elkényeztették; az ilyen: <hi>hogy
                   lehet!?... nem értem!?... az isten tudja!...</hi> kezdetű fitymáló mondatok már a
                vérében voltak, mondogatta őket fölényesen, felelősségmentesen, és anélkül hogy egy
-               pillanatra is feltűnt volna neki, hogy az a <hi rend="italic">hogy lehet!?</hi>
-               valahogyan mégiscsak kell, hogy lehessen, mert azok a <hi rend="italic">hogy
+               pillanatra is feltűnt volna neki, hogy az a <hi>hogy lehet!?</hi>
+               valahogyan mégiscsak kell, hogy lehessen, mert azok a <hi>hogy
                   lehet</hi>-e emberek mégiscsak élnek, olykor vidámak is, és az életüknek van
                tartalma. És hogy az ilyen fölényeskedése mögött semmi gondolatérték sem húzódott
                meg, annak már valahogy a hanghordozásából is ki kellett érződnie, mert még soha
@@ -260,7 +263,7 @@
                amint szemközt jött vele. A fordulónál aztán megismerte. Marinczer volt, a Flórusz
                sógora. A dolog iránt semmi kétség sem lehetett: a jövevény cifra, csodálatos
                füttyfutamokat lövellt ki a szájából, oly agyafúrtan intézve a dolgot, hogy a
-               tekervényes fúgákból mindig és következetesen a Márta című opera <hi rend="italic"
+               tekervényes fúgákból mindig és következetesen a Márta című opera <hi
                   >utolsó rózsa-áriája</hi> jött ki. Flórusz már többször tett tréfásan említést
                sógorának erről a szenvedélyéről, de egyébként sem lehetett tévedés, mert Malvin
                látásból nagyon jól ismerte az osztálytanácsost, jóllehet az nem ismerte őt.</p>
@@ -510,7 +513,7 @@
                önmagát ezekből a formákból kis is vette szuverén önkénnyel, ez is a tulajdon
                rovására ment, mert ebből következtek olyasmik, hogy semmi megbánást sem érzett, ha
                önmagát oktalanul megkárosította, vagy ami a leggyakoribb volt, ha önmagát megcsalta,
-               jóllehet teljes tudatában volt a csalásnak. <hi rend="italic">Ebben</hi> az
+               jóllehet teljes tudatában volt a csalásnak. <hi>Ebben</hi> az
                értelemben nem tudott becsületes lenni a leánnyal szemben való magaviseletében sem.
                Amit pedig tényleg vétett a köznapi becsület fogalma ellen - vagy lehet másként
                felfogni azt a hazugságot, amivel annyi gyötrelmet szerzett szerelmes asszonyának? -,
@@ -546,7 +549,7 @@
                mondatszilánkokban.</p>
             <p>- Ahogy így kezd kinyílni a tavasz, az utcákat úgy ellepik az emberek, hogy...</p>
             <p>- Igen!... És ez oly kellemetlen!... Az ember szinte...</p>
-            <p>Marinczer kissé <hi rend="italic">nehéz</hi> ember volt, ahogy ezt a budapesti
+            <p>Marinczer kissé <hi>nehéz</hi> ember volt, ahogy ezt a budapesti
                nyelvjárás szókönyvében találnád. Jókora adag önzését semmiképpen sem sikerült
                ellepleznie ezerszer elismételt kedélyeskedéseivel, amit valószínűleg ő maga is
                tudott, de azt a hibáját felfelé mérhetetlen előzékenységével leplezte, a lefelé
@@ -679,7 +682,7 @@
                új arckifejezést, amikor váratlanul éles fájdalommal sajdult át a lelkén, hogy a
                kedves, csintalan asszonyi arcocska nem nyugszik többé a vállán, mint pár órával
                azelőtt. Hirtelen visszaemlékezett arra, hogy egy alkalommal már megpróbálta
-               kielemezni a maga számára a <hi rend="italic">nincs</hi> félelmes fogalmát, de akkor
+               kielemezni a maga számára a <hi>nincs</hi> félelmes fogalmát, de akkor
                nem ment vele semmire, mert nyomban lecsapott rá az ábrándozók gyors fáradtsága. Most
                azonban hirtelen átnyilallt tudatán a feneketlen ürességnek ez a félelmes, gonosz kis
                allegóriája, maga után lebbentve éjfekete uszályát is, mindazt a sötét gondolatot,
@@ -762,7 +765,7 @@
                egyik régi iskolatársát ismerte fel. Szegény fiú volt a Szopornyák, aki otthon a
                kisvárosban az ő levetett cipőit szokta viselni, és az ő pénzén szokott itt-ott részt
                venni az úri fiúk mulatságain. Alázatosan hajlongott régi patrónusa előtt, gondosan
-               ügyelve, hogy minél kevesebbszer használja a <hi rend="italic">te</hi> megszólítást,
+               ügyelve, hogy minél kevesebbszer használja a <hi>te</hi> megszólítást,
                és közben irigykedve nézte Flórusz pompás lakkcipőjét, élesre vasalt nadrágját.</p>
             <p>Az efféle találkozásoknál sztereotip kérdések után, amelyekből kiderült, hogy
                Szopornyák díjnok ott, a letétben, azt mondta Flórusz:</p>
@@ -915,7 +918,7 @@
                hófehér fogai. - Hallja, bácsi? Nordovics!</p>
             <p>Flórusz zavartan gyötörgette kis bajuszát, majd elmosolyodott.</p>
             <p>- Bocsánatot kérek! - mondta, könnyedén meghajolva a szabómester előtt.</p>
-            <p>- Ez a kis bolond minden csekélységen akkorát tud nevetni, mintha a <hi rend="italic"
+            <p>- Ez a kis bolond minden csekélységen akkorát tud nevetni, mintha a <hi
                   >Peleskei nótárius</hi>-t látná! - mondta Nordheimer. - Az volt ám a nagyszerű
                darab, ha ugyan tetszett látni!</p>
             <p>Pár pillanatig elmerengett emlékein, majd lemondóan legyintett.</p>
@@ -939,7 +942,7 @@
                lehunyt szempilláin keresztül is. A két arc némán, szomorúan nézte egymást, és amikor
                hirtelen eltűntek, a szomorúság belefészkelődött a fiatalember szívébe.</p>
             <p>Flórusz sietni kezdett, hogy minél előbb belemerülhessen kedves könyvébe, amelyet
-               most már harmadszor kezdett újból. Turgenyevtől olvasta az <hi rend="italic">Egy
+               most már harmadszor kezdett újból. Turgenyevtől olvasta az <hi>Egy
                   vadász emlékiratai</hi>-t, és főként ha a scsigri kerület Hamletjének
                töprengéseibe merült, érzékeny lelkéről lassan lehullt, lemállott minden, ami
                bántotta. Odaképzelte magát az elhagyatott öreg helyébe, aki egészen külön kis
@@ -1006,7 +1009,7 @@
                lehetetlenség.</p>
             <p>- Ma ez már a második ilyen koppanás a fejemen! - tűnődött. - Ugyan mi történhetett
                velem?... Vagy csak tévedek, és jóakaratú véletlenről lehet csak szó?... Lássuk csak
-               nyugodtan!... Az a kis Szopornyák kétségtelenül nem <hi rend="italic">akart</hi>
+               nyugodtan!... Az a kis Szopornyák kétségtelenül nem <hi>akart</hi>
                semmit sem mondani, nem célzott semmire, ez majdnem kétségtelen. Csak nagy
                boldogságában fecsegett, hogy sikerült neki előttem nagyszerűen fontosnak lennie,
                hogy sikerült a régi szívességeket valahogy viszonoznia!... Hogy ügyetlenül csinálta
@@ -1096,10 +1099,10 @@
                különös abban, ha a férjét megcsalja, ezzel szemben meg van győződve arról, hogy még
                ez a csekélység is nyomban rendbe jön, ha Szent Antal oltárán elhelyez harminchat
                krajcárt vagy egy kiselejtezett tésztarádlit. - Nordheimer arról is meg volt
-               győződve, hogy a fiatalember már két napja csakis annak a bizonyos <hi rend="italic"
+               győződve, hogy a fiatalember már két napja csakis annak a bizonyos <hi
                   >perdöntő pontnak</hi> a megoldásán töri a fejét. Flórusz csak annyit mondott,
                hogy van valami a dologban, amit nem ért, hanem a szabómester azt egészen ösztönösen
-               a <hi rend="italic">döntő pont kérdésévé </hi>rafinálta magában, hogy az ezerfelé
+               a <hi>döntő pont kérdésévé </hi>rafinálta magában, hogy az ezerfelé
                szertefolyó kételyeket megrendszabályozza, és hogy legyen egy szilárd cölöp, amelyhez
                a reményeit hozzákötözheti.</p>
             <p>Felesége az intelligenciát illetőleg általában a szomszédasszonyi nyilatkozatoknak
@@ -1108,13 +1111,13 @@
                illetőleg akár csak homályos, de valamennyire egységes képet is alkotni, nyugodt
                perceiben egészen tisztán érezte asszonyi ösztönével, hogy mindez semmit sem ér.
                Hanem ha a férje pár deci bor után lelkesedve kezdte előtte a jövőt festegetni, vagy
-               főként ha kedvező álmot látott, hajlandó volt a <hi rend="italic">hátha mégis
+               főként ha kedvező álmot látott, hajlandó volt a <hi>hátha mégis
                </hi>verőfényes álláspontjára húzódni.</p>
             <p>A család igazi feje kétségtelenül ő volt, és azokat az apró ügyeket, amelyek az ő
                miniatűr körükben felvetődhettek, tetemes butasága mellett is eligazította mindig.
                Most, hogy az új jogügyi szaktanácsos felbukkanásáról értesült, ugyancsak ösztönösen
                úgy érezte, hogy ez az ügy nincsen egészen rendben, sőt amikor a beismerkedés
-               módozatait is végighallgatta, már bizonyosan vélte tudni, hogy a <hi rend="italic"
+               módozatait is végighallgatta, már bizonyosan vélte tudni, hogy a <hi
                   >döntő pont kérdését </hi>jogi szaknyelven Piroskának hívják. Leghelyesebbnek
                tartotta azonban várakozó álláspontra helyezkedni.</p>
             <p>Mindez két nappal ezelőtt történt; a mai nap délutánján a várás izgalmaiból előállott
@@ -1508,7 +1511,7 @@
             <p>Egy hónapja volt már ennek, azóta nem látta a leányt.</p>
             <p>A sógorával való szakításról annak idején nem szólt a kis családnak, csak később
                említette, nehogy valami ellentmondásba keveredjék, hogy kibérelt egy kis hónapos
-               szobát <hi rend="italic">is</hi>, mert otthon a folytonos vendégeskedés miatt nem tud
+               szobát <hi>is</hi>, mert otthon a folytonos vendégeskedés miatt nem tud
                tanulni.</p>
             <p>Nordheimerékhez hetenkint csak egyszer ment el már akkor is.</p>
             <p>Az örökségügy valahogy elkopott, lehetetlenné vált, de hiszen akkor már nem is volt
@@ -1529,7 +1532,7 @@
                hontalan, árva kis fatönköt, amire ki tudja, mi sors vár. Bármely érzést vagy
                gondolatot könnyűszerrel tudtak átültetni egymás lelkébe, szilárdabb ütközőpontnak
                nyoma sem volt sehol, és ez azzal a meggyőződéssel gyönyörködtette őket, hogy
-               egymásra <hi rend="italic">kellett </hi>találniok, holott a valóság az volt, hogy
+               egymásra <hi>kellett </hi>találniok, holott a valóság az volt, hogy
                különben is egyénietlen, csak szeretettel és a minden felett való csodálkozás
                készségével telt lelkű, most meg éppen szerelmétől tehetetlenné zsarnokolt leányka
                egyetlen pillanat alatt magáévá tett mindent, öntudatán kívül is, ami a fiatalember
@@ -1753,10 +1756,10 @@
             <p>Flórusznak nagyot dobbant a szíve. Az írást nem látta még soha, de már egészen
                bizonyosan tudta, hogy a várva várt perc elérkezett.</p>
             <p>Nordheimer írt, és meghívta a fiatalembert szombat estére vacsorára. A házasságuk
-               huszonöt éves fordulóját ünneplik, és a joghallgató urat <hi rend="italic"
+               huszonöt éves fordulóját ünneplik, és a joghallgató urat <hi
                   >mindenki</hi> - ez a szó alá volt húzva - okvetlenül elvárja, hogy jelenlétével
                az ünnepély fényét emelje. Nota bene gyanánt azt írta Nordheimer, hogy rajta,
-               Flóruszon kívül mindössze az ő két öreg <hi rend="italic">colekája</hi> lesz ott,
+               Flóruszon kívül mindössze az ő két öreg <hi>colekája</hi> lesz ott,
                senki más.</p>
             <p>Ah, ez Piroska műve! - gondolta Flórusz boldogan, szívéhez szorítva a levelet. - Ott
                leszek!</p>
@@ -1781,7 +1784,7 @@
                nyugtalan ember az egyik dolgot végre elintézte, de az emlékeztető felírást
                elfelejtette kihúzni, pedig már oly régen várt erre a gyönyörre, és ez csak akkor jut
                az eszébe, amikor már lefeküdt, és elfújta a lámpát. - Kihúztam én ezt az undok három
-               szót, ami már két hete gyötör, hogy: <hi rend="italic">levél Nyefeghy mérnöknek?
+               szót, ami már két hete gyötör, hogy: <hi>levél Nyefeghy mérnöknek?
                </hi>- kezd töprengeni párnái között. - Nos, és ha nem húztam ki, hát majd kihúzom
                holnap!... Egyébként is majdnem bizonyos, hogy kihúztam!... Persze!... hiszen még
                mondtam is: ne neked, Nyefeghy... Vagy ezt akkor mondtam, amikor a levelet
@@ -1823,7 +1826,7 @@
             <p>Az ismerős legyintett, mintha azt mondta volna: no, hagyjuk ezt a dolgot, aztán
                elhallgatott.</p>
             <p>Flórusznak az arcába szökkent a vér, és indulatosan kérdezte:</p>
-            <p>- Nos, mi az a <hi rend="italic">hiszen</hi>?!</p>
+            <p>- Nos, mi az a <hi>hiszen</hi>?!</p>
             <p>- Hagyja, hagyja, semmi! - mondta az ismerős szaporán legyintgetve. - Csak valami
                jutott az eszembe!... No, isten vele!... Látom én magát még a Lakatosnál! - kiáltotta
                vissza elmenőben.</p>
@@ -1918,12 +1921,11 @@
                mindenben megmutatkozik!</p>
             <p>Ah, ez volt az a tér, amelyen Flórusz regényeskedő lelke oly gyakran és szívesen
                elbolyongott holdvilágos, álomtalan éjszakákon.</p>
-            <p>- Igen, tisztelt bátyámuram - mondta Flórusz boldogkegyesen -, az igazi úrnak, <hi
-                  rend="italic">úgy képzelem </hi>- ezt a két szót kissé émelygős, affektált
+            <p>- Igen, tisztelt bátyámuram - mondta Flórusz boldogkegyesen -, az igazi úrnak, <hi>úgy képzelem </hi>- ezt a két szót kissé émelygős, affektált
                szeméremmel hangsúlyozta -, nincsen szüksége arra, hogy ebbeli minőségében
                megnyilatkozzék!</p>
-            <p>- Úgy <hi rend="italic">képzeli</hi>!?- kérdezte Piroska lángvörös arccal, rajongó
-               imádattal nézve szerelmesére. - Hát akkor ki nem <hi rend="italic">képzeli</hi>?</p>
+            <p>- Úgy <hi>képzeli</hi>!?- kérdezte Piroska lángvörös arccal, rajongó
+               imádattal nézve szerelmesére. - Hát akkor ki nem <hi>képzeli</hi>?</p>
             <p>Ezt, igen, ezt várta az álmodozó.</p>
             <p>Ezt várta, de hófehér, bűntelen lélekkel várta.</p>
             <p>Azután boldog összevisszaság következett, és attól fogva az merült el legmélyebben a
@@ -2050,8 +2052,7 @@
             <p>Amikor az államtitkár bevégezte oly egyéni sziszegését, a public invité halk
                zsongással összeolvadt meg kivált önmagából, mint a horoszkóp bűvös cseppje, miközben
                a lornyonok mintegy varázsütésre pattantak fel.</p>
-            <p>A szűzi Ofélia vezette barátnőjét, és nyomban kezdte magyarázatait. Koznisevnek <hi
-                  rend="italic">Nász a temetőben</hi> című festménye előtt hosszasabban időztek,
+            <p>A szűzi Ofélia vezette barátnőjét, és nyomban kezdte magyarázatait. Koznisevnek <hi>Nász a temetőben</hi> című festménye előtt hosszasabban időztek,
                mert a művésznő kimerítően elmagyarázta Malvinnak mindazokat a szempontokat, amelyek
                kell, hogy a szemlélőt a műremek elbírálásában, vagy helyesebben: élvezésében
                vezessék, maga is beismervén, hogy e magyarázat nélkül az avatatlanok előtt méltán
@@ -2651,7 +2652,7 @@
                otthon, ahol bármikor megzavarhatják őket. Az volt a terve, hogy Burkovicstól - ez
                volt a barátja - még felveszi ezt a kölcsönt, ő lesz a harmadik és utolsó, akihez
                ilyen kéréssel fordul, azután egyetlen krajcárt sem kér többé senkitől, hanem...</p>
-            <p>Ezt a <hi rend="italic">hanem</hi> szót rendkívül gyűlölte Flórusz.</p>
+            <p>Ezt a <hi>hanem</hi> szót rendkívül gyűlölte Flórusz.</p>
             <p>Ez volt az az utálatos, kétszínű kis intrikus, aki az ő elhatározás jellegű
                gondolatait odacsalogatta a maga közvetlen közelébe, és amikor már ott voltak
                körülötte, akkor a szemük közé vigyorgott. Ez volt az a gonosz kis manó, amelyik a
@@ -2709,7 +2710,7 @@
             <p>Rendkívül érdekes mű volt: néhány egybekötött szakvizsgai dolgozat, aminőt a
                bölcsészettan-hallgatók készítenek. Az előző lakónak nagyon megtetszhetett a
                diluvilis rétegek hátráló eróziójáról írt tanulmány, vagy még inkább az Ostrea-félék
-               kagylóinak ambulakrál-mezőit <hi rend="italic">tárgyazó</hi> remekmű, hogy oly
+               kagylóinak ambulakrál-mezőit <hi>tárgyazó</hi> remekmű, hogy oly
                gondosan összegyűjtötte, beköttette és szakszerű margójegyzetekkel kísérte őket.</p>
             <p>A fiatalember csalódottan vissza akarta dobni a könyvet, de hirtelen mást gondolt.
                Gondosan letörülgette róla a diluviális port, azután odahúzta az asztal mellé az ódon
@@ -2848,7 +2849,7 @@
             <p>Ilyesmit sem lát mindenki! - gondoltam. - Egy falusi zsidó kereskedő, aki a
                vendégével huszonegyezik!... Hát most már ezt is láttam, és elég is volt belőle!</p>
             <p>Leakasztottam a fogason függő megbarnult, összekunkorodott újságot.</p>
-            <p>A <hi rend="italic">Veszprém vármegye</hi> valamelyik múlt évi száma volt, azt
+            <p>A <hi>Veszprém vármegye</hi> valamelyik múlt évi száma volt, azt
                kezdtem olvasni. Rendkívül érdekeltek az izgatóbbnál izgatóbb hírek, hogy az enyingi
                járás főszolgabírája a járás egész területére elrendelte az ebzárlatot, a devecseri
                főállatorvos az immár fenyegetővé váló marhavész meggátlására megtette a szükséges
@@ -2889,8 +2890,8 @@
                bölcsességeket mondani, hát mondja meg nekem, miért van ez így énvelem?</p>
             <p>Az öreg Réz feltolta pápaszemét a homlokára, kissé gonoszkásan mosolygott, majd fehér
                szakállát vakargatva, azt felelte halkan:</p>
-            <p>- Hát tudja, Danka szomszéd, az attól van, hogy maga ezt <hi rend="italic">most</hi>,
-               éjfél után, <hi rend="italic">itt</hi>, a kocsmában, <hi rend="italic">így</hi>,
+            <p>- Hát tudja, Danka szomszéd, az attól van, hogy maga ezt <hi>most</hi>,
+               éjfél után, <hi>itt</hi>, a kocsmában, <hi>így</hi>,
                pityókosan kérdezi!... Megértett engemet?</p>
             <p>Danka Imre bambán bámult az öreg zsidóra, hemmegett valamit, azután elkotródott.</p>
             <p> Csak Marinczerre gyanakodhatom, csak az ő révén jöhetett vissza hozzám, valami
@@ -3190,7 +3191,7 @@
                vagyok, helyet cserélne a testvérével!</p>
             <p>Kopeczky lemondóan legyintett.</p>
             <p>- Azért mégsem a régi ez már!... Aztán az ilyen változásoknak, ha megkezdődtek, se
-               vége, se hossza!... Azért mégiscsak én leszek ezután a <hi rend="italic">fogatlan
+               vége, se hossza!... Azért mégiscsak én leszek ezután a <hi>fogatlan
                   Kopeczky</hi>!</p>
             <p>- Még a masina kerekeinek is kitörik a foga, ha nagyon sokat használják - mondta
                bölcsen Nordheimer -, te pedig, öreg cimbora, már hatvanhat esztendeje rágicsálod a
@@ -3260,7 +3261,7 @@
                akkor beszélni, amikor már elmúlt -, és a három öreg hosszasan, boldogan, szívből
                nevetett most is az ezerszer hallott kis történet felett, amit ezúttal Nordheimerné
                melegített fel. Az úgy volt, hogy az úriaskodó Hortoványi egyszer együtt ment egy
-               barátjával a Rákos utcában, és amikor meglátta a kiírást: <hi rend="italic"
+               barátjával a Rákos utcában, és amikor meglátta a kiírást: <hi
                   >Bakteriológiai Intézet</hi>, olvasási tudományát fitogtatandó, kiböngészte a
                különös szókat, aztán úriasan, szenzitíve felsóhajtott:</p>
             <p>- Istenem, már a bakteroknak is külön tanfolyamot kell végezniök!... Hová
@@ -3290,7 +3291,7 @@
             <p>Egyszer azonban a vidámságot vészhír döfte szíven: a bor elfogyott.</p>
             <p>A másik Kopeczky aggodalmasan rántotta elő az óráját, majd diadalmasan
                felkiáltott:</p>
-            <p>- Vivát!... A <hi rend="italic">Hatlábú tehén</hi> még nyitva van!... Ki jön
+            <p>- Vivát!... A <hi>Hatlábú tehén</hi> még nyitva van!... Ki jön
                velem?</p>
             <p>- Én, én! - mondta sürgősen, halkan Nordheimer, felhasználva feleségének
                némaságát.</p>
@@ -3404,7 +3405,7 @@
                mindent.</p>
             <p>Bosszantó nyugalommal, halkan beszélt.</p>
             <p>- Kedves sógor - mondta -, közöttünk, úgy látszik, némi félreértés van!... Itt
-               nincsen szó semmiféle <hi rend="italic">visszavevésről, visszafogadásról</hi>, miután
+               nincsen szó semmiféle <hi>visszavevésről, visszafogadásról</hi>, miután
                nem ti küldtetek el engemet, mint valami cselédet, hanem én a magam akaratából jöttem
                el tőletek. Eljöttem pedig tisztán csak azért, hogy a sok közül legalább az egyik
                terhet levegyem a válladról... Másodszor, kérlek alássan, ha már voltál oly szíves a
@@ -3745,8 +3746,8 @@
                meg nekem, a jó istenre kérem, miért van ez?</p>
             <p>Most Kopeczky fogta meg a fiatalember karját, és hidegen, de azért féltő gonddal azt
                mondta:</p>
-            <p>- Ez azért van, mert ön tőlem mindezt <hi rend="italic">most</hi>, éjfél után, itt, a
-               kocsmában, és <hi rend="italic">így</hi>, félig ittasan kérdezi!... Az ilyesmiről
+            <p>- Ez azért van, mert ön tőlem mindezt <hi>most</hi>, éjfél után, itt, a
+               kocsmában, és <hi>így</hi>, félig ittasan kérdezi!... Az ilyesmiről
                csak a templomban szabad beszélni, és csak a jó istennel! Ő majd megsúgja önnek, hol
                van a gyógyulás!... Most pedig jöjjön, kérem, elkísérem haza!</p>
             
@@ -3764,10 +3765,10 @@
                majd az ötödiken már úgy megy minden, mint egyebütt, addigra már megfonódnak azok a
                láthatatlan szálak, amelyeknek csak meg kell fogni a végét, hogy elvezessék az embert
                a céljához. A tanácsos eddig legfeljebb a Skiz- és a Pagát-családokkal érintkezett a
-               Práter utcai <hi rend="italic">Kék golyó</hi>-ban, most hát elölről kell kezdenie a
+               Práter utcai <hi>Kék golyó</hi>-ban, most hát elölről kell kezdenie a
                dolgot, mivel az ilyesminek csakúgy megvan a maga iskolája, mint minden egyébnek.</p>
             <p>A tanácsos, bal kezét a gyöngyházzal kirakott dohányzóasztalkára támasztva és a lábát
-               hanyagul keresztbe téve, Verpeléthyvel, <hi rend="italic">Az Önálló Magyarország</hi>
+               hanyagul keresztbe téve, Verpeléthyvel, <hi>Az Önálló Magyarország</hi>
                elegáns politikusával beszélt a törvénykezési szünnapoknak a gregoriánus naptártól
                való lehető függetlenítéséről, kifejtvén, hogy a legújabb idők letagadhatatlan
                liberális irányzata kívánatossá tenné, hogy a törvényszünet az egyházi ünnepeknek, ha
@@ -4347,8 +4348,7 @@
             <p>- Kedves barátom - mondta Marinczerné végül, összecsukva újra az elefántcsontból
                készült optikai csodát -, ha te őrültséget csinálsz, ahhoz nekem semmi közöm sincsen,
                de ne kívánd, hogy az ilyesmibe én is belekeveredjem!... Ha komoly kéréssel fordulsz
-               hozzám, mindig a helyemen találsz, de ilyesmiből nem kérek részt magamnak!... Aki <hi
-                  rend="italic">tehozzád</hi> hajlandó feleségül menni...</p>
+               hozzám, mindig a helyemen találsz, de ilyesmiből nem kérek részt magamnak!... Aki <hi>tehozzád</hi> hajlandó feleségül menni...</p>
             <p>A fiatalember halálsápadt lett, merőn, fátyolos szemmel nézett a nővérére.</p>
             <p>- Ne folytasd! - mondta remegő ajakakkal. - Nem vagyok kíváncsi többé a véleményedre,
                sajnálom, hogy...</p>
@@ -4462,7 +4462,7 @@
                ennek a különös, regékkel telt utcának minden elhervadt szerelme feléledne az
                éjszakában, és luperkáliai menetté tömörülve jönne utána!?... Mily csodás felvonulás
                lenne az.</p>
-            <p>Még csak az <hi rend="italic">Adria-hajóhoz</hi> címzett ódon kis vendéglő előtt
+            <p>Még csak az <hi>Adria-hajóhoz</hi> címzett ódon kis vendéglő előtt
                tartott, amelynek címtábláján merev, apró kis matrózok hengergetik a chiantival telt
                hordókat a fedélzeten, amikor már fülébe csapódott a zongoraverkli kínosan szabályos
                muzsikája.</p>
@@ -4632,9 +4632,8 @@
                megírom neked a dolgok mibenlétét, elvárva tőled, hogy a dolgot mindnyájunk, tehát a
                magad érdekében is titokban tartsd.</p>
             <p>Még tavaly, az év elején történt, hogy egy pénzcsoport felkereste a sógorodat, hogy
-               pusztán csak <hi rend="italic">erkölcsi támogatásával</hi> vegyen részt tervüknek, a
-               Sió-völgyi vicinálisnak megalapításában. Amint bizonnyal tudod, ez az <hi
-                  rend="italic">erkölcsi támogatás</hi> a koncesszió megszerzésére vonatkozik, amire
+               pusztán csak <hi>erkölcsi támogatásával</hi> vegyen részt tervüknek, a
+               Sió-völgyi vicinálisnak megalapításában. Amint bizonnyal tudod, ez az <hi>erkölcsi támogatás</hi> a koncesszió megszerzésére vonatkozik, amire
                a sógorod a kilátásba helyezett igazgatósági tagság ellenében vállalkozott is. Amikor
                aztán a dologgal behatóbban foglalkozott, rájött, hogy a vasútvonal éppen úgy
                átmehetne apa birtokán, ahogy az eredeti terv szerint, attól pár száz méternyire.
@@ -4822,7 +4821,7 @@
                könnyelműen legyintve. - Ugyan, hagyd el!... Tudom én, hogyan megy az, ha egy ilyen
                ábrándos, félbolond úrigyerek valami zagyva, kusza szerelmet szed a szívére, és aztán
                annak a súlya alatt elkezd szép lassan alácsúszni!... Sohase harapdáld az ajkadat,
-               kedvesem, <hi rend="italic">én</hi> vagyok a te igazi barátod, <hi rend="italic"
+               kedvesem, <hi>én</hi> vagyok a te igazi barátod, <hi
                   >én</hi>, nem pedig a Szütymögi, meg a Prücsök, meg a... a Csiszlik nevű
                szabólegény, aki doktor úrnak szólít, és diszkréten félrefordul, ha a doktor úrnak
                eszébe jut a sáros cipőjét beletörülni másnak a tiszta ruhájába!</p>
@@ -4869,18 +4868,18 @@
                díjnoksággal foglalkozó farkasokéba. Ő mondta, nem én, őreá haragudj, ha a parabolát
                kissé szögletesnek találod... A mai Rózsikák hangosan követelik a férfiakéhoz hasonló
                elhatározási szabadságot; nem volna helyénvaló, ha ennek a szabadságnak a
-               konzekvenciáit is viselnék?... Hanem csodálatos körforgás ez! <hi rend="italic"
-                  >B</hi> észreveszi, hogy barátját, <hi rend="italic">A</hi>-t, aki pompás fiú, a
+               konzekvenciáit is viselnék?... Hanem csodálatos körforgás ez! <hi
+                  >B</hi> észreveszi, hogy barátját, <hi>A</hi>-t, aki pompás fiú, a
                Rózsikák egyike a legnaivabb, a legegyszerűbb eljárással elkezdi gyúrni, formálni,
                amíg olyan kicsiny lesz, mint egy krajcáros bugyli, akkor aztán szépen összecsukja,
-               és beleteszi a retiküljébe. <hi rend="italic">B</hi> tépi a haját, tördeli a kezét,
+               és beleteszi a retiküljébe. <hi>B</hi> tépi a haját, tördeli a kezét,
                hogy ez érthetetlen őrület, de két hónap múlva ő maga is átalakul bugylivá, és amikor
-                  <hi rend="italic">C</hi> számon kéri tőle a dolgot, diadalmas mosollyal azt
-               mondja: hja, barátom, csakhogy az én esetem egészen más!... Őutána <hi rend="italic"
+                  <hi>C</hi> számon kéri tőle a dolgot, diadalmas mosollyal azt
+               mondja: hja, barátom, csakhogy az én esetem egészen más!... Őutána <hi
                   >C</hi> következik, és amikor az ábécé a végére ért, kezdődik megint elülről!...
                Nos, kedves Flóruszom, az én filozófiám másik ága ezeknek a bölcsességeknek a
                konzekvenciái felé mutat!... Mármost, kérlek, csak választani kell! De választani -
-                  <hi rend="italic">kell!</hi> Okvetlenül kell!... És megalkuvás nincs!... Ha a fogó
+                  <hi>kell!</hi> Okvetlenül kell!... És megalkuvás nincs!... Ha a fogó
                két ágát párhuzamba akarod hozni, a harapója összecsukódik, és elharapja a
                torkodat!</p>
             <p>Elhallgatott, töprengve nézte a szivarja füstjét, és csak hosszú hallgatás után
@@ -4892,8 +4891,7 @@
                amelyiknek az ütemeire a fekete szemű kis boszorkával bosztonoztam!... És látod,
                ahogy ebben a kérdésben eléd jövök a fehér zászlóval, úgy a többire nézve is már
                eleve kijelentem, hogy igazad van, vagy hogy tovább menjek: mindazt, amit te tudsz,
-               én is tudom. Sőt, én valamivel alighanem többet is tudok. Tudom, hogy az az <hi
-                  rend="italic">A</hi> meg a <hi rend="italic">B</hi> bugyliszerű metamorfózisa
+               én is tudom. Sőt, én valamivel alighanem többet is tudok. Tudom, hogy az az <hi>A</hi> meg a <hi>B</hi> bugyliszerű metamorfózisa
                közben nem okvetlenül megy keresztül a szamári fázison is, nem oly bosszantóan, sőt
                gyűlöletesen buta, mint aminőnek látszik. A látszat - hogy egy meglepően új igazságot
                mondjak neked - igen gyakran csal. Elhiheted nekem, hogy a poéta, aki megénekli,
@@ -4901,7 +4899,7 @@
                másként, mint a kertész, aki felnevelte, végül a kertész megint egészen másként, mint
                az ökör, aki megeszi! És mivel ez nem parabola, hanem való igazság, semmi okod
                sincsen, hogy akár énrám, akár másra haragudjál, ha szögletesnek találtad!... Hátha
-               az az <hi rend="italic">A</hi> vagy a <hi rend="italic">B</hi> olyan, mint az
+               az az <hi>A</hi> vagy a <hi>B</hi> olyan, mint az
                ópiumszívó, aki nagyon jól tudja, hogy mi felé közeledik, és azért mégis naponta
                kiszippantja apró kis pipáját!?... Ami pedig a filozófiád harapófogó alakú
                szimbólumát illeti, te csak három esetet említettél: elindulok az egyik szára
@@ -4910,7 +4908,7 @@
                torkomat!... De hátha valaki gyűlöletesnek látszó tehetetlenséggel, vérforraló
                akarattalansággal odaáll pontosan a fogó két éle közé, és aztán ahelyett, hogy ezt
                vagy amazt tenné, lehunyja a szemét, és várja, hogy a fogó önmagától
-               összecsapódjon?... Mert <hi rend="italic">én</hi> mondom neked, hogy az a fogó
+               összecsapódjon?... Mert <hi>én</hi> mondom neked, hogy az a fogó
                összecsapódik önmagától is!... Ismered az akarattalanság gyönyörűségeit?!... Ismered
                azokat, akik félnek az éles, a hideg bizonyosságoktól, a szögletes
                határozottságoktól!?... Nézd csak, Merinszky, ha gyönyörű álmodból felriadsz, mire
@@ -5087,7 +5085,7 @@
                megértett félelmes hírek felett való ijedezés és az ellenük megszervezendő védekezés
                kifundálása, az aznap látott temetés részleteinek újból való felidézése és a saját
                leendő temetésével való párhuzamba állítása, az ennek vagy amannak a fiatalabb
-               asszonynak számára készülő <hi rend="italic">jól odamondtam</hi>-ok megszövegezése,
+               asszonynak számára készülő <hi>jól odamondtam</hi>-ok megszövegezése,
                végül a megspórolt vagy letagadott krajcárok gyönyörteljes újra meg újra való
                megolvasása képezik, kiegészítve és befejezve mindez a különféle célú, irányú és
                hatású imák elmotyogásával.</p>
@@ -5214,7 +5212,7 @@
                Mert a múltkor...</p>
             <p>- Engem nem küldött senki - mondta Kopeczky, felállva ültéből -, engemet a múltkor
                is, ma is Nordheimer úr kért meg...</p>
-            <p>- Ó, tehát <hi rend="italic">ő</hi> nem kapitulál?</p>
+            <p>- Ó, tehát <hi>ő</hi> nem kapitulál?</p>
             <p>- Úgy látszik, hogy nem!... És az lett volna a megbízatásom, hogy Nordheimerék
                nevében meghívjam Önt holnap estére vacsorára hozzájuk!</p>
             <p>A fiatalember lelkére sárga szomorúság nehezedett, most már maga is tudta, hogy
@@ -5222,7 +5220,7 @@
                azonban a segítségére jött, örömmel ragadta meg azt. Megenyhült hangon mondta:</p>
             <p>- Nézze, Kopeczky uram, így semmire sem megyünk!... Mind a ketten elhibáztuk a
                hangot!... Bármiként is van azonban, azt minden bizonnyal elvárhatnám Piroskától,
-               hogy hagyja abba az önfejűsködést, és <hi rend="italic">ő</hi> izenjen, ne pedig
+               hogy hagyja abba az önfejűsködést, és <hi>ő</hi> izenjen, ne pedig
                izentessen nekem! Mindazonáltal még így is elmennék holnap, ha nem éppen holnap
                estére hívtam volna meg a barátaimat búcsúvacsorára, mert hogy karácsonyra hazamegyek
                a szüleimhez!... Meg kell jegyeznem, hogy a múltkor ezt is meg akartam beszélni
@@ -5369,7 +5367,7 @@
                semmiféle vetélkedésről!... Uraságod úgy fogja fel a dolgot, mintha az eredetiség
                valami különös érdem vagy ilyesmi volna, amivel joggal lehet büszkélkedni!...
                Dehogy!... Némely ember eredetinek születik, annak tehát eo ipso nem érdeme, aki
-               pedig úgy <hi rend="italic">lett</hi> eredetivé, az... mondhatom önnek... többnyire
+               pedig úgy <hi>lett</hi> eredetivé, az... mondhatom önnek... többnyire
                szomorú ember!... Én mondom önnek, hogy az többnyire szomorú... Természetesen ezek az
                utóbbiak is kell, hogy rászülessenek a dologra, egyébként hiába is erőlködnének! De
                aki rászületett, az, uram, előbb-utóbb elbúvik önök elől, a hétköznap emberei elől,
@@ -5465,7 +5463,7 @@
                is és jól!... Különben is - tette hozzá mosolyogva mi lesz?..., különben is elmennék,
                mert Flórusz a többiekkel együtt engemet is el akar hagyni, és én sohasem szoktam
                megvárni, hogy engem hagyjanak el, én hagyom el az illetőt!</p>
-            <p>- <hi rend="italic">Szoktad!?</hi> - kérdezte Merinszky mosolyogva, akinek lelkén még
+            <p>- <hi>Szoktad!?</hi> - kérdezte Merinszky mosolyogva, akinek lelkén még
                mindig ott rágódott az esti csatavesztés -, úgy látszik, kedvesem, hogy tégedet az
                emberek tömegesen hagytak el!</p>
             <p>Simi megállott, és az italtól nedves szemével szomorúan nézett Merinszkyre.</p>

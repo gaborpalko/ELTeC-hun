@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Színek és évek</title>
                <date>2004-08-19</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -35,14 +35,15 @@
                   <name>Pétery Kristóf</name>
                   <name>Kiss András</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>Színek és évek</title>
                      <date>2004-08-19</date>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl><title>Színek és évek</title>
+               <relatedItem type="source">
+                  <bibl type="printSource">
+                     <title>Színek és évek</title>
                      <author>Kaffka Margit</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Osiris</publisher>
@@ -50,6 +51,11 @@
                      <idno type="isbn-10">963 379 605 9</idno>
                   </bibl>
                </relatedItem>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>Színek és évek</title>
+               <author>Kaffka Margit</author>
+               <date>1911</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -68,8 +74,10 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-14"/>
+         <change when="2019-04-22"/>
+         <change when="2019-02-27"/>
          <change when="2018-11-21"/>
+         <change when="2018-11-14"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -78,8 +86,8 @@
             <head>1</head>
             <p>Szép, nagy csendesség van körülöttem jó ideje már. Messzire tőlem csak megy tovább az
                élet, baj, osztozás, iparkodások, és ha néha kicsit felé nézek, elcsudálkozom, hogy
-               az életet <hi rend="italic">most</hi>
-               <hi rend="italic">élő</hi> emberek milyen gyerekesen kíváncsiak rá, hogy mi fog velük
+               az életet <hi>most</hi>
+               <hi>élő</hi> emberek milyen gyerekesen kíváncsiak rá, hogy mi fog velük
                történni holnap vagy holnapután. És furcsa elgondolni, hogy a mostani dolgok a
                fiatalok számára éppolyan újak és érdekesek, mint nekem a harminc évvel ezelőttiek.
                Az én mostani látásommal nézve már világos, hogy a sokféle emberi hajszában és
@@ -98,7 +106,7 @@
                ki. Mikor aztán végigcsinálta az ember, ami tőle telt, s amit az életével általában
                csinálni lehetett, akkor megnyugodhat, ha van még egy kis ráérő pár esztendeje.</p>
             <p>Hírt adhatok a fiataloknak, akik borzadva félnek tőle: az öregség nem olyan
-               szörnyűséges és határozott <hi rend="italic">rossz</hi>, mint ahogy messziről
+               szörnyűséges és határozott <hi>rossz</hi>, mint ahogy messziről
                látszik. Egy állapotot nem érez az ember erősebben a másiknál, s nem érzi híját olyan
                dolgoknak, amikre való hajlandóság kimúlt belőle. Ha tűrhető egészsége van, nem érzi
                az öregséget a maga testében; kezét, lábát mozgatni tudja - jó kis meleg kávé,
@@ -177,15 +185,15 @@
                jól van; ami volt, megvolt - de én semmit belőle újra nem kezdenék.</p>
             <p>Ahogy így újra meg újra végigélem, végigcsinálom gondolatban a rég elmúlt dolgokat,
                néha össze is fut a szemem előtt sok összefüggés. Mindennek, ami történik, oly
-               sokféle oka van; nem tudom, mindig a legigazabbat találom-e meg, ha <hi rend="italic"
-                  >egy</hi> okot keresek - és nem tudom, minden apróság éppen <hi rend="italic"
-                  >úgy</hi> történt-e, vagy csak sokszor gondoltam és mondtam <hi rend="italic"
+               sokféle oka van; nem tudom, mindig a legigazabbat találom-e meg, ha <hi
+                  >egy</hi> okot keresek - és nem tudom, minden apróság éppen <hi
+                  >úgy</hi> történt-e, vagy csak sokszor gondoltam és mondtam <hi
                   >úgy</hi> el azóta, és már magam is hiszem. Hallottam egyszer, hogyha az ember
                hegyes vidéken jár - néha csak egypár lépést megy odább, és egészen megváltozik szeme
                előtt a tájkép; völgyek és ormok elhelyezkedése egymáshoz. Minden pihenőhelyről nézve
                egészen más a panoráma. Így van ez az eseményekkel is talán; és meglehet, hogy amit
                ma az élettörténetemnek gondolok, az csak mostani gondolkodásom szerint formált kép
-               az életemről. De akkor annál inkább az <hi rend="italic">enyém -</hi> és érdekesebb,
+               az életemről. De akkor annál inkább az <hi>enyém -</hi> és érdekesebb,
                tarkább, becsesebb játékszert ennél el sem gondolhatok magamnak. Ilyen harang­szós,
                meleg, magános délutánokon.</p>
             
@@ -206,7 +214,7 @@
             <p>Hárman futkostunk, uralkodtunk, veszekedtünk, hancúroztunk ott a két öcsémmel nagyon
                pici korunk, az édesapánk halála óta vadócon, magunkra hagyva és - azt hiszem -
                boldogan. Kár, hogy a gyerekkor gazdagságából olyan keveset őriz meg az emlékezet:
-               jeleneteket, apró eseteket, s azt is elváltozott formában, ahogyan <hi rend="italic"
+               jeleneteket, apró eseteket, s azt is elváltozott formában, ahogyan <hi
                   >azóta</hi> gondoltunk rá, életünkben néha emle­gettük. Most, mikor tudom a
                későbbi sorsukat, visszaemlékszem rá, hogy Sándorka mindig szelídebb, elgondolkodóbb
                gyerek volt; lányos és ártatlan kisfiú. Vele, ha csak ketten voltunk együtt, egészen
@@ -239,7 +247,7 @@
                szőlőnkből vette meg fáján a meggyet, barackot. - Csak a rostélyos, alacsony ablakok
                nyíltak erre, és mi néha végigszaladtunk előttük - egy darabon és vissza -, kirémlett
                valami szürke árnyék, hosszú rabing és ijesztő ónszínű arc. A szívem kegyetlenül
-               vert, borzasztóan féltem, de <hi rend="italic">kellett</hi> hogy megtegyem. Egyszer
+               vert, borzasztóan féltem, de <hi>kellett</hi> hogy megtegyem. Egyszer
                hallottuk, hogy egy Oláh Gergő nevű haramia van ott, akit fel fognak akasztani. Akkor
                velünk volt Kallós Pali is, a szomszédunk fia; és tudom, hogy én biztattam fel őket,
                nézzük meg Oláh Gergőt. Este volt már, és a Hajdúközben egy lélek se járt. Hanem
@@ -267,12 +275,11 @@
                néha; amit tudok ilyesmikből, azóta verődött rám inkább hallomás, újságolvasás útján.
                Kicsit rendszertelenül bizony.</p>
             <p>Wagner tánt iskolájában a tandíj egyforma volt ugyan szegénynek, gazdagnak - de a kis
-               “polgárlányok”, az iparosok és boltosok gyerekei <hi rend="italic">“gné-é-édige
-                  frá”</hi>-nak szólították őt, mi pedig <hi
-                  rend="italic">“tanté”</hi>-nak. A német beszéd kötelezőnek volt hirdetve, és a
+               “polgárlányok”, az iparosok és boltosok gyerekei <hi>“gné-é-édige
+                  frá”</hi>-nak szólították őt, mi pedig <hi>“tanté”</hi>-nak. A német beszéd kötelezőnek volt hirdetve, és a
                tánt szigorúan feddette a parancs ellen vétőt. “De hogyha nem tudunk?” - szabadkoztak
                a Magyar utcai csizmadiák lánykái. “Akkor meg kell kérdezni, hogy mondják ezt vagy
-               azt!” - “Hogy kell kérdezni?” - így: <hi rend="italic">“Wie sagt man das
+               azt!” - “Hogy kell kérdezni?” - így: <hi>“Wie sagt man das
                   deutsch?”</hi> Ebből az lett, hogy a kérdést lassanként megszoktuk elébe tenni,
                beleszúrni minden mondanivalóba; egész történeteket meséltünk el így: “Osztán,
                vizakmandaszdájcs, amúgy...” És ez elég volt mentségnek, ha megintettek a magyar
@@ -465,8 +472,7 @@
                gyereket neveltünk becsülettel.</p>
             <p>A mama mozdulata szinte türelmetlen volt most már.</p>
             <p>- Hát sose szóltam a dolgodba, Klári, éveken át. Járt az emberek szája, de én itt
-               voltam, beül­tem a vendégeid közé néha, őriztem a dekórumot.<hi xml:id="_ftnref8"
-                  >[8]</hi> Az én házam ellen senki se mert nyelvet öltögetni. Válassz kedved
+               voltam, beül­tem a vendégeid közé néha, őriztem a dekórumot. Az én házam ellen senki se mert nyelvet öltögetni. Válassz kedved
                szerint, gondoltam. Ott volt először Bojér. Sokáig ugrattad, végül is azt mondtad:
                öreg. Özvegy volt, igaz, de első földesúr a megyében. Jött a Gebey fiú, abból se lett
                semmi. Kendyvel okoskodtál, házasemberrel; igaz, mozogni se bírt a szélütött
@@ -479,8 +485,7 @@
             <p>- Hát jó - mondta -, ne beszéljünk róla. Mást akarok mondani. Te tudod, hogy nekem
                egy fiúgyermekem van.</p>
             <p>Klári mama csodálkozva fordult felé.</p>
-            <p>- Nézd! István ma helyettes közjegyző. De két évre biztosan penzióba megy<hi
-                  xml:id="_ftnref10">[10]</hi> a vén Bélteky; ő kerül helyébe. Szép dolog, ilyen
+            <p>- Nézd! István ma helyettes közjegyző. De két évre biztosan penzióba megy a vén Bélteky; ő kerül helyébe. Szép dolog, ilyen
                fiatal fejjel. Na, igen! Hát ha István megházasodik, ők itt fognak lakni.</p>
             <p>- Aha! - mondta akkor mama valami kis fanyarsággal.</p>
             <p>- Igen. A menyemre én fogok vigyázni!</p>
@@ -530,8 +535,7 @@
          <div type="chapter">
             <head>4</head>
             <p>Kis, régi pípes, magos sarkú cipőim, szalagos
-                  bebékalapom, fűzős, tünikes<hi xml:id="_ftnref14"
-                  >[14]</hi> első nagy­lányruhám; istenem, hova lesznek a régi ruhák rongyai, volt
+                  bebékalapom, fűzős, tünikes első nagy­lányruhám; istenem, hova lesznek a régi ruhák rongyai, volt
                énünk tevés-vevése, elszállt, időközi napok, jeltelen órák nyoma! Milyen jó volna
                mindent visszakeresni; ifjúságunk tarka perceit, szavaink dallamát, ruhánk, hajunk
                régi színét s az akkori napsugárét, mely szökdelt és fényesedett rajtunk! És minden
@@ -771,8 +775,7 @@
                piciny rózsák girlandjával, az enyim a kötelező fehér. Az aranyporos, hegyes topánok
                is ott voltak s a virágos hajékek.</p>
             <p>Hanika szedte ki őket karcsú és szeplős, halovány ujjaival; vörös hajú, rút kis
-               varróleányunk, aki hetek során ott kattogtatta a gépét az üveges szaletli<hi
-                  xml:id="_ftnref18">[18]</hi> sarkában. Milyen áldott jó, szegény kis lélek volt ez
+               varróleányunk, aki hetek során ott kattogtatta a gépét az üveges szaletli sarkában. Milyen áldott jó, szegény kis lélek volt ez
                a póznahosszú, horpadt mellű teremtés. Csak most gondolok vissza, milyen nehéz dolog
                hallgatagon és békén nézni közelből a mások jó dolgát! De ő velünk érzett, néhány jó
                szavunkért átolvadt hűségbe és szeretetbe. Mennyi áhítat és bensőség volt abban, hogy
@@ -866,7 +869,7 @@
                minden a kedvemért! Nem volt helyes talán és semmiképp sem igazságos; de bevált.</p>
             <p>Szép, mámoros, farsangi kavargás; ünnepeltség, fény, ragyogó gondatlanság: bál,
                bál!... Össze­mosódó, kavargó emlékei egy hosszú életre sugarazzák a rózsaszín derűt,
-               enyhítő, nyugtató, asszonyos öntudatot. Én voltam, <hi rend="italic">az</hi> voltam
+               enyhítő, nyugtató, asszonyos öntudatot. Én voltam, <hi>az</hi> voltam
                egykor!</p>
             <p>Boldog és szép volt ez az elillanó idő, üde ragyogású színek és súlytalan, lebbenő
                évek. Mintha a keringő ütemeire röpültek volna el fölöttem, mély, édes félandalodás
@@ -931,8 +934,7 @@
             <p>- Lássa, az emberek csak ezt tudják nálunk! - mesélte hátam mögött Telekdy anyámnak,
                mikor hazakísért. - Összefogódznak és ugrálnak, hogy megengedten ölelhessék egymást,
                vagy oktalan és értelmetlen nekibúsulással fülelnek egy túlhaladott, fejletlen és
-               gyerekes muzsikát, amíg mindenféle ártalmas liquidumokat<hi xml:id="_ftnref23"
-                  >[23]</hi> addig-addig töltögetnek rendszeresen magukba, míg megvadulnak, vagy
+               gyerekes muzsikát, amíg mindenféle ártalmas liquidumokat addig-addig töltögetnek rendszeresen magukba, míg megvadulnak, vagy
                barommá butulnak. Sohase lesz a magyar emberből semmi!...</p>
             <p>“Hogy lehet most ilyeneket beszélni? - gondoltam bosszúsan és fáradtan, és
                előresiettem, hogy ne halljam. - Miért nem maradt ott, ahol mindenki olyan
@@ -1037,16 +1039,14 @@
                bocskorosnemes-gőgjükkel, nevetséges, hangos parlagiságuk­kal! Ők lettek az élceink
                céltáblája: hogy nadályt ragasztottak a nyakukba a lápból, báli készületül. “Hogy
                sápadtak legyünk, lelkem, nem ilyen falusi színűek!” Aztán teli szájjal elmondták,
-               mindenkinek, nehogy most már azt gondolják: “Skrofulások<hi xml:id="_ftnref24"
-                  >[24]</hi> vagyunk, lelkem!” S a társaságunk azon mulatott rekonneszánszokon,<hi
-                  xml:id="_ftnref25">[25]</hi> hogy förmedt rá Erzsus, a hosszú, szótlan
+               mindenkinek, nehogy most már azt gondolják: “Skrofulások vagyunk, lelkem!” S a társaságunk azon mulatott rekonneszánszokon, hogy förmedt rá Erzsus, a hosszú, szótlan
                csárdásügetés közben egyszer csak a táncosra, jó ecsedies hangsúllyal: “Nie te,
                megvierradt!” - és milyen keservesen hívta a húgát egyszer a petrezselyemárulásból,
                savanyú vigaszul a narancsosbódé felé: “Gyere, gyere mán, együnk legalább egy kis
                jóféle citronyt!” És hangos kacagással utánozta Klári mama, milyen kihúzott
                pulykanyakkal, gőgös szemmel mérte végig az anyjuk Vodicska Jenőt, mikor bemutattuk;
                és elfordulva, fulladós torokhangon kérdezte meg: “Lelkem, nem értettem jól ezt a
-               nevet! <hi rend="italic">Család?</hi>”</p>
+               nevet! <hi>Család?</hi>”</p>
             <p>Furcsa volt nekem és új dolog, hogy minálunk ilyen hangos hahotával teszik
                nevetségessé a familiáris gőgöt. Ez a Telekdy tanítása, gondoltam, és anyám mindennek
                olyan könnyen a hatalmába kerül!</p>
@@ -1062,8 +1062,7 @@
                érkezett leánynak nem szabadna egy évnél tovább pártában bálozni.</p>
             <p>Most, háromszor tíz esztendő messziségében megint csak az én lánygyerekeim sorsát
                látom és hasonlítgatom az akkori magaméhoz. A legkisebbik most tizennyolc éves,
-               érettségire készül, küszködik, órákat ad, és stipendiumokat<hi xml:id="_ftnref26"
-                  >[26]</hi> kilincsel ki magának, szegény kis jószág. És mégis azt írja, és néha
+               érettségire készül, küszködik, órákat ad, és stipendiumokat kilincsel ki magának, szegény kis jószág. És mégis azt írja, és néha
                érzem, igaza lehet: az ő élete igazibb élet, és fiatalsága igazibb fiatalság. Még
                kezdet előtt van, várhat, tervelhet, örülhet a jövőnek, melyet saját kezébe érez
                letéve. Sejtem, vannak apró levelezései, szerelmes dolgai, de ezekkel semmi terve,
@@ -1160,10 +1159,10 @@
             <p>Vállat vontam, és az volt az érzésem, hogy most mind a ketten ostobának tarthatjuk
                egymást, pedig nem vagyunk azok. Csak nem találta el, hogy mit kelljen mondani nekem.
                Mit is kellett volna?</p>
-            <p>Később a lugasban egy verset mondott el, amely úgy kezdődött: <hi rend="italic"
+            <p>Később a lugasban egy verset mondott el, amely úgy kezdődött: <hi
                   >“Hová</hi>
-               <hi rend="italic">merült el szép szemed</hi>
-               <hi rend="italic">világa?”</hi> Könyv nélkül tudta, elmagyarázta, hogy hol szép és
+               <hi>merült el szép szemed</hi>
+               <hi>világa?”</hi> Könyv nélkül tudta, elmagyarázta, hogy hol szép és
                mit jelent. Akkor hallottam legelőször ezt a verset, mintha tetszett volna is, csak
                valami röstelkedésformát éreztem a fellengzőssége miatt. Megkért, hogy elküldhesse
                nekem leírva. Tulajdonképpen nyugodtan és nem rosszul éreztem magam a közelében, de
@@ -1297,8 +1296,7 @@
             <p>Én habos, sokcsipkés kék selyemruhában voltam akkor, anyám arannyal hímzett sárga
                brokát­ban. Mikor beléptünk, megint egyszer fellobbanó szívvel éreztem, hogy még
                mindig az elsők közt vagyunk.</p>
-            <p>A szomszéd megyeiek egy csapatban jöttek be az első tourok<hi xml:id="_ftnref30"
-                  >[30]</hi> után; pillanat alatt meg­ismertem köztük Tabódy Endrét. Ránéztem
+            <p>A szomszéd megyeiek egy csapatban jöttek be az első tourok után; pillanat alatt meg­ismertem köztük Tabódy Endrét. Ránéztem
                kényszerítő, kitartó, heves asszonyi tekintettel, kérdőn és bátorítón. Ujjongva és
                ámultan láttam, hogy megérzi, nyugtalan szemmel, keresve néz körül, aztán elváltozó,
                meglepett arccal vesz észre, és rögtön felém tart. “Mit akarok vele? - Mi van most
@@ -1717,7 +1715,7 @@
                kétféle szájjal csókolni - ahogy nincs mértéke asszonynak soha a férfi szerelméről.
                “Minden szerelem testiség!” - mondják ma -, de éppúgy lelkiesnek is lehetne mondani a
                leghitványabb kalandot is, mert amíg van, nem lehet képzelet és megindulás nélkül.
-               Hisz <hi rend="italic">egészen</hi> hazudni olyan fáradság és áldozat volna,
+               Hisz <hi>egészen</hi> hazudni olyan fáradság és áldozat volna,
                amilyenre nem is képes férfi. Miért tennék? - Nem tudni ezt. Ötvenéves vagyok, és jól
                megnéztem a világot, de bizonyos, hogy a férfiakat nem ismerem eléggé.</p>
             <p>Akkor - hát akkor a lelkembe hasított minden sejtető, lihegő szava - váró, ujjongó
@@ -1798,7 +1796,7 @@
             <p>- Igen, velem jönni! Így, ahogy van, Magda - nem bánok semmit már. Egyikünk sem fog
                így szeretni soha többet. Jöjjön!</p>
             <p>A szavai úgy hulltak a lelkemre, mint erős, nagyszerű villanásai az életnek -
-               megnyílt lehető­ségek -, különös, mozgalmas álmok, mint valami <hi rend="italic"
+               megnyílt lehető­ségek -, különös, mozgalmas álmok, mint valami <hi
                   >egész</hi> élmény. De egy pillanat feléig sem voltam kísértetben, hogy követni
                fogom, amit mond. El tudtam választani a szép percek színjátékát a valóság nappalias
                és közömbös szcénáitól. “Hisz ő is bizonyosan másképp fog gondolkozni holnap reggel
@@ -1911,8 +1909,7 @@
                kicsit - mondta a mestere. - Hát ő ezt odahívatta magához; már az öregember temetésén
                is, most hallom, lábtul ültette a ravatalnál, maga meg fejtül ült, hogy: “Te is olyan
                vére vagy apámnak, mint én!” Na, most meg kivette a mesterségből, és ott tartja
-               ingyenélőnek, hogy részeljen az apai jussból, elcábérodott<hi xml:id="_ftnref34"
-                  >[34]</hi> a legény, iszik, pipál, cselédekkel cicázik egész nap, csapja a
+               ingyenélőnek, hogy részeljen az apai jussból, elcábérodott a legény, iszik, pipál, cselédekkel cicázik egész nap, csapja a
                lábszárán a legyet, anyád tűri ezt is és minden egyebet; Klárival mindenki azt
                csinálhat, amit akar. Olyan ostoba! Szerelmes bele. De mi lesz a vége ennek?</p>
             <p>- Mi lesz?...</p>
@@ -2007,7 +2004,7 @@
             <p>- Most már csakugyan egészséges az én menyecském - mosolyodott el később -, hogy
                kedve támad politikához.</p>
             <p>- A politikát én keveset bánom, Jenő - mondtam akkor vérszemet kapva -, hanem
-               tudod-e, hogy én itt, Szinyéren <hi rend="italic">valaki</hi> akarok lenni. Vezető
+               tudod-e, hogy én itt, Szinyéren <hi>valaki</hi> akarok lenni. Vezető
                ember felesége, akit senki se merjen fumigálni. Érted? - Na! Úgy látszik, csakugyan
                egészséges vagyok!</p>
             <p>Elkacagtam a végét, Jenő ölbe kapott, és összecsókolt. “Meglássuk, boszorkám,
@@ -2046,7 +2043,7 @@
                bombát neki, mindenestül! Csupa sógorság-komaság; a lustaságuk, tudatlanságuk,
                basáskodó rosszaságuk palástolására alakult, összevissza házasodások révén
                megerősített érdekszövetkezet. A délolasz rablóbandák különbek, mert azok akarnak és
-               csinálnak valamit; vizet zavarnak. Emlékszel <hi rend="italic">A falu jegyzője</hi>
+               csinálnak valamit; vizet zavarnak. Emlékszel <hi>A falu jegyzője</hi>
                regényre? Hogy meg van ott írva! És látod, azóta se változott!</p>
             <p>- Na, valamit mégis! Hidd el, van itt is például néhány jófejű és tisztességes
                szándékú ember!</p>
@@ -2242,8 +2239,7 @@
                igazítani, ezüstholmit, gyertya­tartókat vásárolni. “Hát tudod, ez most már
                befektetés nekünk!” mondogatta Jenő, komoly arccal.</p>
             <p>Az istállómester mondta neki egyszer, hogy volna nála két csinos póniló, az erdődi
-               urada­lomból küldték át, mert ott már felnőttek gyereksorból a kis comtesse-ek<hi
-                  xml:id="_ftnref36">[36]</hi>. Nagyon olcsón adta, és hát istálló úgyis volt a
+               urada­lomból küldték át, mert ott már felnőttek gyereksorból a kis comtesse-ek. Nagyon olcsón adta, és hát istálló úgyis volt a
                házban, és egy udvarosfiút úgyis kellett tartani öntözésre, útseprésre, no,
                megvettük, és én buzgón és játszó kedvvel hajkurásztam a kedves, felcicomá­zott kis
                öregeket végig a Váralján és ki a szőlők felé. Már nekiszelesedtem egy kicsit, és nem
@@ -2290,8 +2286,7 @@
             <p>- Ó, nagyon leköteleznél, Melanie! Igazán kedves vagy.</p>
             <p>Jenő aggályoskodott ezen később magunk között. Most már négy cseléd, mit fognak
                szólni hozzá! De Melanie előtt lehetetlen volt visszalépni, és én titkos örömmel
-               gondoltam: milyen szép lesz, ha majd kikocsizom a pónikkal, Pityut s a bonne-t<hi
-                  xml:id="_ftnref37">[37]</hi> hátam mögé ültetem szépen kiöltöztetve.</p>
+               gondoltam: milyen szép lesz, ha majd kikocsizom a pónikkal, Pityut s a bonne-t hátam mögé ültetem szépen kiöltöztetve.</p>
             <p>Akkortájt hozta itt divatba Melanie a lawn-tenisz
                játékot, amit ma már szerteszét az egész országban mindenhol ismernek tán. De az idő
                tájt még Pesten se játszták; Jolsvayéknál valami angol táncmester volt nyáron; az
@@ -2624,8 +2619,8 @@
                összetépett aktafogalmazvá­nyoknak, nyomtatványoknak, gyűrött
                levélborítékoknak...</p>
             <p>
-               <hi rend="italic">Alázatos és szomorú</hi>
-               <hi rend="italic">hódolatom, amelyről kell hogy tudjon, Melanie, és amelynek
+               <hi>Alázatos és szomorú</hi>
+               <hi>hódolatom, amelyről kell hogy tudjon, Melanie, és amelynek
                   soha-soha nem mernék más nevet adni...</hi>
             </p>
             <p>Áthúzott sorok, egy tintafolt... bosszús vagy türelmetlen ujjak nyoma, kemény,
@@ -2701,10 +2696,8 @@
                otthagyott minket vacsoráig. És visszaemlékeztem a Tabódy Endre néhány látogatására
                évekkel ezelőtt. Az más volt, izgalmas, heves, fiatal, követelő szerelmes: Jenő iránt
                lappangóan ellenséges indulatú és titkolódzó. Ez itt, igaz, megcsendesült egy
-               ember... pedig csak egy-két évvel öregebb Jenőnél. És én... én azóta szintúgy <hi
-                  rend="italic">más</hi> lettem; igen, már nem vagyok gyerekasszony, sokat
-               megtudtam, sok mindenre rájöttem csak úgy, végiggondolás útján. És... <hi
-                  rend="italic">merek</hi> végiggondolni, és merek és akarok néha forró és titkos
+               ember... pedig csak egy-két évvel öregebb Jenőnél. És én... én azóta szintúgy <hi>más</hi> lettem; igen, már nem vagyok gyerekasszony, sokat
+               megtudtam, sok mindenre rájöttem csak úgy, végiggondolás útján. És... <hi>merek</hi> végiggondolni, és merek és akarok néha forró és titkos
                álmokat egész végigvalókat. Az ember nem a menyegzője éjszakáján válik asszonnyá;
                nekem, lám, hét esztendő kellett ehhez. De Jenő nem sejti. Igaz, hogy nem vagyok
                szerelmes, az más, talán... de miért nem gondol erre. Bízó vagy együgyű, vagy mindegy
@@ -2716,7 +2709,7 @@
                úgy nézésre, szemmel játékra, hogy semmi komplikáció ne legyen... pfuj, a férfiak
                csúnya, vénes megalkuvása, minden asszonytól csak annyit venni el, amennyit baj
                nélkül lehet... Hiszen bizonyos, hogy én sohasem engednék hajszálnyival se többet, de
-               az volna rendin, hogy <hi rend="italic">ő akarjon,</hi> törje magát, vagy úgy tegyen
+               az volna rendin, hogy <hi>ő akarjon,</hi> törje magát, vagy úgy tegyen
                legalább!...”</p>
             <p>- Milyen erős ez a nagy málnaszag a kert felől! - mondta lassan. - Mint az erjedt,
                édes, nehéz boré; szinte részegít!</p>
@@ -2757,8 +2750,7 @@
             <p>Valami parcellázott földek eladása ügyében - amit Jenő csinált egyre irkált a
                nyakára, és küldözte az Imre fiát. Hogy őneki aratás utánra rendbe kell lennie a
                számadással! Jenő végre a grófnak írt, és persze szó nélkül megkapta a haladékot.
-               Tudtam volna, csak egyszer moso­lyogva nézni erre a hosszú Imrére, ha nem is <hi
-                  rend="italic">úgy</hi>, de legalább a hiúságot legyezgetőn! De könnyen engedett
+               Tudtam volna, csak egyszer moso­lyogva nézni erre a hosszú Imrére, ha nem is <hi>úgy</hi>, de legalább a hiúságot legyezgetőn! De könnyen engedett
                volna a nagy hivatalos tartózkodásból, családi feszültségből! Hanem, akárki másra
                inkább; úgy gyűlöltem ezt a konok, német parasztfiút - mert olyan volt - a nyers
                ridegségbe és néha sértő illetlenségbe is oly rosszul palástolt bárdolatlan
@@ -2918,7 +2910,7 @@
                magamon az idegen férfi tekintetét. Most a virágok árnya véd, visszanézem az
                elszántság egy egyszerű és ujjongón hazárdos ötletével - kérdő és kereső, megértő és
                elintéző pillantásával -, amilyenhez nem elég az akarás, a játékkedv néha: ritka
-               felhangoltság perce kell hozzá és az a biztosság, hogy ennyi <hi rend="italic"
+               felhangoltság perce kell hozzá és az a biztosság, hogy ennyi <hi
                   >minden:</hi> és nem zavarhat meg a folytatás kétsége vagy kockázata. “A
                királyfi!” - gondoltam ellenőrizetlenül és különös megdöbbe­nés­sel. Mélán kék,
                komoly férfiszemeket láttam, hosszúkás lágy vonalú arc bágyadt fehérségét, szinte
@@ -2983,8 +2975,7 @@
             <p>- Tovább, mint szeretné! De nézzük sorjába! Ami volt: sok nagy mozgolódás, vizet
                zavarás, de kevésszer igaz pihenő, igaz elfelejtkezés. Ami van: most valami fanyar
                beteltség és olyan­forma várás, mint mikor valami megbicsaklik, és megáll, és azt
-               mondja: “No, most aztán vagy <hi rend="italic">semmi </hi>tovább, vagy <hi
-                  rend="italic">minden</hi> még egyszer: de akármi is, magától jöjjön helyembe,
+               mondja: “No, most aztán vagy <hi>semmi </hi>tovább, vagy <hi>minden</hi> még egyszer: de akármi is, magától jöjjön helyembe,
                tapodtat se megyek érte!” Ami lesz...</p>
             <p>- Nem engedem, hogy végigmondja, boszorkány! - Egy kézmozdulatra összemarkolta
                kezem­ben a laza kártyacsomót, a csuklóm is átfogta vele együtt, és két kemény, barna
@@ -3071,8 +3062,8 @@
                aranysas ragyogását. A püspökhöz s az ezredeshez intézett valami kérdést; az
                udvarmester a selyemrojtos jótékony­sági perselyért nyúlt felém, és belegyűrte a nagy
                papírpénzt. Bankó cigány egy intésre rázendí­tette még egyszer a királyfi nótáját:
-                  <hi rend="italic">“Éjszaka</hi>
-               <hi rend="italic">font, nappal mosott...”</hi> Már a túlsó, udvari kijáratnál volt,
+                  <hi>“Éjszaka</hi>
+               <hi>font, nappal mosott...”</hi> Már a túlsó, udvari kijáratnál volt,
                ahol a kocsik vártak rájuk, a vállrojtja megcsillant még, de beleveszett a szemem
                káprázatába, ő ment soha meg nem jövendölt, ismeretlen sorsa elébe...</p>
             <p>Egyszerre körülözönlött engem a sok ember. Kíváncsiság, irigység és csudálkozás
@@ -3155,8 +3146,7 @@
                ebben a mozdulatban. Akármilyen lassan és észrevétlen, de mégiscsak haladt és
                kifejlődött valahová ehhez az emberhez való érzésem, akit az utolsó fél esztendőben
                csaknem mindennap láttam, és a közelemben éreztem béketűrő, lágy és hódoló szerelmét.
-               Bizonyos, hogy értéknek kezdtem érezni az utolsó hetek alatt. És hát <hi
-                  rend="italic">idegen</hi> férfi volt és kellemes külsejű, minden társaságban
+               Bizonyos, hogy értéknek kezdtem érezni az utolsó hetek alatt. És hát <hi>idegen</hi> férfi volt és kellemes külsejű, minden társaságban
                elfogadott és kedvelt, és annyira kitüntetett engem.</p>
             <p>- De igen, igen, nagyon jó maga hozzám, Magda! - mondta sokszor és hevesen csókolva
                kezet. - És én hálás vagyok már azért is, hogy maga van, hogy létezik. Igen, most
@@ -3709,8 +3699,8 @@
                amikor Marika már a felesége volt. Akkor feltévedt, felkényszerült ide, szerencséje
                volt, és kiderült, lám, hogy erre a “rendes” életre való hajlam is rejtőzködött
                mindig titkosan a lelkében. Átalakult, nem is emlékszik tán már a hajdani magára!</p>
-            <p>A színpadon <hi rend="italic">Gauthier</hi>
-               <hi rend="italic">Margit</hi> ment. Egy gyönyörűn szabott, színes selyemköpönyeget
+            <p>A színpadon <hi>Gauthier</hi>
+               <hi>Margit</hi> ment. Egy gyönyörűn szabott, színes selyemköpönyeget
                dobott le magáról a színésznő, szép, nagy, szabad mozdulattal, és én éreztem, hogy
                elszánást, kétségbeesett erőt, múltat, élményt, pattanásig feszült percek zajlását ki
                lehet töretni, felszaba­dítani egy ilyen tombolón gyors mozdulattal, ilyen
@@ -3765,11 +3755,11 @@
                ömlengett; a messzeség és költőiség ürügye igazolta a szép, meleg frázisokat, a
                reménytelen és csökönyös szenvedély kiáradását.</p>
             <p>
-               <hi rend="italic">Minden álmom és minden gondolatom maga. A tilalmakon, a sors
+               <hi>Minden álmom és minden gondolatom maga. A tilalmakon, a sors
                   haragján, a saját akaratán keresztül is szeretem végtelenül, mindig, és nem tudok
                   enélkül élni.</hi>
-               <hi rend="italic">Mi</hi>
-               <hi rend="italic">lesz velünk!?...</hi>
+               <hi>Mi</hi>
+               <hi>lesz velünk!?...</hi>
             </p>
             <p>Szavak, amiket meg lehet tanulni, sokszor kipróbálni, az unalom és szándékosság
                perceiben játszva halmozni; de mégis hatnak. Mindenki hihetetlenül naiv ebben!
@@ -3972,7 +3962,7 @@
                súgta jószívű ötlete volt, hogy azt mondja: “Jöjj le hozzánk!” Piroska szó nélkül
                belenyugodott megszokásból, kényelemből, és egy hét múlva napirendre tértek fölöttem.
                Itt voltam, senki egy pillantással, célzással meg nem bántott, és nem volt semmi
-               dolgom. A házigazda a szántásnál járt vagy az <hi rend="italic">Üstökös</hi>t
+               dolgom. A házigazda a szántásnál járt vagy az <hi>Üstökös</hi>t
                olvasta, Piroska melegágyakat csinált, és a vetemény alá ásatott.</p>
             <p>Jött a Horváth Dénes levele. Furcsa, fáradt hangú eltökélésből íródott sorok; vagy
                csak én éreztem így! A csupa szavakból táplálkozó szerelem csődbe jut időnként, egyre
@@ -4540,7 +4530,7 @@
                oldala ép. Ott lakom én is. Elnézünk arra?</p>
             <p>Lassan és reszketve haladtunk a Várkert aljáig. Eszembe jutott hirtelen, hogy ott, a
                templom közelségében van a Zimán Ilka háza is.</p>
-            <p>- Nem bírok tovább most. Pihenjünk! - mondtam a kis <hi rend="italic">Promenád
+            <p>- Nem bírok tovább most. Pihenjünk! - mondtam a kis <hi>Promenád
                </hi>akácfái alatt, és hirtelen egy padra ültem. Ez a kis tér csudálatosan néptelen
                volt most; innét mindenki a piac felé húzódott. A templom gyönyörű kupolája
                nyugodtan, érintetlenül domborult szemben, és a merev kőszentek kísértetiesen álltak
@@ -4614,7 +4604,7 @@
                hogy ez úgy szebb, büszkébb, emberebb és úribb volna... De én nem tehettem úgy! Az én
                életem zsákutcába került. Minden, amit a magam emberi erejével próbáltam, összedőlt,
                sikertelen volt. Lehet, hogy az én hibámból jószerint; úgy látszik, nem voltam
-               küzdésre és függetlenségre alkalmas! De más révén, egy <hi rend="italic">férfi
+               küzdésre és függetlenségre alkalmas! De más révén, egy <hi>férfi
                   révén</hi> tudtam akarni erősen, mindig. Igen, a feleségévé kell lennem; újra
                férjes asszonnyá, úrnővé; eltartott, védett élethez jutni, magam háztartását vezetni,
                és itt, itthon, Szinyéren megint. Szinte a régi életem visszatérését vártam ebben.
@@ -4752,8 +4742,7 @@
                kiszívott tajték­csibukot. “Eddig!”... de hisz végre is... feleségül vett.
                Kényszeríteni ilyenre csakugyan nem lehet... hiszen férfi!</p>
             <p>Hirtelen ellenséges méltatlankodás lobbant fel bennem; és mindjárt utána keserű
-               szégyen­kezés. Hogy ezt... nem vághatom a szemébe! Mert mégis... bizony, <hi
-                  rend="italic">nekem</hi> nem volt más utam. Mikor már nagyon körülem csavarodtak a
+               szégyen­kezés. Hogy ezt... nem vághatom a szemébe! Mert mégis... bizony, <hi>nekem</hi> nem volt más utam. Mikor már nagyon körülem csavarodtak a
                bajok, mikor a világ megvetett igaztalanul, a pénzem fogytán volt, és a vén Vodicska
                is beleártotta magát; tudom, hogy mondtam is olyas­mit szorongatásomban, hogy én
                gyufát iszom, ha nem igazodik helyre az elrontott életem!... De ha igazán jó, igazán
@@ -4898,7 +4887,7 @@
             <p>- Amilyen én vagyok. De hallja, most már vége legyen! Elnézek, amit lehet, de ha
                százszor szoptat is, az istenit, aki bolond, menjen, csukassa be magát, van ott
                egynéhány atyafia...</p>
-            <p>- Pfuj. Szégyellje! <hi rend="italic">Ezt</hi> hánytorgatni!</p>
+            <p>- Pfuj. Szégyellje! <hi>Ezt</hi> hánytorgatni!</p>
             <p>- Maga kezdte. Azt mondta, potyafráter vagyok; tán a maga rokonai fizették a
                vacsorámat. Na, tudja, ha én egy kortyot is lenyeltem más jóvoltából...</p>
             <p>- Az a baj éppen. Tudom, elég bolond ahhoz. Kártyán is mindig veszít. Elég alávalók,
@@ -4922,7 +4911,7 @@
             <p>- Meg biz az a vén csoroszlya, a drága Ilkája. Azt hiszi, nem tudom, hogy
                el-ellátogat néha. Együtt bagóznak. Tizenöt szivart füstöl el a vén fogatlan napjára.
                Úgy kacagják együtt a világot; meg engem is, a jó bolondot, aki itt öli magát. Hja,
-                  <hi rend="italic">alte Liebe!</hi> Neki a könnyebb rész jutott.</p>
+                  <hi>alte Liebe!</hi> Neki a könnyebb rész jutott.</p>
             <p>- Ha úgy volna is! Ha kacag velem, meg szivaroz velem, csak kellemesebb, mintha
                hárpiás­kodnék. Különben az is a maga rokona. Elég szégyen, hogy haragoskodik vele
                nyíltan, világ csúfjára, ilyen ostoba féltékenység meg cigánynépletyka miatt.</p>
@@ -5032,7 +5021,7 @@
             <p>Ez mind én voltam; mert így ment már és még úgyabbul is miközöttünk!... Hogy
                fejlődött ez, hogy juthattunk idáig? - kérdem önmagamtól most a csendesült,
                zavartalan magányban, az öregség szelídülésében. Istenem, fokonként, lassan süllyedt
-               az egymással bánásunk, a viszo­nyunk; és tulajdonképp csak <hi rend="italic"
+               az egymással bánásunk, a viszo­nyunk; és tulajdonképp csak <hi
                   >szavak,</hi> egyre nyersebb, komiszabb, fékezetlenebb, csúnyább szavak jelezték
                ezt az utat a lejtőn. De mi is történhet két együtt élő ember közt egyéb, mi lehet
                fontosabb: mint az, ahogyan időnként egymással beszélnek. Jöhetnek közbe békülések,
@@ -5044,7 +5033,7 @@
                egymás felé becsmérlő szidásokat, alaptalan, kép­te­len, lázító vádakat, zagyván
                szenvedélyes, lihegő, szinte csudálatos kitalálásait a rosszaság­nak, hogy a másiknak
                fájjon, még-még fájjon; és kiáradjon, utat leljen belőlünk a fojtogató bosszú,
-               megalázottság vagy lenyűgözöttség kínja, ó, ezek mind <hi rend="italic">csak
+               megalázottság vagy lenyűgözöttség kínja, ó, ezek mind <hi>csak
                   szavak</hi> igaz, de rettentőn visszahatnak az érzésekre, és mindent, mindent
                összerombolnak. Egy-egy ilyen bomlott, csúnya jelenetre jöhet megcsendesülés,
                elszégyellés, újra közeledés; de a következő alkalommal csak még pokolibb, még
@@ -5211,8 +5200,7 @@
                férfiak­nak.</p>
             <p>Telekdy Péter sárgult, összeaszott arca fanyar mosolyával nézett rám a
                betegágyból.</p>
-            <p>- Bolondéria az! Tudatlanok mániája, minden alap nélkül való. Mindig inferióris<hi
-                  xml:id="_ftnref56">[56]</hi> marad az asszonyi állat, nem is lehet másképpen. Hisz
+            <p>- Bolondéria az! Tudatlanok mániája, minden alap nélkül való. Mindig inferióris marad az asszonyi állat, nem is lehet másképpen. Hisz
                az életideje két­harmad részét elfoglalják a fajfenntartással járó öntudatlan, állati
                gondok, kötöttségek, s az értelmét ösztönök igazítják. Ha ezek alól felszabadítja
                magát, iránytalan, korcs, helyét nem lelő figura lesz, idétlen és boldogtalan. Az
@@ -5325,7 +5313,7 @@
                percekben a szegény apja iránt... igen, igen, az apjára hasonlított és a nagyapjára
                leginkább. Sírva búcsúztam tőle megint; az iránta való szeretetillúziómat sirattam,
                amit a távolság érin­tet­lenül hagyott odáig. De a lelkemben fellélegzettem, szinte,
-               mikor megint egyedül marad­tam, az <hi rend="italic">enyimekkel:</hi> a lányokkal,
+               mikor megint egyedül marad­tam, az <hi>enyimekkel:</hi> a lányokkal,
                akikhez már emberül, asszonyul, anyává érett koromban, megszenvedett lélekkel és
                rezignált testtel jutottam, magam szántából, nem véletlenül; akik élettartalom,
                kötelesség, becsület és a sorsomhoz való kapocs voltak számomra már akkor is és
@@ -5552,7 +5540,7 @@
                leér...</p>
             <p>- Hát csak nézzed, Zsuzska fiam, hadd beszéljen még! Nótába fog, megérjük bizony!</p>
             <p>- Magda, bizony elment az idő, elhajítódtunk egymástól. Vagy csak úgy véletlenül...
-               miért is?... Úgy látszik, hogy <hi rend="italic">azt</hi> sem éreztük nagyon
+               miért is?... Úgy látszik, hogy <hi>azt</hi> sem éreztük nagyon
                fontosnak. És tudja-e, ne nevessen, nem is az a legfőbb, Magda! Lássa, sokszor volt,
                mikor nem is gondoltam rá, hogy behunytam a szemem, és egész váratlanul a maga két
                szemét láttam elevenen. Vagy nem is ez... hanem ha ez a szó jutott eszembe “asszony,
@@ -5612,7 +5600,7 @@
                ital, az öregség, az esettség vizesíti el a szemét?... Szegény!... Talán most oda
                kellene menni hozzá, végigsimítani a fejét, a kezét... Az ám! Hogy holnap, vagy még
                ma gyilkos, kegyetlen gúnnyal hánytorgassuk, emlegessük fel egymásnak az
-               elérzékenyülést!... Nem, mi már nem közeledhetünk <hi rend="italic">szavakon</hi> át.
+               elérzékenyülést!... Nem, mi már nem közeledhetünk <hi>szavakon</hi> át.
                Ezt a bolond, szép percet megéreztük, együtt voltunk benne, bezárjuk, elszigeteljük;
                és holnap, vagy még ma tovább veszekszünk... Mit is szólnának a gyerekeink, ha mi
                csudaképp most megpróbálnók az egyetértést. Már így szoktuk meg; ebből már nincs
@@ -5676,94 +5664,94 @@
                színházakba, munkátlan háztartásba; lebzselő, olcsó, könnyű koplaló életbe. Még a
                mama is, lám az öreg fejével, milyen vígan beletalálja magát.</p>
             <p>
-               <hi rend="italic">Hidd el - </hi>írja egyik levelében -, <hi rend="italic">ez a
+               <hi>Hidd el - </hi>írja egyik levelében -, <hi>ez a
                   legnagyszerűbb hely! Az egész ország népe felhúzódik ide, lassan családonként. Aki
                   nyer a lottérián, idejön fényesen elkölteni, aki lekoldusodik, idejön nyomorogni,
                   aki sikkasztott vagy megesett, idejön elrejtőzni. Aki eszével, szépségével,
                   huncutságával vagy akármilyen kis tudományával kereskedni akar, ide kell jönni
                   neki. Itt megélnek virágcsinálásból, újságárulásból, versírásból,
                   férfi­csá­bításból; el nem gondolhatod, hogy mi mindenből. Ezzel a</hi>
-               <hi rend="italic">kis</hi>
-               <hi rend="italic">havi negyven forintommal -</hi>
-               <hi rend="italic">Isten</hi>
-               <hi rend="italic">áldja meg a szegény anyám eszit haló porában is -</hi>
-               <hi rend="italic">egészen jól megvagyok itt, elhidd azt. Kis hónapos szobám van egy
+               <hi>kis</hi>
+               <hi>havi negyven forintommal -</hi>
+               <hi>Isten</hi>
+               <hi>áldja meg a szegény anyám eszit haló porában is -</hi>
+               <hi>egészen jól megvagyok itt, elhidd azt. Kis hónapos szobám van egy
                   családnál, nagyon jó (csak ez a féreg ne volna itt annyi, verje isten), és</hi>
-               <hi rend="italic">nappal</hi>
-               <hi rend="italic">alig vagyok otthon. Hol egyik rokonnál, hol a</hi>
-               <hi rend="italic">másiknál</hi>
-               <hi rend="italic">elidőzöm, csak arra ügyelek, hogy ne egyek egynél se, mert az biz
+               <hi>nappal</hi>
+               <hi>alig vagyok otthon. Hol egyik rokonnál, hol a</hi>
+               <hi>másiknál</hi>
+               <hi>elidőzöm, csak arra ügyelek, hogy ne egyek egynél se, mert az biz
                   számba jön. Ki-kiülünk a ligetbe a kocsikorzót nézni; fiam, itt az ember szeme
                   lakik jól; odalent meg még mindig sokat törődnek a gyomorral.</hi>
-               <hi rend="italic">Vasárnap</hi>
-               <hi rend="italic">kávéházba megyünk. Ezt se álmodja vidéki asszony, hogy el
+               <hi>Vasárnap</hi>
+               <hi>kávéházba megyünk. Ezt se álmodja vidéki asszony, hogy el
                   merjen</hi>
-               <hi rend="italic">menni, mint valami kaszinóba,</hi>
-               <hi rend="italic">asszonybarátaival</hi>
-               <hi rend="italic">egy kávéra, és harminc krajcárért sok habot,</hi>
-               <hi rend="italic">divatújságot, villanylámpát, jó meleget kap, három pincér szaladoz
+               <hi>menni, mint valami kaszinóba,</hi>
+               <hi>asszonybarátaival</hi>
+               <hi>egy kávéra, és harminc krajcárért sok habot,</hi>
+               <hi>divatújságot, villanylámpát, jó meleget kap, három pincér szaladoz
                   körülötte, és üvegablakon nézheti az utcát, ahol folyton-folyton jön-megy</hi>
-               <hi rend="italic">a sok</hi>
-               <hi rend="italic">ember, és kétszer se látod ugyanazt.</hi>
-               <hi rend="italic">Milyen</hi>
-               <hi rend="italic">érdekes kis regényeket lehet itt megfigyelni! Hát még mikor az
+               <hi>a sok</hi>
+               <hi>ember, és kétszer se látod ugyanazt.</hi>
+               <hi>Milyen</hi>
+               <hi>érdekes kis regényeket lehet itt megfigyelni! Hát még mikor az
                   ember otthoni ismerőst lát: megörül, meghálálkodik, kérdi: “Mit</hi>
-               <hi rend="italic">csináltok</hi>
-               <hi rend="italic">idefenn,</hi>
-               <hi rend="italic">lelkem?”</hi>
-               <hi rend="italic">- “Itt lakunk már</hi>
-               <hi rend="italic">fél esztendeje!” És mindig több-több. Te, a minap elébem áll a
+               <hi>csináltok</hi>
+               <hi>idefenn,</hi>
+               <hi>lelkem?”</hi>
+               <hi>- “Itt lakunk már</hi>
+               <hi>fél esztendeje!” És mindig több-több. Te, a minap elébem áll a
                   kőrút kellős közepén egy hórihorgas, őszes, rongyos ember, a hóna alatt csomó
                   újság: rám néz, elkacagja magát nagy</hi>
-               <hi rend="italic">örömmel, aztán ilyen rigmust mond:</hi>
+               <hi>örömmel, aztán ilyen rigmust mond:</hi>
             </p>
-            <p>Zimán Klári, aranyrózsa,</p>
-            <p> Fényes orcád hervadóba;</p>
-            <p> Tündöklésed hébe-hóba,</p>
-            <p> Elfizetted sors-adóba.</p>
-            <p> De meglátszik rosszba, jóba,</p>
-            <p> Hogy te rólad szól a nóta,</p>
-            <p> Én is érted, - most tudj róla,</p>
-            <p> Juhászkutya lettem vóna!</p>
+            <l>Zimán Klári, aranyrózsa,</l>
+            <l> Fényes orcád hervadóba;</l>
+            <l> Tündöklésed hébe-hóba,</l>
+            <l> Elfizetted sors-adóba.</l>
+            <l> De meglátszik rosszba, jóba,</l>
+            <l> Hogy te rólad szól a nóta,</l>
+            <l> Én is érted, - most tudj róla,</l>
+            <l> Juhászkutya lettem vóna!</l>
             <p>
-               <hi rend="italic">Képzeld csak, ki volt ez a vén</hi>
-               <hi rend="italic">bolond; hát Jánoska, a</hi>
-               <hi rend="italic">Széchy valahai inasa, aki a sok kaméliacsokrot hordta nekem ezelőtt
+               <hi>Képzeld csak, ki volt ez a vén</hi>
+               <hi>bolond; hát Jánoska, a</hi>
+               <hi>Széchy valahai inasa, aki a sok kaméliacsokrot hordta nekem ezelőtt
                   vagy harminc</hi>
-               <hi rend="italic">esztendővel. Az öreg itt</hi>
-               <hi rend="italic">újságárus,</hi>
-               <hi rend="italic">szocialista meg népköltő,</hi>
-               <hi rend="italic">Hazaffy János. Ilyen</hi>
-               <hi rend="italic">rigmusokból él; ezt</hi>
-               <hi rend="italic">mindjárt fel is írta nekem, markomba nyomta. Az utolsó öt
+               <hi>esztendővel. Az öreg itt</hi>
+               <hi>újságárus,</hi>
+               <hi>szocialista meg népköltő,</hi>
+               <hi>Hazaffy János. Ilyen</hi>
+               <hi>rigmusokból él; ezt</hi>
+               <hi>mindjárt fel is írta nekem, markomba nyomta. Az utolsó öt
                   forintomból adtam oda egyet, de úgy,</hi>
-               <hi rend="italic">mintha még sok vóna.</hi>
-               <hi rend="italic">Hát nézd el, rám ismert!... Ti mit csináltok?...</hi>
-               <hi rend="italic">Hogy van a Dini egész­sége?</hi>
-               <hi rend="italic">Marcsi meg Zsuzska járt itt tegnap, mondják, hogy rosszul.</hi>
-               <hi rend="italic">Te, csak az a nagy sor, hogy annak már tíz esztendeje van a
+               <hi>mintha még sok vóna.</hi>
+               <hi>Hát nézd el, rám ismert!... Ti mit csináltok?...</hi>
+               <hi>Hogy van a Dini egész­sége?</hi>
+               <hi>Marcsi meg Zsuzska járt itt tegnap, mondják, hogy rosszul.</hi>
+               <hi>Te, csak az a nagy sor, hogy annak már tíz esztendeje van a
                   megyénél, hát penzionálhatják, ha nem tud már dolgozni. Mint az én Péteremet.
                   Csakhogy akkor az asszony nem kap utána</hi>
-               <hi rend="italic">semmit, neked pedig nincs, mint nekem, ez a kicsi biztos.</hi>
-               <hi rend="italic">Mit</hi>
-               <hi rend="italic">csinálsz akkor, fiam?</hi>
-               <hi rend="italic">Csak imád­kozz, hogy ha már az Isten csakugyan el akarja venni, hát
+               <hi>semmit, neked pedig nincs, mint nekem, ez a kicsi biztos.</hi>
+               <hi>Mit</hi>
+               <hi>csinálsz akkor, fiam?</hi>
+               <hi>Csak imád­kozz, hogy ha már az Isten csakugyan el akarja venni, hát
                   inkább... bár ilyet vétek leírni, de imádságban ki lehet magyarázni. Hej, ha
                   egyszer te is feljöhetnél, összeköltöznénk egy jó kis</hi>
-               <hi rend="italic">lakásban, vígan élnénk, két független özvegy! Megérdemel az asszony
+               <hi>lakásban, vígan élnénk, két független özvegy! Megérdemel az asszony
                   is egy kis pihenőt, ha - mint mink - két férjet kiszolgált. Hát jobb</hi>
-               <hi rend="italic">fordulást,</hi>
-               <hi rend="italic">ég veled, ölel anyád.</hi>
+               <hi>fordulást,</hi>
+               <hi>ég veled, ölel anyád.</hi>
             </p>
             <p>
-               <hi rend="italic">Utóirat. Fiam, te! Azt a hét zsák mindenféle limlom könyvet, a
+               <hi>Utóirat. Fiam, te! Azt a hét zsák mindenféle limlom könyvet, a
                   szegény Péter uram örök­ségit, amit otthagytam nálatok a padláson, add oda mégis a
                   piaristák bibliotékájának. Két forintra mondták zsákját; az is valami! A boltos
                   csak ötven krajcárt ígért, mert az pakolni venné.</hi>
-               <hi rend="italic">Ölellek!</hi>
+               <hi>Ölellek!</hi>
             </p>
             <p>
-               <hi rend="italic">Anyád</hi>
+               <hi>Anyád</hi>
             </p>
             <p>Mama ilyen volt. Őt sehová, semmihez nem kötötte valami nagyon erős, széttéphetetlen
                szál, azért minden új helyzetbe könnyen és gyorsan beletalálta magát; a humoros,
@@ -5944,7 +5932,7 @@
                néha sajnálkozva vagy kicsinylőn említik: szégyellik, hogy a hatása alá kerültek,
                szentesdit játszottak.</p>
             <p>Énnálam másként volt a dolog. Akkor magam is riadva és megütődötten gondoltam el: hát
-               valóban lehetséges-e, hogy <hi rend="italic">ezzel</hi> érte el, hogy a férfiút
+               valóban lehetséges-e, hogy <hi>ezzel</hi> érte el, hogy a férfiút
                éreztük zenés szavai és vaskemény, izzó akarata mögött? Lehet, igen... tán én magam
                is! Már régen-régen túl voltam azon a koron... de nem olyan egyszerű a dolog, nem
                függ az oly világosan a testiektől, és nem lehet az érzéseknek olyan merész
@@ -5958,7 +5946,7 @@
                leányaim hazajöttek valami szün­időre, beszéltek, megmagyaráztak egyet-mást; Marcsi
                könyveket küld mostanában is sokszor; sokat olvastam, és rájöttem, hogy a világ egyéb
                megfejtései érdekesebbek és százfélék, bár szomorún céltalan, de szent, emberi küzdés
-               a tudomány. De a hit és rajongás <hi rend="italic">szép</hi> volt. Tán kár, hogy meg
+               a tudomány. De a hit és rajongás <hi>szép</hi> volt. Tán kár, hogy meg
                nem őrizhettem holtig azt a hangulatot; de bizonnyal nem volt bennem elég képzelet és
                odaadás ehhez; nem gyökérzett mélyen bennem. De a halálom előtt - ezt biztosan érzem
                - el fogok hívatni egy papot, és meggyónok. Mert ott már nincs mit okoskodni!...</p>

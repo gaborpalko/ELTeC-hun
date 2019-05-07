@@ -24,7 +24,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Szindbád</title>
                <date>2001-09-19</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -35,20 +35,25 @@
                   <name>Szabolcsi József</name>
                   <name>Pétery Kristóf</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>Szindbád</title>
                      <date>2001-09-19</date>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="printSource">
                      <title>Szindbád</title>
                      <author>Krúdy Gyula</author>
                      <publisher>Magyar Helikon</publisher>
                      <date>1973</date>
                   </bibl>
                </relatedItem>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>Francia kastély</title>
+               <author>Krúdy Gyula</author>
+               <date>1912</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -67,8 +72,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-14"/>
+         <change when="2018-04-23"/>
          <change when="2018-11-21"/>
+         <change when="2018-11-14"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -765,7 +771,7 @@
                      ahhoz, hogy beszálljak minden kedvemre való fogadóba, betérjek tetszetős
                      városokba. Néha írogatni is szoktam. Természetesen álnév alatt. Ez is hoz
                      valami pénzecskét a konyhára.</p>
-                  <p>- A színészek azt mondják, hogy<hi rend="italic">... </hi>hogy a levegőből
+                  <p>- A színészek azt mondják, hogy<hi>... </hi>hogy a levegőből
                      él.</p>
                   <p>- A színészek szeretnek rosszat mondani barátjukról. Vidám, könnyűszívű emberek
                      ők, és csupán egymásnak a gázsiját ismerik mértékadónak a világban, Kénytelen
@@ -1062,7 +1068,7 @@
                      vigasztal az a tudat, hogy nemcsak a báli közönség, de a zenekar tagjai és
                      szolgák valamennyien tudják, hogy Pálházi előkelő úr és gárdatiszt, bizony
                      százszor otthagytam volna tánc közben. Csak illegette-billegette magát, mint
-                     Kerékjártó, mikor Göndör Sándort játssza <hi rend="italic">A falu
+                     Kerékjártó, mikor Göndör Sándort játssza <hi>A falu
                      rosszá</hi>-ban. Az sem perdülne egyet, de még csak a táncosnőjére sem néz
                      valami udvariasan, amit az ember a táncosától legalábbis elvárhatna. Hogy a
                      derekához nyúljon a nőnek? Nyúl, nyúl, de bizony én másképpen tanultam a
@@ -1221,7 +1227,7 @@
                      hölgyek kedvessége mindig felejthetetlen leend, hisz meglehetősen bizalmas
                      barátnőim voltak. Ők ugyan csak kisvárosi asszonyok, akik nem sokat értenek a
                      művészet, divat és irodalom dolgaihoz, de vajon hol is tanulhatták volna!
-                     Elzárkózva, maguknak, magukért élnek a kis városban, és a <hi rend="italic"
+                     Elzárkózva, maguknak, magukért élnek a kis városban, és a <hi
                         >Képes Családi Lapok </hi>régi évfolyamaiból másolják a divatot. De azért
                      nagyon kedves, derék nők voltak, és én sok mulatságos percet köszönhetek nekik.
                      Habár, mondom, majdnem műveletlen nőknek merném őket nevezni.</p>
@@ -1237,7 +1243,7 @@
                      kárbaveszettnek látta volna.</p>
                   <p>- Én nem tudom, honnan is tudnám... De hát mégiscsak Pálházi áraszt el napok
                      óta a drágább­nál drágább virágcsokrokkal. Mi is megy ma este? (A karmantyúból
-                     aranyszélű lorgnett került elő.) Igen, a<hi rend="italic"> Suhanc. </hi>Már
+                     aranyszélű lorgnett került elő.) Igen, a<hi> Suhanc. </hi>Már
                      megint trikós szerep. Istenkém, csak a mi drága jó direktorunknak jönne már meg
                      egyszer az esze, és hagyna fel ezekkel a trikós-darabokkal. Szégyellem magam
                      minden áldott este trikóban mutogatni. Az embernek egyebet se hoz a posta, mint
@@ -1755,10 +1761,10 @@
                   <p>Három-négy lépést tett a szobában, aztán színpadi állásba helyezkedett.</p>
                   <p>- Hallgassa Júliát, kit játszani fogok.</p>
                   <p>
-                     <hi rend="italic">Már menni készülsz? Még nem is virrad? Nem a pacsirta volt,
+                     <hi>Már menni készülsz? Még nem is virrad? Nem a pacsirta volt,
                         ha</hi>
-                     <hi rend="italic">’</hi>
-                     <hi rend="italic"> fülemile, Félénk füled mitől megrezzene. Hidd el, szerelmem,
+                     <hi>’</hi>
+                     <hi> fülemile, Félénk füled mitől megrezzene. Hidd el, szerelmem,
                         csak fülemile.</hi>
                   </p>
                   <p>Szindbád nevetve ütötte össze a tenyerét.</p>
@@ -2025,9 +2031,9 @@
                   <p>- Rövidesen kitekerik az ellenzék nyakát! - mondta nagy szemhunyorgatással,
                      mintha féltve őrzött titkát közölte volna.</p>
                   <p>A hangulat emelkedésével egy többszörösen összehajtogatott papírdarabkát
-                     csúsztattak Szindbád kezébe. <hi rend="italic">“T. Uram! Kérek 73 krajcárt
+                     csúsztattak Szindbád kezébe. <hi>“T. Uram! Kérek 73 krajcárt
                         kölcsön holnapig. Híve Szomol... </hi>
-                     <hi rend="italic">”</hi>
+                     <hi>”</hi>
                   </p>
                   <p>A bagolyfejű szerkesztő azonban a vérvörös képű komikussal vitázott régi,
                      elmúlt színészek­ről, a tréfát tehát valamelyik nihilista követte el.</p>
@@ -2136,7 +2142,7 @@
                      vagyok.</p>
                   <p>A sürgönyt Alexandriában adták föl. Tartalma ez volt:</p>
                   <p>
-                     <hi rend="italic">“Köszönöm értesítéseit. Ügyvédemnél intézkedtem. P. F.”</hi>
+                     <hi>“Köszönöm értesítéseit. Ügyvédemnél intézkedtem. P. F.”</hi>
                   </p>
                   <p>Szindbád elgondolkozva nézett maga elé.</p>
                   <p>- Neked tudnod kell, hogy ki a P. F. Én csak egy népdalköltő vagyok, de még én
@@ -2153,7 +2159,7 @@
                      érdemelne a furcsa csodadoktor, ha ugyan Szindbád föl tudna melegedni
                      irányában. De másnap nem gondolt többé doktor Corvinuszra sem Szindbád, mert az
                      utcán, a hirdetőoszlopokon, a színház első és hátsó kapuján megjelentek a zöld
-                     színlapok: <hi rend="italic">Rómeó és Júlia Shakespeare-től. Rómeó: Kisfalvi,
+                     színlapok: <hi>Rómeó és Júlia Shakespeare-től. Rómeó: Kisfalvi,
                         Júlia: xxx.</hi> A helybeli harsonákat pedig számtalanszor elolvasta
                      Szindbád a cukrászboltban, a függöny mögé rejtőzve, ahol a hírlapírók olyan
                      körülményesen leírták a kiváló és szenzációs föllépést, mintha az valóban
@@ -3062,12 +3068,12 @@
                   <p>Ebben a pillanatban meleg cseppet érzett Szindbád a szemhéján.</p>
                   <p> Délután a pamlagon szundikált. Hordár kopogtatott ajtaján. Levelet hozott:</p>
                   <p>
-                     <hi rend="italic">“Köszönöm. G. és az anyja még a déli vonattal hazautaztak a
+                     <hi>“Köszönöm. G. és az anyja még a déli vonattal hazautaztak a
                         régi házba. P. megbocsátott. Marad minden a régiben. Én most utazom. - Ha a
                         gyereket fölneveltem, akkor értem jöhet. De addig nem.</hi>
                   </p>
                   <p>
-                     <hi rend="italic">Mariett”</hi>
+                     <hi>Mariett”</hi>
                   </p>
                   <p>És ezután Szindbád, ha a kis fehér foltra nézett a tükörből homlokára, gyakran
                      hosszú ideig lehajtotta a fejét, és mindenféle dolgát elmulasztotta volna,
