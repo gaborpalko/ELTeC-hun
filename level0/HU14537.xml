@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Szeptember: Regény</title>
                <date>2015-10-07</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -34,8 +34,8 @@
                   <name>Erdélyi Zsolt</name>
                   <name>Mészáros Atilla</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>Szeptember : regény</title>
                      <author>Ambrus Zoltán</author>
                      <pubPlace>Budapest</pubPlace>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2019-04-23"/>
          <change when="2018-10-03"/>
       </revisionDesc>
    </teiHeader>

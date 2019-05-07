@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Páratlan szerdák :  Regény </title>
                <date>2014-04-02</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -34,16 +34,27 @@
                   <name>Erdélyi Zsolt</name>
                   <name>Uri-Kovács József</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>Páratlan szerdák :  Regény </title>
                      <date>2014-04-02</date>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>Páratlan szerdák : regény / Szomaházy István;Budapest : Singer-Wolfner, 1911<ref target="http://nektar.oszk.hu/hu/manifestation/2994651"/>
+               <relatedItem type="source">
+                  <bibl type="printSource">
+                     <title>Páratlan szerdák : regény</title>
+                     <author>Szomaházy István</author>
+                     <pubPlace>Budapest</pubPlace>
+                     <publisher>Singer-Wolfner</publisher>
+                     <date>1911</date>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/2994651"/>
                   </bibl>
                </relatedItem>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>Páratlan szerdák</title>
+               <author>Szomaházy István</author>
+               <date>1900</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -62,8 +73,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-19"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-19"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -347,9 +359,8 @@
                az íróasztala előtt és kék szemét az övébe mélyesztve, egyszerűen így szólott
                hozzá:</p>
             <p>- Követni fogom, amikor maga jónak látja...</p>
-            <p>A levelek alá ez a név volt írva: <hi rend="italic">Ginevra</hi>. Ő nevezte el így;
-               valami különös képzelődés azt hitette el vele, hogy csak a hideg, fehér, előkelő <hi
-                  rend="italic">Ginevra </hi>név lenne méltó a finomlelkű kis­asszonyhoz. Fejér
+            <p>A levelek alá ez a név volt írva: <hi>Ginevra</hi>. Ő nevezte el így;
+               valami különös képzelődés azt hitette el vele, hogy csak a hideg, fehér, előkelő <hi>Ginevra </hi>név lenne méltó a finomlelkű kis­asszonyhoz. Fejér
                sokáig nézte az aláirás hét betüjét és aztán így sóhajtott föl keservesen:</p>
             <p>- Egy idegent kapcsoltam magamhoz az egész életre, míg ő, aki lélekben mindig az
                enyém volt, a más karjában keresi hiába a boldogságot...</p>
@@ -371,9 +382,8 @@
             <p>- Férj vagyok!</p>
             <p>Megcsípte a karját: fájt. Tehát komolyan ébren volt. Fejér jóízűen elnevette magát;
                oly külö­nösnek tetszett előtte, hogy ő immár a rendes adófizetők, a haza komoly
-               polgárai közt foglal helyet s a társaságban így szólhat az emberekhez: a <hi
-                  rend="italic">feleségem </hi>ma odabenn járt a belváros­ban... a <hi rend="italic"
-                  >feleségem </hi>figyelmeztetett rá... a <hi rend="italic">feleségem </hi>meglepett
+               polgárai közt foglal helyet s a társaságban így szólhat az emberekhez: a <hi>feleségem </hi>ma odabenn járt a belváros­ban... a <hi
+                  >feleségem </hi>figyelmeztetett rá... a <hi>feleségem </hi>meglepett
                egy szivaros tárcával... És végig­néz­vén a vörös pongyolán, mely szolgálatkészen
                várta a parancsait, Fejér lomhán azt gon­dolta:</p>
             <p>- Mégis csak szép dolog a házasélet, melyben a komoly férfiut ily előzékenyen
@@ -620,8 +630,7 @@
                jövedelmet dug zsebre, Kalmár Sámuel pedig, a hires védő, aki egy Bogdanich-lánytól
                (Bogdanich Margittól) vált el két esztendővel ezelőtt, a felesége ötvenezer forintnyi
                hozományát megduplázva küldte vissza, ezzel a rövid levélkével:</p>
-            <p>„...A saját pénzén kivül az enyémből is küldök néhány forintot, egy úgynevezett <hi
-                  rend="italic">ibolya-alapítványt</hi>, amelyből a mindennapi ibolya-bukétáit
+            <p>„...A saját pénzén kivül az enyémből is küldök néhány forintot, egy úgynevezett <hi>ibolya-alapítványt</hi>, amelyből a mindennapi ibolya-bukétáit
                megvegye...”</p>
             <p>- Csak nem képzeli, - mondta Fejér kissé bosszusan, - hogy ezeknek olyan ebédet
                tálaltatok, aminőt a maga Dóra nénije szokott, mikor vendégeket hiv vasárnapra? Még
@@ -681,11 +690,10 @@
                elégültséggel gondolta:</p>
             <p>- Azt hiszem, irigylik tőlem egy kicsit az aranyszőke cukorbabát...</p>
             <p>- Nagyságos asszonyom, - mondta Szerdahelyi doktor (az a cigarettázó nápolyi siheder,
-               aki a trumeau márványlapján ült, gúnyosan elfintorította a száját a <hi rend="italic"
+               aki a trumeau márványlapján ült, gúnyosan elfintorította a száját a <hi
                   >nagyságos asszonyom </hi>hallatára) - a rágalmazást általában nem igen számítják
                a legkiválóbb erények közé, de én azt tartom, hogy csak a becstelen férfiak mondanak
-               jókat a barátaik felől... Én - ha ugyan jól emlékszem - az elemi iskola második <hi
-                  rend="italic">b) </hi>osztályában beszéltem utoljára jót a barátaimról s így most
+               jókat a barátaik felől... Én - ha ugyan jól emlékszem - az elemi iskola második <hi>b) </hi>osztályában beszéltem utoljára jót a barátaimról s így most
                bizo­nyos lelki nyugalommal állíthatom, hogy tisztelt férje, aki mellesleg szólva a
                század egyik legelső betörője, nem igen érdemelte meg a Sors ő Felségétől, hogy ilyen
                fejedelmileg gon­doskodjék róla...</p>
@@ -787,7 +795,7 @@
                életet hasonlíthatlan mulatságnak tartja, sohasem foglalkozik a Schopenhauer
                problémáival, a paprikáscsirkét többre becsüli, mint az egész plein air-iskolát, s az
                élet minden lehetőségére készen tart egy-egy alkalmas anekdotát.</p>
-            <p>- Nem szaladnánk át egy <hi rend="italic">stehkriglire</hi>? - kérdezte később Vámos
+            <p>- Nem szaladnánk át egy <hi>stehkriglire</hi>? - kérdezte később Vámos
                doktor, aki őszinte hálát érzett azért, hogy Fejér az adomáját megkacagta.</p>
             <p>Csevegve mentek át a Nádor-utca kocsiútján a szemközt lévő kis kurtakocsmába, ahol a
                kör­nyék fiakkeresei és komfortáblisai szokták eltölteni a pihenés óráit. Bizalmasan,
@@ -818,7 +826,7 @@
             <p>- Tetszik neked ez a tárca? - kérdezte Vámos doktor.</p>
             <p>- Nagyon csinos.</p>
             <p>- Tegnap este kaptam a feleségemtől. Születésnapi meglepetésül kaptam, pedig én
-               jóformán el is felejtettem, hogy <hi rend="italic">anno dazumal </hi>januárban
+               jóformán el is felejtettem, hogy <hi>anno dazumal </hi>januárban
                boldogítottam a világot. De az asszony nem felejti el az ilyesmit. Klára a
                konyhapénzéből spórolta össze a szükséges huszonöt pengőt...</p>
             <p>Dicsekedve nyujtotta oda szattyánbőr-tárcáját, melynek felső sarkát gyönyörű
@@ -855,8 +863,8 @@
             <p>- Hát mit érdekli ez magát annyira? - kérdezte a vén ember mormogva.</p>
             <p>Fejér most egészen odahajolt a Kaufmann bá’ füléhez:</p>
             <p>- Mit érdekel? Vámos doktor Véninger Klára kisasszonyt vette feleségül, Ginevrát, az
-               én Ginevrámat, hiszen tudja. Vőlegény korában <hi rend="italic">Kreil</hi>-nek vagy
-                  <hi rend="italic">Kreit</hi>-nek hivták s csak azóta magya­rosította Vámos-ra a
+               én Ginevrámat, hiszen tudja. Vőlegény korában <hi>Kreil</hi>-nek vagy
+                  <hi>Kreit</hi>-nek hivták s csak azóta magya­rosította Vámos-ra a
                nevét. És én öt hét óta bizalmas barátságba keveredtem vele, anélkül, hogy e felől
                tudtam volna valamit...</p>
             <p>Az öreg Kaufmann most letette a postakönyvet, föltolta pápaszemét a homlokára, aztán
@@ -946,7 +954,7 @@
                reszketett. Vámos doktor azonban, aki mindebből semmit sem vett észre, vidáman ágálni
                kezdett körülöttük:</p>
             <p>- Szervusz... Kezét csókolom, nagyságos asszony... Grossnétól jönnek, ugy-e, a
-               szegény férjek rémétől<hi rend="italic">?... </hi>Már megint valami új fazon... mert
+               szegény férjek rémétől<hi>?... </hi>Már megint valami új fazon... mert
                a tegnapi fazon ma reggel nyolc óra tíz perckor végképpen kiment a divatból...
                Sapperlot... majdnem elfelejtem... Fejér László a hivatalbéli kollégám... Kádárné
                úrnő és a tisztelt nőm ő nagysága...</p>
@@ -1043,7 +1051,7 @@
                volt, csakhamar nagyszerű társaság gyülekezett össze a mérleg-utcai bérházban.</p>
             <p>A Kádár-féle zsúrok hírnevét tulajdonképpen két előkelő celebritás alkotta meg: Papp
                Arzén, a kabinetiroda híres magyar tanácsosa, aki Kádárnénak apai nagybátyja volt
-               (Kádárné is a <hi rend="italic">katolnavölgyi </hi>Papp-családból származott) és
+               (Kádárné is a <hi>katolnavölgyi </hi>Papp-családból származott) és
                katolnavölgyi Papp György, a magyar érzel­meiről híres altábornagy, aki a gömöri
                hadgyakorlaton oly fényesen kitüntette magát. Papp Arzén, ha a páratlan szerdákon
                véletlenül Budapesten tartózkodott, mindig fölnézett a hugához egy csésze teára és az
@@ -1052,7 +1060,7 @@
                altábornagy, a budapesti társaság legkiválóbb alakjait odavonzották a mérleg-utcai
                palotába és a kaszinók, a színházak, a politikai élet sok notabilitása feljött, hogy
                egy-egy negyedórát el­trécseljen.</p>
-            <p>A Kádárné unokahugai (a <hi rend="italic">leányaim</hi>, mondta kacérul) vállas
+            <p>A Kádárné unokahugai (a <hi>leányaim</hi>, mondta kacérul) vállas
                kötényekben sürögtek-forogtak a teaasztal körül, a leányoknak pedig az aranyifjúság
                legkiválóbb gavallérjai udvaroltak. Néha hirtelen fölszedték a szőnyegeket és pompás
                táncmulatságot rögtönöztek, néha a legbájosabb dilettáns szinésznőket tapsolták meg a
@@ -1077,7 +1085,7 @@
                Fejér, akit mindig felvillanyozott az, ha a társadalom hatal­ma­sai kitüntették,
                jókedvüen vegyült el a tömegbe s farkasétvággyal megevett néhány sandwichet. Később
                udvarolni kezdett a Kádárné unokahugainak s lelkesülten megtapsolta azt a fiatal
-               asszonyt, aki <hi rend="italic">Si vous n’avez rien a me dire </hi>némileg ismeretes
+               asszonyt, aki <hi>Si vous n’avez rien a me dire </hi>némileg ismeretes
                áriáját énekelte... Mikor félóra múlva visszatért a nagy szalonba, megdöbbentő dolgot
                látott: Kata asszony élénken csevegve ült Vámos doktornéval egy sarokban...</p>
             <p>Kata asszony mosolyogva beszélt, Klára pedig jóindulattal hallgatta. Oly intimus
@@ -1280,7 +1288,7 @@
                se vesz észre... És még talán álmában se’ jut eszébe, hogy arra a másikra féltékeny
                legyen...</p>
             <p>Már a böjtben volt, március elején, hogy a Kádárék kis udvara pikniket rendezett a
-                  <hi rend="italic">Hungáriá</hi>-ban. A páratlan szerdáknak jóformán minden vendége
+                  <hi>Hungáriá</hi>-ban. A páratlan szerdáknak jóformán minden vendége
                ott volt a mulatságon, az udvari tanácsos is fölnézett egy negyedórára, a fiatal
                emberek pedig kitünő huszártiszteket hoztak, akik még nem irtóztak elvileg a
                táncolástól. Radics Béla itt játszotta először az Ella-keringőt és a
@@ -1546,7 +1554,7 @@
                sógornőjét avatta be a magyar csárdás titkaiba, idegesen ráütött a hegedűre.</p>
             <p>- A cicát húzd, - mondta kissé kapatosan - egy hétig, két hétig, száz hétig mindig
                csak a cicát...</p>
-            <p>Fejér elsápadt a dühtől, a cigány pedig az <hi rend="italic">Egy cica, két cica, száz
+            <p>Fejér elsápadt a dühtől, a cigány pedig az <hi>Egy cica, két cica, száz
                   cica, haj </hi>népszerű dalla­mába fogott. Az affér ekkor látszólag véget ért, de
                később, mikor a társaság fölkerekedett az asztal mellől, méltatlan folytatása lett.
                Fejér a folyosón cigarettázott, Vámos doktorné pedig a női ruhatárban igazgatta az
@@ -1758,8 +1766,7 @@
             <p>Az évad utolsó szerdájára Kádárné kedves mulatságot eszelt ki; műkedvelő
                szinielőadást rendezett mérleg-utcai szalonjában s a nyári oszlás előtt a társaság
                összes tagjait még egyszer összegyűjtötte magánál. A jó Isten tudja, kinek jutott
-               eszébe az ötlet, hogy a párisi szalon-gaminség legpompásabb termékét, a Sardou <hi
-                  rend="italic">Váljunk el </hi>című darabját adják elő, annyi bizo­nyos, hogy Klára
+               eszébe az ötlet, hogy a párisi szalon-gaminség legpompásabb termékét, a Sardou <hi>Váljunk el </hi>című darabját adják elő, annyi bizo­nyos, hogy Klára
                asszony tanulta be a Cyprienne szerepét és Fejér úr vállalkozott des Prunelles úrra,
                a ravasz és emberismerő férjre, aki oly ügyesen visszahódítja a feleségét... Vámos
                doktor egy ideig görcsösen ragaszkodott ahhoz a gondolathoz, hogy Adhemárt, a gaz
@@ -1909,7 +1916,7 @@
             <p>Szerdahelyi doktornak jutott eszébe az az ötlet, hogy május elsejét, vidéki szokás
                szerint, kirándulással kellene megünnepelni a hajnali órákban... Nagy társaság gyűlt
                egybe, a Kádárné unokahugai nyáriasan kiöltözködtek, az aranyifjúság ébren töltötte
-               az éjet, hogy hajnalban pontosan fölébredjen és az öreg <hi rend="italic"
+               az éjet, hogy hajnalban pontosan fölébredjen és az öreg <hi
                >Hattyu</hi>-t, a dunai propellert, lármás sokaság özönlötte el...</p>
             <p>Vámos doktorné szintén ott volt a kirándulók között és Fejér is élénken
                sürgött-forgott a férfiak sorában, fonott konyakos üvegét kínálgatva.</p>
@@ -2002,10 +2009,10 @@
                kiállítás képei iránt, szintén odadugta a cvikkerét.</p>
             <p>Vámos doktor különös dolgot láthatott, mert egyszerre jóízűen elnevette magát:</p>
             <p>- Nézze csak, szólott vidáman a feleségéhez, - valaki milyen bolondos figyelmeztetést
-               írt ide a <hi rend="italic">Firle Walter </hi>képe mellé...</p>
+               írt ide a <hi>Firle Walter </hi>képe mellé...</p>
             <p>Fejér, aki a Klára asszony másik oldalán ült, szintén belenézett az ujságba, ahol a
                következő szavak állottak:</p>
-            <p>„Olvassa el holnap reggel a <hi rend="italic">Szabad Hirlap </hi>kishirdetéseit.”</p>
+            <p>„Olvassa el holnap reggel a <hi>Szabad Hirlap </hi>kishirdetéseit.”</p>
             <p>- Kinek szól ez? - kérdezte Vámos doktor kiváncsian.</p>
             <p>Fejér, aki gyakorlott róka létére jól ismerte az efajta figyelmeztetéseket,
                megbotránkozva nézett a szomszéd asztalok felé, úgy annyira, hogy a gyanutlan Vámos
@@ -2068,8 +2075,7 @@
             <p>Fejérék, akik most már ismét mindennap összetalálkoztak Vámos doktorékkal, eleintén a
                kárpáti fenyvesekre gondoltak (az orvosok hegyi levegőt ajánlottak a gyöngélkedő Kata
                asszonynak), de később hirtelen egyébre szánták magukat: a két család egyértelmüleg
-               elhatá­roz­ta, hogy Balatonfüreden közös nyaralót bérel, még pedig a Kaufmann bá’ <hi
-                  rend="italic">Veronika-nyaraló</hi>-ját, melyet a vén medve - mint váratlanul
+               elhatá­roz­ta, hogy Balatonfüreden közös nyaralót bérel, még pedig a Kaufmann bá’ <hi>Veronika-nyaraló</hi>-ját, melyet a vén medve - mint váratlanul
                kiderült - nagynénjétől, az öreg Weber Veronikától örökölt, aki teljes harmincöt
                esztendőn át volt egy veszprémi kanonok gazd­asszonya. A dolog igen különösen
                tudódott ki: Fejér egy elterjedt napilap kishirdetései között azt olvasta, hogy
@@ -2202,7 +2208,7 @@
                meg­kapta a Klára asszony kezét.</p>
             <p>- Akarja, hogy elmenjünk? - szólott lihegve, szenvedélyesen, majdnem magánkívül,
                abban a mámorban, mely a Klára asszony látására elfogta. - Mondja meg egyenesen és
-               őszintén: akarja <hi rend="italic">maga</hi>, hogy a Balatonhoz menjünk?</p>
+               őszintén: akarja <hi>maga</hi>, hogy a Balatonhoz menjünk?</p>
             <p>Kata már fogta odakinn az ajtó kilincsét, de Klárának még volt annyi ideje, hogy így
                szóljon:</p>
             <p>- Igen.</p>
@@ -2245,7 +2251,7 @@
                arany­forrást fedezett volna föl a Balaton partján.</p>
             <p>- Miféle alsós? - kérdezte a szórakozott Fejér.</p>
             <p>- Hát alsós kaláber, a teremburáját! Annyi itt a budapesti, mint a sáska. Tegnap két
-                  <hi rend="italic">vannak</hi>-omvolt a Kárász igazgató <hi rend="italic">kvárt ász
+                  <hi>vannak</hi>-omvolt a Kárász igazgató <hi>kvárt ász
                   bélá</hi>-ja és kilencese ellen...</p>
             <p>Vámos doktor széles ecsetkezeléssel mesélte el kártyabeli odüsszeáit, a hajó pedig
                szerencsé­sen kikötött a balatonfüredi partokon. Az éjszakai sötétben az egész
@@ -2258,7 +2264,7 @@
                szép asszo­nyokat illeti...</p>
             <p>Fejéréket pompás vacsora várta a nyaraló verandáján; a zöld lugasok közt üvegburás
                kerti lámpák égtek, különös szunyogok hangversenyeztek a vacsorázó asztal fölött, a
-               lombok közül idelátszott a <hi rend="italic">Kelén </hi>zöld hajólámpája, mely lassan
+               lombok közül idelátszott a <hi>Kelén </hi>zöld hajólámpája, mely lassan
                közeledett Révfülöp felől a homályos víztükrön. Édes nyári éjszaka volt,
                csillagsugáros, világos éjszaka, mikor a poéták szerint fehér­ruhás tündérkirálynők
                járnak a berkekben és csalitokban... Fejér álmodozva szívta magá­ba a lombok májusi
@@ -2411,8 +2417,7 @@
          <div type="chapter">
             <head>XI.</head>
             <p>Míg az asszonyok búbánatos szívvel sétáltak a savanyúvizes kút körül, a két férj
-               megható közösségben élt a nyári verőfényben úszó Budapesten. Délben az <hi
-                  rend="italic">Angol királynő</hi>-benebédel­tek - Vámos doktor közbámulatot
+               megható közösségben élt a nyári verőfényben úszó Budapesten. Délben az <hi>Angol királynő</hi>-benebédel­tek - Vámos doktor közbámulatot
                keltett a szalmaözvegyek asztalánál csodálatos gourmetsé­gé­vel és étvágyával - este
                pedig kalandos kis kocsmákban ették a rántott csirkét és a fejes salátát. Fejér
                pompásan érezte magát, újra bele szokott a garzonéletbe, virágokat küldött egy
@@ -2567,9 +2572,9 @@
                míg Vámos doktor a férjek szombat délutáni vonatával boldogan leutazhatott a Balaton
                mellé, ő szombaton és vasárnap is ott görnyedt az elhagyott irodában. Úgy volt, hogy
                hétfő hajnalig sürgősen dolgozni fognak a szindikátus ügyében, de a jó Isten
-               váratlanul megkönyörült rajta: a vezérigazgatót a bécsi <hi rend="italic"
+               váratlanul megkönyörült rajta: a vezérigazgatót a bécsi <hi
                   >Creditanstalt </hi>elnöke vasárnap délben táviratilag arról értesítette, hogy
-               vacsorára az <hi rend="italic">Imperial</hi>-ban várakozik rá. A vezérigazgató tehát
+               vacsorára az <hi>Imperial</hi>-ban várakozik rá. A vezérigazgató tehát
                félretétette a szindikátus ügyeit, s míg a gérokkját sietve magára öltötte, így
                szólott a bánatos Fejérhez:</p>
             <p>- Tudja mit? Utazzék el délután a kis feleségéhez és maradjon ott Isten nevében
@@ -2605,7 +2610,7 @@
                nézte: Ischl arról volt nevezetes előtte, hogy ott egy ülőhelyében négyszáz forintot
                veszített, a semmeringi hegyi pálya ama feledhetetlen délutánt idézte föl
                emlékezetében, mikor a kupéban kvart király atout-ra vesztette el a bemondott
-               bélakasszát, velencei emlékei között pedig kétségtelenül az a <hi rend="italic"
+               bélakasszát, velencei emlékei között pedig kétségtelenül az a <hi
                   >vannak</hi>-os kontra volt a legerősebb, mikor négy felsőt és négy királyt
                mondott be a fölvevő kvintje ellen... Vámos doktor lelkesült és elérzékenyedett,
                elcsüggedt és gyerek módjára izgatott lett, mikor a kalábriász viszontagságait szóba
@@ -2623,24 +2628,24 @@
             <p>A doktor egy számolócédulát kért a főpincértől s ceruzájával a következő sorokat írta
                rá:</p>
             <p>
-               <hi rend="italic">„Északi szélesség 37° Keleti hosszúság 112° Székesfehérvári
+               <hi>„Északi szélesség 37° Keleti hosszúság 112° Székesfehérvári
                   pályaudvar.</hi>
             </p>
             <p>
-               <hi rend="italic">Míg én tovarobogok Babylon felé, szegény cicuskám elhagyottan
+               <hi>Míg én tovarobogok Babylon felé, szegény cicuskám elhagyottan
                   hajtja fejecskéjét álomra... Pá, aludj jól és álmodj egész a reggeli
                   térzenéig</hi>
             </p>
             <p>
-               <hi rend="italic">a föld legszomorúbb szalmaözvegyéről.”</hi>
+               <hi>a föld legszomorúbb szalmaözvegyéről.”</hi>
             </p>
             <p>- Ha meggondolom, - mondta Vámos szomorúan - hogy Klára rólam fog álmodni, míg én a
-                  <hi rend="italic">Redut</hi>-kávéházban kártyázom...</p>
+                  <hi>Redut</hi>-kávéházban kártyázom...</p>
             <p>Nem fejezte be a mondatot, hanem szemében egy könnyet morzsolva szét, sietve
                fölugrott a budapesti vonatra, amelynek már másodikat csöngettek... Bánata azonban
                csakhamar el­oszlott, mert a másodosztályú kupéban szerencsésen fölfedezte Friedmann
                urat és Varga urat, a magyar állam legkiválóbb kalábristáit...</p>
-            <p>Késő este volt, mikor a Fejér vonata Siófokra érkezett. A <hi rend="italic">Kelén
+            <p>Késő este volt, mikor a Fejér vonata Siófokra érkezett. A <hi>Kelén
                </hi>födélzetén nem igen talált ismerősre - a férjek a szombatesti hajóval utaznak -
                és az elkésett szalmaözvegy jóformán egészen egyedül szivarozgatott a zöld hajólámpa
                mellett. A füredi parton is csak a szállodák bérszolgái és szobaleányai vihogtak, a
@@ -2906,7 +2911,7 @@
                darabig szó nélkül nézte a fázósan összehúzódó fiatal embert, majd hirtelen
                megszólalt:</p>
             <p>- Fejér úr, - mondta gúnyosan, keserűen - hát még mindig azt hiszi, hogy maga
-               becsületes ember?<hi rend="italic">... </hi>Persze, a klubjában ezentúl is annak
+               becsületes ember?<hi>... </hi>Persze, a klubjában ezentúl is annak
                tartják, hiszen sohasem vétett, ugy-e, a lova­giasság szabályai ellen?... De ha engem
                kérdezne valaki, én habozás nélkül kimondanám...</p>
             <p>A hangja erősebbé, érdesebbé lett, és a vén ember most már haragosan folytatta:</p>
@@ -3072,7 +3077,7 @@
             <p>- Hát mit szól hozzá?</p>
             <p>- Hála Isten, magához hasonlít... A szeme, az ajaka egészen a magáé... Az édes
                apjából úgy­szólván semmi sincs benne...</p>
-            <p>- Miért mondja, hogy <hi rend="italic">hála Isten</hi>? - kérdezte Katácska
+            <p>- Miért mondja, hogy <hi>hála Isten</hi>? - kérdezte Katácska
                csodálkozva.</p>
             <p>- Eszem ágában sem volt, hogy ilyet mondjak! - szólott Kaufmann bá’ furfangosan.</p>
             <p>Fejér időközben szintén hazaérkezett és mivel a dolgozószoba, Istennek hála, már
@@ -3143,7 +3148,7 @@
                az enyém se bírja ki sokáig... Nem írok többet... értsen meg... Isten vele, Isten
                vele, örökre!...</p>
             <p>
-               <hi rend="italic">K.</hi>”</p>
+               <hi>K.</hi>”</p>
             <p>Kaufmann bá’ erőtlenül bocsátotta le karját, egy pillantást vetett a sápadt
                Katácskára, aztán rettentő, szinte félelmetes erővel gyűrte össze az iszonyatos
                levelet.</p>
@@ -3198,13 +3203,13 @@
             <p>- Tudja, hogy ki írta?... Klára... Vámos doktorné... a legjobb barátnőm...</p>
             <p>Kaufmann bá’ helyeslőleg bólintott:</p>
             <p>- Persze, hogy ő, az írás kétségtelenül az övé... De ami a fogalmazást illeti, már
-               csak legyünk igazságosak és ne fosszuk meg a szegény <hi rend="italic"
+               csak legyünk igazságosak és ne fosszuk meg a szegény <hi
                   >Peyrebrunne</hi>-t attól, ami jog szerint megilleti. Vámos doktorné nem szerzője,
-               hanem csak fordítója a <hi rend="italic">Peyrebrunne </hi>regényének...</p>
+               hanem csak fordítója a <hi>Peyrebrunne </hi>regényének...</p>
             <p>Katácska csodálkozva nézett föl könnyei közül, de Kaufmann bá’ nevetve folytatta:</p>
             <p>- Hát nem tudja? Vámos doktorné nagy titokban regényt fordított egy elterjedt
                napilapnak, mert makacsul fejébe vette, hogy az idén a saját keresetéből készítteti
-               el a téli kosztümjét. A <hi rend="italic">Vengeance de femme</hi>-t fordította s a
+               el a téli kosztümjét. A <hi>Vengeance de femme</hi>-t fordította s a
                második fejezetét még hónapok előtt átadta Fejér úrnak bírálat végett. Persze, Fejér
                úr, szokása szerint, a zsebében felejtette a szerencsétlen kéziratot...</p>
             <p>Fejér, aki addig szó nélkül támaszkodott a falnak, most egyszerre örvendve
@@ -3318,7 +3323,7 @@
                Klárám... Az én kis barátnőm szorgalmasan tanulta a fizikát és minden szívbe örömet
                és vidámságot csöpögtetett, mert kedves és illatos volt, mint a májusi gyöngyvirág..,
                hogy volnál te az egykori Klára, a jó, szelid, engedelmes és kötelességtudó
-                  gyermek?<hi rend="italic">... </hi>Te egy szegény, beteg asszony vagy, aki a bűn
+                  gyermek?<hi>... </hi>Te egy szegény, beteg asszony vagy, aki a bűn
                és a gonoszság útjára tévedtél...</p>
             <p>Klára fuldokló zokogásba tört ki és esdekelve szólott:</p>
             <p>- Nem vagyok gonosz, nem vagyok bűnös, - csak gyöngébb vagyok, semhogy egész földi

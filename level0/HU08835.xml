@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Az elvált asszony</title>
                <date>2010-11-08</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -32,16 +32,16 @@
                   <resp>Original Electronic Edition</resp>
                   <name>Varjú Mária</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>Az elvált asszony</title>
                      <name>Kindlevarázs </name>
                      <date>2010-11-08</date>
                      <ref target="http://kindlevarazs.wordpress.com/kindle-teka/"/>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>A nagy színjáték</title>
                      <author>Szomaházy István</author>
                      <pubPlace>Budapest</pubPlace>
@@ -69,8 +69,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-18"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-18"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -639,7 +640,7 @@
                esztétiká­jába beavatta volna s hogy mindeddig még kivételképp se fordult meg előkelő
                étteremben. Tanuló-éveiben örülhetett, ha a mindennapi kenyeret nem kellett
                nélkülöznie, később - miután a mezővárosban ügyvédképp letelepedett - naponként
-               eljárt az <hi rend="italic">Aranykoroná</hi>-ba, de ott igazán nem törődtek afféle
+               eljárt az <hi>Aranykoroná</hi>-ba, de ott igazán nem törődtek afféle
                csekélységekkel, hogy az evőeszközöket nyugat-európai szabályok szerint használják. A
                kis falusi fiskális úgy evett, ahogy jólesett neki, s alkalmasint lenézte és
                ki­nevette volna azokat a majmokat, akik még e szükséges élettani műveleteket is léha
@@ -1499,7 +1500,7 @@
             <p>Tehát viszontlátásra a sajó-eörsi kastély terraszán, ahol falusi ártatlanságnak
                öltözködve, türelmetlenül vár magára -</p>
             <p>
-               <hi rend="italic">Masa</hi>”.</p>
+               <hi>Masa</hi>”.</p>
             <p>Saáry Géza, - aki engedelmesen mértéket vétetett egy új smokingra, - ötödikén délben
                csak­ugyan helyet foglalt a Sajó-Eörs felé induló gyorsvonaton, s miután ötödfél
                óráig hasztalanul törte a fejét azon a problémán, hogy mit fog csinálni, ha
@@ -1781,53 +1782,53 @@
                fejjel ült a kandalló mellett, s egyáltalában nem vett tudomást arról, hogy álmai
                fölött egy édes kis női lény virraszt...</p>
             <p>
-               <hi rend="italic">Masa (lábujjhegyen lopózkodik az asztalhoz, s mialatt két fürt
+               <hi>Masa (lábujjhegyen lopózkodik az asztalhoz, s mialatt két fürt
                   szőlőt s egy liliputi sandwichet elfogyaszt, szinte anyai gyöngédséggel nézi a
                   békésen szendergő fiatal urat. Saáry végre, a delejes pillantás hatása alatt,
                   lassan fölnyitja a szemét).</hi>
             </p>
             <p>
-               <hi rend="italic">Saáry (zavartan)</hi>: No de ilyet! Szavamra mondom, hogy tíz
+               <hi>Saáry (zavartan)</hi>: No de ilyet! Szavamra mondom, hogy tíz
                másodperccel ezelőtt még ébren voltam...</p>
             <p>
-               <hi rend="italic">Masa</hi>: Oly édesen aludt, mint egy pólyásbaba a dadája
+               <hi>Masa</hi>: Oly édesen aludt, mint egy pólyásbaba a dadája
                ölében!</p>
             <p>
-               <hi rend="italic">Saáry</hi>: Tulajdonképp nem is aludtam, csak mélyen elmerültem a
+               <hi>Saáry</hi>: Tulajdonképp nem is aludtam, csak mélyen elmerültem a
                gondolataimba.</p>
             <p>
-               <hi rend="italic">Masa</hi>: A haza sorsán töprengett? Maguk politikusok már korán
+               <hi>Masa</hi>: A haza sorsán töprengett? Maguk politikusok már korán
                reggel is a haza sorsán töprengenek? Vagy csak déli tizenkettőkor kezdik? Laczházy,
                azt hiszem, távolról se oly szorgalmas, mint maga, mert ő - ha jól tudom - télen csak
                kettőtől háromig borong a szegény haza sorsa fölött. Nem igazság, hogy ő ezért a
                rövid munkaidőért épp annyi fizetést kap, mint maga, Saáry!</p>
             <p>
-               <hi rend="italic">Saáry</hi>: Éppen Laczházy járt az eszemben, mikor az imént oly
+               <hi>Saáry</hi>: Éppen Laczházy járt az eszemben, mikor az imént oly
                hirtelen meglepett.</p>
             <p>
-               <hi rend="italic">Masa</hi>: Annyi bizonyos, hogy a maga agymunkája különös fizikai
+               <hi>Masa</hi>: Annyi bizonyos, hogy a maga agymunkája különös fizikai
                jelenségekkel jár. Hallottam férfiakról, akik gondolkodás közben az asztalon
                dobolnak, mások malmosdit játszanak az ujjukkal, olyanok is akadnak, akik hatvan
                kilométeres sebességgel rohannak föl s alá a dolgo­zó­szobájukban, de maga az első
                nagy gondolkodó, aki egy-egy probléma megoldása közben horkolni szokott.</p>
             <p>
-               <hi rend="italic">Saáry (nem veszi figyelembe a gúnyolódást)</hi>: Csakugyan egy
+               <hi>Saáry (nem veszi figyelembe a gúnyolódást)</hi>: Csakugyan egy
                érdekes problémán törtem a fejemet.</p>
             <p>
-               <hi rend="italic">Masa</hi>: Nem vagyok indiszkrét, ha érdeklődöm a problémája
+               <hi>Masa</hi>: Nem vagyok indiszkrét, ha érdeklődöm a problémája
                iráni?</p>
             <p>
-               <hi rend="italic">Saáry</hi>: Nem, mert maga az egyetlen lény a földön, aki e különös
-               kérdésbe világosságot deríthet. <hi rend="italic">(Komolyan:)</hi> Mondja, Masa,
+               <hi>Saáry</hi>: Nem, mert maga az egyetlen lény a földön, aki e különös
+               kérdésbe világosságot deríthet. <hi>(Komolyan:)</hi> Mondja, Masa,
                csakugyan azt hiszi, hogy mi jó pajtások vagyunk?</p>
             <p>
-               <hi rend="italic">Masa</hi>: Mi a maga érzése?</p>
+               <hi>Masa</hi>: Mi a maga érzése?</p>
             <p>
-               <hi rend="italic">Saáry</hi>: Az enyém?</p>
+               <hi>Saáry</hi>: Az enyém?</p>
             <p>
-               <hi rend="italic">Masa</hi>: Maga úgy érzi, hogy jó pajtások vagyunk?</p>
+               <hi>Masa</hi>: Maga úgy érzi, hogy jó pajtások vagyunk?</p>
             <p>
-               <hi rend="italic">Saáry (egyszerüen)</hi>: Én csak azt tudom, hogy maga az első nő,
+               <hi>Saáry (egyszerüen)</hi>: Én csak azt tudom, hogy maga az első nő,
                akit egy pillanatig se tekin­tet­tem idegennek. Mikor másodszor beszéltünk egymással,
                az volt az impresszióm, hogy kicsiny gyermekkorom óta ismerem magát s hogy egy régi,
                álomszerü időben, melyre csak homá­lyosan emlékszem vissza, kézenfogva játszottam
@@ -1840,7 +1841,7 @@
                fájdalmas szeretettel, mint magához... Gondolja, hogy ez elég a jó pajtássághoz? Ha
                igen, akkor a szívemből jó pajtása vagyok...</p>
             <p>
-               <hi rend="italic">Masa (meghatottan, de mosolygó arccal, mintha titokzatos dolgok
+               <hi>Masa (meghatottan, de mosolygó arccal, mintha titokzatos dolgok
                   járnának a fejében)</hi>: Én már gyakran elgondolkodtam azon, hogy voltaképpen
                miért tekintem magát a legőszintébb barátomnak? Nem mondaná meg, hogy mit találok én
                magán, ami oly különös bizalmat kelt bennem? Saáry, magát senki se vádolhatja
@@ -1856,9 +1857,9 @@
                lenni hozzám... Nem mondaná meg, hogy mi ennek az oka? Én akárhogy is töröm a
                fejemet, nem tudom ezt a lélektani rébuszt megoldani.</p>
             <p>
-               <hi rend="italic">Saáry</hi>: A legnagyobb titkát is el tudná mondani nekem?</p>
+               <hi>Saáry</hi>: A legnagyobb titkát is el tudná mondani nekem?</p>
             <p>
-               <hi rend="italic">Masa</hi>: Attól félek, hogy mindent el tudnék mondani magának.</p>
+               <hi>Masa</hi>: Attól félek, hogy mindent el tudnék mondani magának.</p>
             <p>Mindketten az ablak mellett állanak, s pár percig némán gyönyörködnek a Svájcra
                emlékez­te­tő téli tájképben, mely a szemük előtt elterül. A dombok, az erdők, a
                házak, a hegyszakadékok szinte elmerültek a havas óceánban, csak a távoli vasuti
@@ -1869,20 +1870,20 @@
                ragaszkodásával nézi a karcsúra fűzött, de pongyolaruhás Masát, aki néha-néha csipkéd
                valamit az édességekből, de aztán mosolyogva visszatér az ablakhoz.</p>
             <p>
-               <hi rend="italic">Saáry (végre megszólal)</hi>: Megveti maga a filisztereket?</p>
+               <hi>Saáry (végre megszólal)</hi>: Megveti maga a filisztereket?</p>
             <p>
-               <hi rend="italic">Masa</hi>: Jó szívem van, hát megbocsátok nekik. Én a gyilkost is
+               <hi>Masa</hi>: Jó szívem van, hát megbocsátok nekik. Én a gyilkost is
                meg tudom érteni...</p>
             <p>
-               <hi rend="italic">Saáry</hi>: Engem öreg papok neveltek föl egy rideg árvaházban, s
+               <hi>Saáry</hi>: Engem öreg papok neveltek föl egy rideg árvaházban, s
                azóta magamhoz hasonló szürke emberek társaságában töltöttem mostanáig az életemet.
                Az ultramodern dolgokhoz hát annyit se értek, mint a boszton-tánchoz. Meg kell hát
                bocsátania, ha olyasmit kérdezek magától, ami rögtön elárulja, hogy fantázia nélkül
                való filiszter vagyok...</p>
             <p>
-               <hi rend="italic">Masa</hi>: Már előre megbocsátottam.</p>
+               <hi>Masa</hi>: Már előre megbocsátottam.</p>
             <p>
-               <hi rend="italic">Saáry</hi>: Maga elvált az urától, s most mégis nyugodtan adja itt
+               <hi>Saáry</hi>: Maga elvált az urától, s most mégis nyugodtan adja itt
                a háziasszonyt, holott jól tudja, hogy ezt az egész világ különösnek találja... Én, a
                szürke filiszter, már azt is különösnek találom, hogy beszélnek egymással s hogy
                együtt mutatkoznak azok előtt, akik házasságuk ideje alatt ismerték magukat. De ha
@@ -1893,7 +1894,7 @@
                szerelem­mel gondol az urára? De hiszen akkor csak egyetlen szavába kerülne, hogy a
                régi viszonyukat fölújítsák!</p>
             <p>
-               <hi rend="italic">Masa (csöndesen megrázza a fejét)</hi>: Nem, édes barátom, én nem
+               <hi>Masa (csöndesen megrázza a fejét)</hi>: Nem, édes barátom, én nem
                gondolok szerelemmel az uramra. Akkor se voltam szerelmes, mikor a tizenhatesztendős
                gyerekfejemmel feleségül men­tem hozzá... Egy nap - ez a nap minden leány életében
                elérkezik egyszer - én is össze­találkoztam azzal a férfival, aki jobbszabásu
@@ -1909,7 +1910,7 @@
                csak kényelmes és jóindulatu garde-ra tettem szert, már késő volt jóvátenni a hibát,
                amit oktalan gyerekfejjel elkövettem...</p>
             <p>
-               <hi rend="italic">Saáry</hi>: Utóbb megtudta, hogy Laczházy nem veszi túlkomolyan a
+               <hi>Saáry</hi>: Utóbb megtudta, hogy Laczházy nem veszi túlkomolyan a
                hitvesi hűséget s ekkor csókot intett neki, pukkerlit vágott előtte és épp oly
                könnyüséggel libegett el az életéből, mint amilyennel valamikor beléje karolt...
                Rendben van... De miért ragaszkodik még most is hozzá, miért tartja legjobb
@@ -1917,15 +1918,15 @@
                arra a hőstettre, hogy egy egész vármegye pletyka-zsúrjainak hősnője legyen? Meg
                lehet ezt érteni józan ésszel? Maga megértené, ha más asszony volna a helyében?</p>
             <p>
-               <hi rend="italic">Masa (olyan pillantással ingatja a fejét, melyben a női lélek
+               <hi>Masa (olyan pillantással ingatja a fejét, melyben a női lélek
                   minden alkotórésze együtt van: okosság, titokzatosság, kacérkodás, önfeláldozás,
                   komédia, affektáltság és pózolás)</hi>: Maga, szegény barátom, még nagyon kevéssé
                ismeri a barátnőjét, s így nem tudhatja, hogy engem ugyancsak nem lehet megérteni
                józan ésszel...</p>
             <p>
-               <hi rend="italic">Saáry</hi>: Kezdem hinni!</p>
+               <hi>Saáry</hi>: Kezdem hinni!</p>
             <p>
-               <hi rend="italic">Masa</hi>: Én nem vagyok olyan, mint a többi és elhiheti, hogy
+               <hi>Masa</hi>: Én nem vagyok olyan, mint a többi és elhiheti, hogy
                semmire se becsülném magamat, ha életemet az üres etikett-törvények szerint rendezném
                be... Mikor a házasság terhemre volt, hát gondolkodás nélkül visszaszereztem a
                szabadságomat, most, hogy az unalmas társadalmi törvények vannak terhemre, hát
@@ -1940,13 +1941,13 @@
                előálltak, s mindenki hangos zsivajjal igyekszik a kapu elé, ahol fölpántlikázott
                lovak és fantasztikus, piros-párnás alkot­mányok várakoznak a vendégekre.</p>
             <p>
-               <hi rend="italic">Masa (halkan Saáryhoz)</hi>: Maga velem jön?</p>
+               <hi>Masa (halkan Saáryhoz)</hi>: Maga velem jön?</p>
             <p>
-               <hi rend="italic">Saáry (ugyanoly halkan)</hi>: Akarja?</p>
+               <hi>Saáry (ugyanoly halkan)</hi>: Akarja?</p>
             <p>
-               <hi rend="italic">Masa</hi>: Parancsolom!</p>
+               <hi>Masa</hi>: Parancsolom!</p>
             <p>
-               <hi rend="italic">Saáry (kenetteljesen)</hi>: A jó gyermek legelső kötelessége, hogy
+               <hi>Saáry (kenetteljesen)</hi>: A jó gyermek legelső kötelessége, hogy
                szerény és szófogadó legyen...</p>
             
          </div>
@@ -2113,7 +2114,7 @@
             </head>
             <p>Röviddel a sajó-eörsi vadászatok után Saárynak lovagias ügye támadt, mely meglehetős
                port vert föl s a fiatal képviselő nevét a nyilvánosság előtt egy csapásra népszerűvé
-               tette. A lapok nagy cikkeket írtak róla, ezzel a címmel: <hi rend="italic">A
+               tette. A lapok nagy cikkeket írtak róla, ezzel a címmel: <hi>A
                   purifikáló Saáry.</hi> Egy ujság kijelentette, hogy ez az ember, akit tegnap még
                senkise ismert, voltaképp a parlament lelkiismeretét képviseli...</p>
             <p>A lovagias ügy előzményei a pártklubban játszódtak le, ahol e napokban eleven élet
@@ -2456,38 +2457,38 @@
                nekiindul a nyugtalankodó víznek, mely fölött sötétszürke fátyol lebeg. Cherso és
                Veglia egészen eltünnek a ködben s a Karsztból egy árva sziklafal se látszik.</p>
             <p>
-               <hi rend="italic">Mariska</hi> (hosszú pillantást vet a hajót ostromló hullámokra):
+               <hi>Mariska</hi> (hosszú pillantást vet a hajót ostromló hullámokra):
                Nem úgy érzi magát, mintha valahol az északi tengeren járna?</p>
             <p>
-               <hi rend="italic">Saáry</hi>: Én ezt a ködös és misztikus szürkeséget százszor
+               <hi>Saáry</hi>: Én ezt a ködös és misztikus szürkeséget százszor
                szebbnek találom, mint a napsütést, kék vizet és a hajók körül leselkedő delfinek
                raját. Egy norvég legenda jut az eszembe, melyet gyerekkoromban olvastam s mely épp
                úgy megfogta a fantáziámat, mint ez a fájdalmas, szomoru és poétikus ködvilág.
                Gyerekkoromban az volt az álmom, hogy zuhogó záporban, ólmos felhők alatt fogok
                kóborolni az óceán hullámain...</p>
             <p>
-               <hi rend="italic">Mariska</hi> (akiben a legszebb látvány se tudja megölni a gondos
+               <hi>Mariska</hi> (akiben a legszebb látvány se tudja megölni a gondos
                és pedáns háziasszonyt): Kapott reggelit a penzióban?</p>
             <p>
-               <hi rend="italic">Saáry</hi> (hősies tiltakozással): Ki gondol a reggelire, mikor a
+               <hi>Saáry</hi> (hősies tiltakozással): Ki gondol a reggelire, mikor a
                forrongó hullámhegyek tetején táncol? Maga nyomorult tejeskávéról ábrándozik, mikor a
                természet legfenségesebb színjáté­kát nézheti?</p>
             <p>
-               <hi rend="italic">Mariska</hi>: Kedves barátom én attól félek, hogy magát nem a köd
+               <hi>Mariska</hi>: Kedves barátom én attól félek, hogy magát nem a köd
                és a tenger lelkesíti föl ennyi­re, hanem az a gondolat, hogy félóra múlva partra
                szállhat Fiuméban... Tegye a kezét a szívé­re, és vallja be őszintén: nem gondol most
                százszor szívesebben a fiumei pályaudvarra, mint az óceán hátán végigszáguldó
                szélvészre?</p>
             <p>
-               <hi rend="italic">Saáry</hi>: Már megbocsásson...</p>
+               <hi>Saáry</hi>: Már megbocsásson...</p>
             <p>
-               <hi rend="italic">Mariska</hi>: Maga az államvasút öreg podgyászhordóira most sokkal
+               <hi>Mariska</hi>: Maga az államvasút öreg podgyászhordóira most sokkal
                poétikusabb lángolással gondol, mint a sirályokra és albatroszokra, melyek a tajtékzó
                hullámok fölött repkednek...</p>
             <p>
-               <hi rend="italic">Saáry</hi>: Nem értem...</p>
+               <hi>Saáry</hi>: Nem értem...</p>
             <p>
-               <hi rend="italic">Mariska</hi>: De én értem és bizonyos vagyok benne, hogy maga csak
+               <hi>Mariska</hi>: De én értem és bizonyos vagyok benne, hogy maga csak
                komédiázásból szaval itt nekem a norvég legendákról, mert az esze nem a vízen és a
                felhőkön jár, hanem a piszkos, kőszénszagú pályaudvaron, ahová a budapesti gyorsvonat
                ötnegyed óra múlva berobog... Legyen férfi és ismerje be őszintén, hogy amíg itt
@@ -2496,10 +2497,10 @@
                előlünk... Sokkal öregebb asszony vagyok, semhogy a szerelmes férfit ezer közül is
                föl ne ismerném...</p>
             <p>
-               <hi rend="italic">Saáry</hi>: Maga nem hisz abban, hogy az ember barátságot is
+               <hi>Saáry</hi>: Maga nem hisz abban, hogy az ember barátságot is
                érezhet egy asszony iránt?</p>
             <p>
-               <hi rend="italic">Mariska</hi>: Erről a témáról minden hónapban olvasok egy-egy
+               <hi>Mariska</hi>: Erről a témáról minden hónapban olvasok egy-egy
                szerkesztői üzenetet, abban a napi­lapban, melyet gyerekkorom óta járatok... A
                szerkesztői üzenetek írója öreges makacs­ság­gal hisz a férfiak és nők közt dúló,
                önzetlen barátságban, én azonban meg vagyok győződve róla, hogy az efelé fenkölt
@@ -2508,19 +2509,19 @@
                barátsággal... Ez képmutató meghazudtolása volna a természetnek, mely az ilyen bájos
                kis teremtéseket alkotta...</p>
             <p>
-               <hi rend="italic">Saáry</hi>: Sohasem bántanám meg egy tiszteletlen gondolattal
+               <hi>Saáry</hi>: Sohasem bántanám meg egy tiszteletlen gondolattal
                se...</p>
             <p>
-               <hi rend="italic">Mariska</hi>: Kedves barátom, az asszonyok néha azokat a
+               <hi>Mariska</hi>: Kedves barátom, az asszonyok néha azokat a
                gondolatokat találják tiszteletleneknek, melyek a férfiak előtt - legalább elméletben
                - tisztességeseknek látszanak... A szép kis nők - ezt bízvást elhiheti nekem -
                nincsenek mindig elragadtatva azoktól a férfiaktól, akik önzetlen barátsággal
                közelednek hozzájuk... Ezt különben maga épp úgy tudja, mint én, de sokkal gyávább,
                semhogy az igazi érzéseit be merné vallani előttem...</p>
             <p>
-               <hi rend="italic">Saáry</hi>: Biztosítom, hogy téved.</p>
+               <hi>Saáry</hi>: Biztosítom, hogy téved.</p>
             <p>
-               <hi rend="italic">Mariska</hi>: Saáry, nekem már leánykoromban is az volt a
+               <hi>Mariska</hi>: Saáry, nekem már leánykoromban is az volt a
                legkedvesebb foglalkozásom, hogy a szerelmesek panaszait meghallgattam, s az
                akadályokat, jóságos tündér módjára, elhárítottam az útjokból... Mint tizenötéves
                bakfis, édes könnyeket hullattam, ha a nálam idősebb leányok a szívemen kisírták
@@ -2537,7 +2538,7 @@
                között s pár pillanat múlva horgonyt vet a molónál. Mariska mosolyogva megjelenik a
                rézburkolatú lépcsőzeten, s bágyadtan kapasz­ko­dik a barátja karjába.</p>
             <p>
-               <hi rend="italic">Mariska</hi>: Éppen ideje volt! Mondhatom, hogy nem születtem
+               <hi>Mariska</hi>: Éppen ideje volt! Mondhatom, hogy nem születtem
                tengerésznek.</p>
             <p>Nagynehezen kerítenek egy zárt kocsit, mely a végkép tönkreázott utcákon át kiviszi
                őket a vasúti állomáshoz. A gyorsvonat érkezéséig még több idejük van húsz percnél, -
@@ -2550,27 +2551,27 @@
                perccel ezelőtt lépett volna ki a fürdőszobájából. A tizennégy­órás utazás
                egyáltalában nem látszik meg rajta.</p>
             <p>
-               <hi rend="italic">Masa</hi> (megpillantja Saáryt és Mariskát, s ámultan csapja össze
+               <hi>Masa</hi> (megpillantja Saáryt és Mariskát, s ámultan csapja össze
                a kezeit): Na hallod, na hallod!</p>
             <p>
-               <hi rend="italic">Mariska</hi> (a nyakába ugrik és viharosan össze-vissza csókolja a
+               <hi>Mariska</hi> (a nyakába ugrik és viharosan össze-vissza csókolja a
                barátnőjét).</p>
             <p>
-               <hi rend="italic">Masa</hi>: A táviratod után azt hittem, hogy egy szegény haldoklót
+               <hi>Masa</hi>: A táviratod után azt hittem, hogy egy szegény haldoklót
                fogok viszontlátni, akinek már csak percei vannak hátra az életből. De hiszen te
                pompásabb színben vagy, mint valaha!</p>
             <p>
-               <hi rend="italic">Mariska</hi>: Tegnap még haldokoltam, de arra a hírre, hogy te
+               <hi>Mariska</hi>: Tegnap még haldokoltam, de arra a hírre, hogy te
                vonatra ültél drágám, rögtön ki­ugrottam az ágyból. Nem hallottál soha a lélektani
                alapon való gyógyulásról?</p>
             <p>
-               <hi rend="italic">Masa</hi>: Szegény Mariskám, te, ugylátszik, mint notórius szédelgő
+               <hi>Masa</hi>: Szegény Mariskám, te, ugylátszik, mint notórius szédelgő
                fogod befejezni az életedet! (Saáryhoz, akivel közben barátságosan kezet rázott:) Mi
                történt magával?</p>
             <p>
-               <hi rend="italic">Saáry</hi>: Velem?</p>
+               <hi>Saáry</hi>: Velem?</p>
             <p>
-               <hi rend="italic">Masa</hi>: Meghízott és olajbarnára sült, mintha legalább is
+               <hi>Masa</hi>: Meghízott és olajbarnára sült, mintha legalább is
                félévig harcolt volna az arabok ellen, az afrikai sivatagban. Szóval, alávalóan
                becsaptatok, gyermekeim, de most már mindegy, úgy kell nekem, ha oly csacsi voltam,
                hogy ily közönséges csalásnak fölültem. Most azonban sies­sünk reggelizni, mert
@@ -2666,11 +2667,11 @@
                Sándor Henrik fő­herceg yachtjának. Sándor Henrik főherceg évenkint kétszer
                megfordult a felföldi vadász­kas­télyban, s a vendégszeretetet, mely annyi
                feledhetetlen élvezethez juttatta, most azzal hálálta meg, hogy Szentkúthyékat
-               magával vitte Dalmáciába. Az <hi rend="italic">Arany Sirály</hi> két hétig kószált a
+               magával vitte Dalmáciába. Az <hi>Arany Sirály</hi> két hétig kószált a
                rongyos dalmát halászfalvak között, s fejedelmi utasát csak tegnap tette le Brioni
                szigetén, ahol a főherceg az influenzás trónörököst meglátogatta.</p>
             <p>- A fenséges úr - mondta a fiatalabbik Szentkúthy - udvariasan fölajánlotta, hogy
-               bárhova elvitet bennünket az <hi rend="italic">Arany Sirállyal...</hi> Elmehettünk
+               bárhova elvitet bennünket az <hi>Arany Sirállyal...</hi> Elmehettünk
                volna Indiába vagy Japánba is, de mi habozás nélkül Abbáziát választottuk, mert egy
                titokzatos sejtelem megsúgta nekünk, hogy itt a földkerekség legszebb asszonya
                várakozik ránk...</p>
@@ -2708,7 +2709,7 @@
                volt - hosszú sétát tett a holdfényes tengerparton. Az öreg úr eközben folytatta
                leleplezéseit Európa ural­ko­dó családjairól, - fizetség gyanánt mindössze azt
                kötötte ki, hogy Masa belekaroljon, - a fiúk pe­dig előadták azokat a kuplékat,
-               amelyekkel egy bécsi színész az <hi rend="italic">Arany Sirály</hi>-on a fő­herceget
+               amelyekkel egy bécsi színész az <hi>Arany Sirály</hi>-on a fő­herceget
                mulattatta. A fiumei világító-torony már abbahagyta éjjeli jeladásait, mikor Masa,
                hosszabb lelki küzdelem után, végre a lefekvést szóba hozta...</p>
             <p>Korán reggel, midőn a hajnali fölkeléshez szokott Mariska az ebédlőben megjelent, egy
@@ -2792,8 +2793,7 @@
                irgalom nélkül felkoncolnám. Tudja, hogy micsoda meglepetés ért ma reggel?</p>
             <p>- Micsoda?</p>
             <p>- Még javában aludtam, mikor egy sürgős távirattal kopogtattak be a szobámba. A
-               táviratot a fenséges úr küldte, aki hirtelen arra határozta magát, hogy az <hi
-                  rend="italic">Arany Sirály</hi>-lyal végigjárja az észak-olaszországi partokat. A
+               táviratot a fenséges úr küldte, aki hirtelen arra határozta magát, hogy az <hi>Arany Sirály</hi>-lyal végigjárja az észak-olaszországi partokat. A
                yacht korán délután Brioniba indul s akár tetszik nekünk, akár nem, még a mai nap
                folyamán búcsút kell vennünk a Quarnerótól.</p>
             <p>- És mit talál ebben oly kétségbeejtőnek?</p>
@@ -2804,13 +2804,13 @@
                táviratozást föltalálta...</p>
             <p>Az asszonyok később, miután a rögtönzött búcsúlakoma véget ért, lekisérték a
                Szentkúthyakat a molóra, s vagy negyedóráig meghatva lobogtatták zsebkendőjüket az
-                  <hi rend="italic">Arany Sirály</hi> felé, mely mindinkább eltünt a tengerre boruló
+                  <hi>Arany Sirály</hi> felé, mely mindinkább eltünt a tengerre boruló
                ködfelhő szürkeségében. Mikor a kis hajó fehér teste végkép beolvadt az opálszinü
                habokba, Mariska bizalmasan belekarolt a képviselőbe, aki még mindíg boldog
                izgatottsággal integetett a semmiségbe vesző yacht felé.</p>
             <p>- Drágám - mondta Saárynak, miközben Masa kissé előre sietett, hogy a moló végében
                kitett foto­­gráfiákat végignézze - drágám, most már nyugodtan elteheti a
-               zsebkendőjét, mert az <hi rend="italic">Arany Sirály</hi>-ról még távcsővel se lehet
+               zsebkendőjét, mert az <hi>Arany Sirály</hi>-ról még távcsővel se lehet
                többé felfedezni magát. Hagyja most a huszárokat, akik remélhetőleg jó ideig nem
                fogják megzavarni a cirkulusait s gondoljon inkább arra, hogy a szerelmi dolgokban
                minden elmulasztott pillanat bűnnek számít. Azt hiszem, tudja, hogy a szerelmeseknek
@@ -2893,24 +2893,24 @@
                egyedül marad­nak. Mindketten elhallgatnak, nagy csönd támad s Masa hirtelen ásítani
                kezd.</p>
             <p>
-               <hi rend="italic">Masa</hi> (nevetve): Bocsánat, nehogy azt higyje, hogy unatkozom.
+               <hi>Masa</hi> (nevetve): Bocsánat, nehogy azt higyje, hogy unatkozom.
                Ez nálam egyszerű idegesség. (Csodálkozva végignézi Saáryt, aki sápadtan rágicsálja a
                bajuszát.) Mi baja magának?</p>
             <p>
-               <hi rend="italic">Saáry</hi> (szinte asztmatikusan lélegzik): Masa, - én kérdezni
+               <hi>Saáry</hi> (szinte asztmatikusan lélegzik): Masa, - én kérdezni
                szeretnék magától valamit... De meg kell igérnie...</p>
             <p>
-               <hi rend="italic">Masa</hi> (félbeszakítja s megdöbbenve néz a barátjára): Jaj!</p>
+               <hi>Masa</hi> (félbeszakítja s megdöbbenve néz a barátjára): Jaj!</p>
             <p>
-               <hi rend="italic">Saáry</hi> (ijedten hallgat).</p>
+               <hi>Saáry</hi> (ijedten hallgat).</p>
             <p>
-               <hi rend="italic">Masa</hi>: Édes fiam, én valami borzasztót sejtek; maga be akarja
+               <hi>Masa</hi>: Édes fiam, én valami borzasztót sejtek; maga be akarja
                vallani, hogy szerelmes belém...</p>
             <p>
-               <hi rend="italic">Saáry</hi> (annyira megijed, hogy derékon kettéharapja a szivarját,
+               <hi>Saáry</hi> (annyira megijed, hogy derékon kettéharapja a szivarját,
                melyre az imént öntudatlanul rágyujtott).</p>
             <p>
-               <hi rend="italic">Masa</hi>: Igy nem kezdődhetik egyéb, mint egy szerelmi vallomás, -
+               <hi>Masa</hi>: Igy nem kezdődhetik egyéb, mint egy szerelmi vallomás, -
                ez kétszer kettő négy... Maga azzal jött ma ide, hogy a szívét kiönti előttem, s
                olyasvalamit fog kérdezni tőlem, amire én nem akarok feleletet adni... Őszintén
                szólva, már tegnap este féltem ettől a jelenettől, mert azok a pillantások, amiket az
@@ -2927,24 +2927,24 @@
                hűséges és együttérző kis pajtását látja bennem... Nem elégíti ki, nem teszi
                büszkévé, hogy ezt az előkelő szerepet magának szántam?</p>
             <p>
-               <hi rend="italic">Saáry</hi> (szomorúan hallgat).</p>
+               <hi>Saáry</hi> (szomorúan hallgat).</p>
             <p>
-               <hi rend="italic">Masa</hi>: Föl a fejjel, mosolyogni szépen, mert még különben azt
+               <hi>Masa</hi>: Föl a fejjel, mosolyogni szépen, mert még különben azt
                hiszem, hogy haragszik rám. És most - miután mindent tud - halljuk, hogy mit akart az
                imént kérdezni tőlem?</p>
             <p>
-               <hi rend="italic">Saáry</hi> (hosszan maga elé néz, lesüti a szemét, kipirul, majd
+               <hi>Saáry</hi> (hosszan maga elé néz, lesüti a szemét, kipirul, majd
                halkan, fájdalmasan ezt mondja): Azt akartam kérdezni, nem volna-e kedve holnap egy
                castelmuschioi kiránduláshoz?</p>
             <p>
-               <hi rend="italic">Masa</hi> (boldogan): Hogy nem volna-e kedvem? Akár Bombayba vagy
+               <hi>Masa</hi> (boldogan): Hogy nem volna-e kedvem? Akár Bombayba vagy
                Laboréba is elmegyek magával, csak szóljon két órával előbb, hogy a csomagoláshoz
                időm legyen... Most azonban lefekszem és magával fogok álmodni... (Megszorítja a
                Saáry kezét és oly vértforraló kacérság­gal néz a szemébe, hogy az önzetlen baráti
                érzés, melyről az imént szó esett, szánalmasan és kétségbeesetten vonaglani kezd. A
                következő percben eltünik a lépcsőház homályában.)</p>
             <p>
-               <hi rend="italic">Saáry</hi> (mindaddig az előcsarnokban marad, míg a háziszolga a
+               <hi>Saáry</hi> (mindaddig az előcsarnokban marad, míg a háziszolga a
                lámpákat oltogatni kezdi. Aztán lassú léptekkel fölballag a szobájába).</p>
             
             <trailer>-&amp;-</trailer>

@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>A hegység tündére: Regény</title>
                <date>2015-09-11</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -34,8 +34,8 @@
                   <name>Varga Tünde</name>
                   <name>Mészáros Atilla</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>A hegység tündére : regény</title>
                      <author>Beniczkyné Bajza Lenke</author>
                      <pubPlace>Budapest</pubPlace>
@@ -63,12 +63,13 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2019-04-23"/>
          <change when="2018-10-03"/>
       </revisionDesc>
    </teiHeader>
   <text>
       <body>
-         <div type="group">
+         <div type="part">
             <head>ELSŐ RÉSZ</head>
             
             <div type="chapter">
@@ -2711,7 +2712,7 @@
                
             </div>
          </div>
-         <div type="group">
+         <div type="part">
             <head>MÁSODIK RÉSZ</head>
             
             <div type="chapter">

@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Köd :  Regény </title>
                <date>2018-09-04</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -34,14 +34,8 @@
                   <name>Erdélyi Zsolt</name>
                   <name>Fecz Ágnes</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
-                     <title>Köd :  Regény </title>
-                     <date>2018-09-04</date>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="printSource">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>Köd : regény</title>
                      <author>Gozsdu Elek</author>
                      <pubPlace>Budapest</pubPlace>
@@ -69,8 +63,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-19"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-19"/>
       </revisionDesc>
    </teiHeader>
   <text>

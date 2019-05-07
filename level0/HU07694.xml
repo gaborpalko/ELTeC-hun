@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Anatole :  Regény </title>
                <date>2009-12-07</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -31,19 +31,18 @@
                <respStmt>
                   <resp>Original Electronic Edition</resp>
                   <name>Mikszáth Kálmán</name>
-                  <name>Mikszáth Kálmán</name>
                   <name>Cserna Károly</name>
                   <name>Molnár Éva</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>Anatole :  Regény </title>
                      <date>2009-12-07</date>
                      <ref target="http://www.archive.org/details/magyarregnyir34miksuoft"/>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="printSource">
                      <title>Anatole : Regény</title>
                      <author>Toldy István</author>
                      <pubPlace>Budapest</pubPlace>
@@ -53,6 +52,11 @@
                         target="http://nektar.oszk.hu/hu/manifestation/3221385"/>
                   </bibl>
                </relatedItem>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>Anatole</title>
+               <author>Toldy István</author>
+               <date>1872</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -71,8 +75,10 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-14"/>
+         <change when="2019-04-23"/>
+         <change when="2019-02-27"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-14"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -96,8 +102,7 @@
                képezé.</p>
             <p>Tekintetem Tizián vásznáról önkénytelen az újon jöttre esett, s félre kellett
                fordulnom, nehogy az észrevegye azon akaratlan mosolyt, mely fölött első perczben nem
-               tudtam úrrá lenni. A szék, melyen ült, a szoba szögletében állt egy alacsony <hi
-                  xml:id="OLE_LINK1">étagère</hi> előtt, melynek legfelső polczá­ra egy tán
+               tudtam úrrá lenni. A szék, melyen ült, a szoba szögletében állt egy alacsony  előtt, melynek legfelső polczá­ra egy tán
                Pompéjiban kiásott ó-római váza volt állítva. A váza az ókori edényvilág azon,
                majdnem gömbölyű alakzataihoz tartozott, melyeket csak két hatalmas fogantyújok
                biztosít azon félreismerés ellen, nehogy a földteke sikerületlen utánzásainak
@@ -456,7 +461,7 @@
                relativnak hatalmát az absolut fölött, s főkép azok, kik a párisi életet ismerik,
                mely a modern társadalom minden előnyeit és hiányait meghatványozott mértékben
                egyesíti magában, - ezek meg fogják érteni e történetet, s hősében azt fogják látni,
-               a mi volt: <hi rend="italic">a modern társadalom erkölcseinek áldozatát</hi>. Lesznek
+               a mi volt: <hi>a modern társadalom erkölcseinek áldozatát</hi>. Lesznek
                olyanok is, kik saját szomorú tapasztalásból ismerik e szenve­déseket és rokon
                lélekkel áldozni fognak egy megértett fájdalomnak. Itélje meg majd, osztja-e
                véleményemet, s ha igen, írja meg e könyvet, mely úgy hiszem, nem lesz minden haszon
@@ -1220,8 +1225,7 @@
                   szolgált volna is a hű hitvesek példányképéül, a gyalázat ama megbélyegző nemétől,
                   mely most érte, kétségkívül ment maradt volna. Nem akarom a leányt védeni. Azt
                   hiszem, hogy a legelőnyö­sebb viszonyok közt is aligha vénült volna meg a nélkül,
-                  hogy egy vagy más botlás emléke ne terhelje lelkiismeretét, de hogy <hi
-                     rend="italic">ily korán</hi> és hogy <hi rend="italic">így</hi> bukott, azt
+                  hogy egy vagy más botlás emléke ne terhelje lelkiismeretét, de hogy <hi>ily korán</hi> és hogy <hi>így</hi> bukott, azt
                   pusztán a család szerencsétlen anyagi körülményei okozták; és elősegíté a párisi
                   társadalmi élet romlottsága, mert alig van hely a világon, hol a szépséget
                   hálásabban lehetne érvényesíteni, mint itt, hova Európa élvezni jár; és alig van
@@ -1267,7 +1271,7 @@
                <p>Nehány évvel utóbb Anatole teljesen osztá véleményemet Hermance felett, sőt
                   elnézésében túl is ment a kellő határon. Azon körökben, melyekbe balsorsa sodorta,
                   alkalma nyilt a női botlá­soknak legkülönbözőbb nemeit megismerni, de a botlás
-                  lehető <hi rend="italic">indokai</hi> közül e körökben alig találkozott mással,
+                  lehető <hi>indokai</hi> közül e körökben alig találkozott mással,
                   mint a test fékezhetlen ösztönével s az anyagi érdekkel. Tuczatszámra foglaltak
                   helyet emlékezetében oly nők, kik az erény és kötelesség parancsait lábbal
                   taposták csupán élvvágyból vagy haszonlesésből, s nem akadt köztük egy is, kinek
@@ -1313,14 +1317,12 @@
                   segédpapjai lehetünk. Alig van valami, a mi oly mérvben megfoszthat egy fiatal
                   lelket ártatlanságának és költészetének zománczától, mint az oly nő, ki azt
                   szerelme segélyével cselekszi. Anatole a fiatal szív első fellángolásával szerette
-                  Hermancet. Ez viszonzá <hi rend="italic">vágyait</hi>, de nem tudta viszonozni <hi
-                     rend="italic">érzelmeit</hi>. Míg Anatole egy ifjú szív öntudatlan
+                  Hermancet. Ez viszonzá <hi>vágyait</hi>, de nem tudta viszonozni <hi>érzelmeit</hi>. Míg Anatole egy ifjú szív öntudatlan
                   lelkesülésével borult ideálja lábaihoz, ez őt egy buja nő mohó élvvágyával ölelte
                   keblére.</p>
                <p>Úgy hiszem, misem szolgálhat annyira egy fiatal szívnek demoralizácziójára, mint,
                   ha oly nőt szeretünk, kit becsülni nem tudunk; s e pusztitó hatást még
-                  qualifikálta Anatolenál azon tudat, hogy Hermance, amióta csak szerette, <hi
-                     rend="italic">kezdet óta</hi> érdemetlen volt szerelmére. Szerelmesünk
+                  qualifikálta Anatolenál azon tudat, hogy Hermance, amióta csak szerette, <hi>kezdet óta</hi> érdemetlen volt szerelmére. Szerelmesünk
                   bukásában gyakran még vigaszunkra szolgálhat egy szebb idő emléke, midőn még
                   tiszta volt és méltó szerelmünkre. Anatolenak még e szomorú vigasz sem jutott
                   osztályrészül. Kedvese nem szerette soha, s már megvetést érdemelt akkor is, midőn
@@ -1444,7 +1446,7 @@
                   lelket annyira átalakít, hogy apostolává lehessen?</p>
                <p>Anatole is faragott magának ily «erkölcstant» házi használatra, mely a realismus
                   meztelen elvein alapult s ethikai szempontból beillett volna a valódi morál
-                  paródiájának. <hi rend="italic">«Élvezni mindazt, a mi másnak aránytalan
+                  paródiájának. <hi>«Élvezni mindazt, a mi másnak aránytalan
                      megkárosítása nélkül élvezhető»</hi>, - volt ez erkölcstan alap­elve; melynek
                   kellő méltánylására azonban hozzá kell tennem, miszerint egy gyanútlan férjet
                   megcsalni, kivel előbb semmiféle bensőbb viszonyban nem állt, vagy egy fiatal
@@ -1682,7 +1684,7 @@
                   természetesnek találta, hogy ez fájt neki, s hogy könnyekre fakadt. Ma, midőn
                   késznek nyilatkozott teljesíteni kivánatát - ma meglepte Anatolet azon fájdalom,
                   mely Hélène minden vonásából, minden hangjából hozzá szólt.</p>
-               <p>Első pillanatban <hi rend="italic">nem értette meg</hi> Hélène szenvedését.</p>
+               <p>Első pillanatban <hi>nem értette meg</hi> Hélène szenvedését.</p>
                <p>A szó, melyet a szerencsétlen gyermek kiejtett, szerelme legyőzhetlen hatalmát
                   hirdeté; de sápadt arcza s megtört tekintete kiáltó szemrehányást fejeztek ki, és
                   zokogásának szakadozott hangjai mintha lelkének gyilkosát vádolták volna.</p>
@@ -1833,12 +1835,12 @@
                   - de lelke meg volt törve, elveszté azon ruganyosságot, azon hatalmas
                   szár­nyalást, mely az élet bizonyos válságos pillanataiban egyedül képes az embert
                   azon magaslat színvonalán megtartani, melyről nem szállhat alá, ha nem akarja
-                  önmagát megtagadni. Anatole <hi rend="italic">elveszté hitét</hi>. Azon erőtadó
+                  önmagát megtagadni. Anatole <hi>elveszté hitét</hi>. Azon erőtadó
                   fennköltséget, mely az önmagában és másokban hinni, a saját erejében s
                   szerencséjében bízni tudó szellemet kitünteti, mindinkább az elme gyakran
                   szőrszálhasogató okoskodásai, a kutató és soha meg nem nyugvó ész aggódó kételyei
-                  kezdték helyettesíteni; s ez Anatolet modorában <hi rend="italic">blazirttá</hi>,
-                  lelke mélyében <hi rend="italic">kétkedővé</hi> tette.</p>
+                  kezdték helyettesíteni; s ez Anatolet modorában <hi>blazirttá</hi>,
+                  lelke mélyében <hi>kétkedővé</hi> tette.</p>
                <p>Egyelőre e szomorú kétkedésnek nem látszottak meg rajta nyomai. Utóbb gyászos
                   hatalommal lépett az előtérbe, midőn érzelmei és körülményei tápot adtak neki; de
                   most úgy látszott, mintha Anatole minden tekintetben újjászületett volna.</p>
@@ -2053,8 +2055,8 @@
                   már tíz lépésnyire elnevette magát, midőn Anatolet megpillantá, leány lett. Midőn
                   Anatolet egyszerre néhány lépésnyire magától meglátta, Odalie elpirult, - de ez
                   nem a pajkos gyermek pirulása volt többé, nem a gyermek mosolya, mely oly vonzóvá
-                  tette őt a nyáron; ez a <hi rend="italic">szűz</hi> pirulása volt, kit szive
-                  figyel­meztet rá, hogy <hi rend="italic">férfival</hi> áll szemben, azon férfival,
+                  tette őt a nyáron; ez a <hi>szűz</hi> pirulása volt, kit szive
+                  figyel­meztet rá, hogy <hi>férfival</hi> áll szemben, azon férfival,
                   kit először tudott a többiektől megkülön­böztetni. Nem nagy fáradságába került
                   Anatolenak ismerőst találnia, ki őt bemutassa, s nehány pillanat múlva barátom
                   élénk beszélgetésbe eredt a Champs-Elysées kis tündérével.</p>
@@ -2065,7 +2067,7 @@
                   szerelmes belé. Nem volt e fogadás udvarias, de hideg sem, nem volt szivélyes, de
                   nem is visszataszító s a gyermek modora mintha mondani akarta volna: tudom hogy
                   szeretsz, meglehet, én is szeretlek, de még most nem szabad megtudnod. Anatole ezt
-                     <hi rend="italic">nem érté</hi> meg, de azért e fogadás mélyebb hatást tett rá,
+                     <hi>nem érté</hi> meg, de azért e fogadás mélyebb hatást tett rá,
                   mintha Odalie repeső örömmel sietett volna eléje; néhány percz múlva eltalálta a
                   hangot, melyen e gyermekkel beszélni kell, eltalálta annyira, hogy midőn reggel
                   távoztunk, örömtől ragyogó arczczal mondá:</p>
@@ -2168,7 +2170,7 @@
                   Hermance et Comp. és véréből pirosítót csináltak hervadó arczukra! És Odalie? Ah,
                   e gyermeknek van szeme, melylyel bájosan tud nézni, van ajka, melylyel elragadólag
                   tud mosolyogni s van esze, melylyel már meglepően tud élni, de szive - az nincs,
-                  vagy legalább <hi rend="italic">még</hi> nincs. De eh! mit is beszélünk annyit e
+                  vagy legalább <hi>még</hi> nincs. De eh! mit is beszélünk annyit e
                   tárgyról? A farsangnak egy hét múlva vége, még egyszer találkozni fogok vele egy
                   bálon, tánczolunk, fecsegünk, összeveszünk s kibékülünk, - aztán - aztán ki tudja,
                   látjuk-e egymást többé?</p>
@@ -2531,9 +2533,7 @@
                <p>Vannak természetek, melyeknek jellemző vonásuk, hogy könnyebben lehet hozzájok
                   férni, mint másokhoz. Ne vegye e szót rossz értelmében. Nem oly nőkre czélzok
                   vele, kikkel mindenről beszélhetünk, mert nincs semmi, a mi ellen vagy
-                  illemérzetök vagy lelkök féltett érzelmei óvást emelnének. A világért sem. A <hi
-                     rend="italic">tiszteletről</hi>, mely a nőt megilleti, Odalieval szemben <hi
-                     rend="italic">nem lehetett</hi> megfeledkezni. De a kiket bizalmára méltatott,
+                  illemérzetök vagy lelkök féltett érzelmei óvást emelnének. A világért sem. A <hi>tiszteletről</hi>, mely a nőt megilleti, Odalieval szemben <hi>nem lehetett</hi> megfeledkezni. De a kiket bizalmára méltatott,
                   azokat felmenté az etiquette azon kicsinyes tyrannismusa alól, mely a társalgást
                   csak feszélyezi, nehezíti, a nélkül, hogy méltóságát növelné. Vannak nők, kik az
                   etiquette apró külformáinak annyi becset tulajdonítanak, hogy az ember önkénytelen
@@ -2958,7 +2958,7 @@
                <p>És, ha szeretne is ennyire, ha képes volna szerelméért ily áldozatra, ha képes
                   volna is nemcsak elszánni magát az ily életre, hanem azt meg is kedvelni, - vajjon
                   biztosíthatná-e ez boldogsá­gunkat? Lehet-e két szerelmes egyike boldog a nélkül,
-                  hogy a másik is az legyen? s vajjon kielégíthetne-e <hi rend="italic">engem</hi>
+                  hogy a másik is az legyen? s vajjon kielégíthetne-e <hi>engem</hi>
                   az ily nyugalmas élet, melynek rendes voltát csak egyhangúsága mulja felül? -
                   Meglehet, hogy egy ideig, tán nehány évig is, a szerelem boldogságának élvezete
                   képes volna annyira elfoglalni, hogy ne vágyjam más után, - de tűrhető volna-e rám
@@ -2991,8 +2991,7 @@
                   fele utánna ne szakadjon. Érzem, hogy boldog­talannak kellene lennem oly életben,
                   mely leszorítana a politikai térről, s bármennyire imádjam Odaliet, érzem, hogy
                   szerelme nem volna képes veszteségemet pótolni. Nem mintha kevésbbé csüggném
-                  szerelmemen, mint eszméimen, - jobban szeretni mint én, nem lehet. De <hi
-                     rend="italic">egyiránt</hi> lelkesülök érted hazám szabadsága és érted szívem
+                  szerelmemen, mint eszméimen, - jobban szeretni mint én, nem lehet. De <hi>egyiránt</hi> lelkesülök érted hazám szabadsága és érted szívem
                   szerelme! Lelkem két fele vagytok, egyik oly drága előttem, mint a másik. S ha
                   kedvedért lemondanék politikai esz­méimről, ez annyi volna, mint lemondani
                   magamról. Nem volnék többé én; s vajjon a lélek, mely önmagát megfosztá
@@ -3015,7 +3014,7 @@
                <p>Nem egyszer, midőn mélabúsan maga elé meresztett tekintettel találtam szobájában
                   ülve, aggódni kezdtem, hogy a lelki kór, mely kínzá, valóságos betegséggé
                   válhatik, mely a Bicêtret népesíti meg. Nem volt előtte bizonyos semmi, csak az,
-                  hogy a <hi rend="italic">jelenben</hi> szereti Odaliet, s hogy sohsem lehet vele
+                  hogy a <hi>jelenben</hi> szereti Odaliet, s hogy sohsem lehet vele
                   boldog, - minden egyéb gondolat, mely agyát megszállta, a kételyek beláthatlan
                   sorát vonná maga után.</p>
                <p>E szakadatlan, naponként megújuló kínos töprengések nehány hó alatt oly apathiába
@@ -3420,7 +3419,7 @@
                   mert úgy testet ölteni előttem, mint e pillanatban. Gyakran súgta ösztönöm, hogy
                   van egy út, mely még nincs elzárva előttünk, - de midőn rád gondoltam, e sejtelem
                   nem tudott bennem gondolattá szi­lárdulni. Nem tudtam, nem mertem elédbe lépni e
-                  szavakkal: <hi rend="italic">Hagyd el atyádat és jer velem!</hi>
+                  szavakkal: <hi>Hagyd el atyádat és jer velem!</hi>
                </p>
                <p>S vajjon miért nem mertem?</p>
                <p>A világ érzéketlen része ugyan lázadásnak tekinti az atyai hatalom ellen, ha a
@@ -3470,7 +3469,7 @@
                <p>Csakugyan te vagy-e, szerencsétlen agg, élő halott emléke egy család gyalázatának?
                   Igen, e tehetetlen tagok, melyek csak reszketni bírnak, e szélhüdött nyelv, mely
                   csak hebegni tud, ez otthontalan tekintet, melyből pokoli kínok viszfénye sugárzik
-                  felém, - áh ismerlek, te vagy a <hi rend="italic">nyomor áldozata!</hi>
+                  felém, - áh ismerlek, te vagy a <hi>nyomor áldozata!</hi>
                </p>
                <p>Megszólalsz? - te még beszélni tudsz? - visszatért ajkadra a szó hatalma, hogy
                   elmondjad szenvedésidet elrémítő például tapasztalatlan lelkeknek? - Jó tehát, -
@@ -3545,7 +3544,7 @@
                   önfeláldozást feltételez, tán kész lett volna, - nem bírta ez apró mindennapi
                   áldozatokat meghozni. Jó volt benne a szándék, de hiányzott a kitartás, hiányzott
                   az erő oly áldozatokat hozni, melyek naponként megújulnak, lemondani oly
-                  dolgokról, <hi rend="italic">melyekről minden nap, minden órában újra kell
+                  dolgokról, <hi>melyekről minden nap, minden órában újra kell
                      lemondani</hi>. Oh asszonyi gyönge­ség, mely képes vagy nagy tettekre, és
                   elbukol a kicsinyek előtt!</p>
                <p>És a nőtől, ki maga nem tudott lemondani, leánya miként tanulhatott volna
@@ -3571,7 +3570,7 @@
                <p>Nem - nem!</p>
                <p>Oh hallgass el kisértő rém, - elég volt, - ah elég ebből a gyötrelemből!</p>
                <p>Hahaha! kaczagj tábornok, - nem fenyeget veszély. - - Flavigneux Anatole nem meri
-                  leányo­dat elvenni, mert fél, hogy nem tud vele - <hi rend="italic"
+                  leányo­dat elvenni, mert fél, hogy nem tud vele - <hi
                   >megélni!</hi>»</p>
                <p> E sorok után Anatole eldobta a tollat, földhözvágta naplóját, felkelt, de alig
                   tett nehány lépést a szobában, eszméletlenül rogyott ágyára. Midőn reggel jó későn
@@ -3643,10 +3642,10 @@
                   halál a gyalázathoz képest?</p>
                <p>Van szenvedés, mely akkor is nemesíti a lelket, midőn kinozza. De hány lelket
                   gyalázott már meg, hány nemes kedélyt nem taszított már az aljasság fertőjébe a
-                  nélkülözés, az inség? Oh mondjon a világ bármit, <hi rend="italic">azon
+                  nélkülözés, az inség? Oh mondjon a világ bármit, <hi>azon
                      szenvedésben, melyet a nyomor okoz, mindig van valami lealázó!</hi>
                </p>
-               <p>És ennek Odalie, - <hi rend="italic">ennek</hi> nem merlek kitenni!</p>
+               <p>És ennek Odalie, - <hi>ennek</hi> nem merlek kitenni!</p>
                <p>Gyávaság-e ez?</p>
                <p>Nem, lelkemre nem! Magammal nem törődöm. Ép oly boldog tudnék lenni a nyomorban,
                   mint most boldogtalan vagyok a bőségben. De lehetek-e bátor Odalie helyett is?
@@ -3683,7 +3682,7 @@
                   töprenkedésnek útját teljesen elzárta volna. Egy boldog óra, melyet kedvesével
                   töltött, mindannyiszor rést ütött elmélkedésein, s e résen keresztül tört egy-egy
                   halvány sugara a reménynek, a nélkül hogy meg merné magát nevezni. Anatole néha
-                  úgy érzé, mintha még nem volna <hi rend="italic">minden</hi> út elzárva előtte,
+                  úgy érzé, mintha még nem volna <hi>minden</hi> út elzárva előtte,
                   mely a boldogságra vezet, de e pilla­natokban, midőn remélni szeretett volna, a
                   nélkül, hogy merné magát a remény karjaiba vetni, szinte félt e végső kiútat
                   kutatni, nehogy ismét csalódjék. Ha a lehetetlenségre gondolt, mely Odalietől
@@ -3695,7 +3694,7 @@
                   mely a leány reményei és saját reménytelensége közt létezett, erőszakosan elzárták
                   azon parányi rést is, mely lelkébe a reménynek még bejáróul szolgálhatott.
                   Elzárták azáltal, hogy kényszeríték végre komolyan megfontolni helyzetét. S midőn
-                  ezt tette, a szerelmes mellett a <hi rend="italic">férfi</hi> is szót kért a
+                  ezt tette, a szerelmes mellett a <hi>férfi</hi> is szót kért a
                   tanácskozásban, s azt a végső elhatározásra készteté. Ez ismét hosszú sorát
                   támasztá fel a kételyeknek, melyek végzetes ékesszólást merítenek azon szomorú
                   emlékezetből, mely lelké­ben a Cotin névtől elválhatlan vala. Az első tapasztalás,
@@ -3723,13 +3722,13 @@
                   jellem rovására nagyobb fontosságot tulajdonított a körülményeknek, mint józanul
                   kellett volna. Mintha Cotinné együgyűsége s gyöngeségének, mintha Hermance üres és
                   könnyelmű lelkének épen semmi része sem lett volna a család bukásában, az anyagi
-                  szükséget tartá e család szo­morú végzete <hi rend="italic">egyetlen</hi> okának.
+                  szükséget tartá e család szo­morú végzete <hi>egyetlen</hi> okának.
                   S e felfogás, évek során át, oly nők társaságában, kik közől nem egy nemcsak
                   élvezetet, hanem hasznot is keresett a könnyelműségben, annyira megfész­kelte
                   magát lelkében, hogy majdnem rögeszmévé vált benne a gondolat, mintha Charlotte és
                   Hermance körülményei közt minden nőnek szükségkép Charlotte és Hermance sorsára
-                  kellene jutnia, mintha a szükség <hi rend="italic">mindig</hi> bukással, a nyomor
-                     <hi rend="italic">mindig</hi> gyalázattal járna. Ez egy eset mintegy kivételt
+                  kellene jutnia, mintha a szükség <hi>mindig</hi> bukással, a nyomor
+                     <hi>mindig</hi> gyalázattal járna. Ez egy eset mintegy kivételt
                   nem ismerő szabálylyá erősödött gondolkozásmódjában. Elméletben nem tartá a női
                   jellemet az erő, az emelkedettség bármily fokára képtelennek, de a mint a
                   gyakor­lati élet terére ment át gondolataiban, rögtön azon kételyek fogták körül,
@@ -3812,7 +3811,7 @@
                <p>Nem vitte ez Anatolet gyors elhatározásra, kinek lelkében lassan érlelődött minden
                   érzelem, szinte öntudatlanul, míg végre kitört, hogy jogait követelje. Igy történt
                   most is. Már meg vala győződve róla, hogy nincs joga még ámítani sem önmagát a
-                  reménynyel, hogy rövid idő alatt el <hi rend="italic">kell</hi> magát határoznia;
+                  reménynyel, hogy rövid idő alatt el <hi>kell</hi> magát határoznia;
                   de még nem határozta el magát sem tűrni a reménytelenséget, sem meghátrálni előle.
                   A mily gyors volt esze a gondolatban és akarata a tettben, midőn
                   meggyő­ző­déséről, vagy más, a szívet nem illető ügyekről vala szó; oly lassú volt
@@ -4024,7 +4023,7 @@
                   e viszonynak, mely minél későbben szakad meg, annál több fájdalomba fog kerülni. S
                   vajjon mit kell nekem tennem? Mint becsületes embernek nincs választásom. Oh
                   tudom, hogy erre két év előtt kellett volna gondolnom! De jobb későn, mint soha.
-                  Elő kell segítenem szándékát. Szakítani kell vele és - <hi rend="italic">szakítani
+                  Elő kell segítenem szándékát. Szakítani kell vele és - <hi>szakítani
                      fogok!</hi>
                </p>
                <p>A hang, melyen e szavak ejtve valának, oly elszánt és nyugodt, az átmenet, mely
@@ -4096,7 +4095,7 @@
                   tartozom barát­sá­gáért, melyet nem érdemeltem, hogy kívánjon tőlem bármit, nem
                   fogok habozni, csak azt ne kívánja, hogy továbbra is higyjek Odalie szerelmében.
                   Tudom, mit akar ön mondani. Ön a múltra hivatkozik. Megengedem, sőt hiszem, hogy
-                  Odalie szeretett, - vagy nem! <hi rend="italic">csak hitte, hogy szeret!</hi>
+                  Odalie szeretett, - vagy nem! <hi>csak hitte, hogy szeret!</hi>
                   Hitte, de nem úgy volt. Odalie nem tud szeretni, mert nincs szíve. Nem lehet őt
                   nem imádni és én megvallom önnek, hogy szeretem, imádom e perczben jobban, mint
                   valaha, de szerelmében hinni többé nem tudok!</p>
@@ -4241,7 +4240,7 @@
                   boldogságra. Láttam őt elhalaványulva leomlani, és átláttam, hogy e csapáson át
                   kell esnie. De most, midőn önmagamat erőszakosan kirántám e szerelem karjaiból,
                   midőn kedvesemről önkényt, nyiltan lemondtam, egy borzasztó üresség tátongott
-                  előttem, melyre vakságomban nem gondolék: <hi rend="italic">az élet őnélküle</hi>.
+                  előttem, melyre vakságomban nem gondolék: <hi>az élet őnélküle</hi>.
                   Az élet őnélküle, rám nézve kit szeret s ki őt imádom, - ez egy borzasztó ür a
                   mindenségben, melybe tekintve érzem, hogy elszédülök. Elhatározám lemondani róla,
                   eltaszítani magamtól e szerető szívet, - nem gondolva meg, hogy utánna az élet rám
@@ -4285,7 +4284,7 @@
                   az elhatározás, mely visszaadta nyugalmamat. Fiatal névrokonom megadta a példát,
                   melyet követnem kell.</p>
                <p>
-                  <hi rend="italic">Meg fogok halni!</hi>
+                  <hi>Meg fogok halni!</hi>
                </p>
                <p>Oly jól esik most e szót leírhatnom. Te tudod Achille, hogy a halál gondolata nem
                   új, nem idegen rám nézve. Mielőtt Odaliet megláttam, annyit foglalkoztam volt
@@ -4458,14 +4457,14 @@
                   tisztább nem volt, mint e pillanatban. Nem érzem azt az általános világfájdalmat,
                   mely elménket elhomályosítja, s fekete szemüvegen át láttatja velünk a világot;
                   nem esem kétségbe az emberiség sorsa felett, nem kételkedem benne, hogy van
-                  boldogság e földön, - de érzem, hogy <hi rend="italic">rám nézve nincs</hi>, hogy
+                  boldogság e földön, - de érzem, hogy <hi>rám nézve nincs</hi>, hogy
                   az én életem elveszté becsét, czélját, értelmét, - s érzem hogy ily csupasz életet
                   nem érdemes fenntartani.</p>
                <p>Nyugodtabban halok meg, mint éltem. - Ez igazolásom.</p>
                <p>És most isten veletek egyetlen barátom és imádott kedvesem! Legyetek oly boldogok
                   a mily boldogtalan volt</p>
                <p>
-                  <hi rend="italic">Anatole</hi>.</p>
+                  <hi>Anatole</hi>.</p>
                <p> A másik levél Plangenet Constancenak szólt és így hangzott:</p>
                <p> Asszonyom,</p>
                <p>Magyarázattal és bocsánatkéréssel tartozom önnek ama szerencsétlen jelenetért,
@@ -4499,7 +4498,7 @@
                <p>És most asszonyom, bucsút veszek öntől örökre, öntől és Odalietől. - Legyen ön
                   boldog asszonyom, s feledje és feledtesse Odalieval</p>
                <p>
-                  <hi rend="italic">Flavigneux Anatolet</hi>.</p>
+                  <hi>Flavigneux Anatolet</hi>.</p>
                <p> Ime Anatole története.</p>
                <p>Hosszadalmas valék az elbeszélésben, - folytatá Achille, - de barátomat csak az
                   itélheti meg igazságosan, a ki multját ismeri. Mert e szomorú katasztrófának oka
@@ -4663,7 +4662,7 @@
                <p>E pillanatban eszembe jutott, hogy a fazék névjegye még mindig zsebemben van,
                   elővettem tehát, s megtaláltam rajta a választ kérdésemre:</p>
                <p>
-                  <hi rend="italic">Hyacinthe Randeau Rentier.</hi>
+                  <hi>Hyacinthe Randeau Rentier.</hi>
                </p>
                
             </div>

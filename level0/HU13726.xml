@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>A vér: Regény</title>
                <date>2015-01-29</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -35,8 +35,8 @@
                   <name>Rónyainé Varga Tünde</name>
                   <name>Góczán Andrea</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="printSource">
                      <title>A vér : regény</title>
                      <author>Beniczkyné Bajza Lenke</author>
                      <pubPlace>Budapest</pubPlace>
@@ -46,6 +46,11 @@
                         target="http://nektar.oszk.hu/hu/manifestation/3238864"/>
                   </bibl>
                </relatedItem>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>A vér </title>
+               <author>Beniczkyné Bajza Lenke</author>
+               <date>1892</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -64,6 +69,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2019-04-23"/>
          <change when="2018-10-03"/>
       </revisionDesc>
    </teiHeader>

@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>A vörös postakocsi ; Őszi utazások a vörös postakocsin</title>
                <date>2007-05-15</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -32,15 +32,15 @@
                   <resp>Original Electronic Edition</resp>
                   <name>Fábri Anna</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>A vörös postakocsi ; Őszi utazások a vörös postakocsin</title>
                      <date>2007-05-15</date>
                      <ref target="http://www.neumann-haz.hu/tei/bhi/szakirodalom_hu.html"/>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="printSource">
                      <title>A vörös postakocsi ; Őszi utazások a vörös postakocsin</title>
                      <author>Krúdy Gyula</author>
                      <pubPlace>Budapest</pubPlace>
@@ -50,6 +50,11 @@
                      <ref target="http://nektar.oszk.hu/hu/manifestation/40165"/>
                   </bibl>
                </relatedItem>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>A vörös postakocsi</title>
+               <author>Krúdy Gyula</author>
+               <date>1913</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -85,11 +90,11 @@
          <head>Levél Kiss Józsefhez </head>
            
            <p>
-              <hi rend="italic">Kedves szerkesztő úr,</hi>
+              <hi>Kedves szerkesztő úr,</hi>
            </p>
            
-           <p> Ön azt kérdezi tőlem, mi lesz regényem témája, amelyet <hi rend="italic">A</hi>
-              <hi rend="italic">Hét</hi>nek írok? Minden, ami nekem kedves, és minden, amit
+           <p> Ön azt kérdezi tőlem, mi lesz regényem témája, amelyet <hi>A</hi>
+              <hi>Hét</hi>nek írok? Minden, ami nekem kedves, és minden, amit
               eddig meg nem írtam, mert nem írhattam; dolgok, amelyek évtizedek óta élnek
               bennem, de írni róluk a körülmények, eleven emberek s még nyitott sebek miatt nem
               volt illendő; gondolatok, amelyek egy félig-meddig remetéskedő férfiúnak éji
@@ -133,7 +138,7 @@
               mérget isznak, férfiak a Dunába ugranak, de vajon csakugyan szerelemből történik
               mindez?</p>
            <p> Kedves szerkesztő úr, nagyon köszönöm, hogy fölhatalmazást adott, kedvemre való
-              regényt írjak <hi rend="italic">A Hét</hi>nek. Eddigi írói pályafutásom alatt
+              regényt írjak <hi>A Hét</hi>nek. Eddigi írói pályafutásom alatt
               kiadóim közvetlenül vagy közvetve mindig tudósítottak a maguk vagy közönségük
               gusztusáról, szerették, ha a nők álarcban jártak és a férfiak frakkban,
               óhajtották, hogy bizonyos mértékben respektáljam a városi és falusi közönséget,
@@ -157,12 +162,12 @@
            <p> Tisztelője és híve</p>
            
            <p>
-              <hi rend="italic">Krúdy Gyula</hi>
+              <hi>Krúdy Gyula</hi>
            </p>
            
            
            <p>
-              <hi rend="italic">Budapesten, 1913 vízkereszt napján</hi>
+              <hi>Budapesten, 1913 vízkereszt napján</hi>
            </p>
         </div>
      </front>
@@ -194,9 +199,8 @@
                   aki már kora délután elment, a házban senkivel sem ismerkedtek meg, vendéget nem
                   fogadtak, és csak igen ritkán hagyták el lakásukat.</p>
                <p> Horváth Klára drámai, Fátyol Szilvia operettszínésznő volt. Már meglehetős
-                  sikereik voltak Kaposvárott és Makón. Horváth kisasszony a <hi rend="italic">Monna
-                     Vanná</hi>ban feltűnt, Szilvia <hi rend="italic">A bolond</hi>banés a <hi
-                     rend="italic">János vitéz</hi>ben<hi rend="italic">.</hi> A direktor azonban
+                  sikereik voltak Kaposvárott és Makón. Horváth kisasszony a <hi>Monna
+                     Vanná</hi>ban feltűnt, Szilvia <hi>A bolond</hi>banés a <hi>János vitéz</hi>ben<hi>.</hi> A direktor azonban
                   nem újította meg szerződésüket, mert Szilvia kisasszony botrányosan szép és kedves
                   teremtés volt, de azonkívül semmi egyéb. Horváth Klára szép se volt, kedves se
                   volt, csupán túlságosan büszke volt arra, hogy nagyatyja valamely magas rangot
@@ -312,14 +316,13 @@
                <p> Horváth kisasszony elképedt, a hidegvére mintha cserbenhagyta volna, Mákosi már
                   barátságos mosolyt öltött, mire Szilvia kisasszony halkan megszólalt (mert hisz ő
                   nemigen szokott részt venni a gerillaharcokban):</p>
-               <p> – Levelet írunk <hi rend="italic">A Nap</hi>nak!</p>
+               <p> – Levelet írunk <hi>A Nap</hi>nak!</p>
                <p> Bizonyára többen emlékeznek a budai korzó látogatói közül a nyurga, kék szemű,
                   elszánt arcú és csinos ifjú hírlapíróra, aki másnap megjelent a korzón, és
                   messziről kísérte a hölgyeket útjukban. Mákosi a budai nők kérelmére ismét
                   elfoglalta állomását, hogy a nem idevaló nőket kipusztítsa Budáról, midőn is
                   Horváth kisasszony valójában arcul ütötte az okvetetlenkedő gavallért, rendőr jött
-                  elő, a hírlapíró buzgón jegyzett, a csendes budai utcákon estére elkapkodták <hi
-                     rend="italic">A Nap</hi>ot, és a korzó hölgyei, akik sokat szenvedtek a
+                  elő, a hírlapíró buzgón jegyzett, a csendes budai utcákon estére elkapkodták <hi>A Nap</hi>ot, és a korzó hölgyei, akik sokat szenvedtek a
                   színésznők ízléses kalapkái, egyszerű toalettjei és finom szépsége miatt, Mákosi
                   fogalmazót igen melegen kitüntették. A férfias arcú osztálytanácsosné uzsonnát
                   rendezett, a kéményseprőéknél vacsora volt, midőn is a fess kéményseprőné (több
@@ -391,7 +394,7 @@
                   megtáncoltatjuk, és elvesszük a pénzét.</p>
                <p> Szilvia tehát leült, megírta a levelet, és harmadnapra csakugyan megérkezett
                   özvegy Urbanovicsné. Akkorra kerékkötő láncok voltak rajta elhelyezve, mintha
-                  legalább egy hónapig akarna mulatni Magyarországon. A <hi rend="italic">Fehér
+                  legalább egy hónapig akarna mulatni Magyarországon. A <hi>Fehér
                      hajó</hi>ban szállott meg, mert ott földije volt a fogadós, és hordárral
                   vezettette magát a Pattantyús utcába. Haragosan, szinte öklelő hangon kiáltott
                   unokahúgára:</p>
@@ -472,7 +475,7 @@
                   csak azután jön. De eleget papoltam. Hol is van az a színészfiú?</p>
                <p> Klára az újságot a néni elébe tartotta. Urbanovicsné pápaszemet keresett elő a
                   táskájából, gondosan felrakta, és fejcsóválva, örvendező arccal olvasta, hogy
-                  Kürtös M. éppen a <hi rend="italic">Szigetvári vértanúk</hi>ban játszik estére a
+                  Kürtös M. éppen a <hi>Szigetvári vértanúk</hi>ban játszik estére a
                   Városligetben.</p>
                <p> – Szép színház az? – kérdezte bizonyos szünet múltán.</p>
                <p> – Gyönyörű – felelte Klára.</p>
@@ -511,7 +514,7 @@
                <p> – Mi volt az apád?</p>
                <p> – Azt hiszem, színházi zenész – felelt Szilvia, s mindketten elhallgattak. Talán
                   arra gondoltak, hogy mi szeretnivaló is van egy színházi zenészen.</p>
-               <p> Szilvia a <hi rend="italic">Rip van Winkle</hi> keringőjét verte a zongorán,
+               <p> Szilvia a <hi>Rip van Winkle</hi> keringőjét verte a zongorán,
                   hangját olykor kieresztette, majd hirtelen felugrott, és átölelte barátnőjét, aki
                   bizonyos kis csipkéket készített elő.</p>
                <p> – Klára, én rettentő szerencsétlen vagyok! – kiáltott föl.</p>
@@ -557,7 +560,7 @@
                   Meglátogatnak, megsimogatnak, olyik az ágyam szélére ül, a huszár az ablakon
                   kopogtat, a másik huszár a cigánybandát hozza téli éjszakába; Cseres, az ügyelőnk,
                   akinek már a lakására is elmentem, künn lakott a város végén egy tehénistálló
-                  mellett, elöl korcsma volt a <hi rend="italic">Fehér rózsá</hi>hoz, s a Cseres
+                  mellett, elöl korcsma volt a <hi>Fehér rózsá</hi>hoz, s a Cseres
                   szobájában lakott azelőtt a korcsmai kasszírosleány; ugyanazért a levegőben még
                   érzett rossz parfümnek s mocskos fehérneműnek szaga, a cipőm felrúgott egy
                   karminos skatulyát, amilyennel a kardalosnők a szájukat festik: és talán ezért nem
@@ -626,7 +629,7 @@
                   gyönyörű angol naptárakat akasztott ki, amelyeket az egész város megbámult. Piros
                   frakkban kergették a rókát, máshol Dickens úr regényhősei utaztak postakocsin a
                   hónapok címtáblájában, a nagy étvágyú Pickwick urat mindenki felismerhette
-                  szárnyas frakkjában, továbbá Weller urat, s a fogadó a <hi rend="italic"
+                  szárnyas frakkjában, továbbá Weller urat, s a fogadó a <hi
                      >György</hi>höz volt címezve. Míg az ékszerész kék bársonyba ágyalt gyémántjai
                   mellett közömbösen haladtak el színésznőink, s a virágkereskedés virágzó pálmájára
                   is csupán rejtett pillantást vetettek, a könyvkereskedőnél megállottak. A
@@ -654,8 +657,7 @@
                   Klára nagyapja meglehetős magas rangot viselt a minisztériumban, de atyja csupán
                   éjjeliőr volt Máriapócson. Ki tudná, ki tudhatná, hogyan bukkant fel egykor Klára
                   a színésziskolában!</p>
-               <p> Szilvia a zongorához ült, a fejét hátrahajtotta, és az ujjai alatt a <hi
-                     rend="italic">Királyfogás</hi> valcerje hangzott, míg a gondolatai tovább
+               <p> Szilvia a zongorához ült, a fejét hátrahajtotta, és az ujjai alatt a <hi>Királyfogás</hi> valcerje hangzott, míg a gondolatai tovább
                   járták a tegnapot, amikor (most úgy hitte) boldog volt, amilyen boldog nem lesz
                   már többé soha.</p>
                <p> …Egy kék bársony, sarkig érő felöltője volt, amelyben meghódította az egész
@@ -787,14 +789,13 @@
                   nadrágocskát szerettek a színpadra ölteni, akár volt erre ok, akár nem. Az udvaron
                   cigarettafüst és narancsillat. A kámea arcú Feld Irén a szent papnők hosszú
                   lépteivel sietett át a tájon. A dráma most messze költözött, s az esős évszak
-                  beállta előtt nem lehet <hi rend="italic">Nórá</hi>ban játszani. Az aréna eresze
+                  beállta előtt nem lehet <hi>Nórá</hi>ban játszani. Az aréna eresze
                   alatt korán májusban elhelyezkedtek a párok, az ifjú hírlapíró urak télire
                   kőszínházba való szerződést ígértek a leánykáknak, akik még csak tegnap lépték át
                   egy házmesterlakás küszöbét, vagy a ligeti fák alól jöttek, hol vizet vagy virágot
                   árultak poros vasárnapi estéken, s talán akkor szerettek először. Báttaszéki
                   szerkesztő szürke cilinderkalapja pontosan felbukkant az esthomályban, mert híres
-                  volt arról, hogy a <hi rend="italic">Charley nénjét</hi> ötvenszer, <hi
-                     rend="italic">Goldstein Számi</hi>t hatvanszor és <hi rend="italic">Háromláb
+                  volt arról, hogy a <hi>Charley nénjét</hi> ötvenszer, <hi>Goldstein Számi</hi>t hatvanszor és <hi>Háromláb
                      kapitány</hi>t olvasatlanul nézte végig a faszínházban. A színház vezetősége
                   kitüntető szívességgel fogadta a nemes barátot, aki tán napközben sem mozdul ki
                   vala a nézőtérről, ha ott dohányozni és sörözni lehet. És ez volt az ürügy arra,
@@ -803,7 +804,7 @@
                   vacsoráknak hódol, holott a színház intézősége még a mai napig is azt hiszi, hogy
                   a szürkecilinderes az előadásoktól volt meghatott és serény. A költőnők nevében
                   Király Gizy költőnő vett részt az előadáson, és nemes metszésű feje antik bánatot
-                  fejezett ki <hi rend="italic">Charley nénjé</hi>nélis.</p>
+                  fejezett ki <hi>Charley nénjé</hi>nélis.</p>
                <p> Az ifjú hírlapírói kar ez idő tájt ilyen dolgokkal mulattatta magát. A
                   redakcióban az évszakok változása szerint Küry Klárit vagy a lenge nyári esték
                   vidéki csalogányait volt szokás imádni. Az oxfordi diáknak színes szalagot varrnak
@@ -821,12 +822,12 @@
                <p> A telet fölváltotta a nyár és K. C.-t a liget s a budai oldal pacsirtái. A
                   tótfalusi nyár megtizedelte, hatalmasan megritkította a népszínházi falanxot, még
                   Satanello is színt cserélt, pedig már feltette magában, hogy operettet ír a
-                  Népszínháznak. Bródy Sándor fiákere gyakran állongott a <hi rend="italic"
+                  Népszínháznak. Bródy Sándor fiákere gyakran állongott a <hi
                      >Politikus csizmadia</hi> előtt, a temesvári társulat hölgyei elszántan itták
                   az ingerlő bólét, hisz a Nemzetiben sem játszott senki. A „szőke csoda” sem. Tímár
                   Szaniszló pepita nadrágban járt, és a világos színű Lavalli?re-nyakkendőt
                   pártfogolta. Schmittely József éjszakánként, lapzárta után arról ábrándozott,
-                  hogyan lehetne a <hi rend="italic">Pesti Hírlap</hi> szerkesztői asztala mellől
+                  hogyan lehetne a <hi>Pesti Hírlap</hi> szerkesztői asztala mellől
                   egy langyos este Budára illanni, és a híres Fái kisasszonyt megszemlélni, hisz
                   naponta háborút kell viselnie miatta a szerkesztőség felével, a vezércikk s tárca
                   mind a rózsaszínű Flóráról zengene… A zseniális Beöthy László még csak egyszerű
@@ -864,7 +865,7 @@
                   szegezte tábori látcsövét a színpadi csatamezőre. A hírlapírók már elhelyezkedtek,
                   és a középső sorokból alattomos nevetése bugyborékolt felfelé a színészhölgyeknek,
                   akik ez estén nem vesznek részt az előadásban. A parókás karnagy hátat fordított a
-                  színpadnak, amint a felvonásközi zenét elvégezte embereivel (a <hi rend="italic"
+                  színpadnak, amint a felvonásközi zenét elvégezte embereivel (a <hi
                      >Gasparoné</hi>ból játszván), a nagybőgős titkon felhajtott söréből, s egy
                   szőke, szemüveges fiatal zenész már harmadszor olvasott végig egy gyűrött levelet.
                   Vajon ki küldte a levelet? Örömről volt szó benne vagy boldogtalanságról?</p>
@@ -935,7 +936,7 @@
                   volna megolvasni. Furcsa kis orra csendesen elpirult, és olyan halkan lélegzett,
                   mintha valami rendkívüli esemény lefolyását figyelné, mintha félálomban lesné az
                   álom folytatását.</p>
-               <p> – Rezeda úr engem is mindig megdicsért. A <hi rend="italic">Rip</hi>ben azt írta
+               <p> – Rezeda úr engem is mindig megdicsért. A <hi>Rip</hi>ben azt írta
                   rólam, hogy a hangom bánsági földbirtok, amelyen aranybúza terem – szólalt meg
                   Szilvia halkan, széttagolva a szavakat, mintha maga is érezné a dolgok
                   fontosságát. – És sohasem kereste, hogy bemutassák nekem Debrecenben! Miért?</p>
@@ -949,8 +950,8 @@
                   annyit láthatott, amennyire kíváncsi volt.</p>
                <p> – Minek? – mondta Szilvia, és hangjában csudálkozás csengett. – Annak, hogy ne
                   mindig csa a régi színésznőkről merengjen a hasonlataiban!… Emlékszem műveire,
-                  amelyekben megírta a <hi rend="italic">Suhanc</hi>ról, hogy azt Szalkainé óta
-                  senki sem tudta. Tiszainé Ellinger Ilonka a <hi rend="italic">Denevér</hi>ben volt
+                  amelyekben megírta a <hi>Suhanc</hi>ról, hogy azt Szalkainé óta
+                  senki sem tudta. Tiszainé Ellinger Ilonka a <hi>Denevér</hi>ben volt
                   utolérhetetlen, midőn az egész város és satöbbi Margó Zelmáért mennyit rajongott!
                   Uram, én minden művét ismerem.</p>
                <p> – Kisasszony – felelte Rezeda olyan érzelmesen, mint a szent sír katonája
@@ -966,7 +967,7 @@
                   örökké azt mondta volna: „Milyen boldogtalan vagyok, engem nem szeret senki,
                   kegyed sem, ugye?”</p>
                <p> A szerkesztő sziszegő hangot hallatott:</p>
-               <p> – Mert én voltam <hi rend="italic">Don Quijote</hi>!… Pruty-pruty.</p>
+               <p> – Mert én voltam <hi>Don Quijote</hi>!… Pruty-pruty.</p>
                <p> Pattogó hangot adott a szájával, mire Klára a kesztyűjével a vállára ütött.</p>
                <p> – Miféle utálatos szokás ez? – kérdezte nagynénis szigorral.</p>
                <p> – Pardon, azt hittem, a hölgyek már ismerik a legújabb pesti divatot.
@@ -992,14 +993,14 @@
                <p> – Csak herceg, úrnőm – felelt kétes hódolattal Rezeda úr.</p>
                <p> – És melyek azok a kedves hírlapok? – folytatta Szilvia.</p>
                <p> Rezeda hunyorított a fél szemével, mintha Európa legnagyobb viccét mondaná.</p>
-               <p> – Az egyiket <hi rend="italic">A jó borkereskedő</hi>nekhívják.</p>
+               <p> – Az egyiket <hi>A jó borkereskedő</hi>nekhívják.</p>
                <p> Szilvia összecsapta a kezét.</p>
                <p> – Hallatlan!</p>
                <p> Rezeda úr most a másik szemét hunyta le.</p>
-               <p> – A másik neve: <hi rend="italic">Keresztények Újságja</hi>. És a harmadik…</p>
+               <p> – A másik neve: <hi>Keresztények Újságja</hi>. És a harmadik…</p>
                <p> A szerkesztő most mind a két szemét lehunyta, mintha maga is félne a vicc-srapnel
                   pusztításától.</p>
-               <p> – Harmadik lapom <hi rend="italic">A lámpás.</hi>
+               <p> – Harmadik lapom <hi>A lámpás.</hi>
                </p>
                <p> Horváth kisasszony közelebbről ismerte Rezeda urat, s így kénytelen volt
                   bólintani.</p>
@@ -1016,7 +1017,7 @@
                <p> Egypár percig azonban mégiscsak elhallgattak a páholyban. Rezeda úr magába
                   merülve mosolygott, mintha azon nevetett volna, hogy milyen mulatságos ember ő,
                   mert bizonyossággal fölköti magát holnap vagy holnapután…</p>
-               <p> – <hi rend="italic">A lámpás</hi>! – mondta szórakozottan Klára. – Színésznőkről
+               <p> – <hi>A lámpás</hi>! – mondta szórakozottan Klára. – Színésznőkről
                   is szokott írni?</p>
                <p> – Természetesen. A színésznők kedvelik lapomat.</p>
                <p> – Ej, haj! Tehát mégsem felejtettük el a vidéki hírlapíró elvét? A legszebb
@@ -1034,12 +1035,12 @@
                <p> – Ferenc József-kabátot hordott.</p>
                <p> – Vidéken úgy szokás szerkeszteni.</p>
                <p> – Délelőtt a korzón megbeszélte a színügyet a polgármesterrel.</p>
-               <p> – Azt, hogy maga milyen nagyszerűen játszott a <hi rend="italic"
+               <p> – Azt, hogy maga milyen nagyszerűen játszott a <hi
                   >Nórá</hi>ban.</p>
                <p> – Oldalszakálla is volt.</p>
                <p> – Istenem! – sóhajtotta most váratlanul Szilvia, és gyorsan a színpadra
                   nézett.</p>
-               <p> – Tehát mit szokott írni a színésznőkről <hi rend="italic">A lámpás</hi>ba?–
+               <p> – Tehát mit szokott írni a színésznőkről <hi>A lámpás</hi>ba?–
                   kérdezte Klára.</p>
                <p> –A derék és tiszteletre méltó hölgyről, aki a nagyasszonyt alakítja a deszkán,
                   lapom legutóbbi számában azt bátorkodtam megírni, hogy milyen szaga van a
@@ -1062,18 +1063,18 @@
                   színésznők és igazi hercegnők viselnek. Szilvia kis kezével, amely olyan meleg
                   volt, mint egy menyasszonynak a párnája, a kabát alatt megszorította a hírlapíró
                   kezét.</p>
-               <p> – Küldje el nekem <hi rend="italic">A lámpás</hi>t! – mondta suttogva, mintha
+               <p> – Küldje el nekem <hi>A lámpás</hi>t! – mondta suttogva, mintha
                   igen nagy titkot közölne.</p>
                <p> Majd hangosan megkérdezte:</p>
                <p> –Velünk tart?</p>
-               <p> –A <hi rend="italic">Fehér hajó</hi>ba megyünk vacsorázni. Ugye, azt írtátok
+               <p> –A <hi>Fehér hajó</hi>ba megyünk vacsorázni. Ugye, azt írtátok
                   Kürtösnek? – szólalt meg Urbanovicsné, akinek őszinte megindultság tükröződött
                   arcán, mintha kedvese temetéséről jött volna, amint az előadásnak vége volt.</p>
                <p> A színkör előtt egy szürke cilinderes gavallér állott. Szürke redingote-ján friss
                   virág, arcán ragyogó mosoly: vacsorázó kompániát toborzott.</p>
                <p> – Rendes ember Vadkertinél vacsorázik – mondta hangosan, mert ebben a szezonban
                   Vadkertihez jártak a „színháztól”.</p>
-               <p> – Kár, hogy már a <hi rend="italic">Fehér hajó</hi>ba ígérkeztünk! – szólalt meg
+               <p> – Kár, hogy már a <hi>Fehér hajó</hi>ba ígérkeztünk! – szólalt meg
                   bocsánatkérően Urbanovicsné, félig-meddig a szürke cilinderes úrhoz intézve a
                   szót, mert bizonyos kötelezettséget érzett a színház irányában Kürtös és unokahúga
                   miatt.</p>
@@ -1093,7 +1094,7 @@
                <p> A zene gyönyörűen zengett, nyírségi cigányok muzsikáltak, és a falon tükrök
                   ragyogtak. Egy régi csillárban gázlángok lobogtak, és piros szőnyeg volt a padlóra
                   terítve.</p>
-               <p> – Kaposvárott szebb fogadó van. A <hi rend="italic">Szarvas</hi> – mondta
+               <p> – Kaposvárott szebb fogadó van. A <hi>Szarvas</hi> – mondta
                   Urbanovicsné fitymáló hangon. – Hé, fogadós!</p>
                <p> Kürtös színész nyomban megérkezett, csak a festéket mosta le arcáról. Igénytelen,
                   barna, meglehetős szemtelen tekintetű fiatalember volt, aki semmi egyebet nem
@@ -1121,8 +1122,7 @@
                <p> – Magának.</p>
                <p> – Dehogy! Szilviának.</p>
                <p> Rezeda úr felhajtotta az asztalterítőt.</p>
-               <p> – Lássuk – mondta. – Húzza fel a szoknyát, művésznő. Majd megírom <hi
-                     rend="italic">A lámpás</hi>ba.</p>
+               <p> – Lássuk – mondta. – Húzza fel a szoknyát, művésznő. Majd megírom <hi>A lámpás</hi>ba.</p>
                <p> Szilvia engedelmeskedett.</p>
                <p> Finom bokája, amelyhez a selyemharisnya szenzációs szerelemmel tapadt, kis
                   lakkcipője, amelyen szalagcsokor díszlett, valóban érdemes volt a megtekintésre. A
@@ -1263,19 +1263,18 @@
                   vasúttársaság barna kabátos inasai szupéhoz terítettek. Alvinczi bőven és jóízűen
                   étkezett, majd nyugodtan aludt a szlipingkár fülkéjében, és alig várta, hogy
                   Bécsben a Ballplatzon visszaadhassa követségi levelét. Hazajött Budapestre,
-                  megelégelte a diplomatáskodást. A régi <hi rend="italic">Arany Sas</hi> fogadóban
+                  megelégelte a diplomatáskodást. A régi <hi>Arany Sas</hi> fogadóban
                   szállott meg, ahol már egyetemi hallgató korában is lakott: akkor egy szobában,
                   most kettőben, mert legényének is ott kellett aludnia, és éjjel levetkőztetni,
                   lábát, kezét megdörzsölni, betakarni, és jó éjszakát mondani, mint otthon Ungban,
                   az ősi házban, ahol a föld, a mező és a patak az első foglalásból maradott meg az
                   Alvincziak kezén. Az ungi berkek zúgnak, rejtőzködő kuruc, bujdosó honvéd járja, a
-                  határszéli hegyek, mint havas kísértetek állanak a tájon… Be nagy kár, hogy az <hi
-                     rend="italic">Arany Sas</hi>ban nem lehetett falusi komondort tartani, amely
+                  határszéli hegyek, mint havas kísértetek állanak a tájon… Be nagy kár, hogy az <hi>Arany Sas</hi>ban nem lehetett falusi komondort tartani, amely
                   Alvinczi Eduárdnak éjjel ugatott volna.</p>
-               <p> (Midőn <hi rend="italic">A lámpás</hi> érdemes szerkesztője elbeszélése ezen
+               <p> (Midőn <hi>A lámpás</hi> érdemes szerkesztője elbeszélése ezen
                   részletéhez érkezett, Horváth Klára kisasszony alig hallhatóan felsóhajtott:</p>
                <p> – Istenem.)</p>
-               <p> Szilveszter, öreg író néhány nap múlva kopogtatott az <hi rend="italic">Arany
+               <p> Szilveszter, öreg író néhány nap múlva kopogtatott az <hi>Arany
                      Sas</hi>ban.</p>
                <p> Szilveszter olyan öreg író volt, aki még lúdtollal Sylvesternek írta a nevét, és
                   azért a legbüszkébb, hogy az öngyilkos Balázs Sándor reá testálta a köpönyegét. A
@@ -1293,8 +1292,8 @@
                   mélabúval tekingetett elő fekete szeme. A pusztai lovasnak van ilyen tekintete,
                   midőn a ködben, felhőben fürdő messziség felé néz. Alvinczi keletre nézett, ahol
                   ősapja király volt. Francia újságok hevertek a lábánál. Szilveszter felemelte a
-                     <hi rend="italic">Gil Blas</hi>-t.</p>
-               <p> – Ma este egy <hi rend="italic">Gil Blas</hi> című jelenetet játsznak madame
+                     <hi>Gil Blas</hi>-t.</p>
+               <p> – Ma este egy <hi>Gil Blas</hi> című jelenetet játsznak madame
                   Louise-nál. Én írtam.</p>
                <p> A fejedelem unottan nézett szattyánpapucsára.</p>
                <p> – Kis jelenet – ismételte Szilveszter.</p>
@@ -1316,7 +1315,7 @@
                <p> Néhány, Viktória császárnő fejével ékesített tallért nyújtott át az öreg írónak.
                   Az aranyak eszkamotőri gyorsasággal tűntek el Szilveszter piros mellénye
                   tájékán.</p>
-               <p> – <hi rend="italic">Gil Blas! </hi>– mondta gyorsan köszönet helyett, mert
+               <p> – <hi>Gil Blas! </hi>– mondta gyorsan köszönet helyett, mert
                   Alvinczi visszavette az ajándékot, ha azt megköszönték.</p>
                <p> – Majd meglátom. Ha egyéb dolgom nem lesz, átnézek a Madame-hoz.</p>
                <p> – Estély lesz, szőr. Szoáré!</p>
@@ -1433,10 +1432,10 @@
                   kristálypohárba önti.</p>
                <p> – Jó éjszakát, János.</p>
                <p> A kocsi ajtaja bezáródik. A lovak hosszú ügetéssel indulnak el a kaszinó felé,
-                  amely ötvenlépésnyire fekszik az <hi rend="italic">Arany Sas</hi>tól.</p>
+                  amely ötvenlépésnyire fekszik az <hi>Arany Sas</hi>tól.</p>
                <p> („Istenem!” mondta ismét Horváth kisasszony, és a homlokára tette a kezét, mintha
                   láza volna.)</p>
-               <p> Szilveszter éjszaka vidéki urakkal mulatott az <hi rend="italic">Arany
+               <p> Szilveszter éjszaka vidéki urakkal mulatott az <hi>Arany
                   Sas</hi>ban. Radics muzsikált, és a mulatság heves tempóban tartott éjfélig. (A
                   piros mellényes öregúr nagyobb kedvelője volt a poétázgató, majd duhajra forduló
                   mulatságnak, a kemény ivásnak, mint a nőkkel való enyelgésnek.) Madame Louise, más
@@ -1445,18 +1444,17 @@
                   engedélyezték. Az irodalmi estélyeken kiderült, hogy Donna Juana zseniális
                   színésznő, aki egymagában játszott el teljes kis felvonásokat. Egy régi romantikus
                   regény lapjairól volt kivágva ő… Majd többet beszélünk a „fehér kaméliás
-                  hölgy”-ről, most csupán annyit, hogy a <hi rend="italic">Gil Blas</hi> című
+                  hölgy”-ről, most csupán annyit, hogy a <hi>Gil Blas</hi> című
                   jelenet két férfi s női szerepét egymagában eljátszotta, és a vendégek közül
                   Salamon Ödön író a Sarcey nyelvén mondott méltatást a háziasszony művészetéről.
                   Szilveszter úr akkorára már elszökött, mert hírét vette, hogy Dapsy Pest megyei
-                  főszolgabíró az <hi rend="italic">Arany Sas</hi>ban muzsikáltat magának. Havas
+                  főszolgabíró az <hi>Arany Sas</hi>ban muzsikáltat magának. Havas
                   fergeteg zúgott a Belváros felett, a gázlámpák ijedten táncoltak, a borbélytányér
                   zörgött, mint akár abban az időben, amikor Lisznyai Kálmán és Beöthy László
                   bolyongtak éjszaka, s a Heckenast-féle nyomda (az ellenséges nyomda) vastábláit
                   botjukkal megdöngették. Szilveszter Balázs Sándor köpönyegébe burkolózott,
                   nagyokat szippantott a havas fergetegből, s így hamar sikerült elfelejteni a
-                  parfümös, kaméliás estélyt, hol az írok frakkban teáznak, a mai írók; mire az <hi
-                     rend="italic">Arany Sas</hi>hoz ért, kis pörge kalapját félrecsapta, s egy
+                  parfümös, kaméliás estélyt, hol az írok frakkban teáznak, a mai írók; mire az <hi>Arany Sas</hi>hoz ért, kis pörge kalapját félrecsapta, s egy
                   régi, duhaj Pest megyei nóta jutott az eszébe… (Ugyanezért tartott a mulatság
                   sokáig.)</p>
                <p> Már elmúlt dél, midőn Szilveszter barátjánál, pártfogójánál és hűbéres uránál,
@@ -1534,8 +1532,7 @@
                   jött le a hegyről.</p>
                <p> – A fűszerest ezentúl hirdetési nyugtával fizetem – gondolta magában, amint a
                   budai lap eszméje kibontakozott fejében.</p>
-               <p> Csupán harmadnapra kopogtatott az <hi rend="italic">Arany Sas</hi>ban<hi
-                     rend="italic">.</hi>
+               <p> Csupán harmadnapra kopogtatott az <hi>Arany Sas</hi>ban<hi>.</hi>
                </p>
                <p> –Méltóságos úr? – kérdezte az inast.</p>
                <p> – Már felöltözött.</p>
@@ -1594,7 +1591,7 @@
                <p> Az öregekkel kezet fogott a nagyúr.</p>
                <p> – Stümmer úr, neveljék gyermeküket tisztaságban. Én majd néha meglátogatom
                   magukat. Menjünk, Szilveszter.</p>
-               <p> A <hi rend="italic">Sas</hi>ban ismét felvette keleti kaftánját… A tüzet a fehér
+               <p> A <hi>Sas</hi>ban ismét felvette keleti kaftánját… A tüzet a fehér
                   kályhában megigazította, kezét fázósan összedörzsölte. Elgondolkozott, és olyan
                   hangon, mint ahogy álmában beszél néha az ember álmához, halkan mondta:</p>
                <p> – Gyakran gondoltam arra, hogy nekem senkim sincs. Céltalanul, hiába élek. A
@@ -1637,8 +1634,7 @@
                   úrnő tudott, sohasem hangzott el sem a cselédség, sem a vendégek előtt.)</p>
                <p> – Kedves Lujza barátnőm – mondta Alvinczi úr a díványon elhelyezkedve, ahol
                   délutánonként Magyarország egyik leggazdagabb zászlósura szokott ezüst fejével
-                  szundikálni, mert igazában csak itt tud aludni, miközben Louise asszony a <hi
-                     rend="italic">Kis Újság</hi>ból az újdonságok címét olvassa föl, s a címeket
+                  szundikálni, mert igazában csak itt tud aludni, miközben Louise asszony a <hi>Kis Újság</hi>ból az újdonságok címét olvassa föl, s a címeket
                   kommentárokkal kíséri a herceg, míg elszundít, s szerepét Louise tölti be,
                   mondván: „Összeégett varrónő.” Az ördög kíváncsi rá, miért nem vigyázott a
                   ringyó…</p>
@@ -1702,7 +1698,7 @@
                <p> *</p>
                
                
-               <p> Rezeda úr néhány nap múlva személyesen vitte el <hi rend="italic">A lámpá</hi>t a
+               <p> Rezeda úr néhány nap múlva személyesen vitte el <hi>A lámpá</hi>t a
                   színésznők lakására, a Pattantyús utcába. Szilvia az utcáról észrevette a
                   szerkesztőt, s a keskeny előszobában várta, hol semmi más nem fért el, mint egy
                   szarvasvadászat képe a falon. A fogas magasan volt, mintha a kalapok az utcára
@@ -1724,7 +1720,7 @@
                   tekintetét, amint a piros pongyola alatt szétvetett lábfejjel állott a kis
                   előszobában.</p>
                <p> – Tudom, tudom – mondta nevetve Rezeda úr. – Nagyon ügyes lába van!</p>
-               <p> – <hi rend="italic">A lámpás</hi>! – szólt Szilvia egyenkint tagolva a betűket,
+               <p> – <hi>A lámpás</hi>! – szólt Szilvia egyenkint tagolva a betűket,
                   mintha mindegyik betűnek megadná a különös tiszteletet. Azután fogta az újságot, s
                   a szekrény tetejére hajította.</p>
                <p> Horváth kisasszony fehérneműt foltozott, Szilvia a szerkesztő válla fölött
@@ -1783,7 +1779,7 @@
                   kell.</p>
                <p> Szilvia azonban ragyogó szemét, felpiruló arcát lelkesen fordította Rezeda
                   úrra.</p>
-               <p> A zongorára ütött, és érzelmesen énekelte a <hi rend="italic">Hoffmann</hi>
+               <p> A zongorára ütött, és érzelmesen énekelte a <hi>Hoffmann</hi>
                   szerelmi dalát.</p>
                <p> A zene alatt Klára halkan megkérdezte.</p>
                <p> – Nos, mi van a barátunkkal? Monte Christo gróffal? Még mindig nem lehetek oly
@@ -1796,7 +1792,7 @@
                <p> Rezeda Kázmér már csaknem harmincesztendős férfiú volt, ez idő alatt járt lyukas
                   cipőben, s volt egyszer tizenkét lovaglónadrágja, midőn ezer pengőt örökölt. Tehát
                   többet megpróbált az életben, mint az átlagemberek. Azonban mégis… Már sokkal
-                  bölcsebb férfiakat is hálójukba vontak a női cselfogások. <hi rend="italic">A
+                  bölcsebb férfiakat is hálójukba vontak a női cselfogások. <hi>A
                      lámpás</hi> szerkesztője elpirult Klára simogatására.</p>
                <p> – Tehát: ma este – mondta gyors elhatározással – Madame Louise estélyt ád, s
                   engedelmem van, hogy kegyedet az estélyre bevezessem.</p>
@@ -1812,7 +1808,7 @@
                <p> Talán egyikük se vette észre ebben a percben, hogy a zongora és a dal hirtelen
                   elhallgatott. Vannak dalok, amelyeket sohasem énekelnek végig.</p>
                <p> Szilvia sápadtan összeszorította az ajkát.</p>
-               <p> – A kék bársonykosztümöt vedd fel, amelyben a <hi rend="italic">Fedorá</hi>ban
+               <p> – A kék bársonykosztümöt vedd fel, amelyben a <hi>Fedorá</hi>ban
                   játszottál – mondta később halkan Szilvia.</p>
                <p> Rezeda úr egy darabig szomorú fejbólintással nézte Klára ideges, örömteli
                   készülődését. Gúnyos mosoly ült az arcára, majd csendesen nevetgélni kezdett,
@@ -1827,7 +1823,7 @@
             <div type="chapter">
                <head> 4. Fejezet A legbarátságosabb pesti ház </head>
                
-               <p> Madame Louise írónő volt. Írt verseket, elbeszéléseket (a <hi rend="italic"
+               <p> Madame Louise írónő volt. Írt verseket, elbeszéléseket (a <hi
                      >Kökörcsinek</hi>re mindnyájan emlékezhetünk, akik a szalonjában helyet
                   foglaltunk), Sévigné asszony volt pompás leveleiben, amelyeket írókhoz és
                   művészekhez intézett (olykor, tizenkét oldalon s mindig asszonyi gráciával és
@@ -1839,7 +1835,7 @@
                   teleszkópusára volt büszke, anyja – à la Romantique – színésznőnek szökött el a
                   háztól, míg atyja valamely messzi csehországi garnizonban a császárt szolgálta.
                   Nagyapó mindig a csillagokat vizsgálta, vagy címerét tartotta rendben, Vilma a
-                  parasztgyerekekkel verekedett vagy <hi rend="italic">Corinná</hi>t olvasgatta a
+                  parasztgyerekekkel verekedett vagy <hi>Corinná</hi>t olvasgatta a
                   lugasban, s így tizenhat esztendős lett, franciául tanult, hárfát és éneket, atyja
                   hazaküldött, kivénült huszárja megtanította lovagolni, februárban egy szakasz
                   ulánust helyeztek a faluba, s mire május lett, Vilma az ablakon át megszökött a
@@ -1919,7 +1915,7 @@
                   csakhamar külföldi utazásra küldött, mert Sem tollforgatói, a mérgezett nyilakkal
                   lövöldöző ifjú harcosok már csaknem eljutottak a kis fészekig, hogy e rózsaszínű
                   bástyánál támadják meg a nemes Tankrédet.</p>
-               <p> A <hi rend="italic">Bayerischer Hof</hi> ebédlőasztalánál –az ábrándos Münchenben
+               <p> A <hi>Bayerischer Hof</hi> ebédlőasztalánál –az ábrándos Münchenben
                   – két magyar főúrral ismerkedett meg Louise. Az urak a gróf barátai voltak, s
                   természetesen gondjaikba vették barátjuk barátnőjét.</p>
                <p> Sohase küldjük barátnőnket egyedül vagy akár női felügyelet alatt külföldre, de
@@ -1983,10 +1979,10 @@
                   hunyorgatva hallgatta az ódát, amely egy vén János-hegyi kődarabhoz volt
                   intézve:</p>
                <p>
-                  <hi rend="italic">És a kő azt mondja:</hi>
-                  <hi rend="italic">Én leszek a sírköved.</hi>
-                  <hi rend="italic">Vadrózsának bokra</hi>
-                  <hi rend="italic">A temetkező helyed…</hi> Szilveszter felállott, meghajolt
+                  <hi>És a kő azt mondja:</hi>
+                  <hi>Én leszek a sírköved.</hi>
+                  <hi>Vadrózsának bokra</hi>
+                  <hi>A temetkező helyed…</hi> Szilveszter felállott, meghajolt
                   Horváth kisasszony előtt, miután nőkkel szemben mindig udvarias volt, megcsókolta
                   a kezét:</p>
                <p> – Ha fiatalabb volnék, magáról verset írnék. De már öreg legény vagyok, és
@@ -2046,8 +2042,7 @@
                   kezében kis virág, máshol színházi belépőjét ereszti le gömbölyű válláról. Louise
                   gyászruhában, Louise mint spanyol táncosnő, majd hosszú uszállyal és vagyont érő
                   legyezővel kezében. Emitt egy polgárasszonyka a nyolcvanas évek divatja szerint,
-                  ott könyvet olvas, később hegyes lábú íróasztalkájára könyököl, s bizonyosan a <hi
-                     rend="italic">Kökörcsinek</hi>et írja.</p>
+                  ott könyvet olvas, később hegyes lábú íróasztalkájára könyököl, s bizonyosan a <hi>Kökörcsinek</hi>et írja.</p>
                <p> Régi, vidéki szalonokban, ahol a ház nőtagjai maguk végzik reggelenkint a
                   takarítást, s a szoba napközben zárva van, őrzik meg ily féltő gondossággal a
                   daguerrotypeket, amelyek apákat, nagyapákat, rokonokat ábrázolnak, s késő
@@ -2112,7 +2107,7 @@
                   Hentzi-szobrot levegőbe röpítenem. Manapság minden másképp volna. Talán még a
                   lapom is élne.</p>
                <p> – Mi a baj, Bujdosó uram? – kiáltotta a háziasszony. – Magáról írta Eötvös Károly
-                  a regényt: <hi rend="italic">Aki örökké bujdosik</hi>.</p>
+                  a regényt: <hi>Aki örökké bujdosik</hi>.</p>
                <p> Bonifácz heveskedve felállott, és megigazította a szemüvegét:</p>
                <p> – Hogyne bujdosnék, kérem. Háromszor ültem királysértésért, kérem. Hatszor
                   sajtóvétségért, kérem. Számtalanszor fogtak lázadási pörbe. S az embernek még
@@ -2146,16 +2141,16 @@
                   szomszédjához fordult, és szónoki modorban, de elég csendesen magyarázta
                   szenvedéseit, amelyekről különben bortalan állapotban mélységesen szokott
                   hallgatni. Furcsa félreértése volt Bonifácz a magyar életnek. Komolyan vette a
-                  dolgokat. Költőnek indult, <hi rend="italic">Jézus</hi> című drámai költeményét
+                  dolgokat. Költőnek indult, <hi>Jézus</hi> című drámai költeményét
                   egykor majd kiássák a múzeumokból, ám jött Istóczy, Verhovay, és szegény Bonifácz
-                  elfelejtette <hi rend="italic">Jézus</hi>t. Fanatikus, szélsőbaloldali újságíró
+                  elfelejtette <hi>Jézus</hi>t. Fanatikus, szélsőbaloldali újságíró
                   lett. Kis vagyonkáját elvitték a lapalapítások. Hol lakott? Merre járt?
                   Tíz-tizenöt esztendőn keresztül senki se tudta bizonyosan. Szilvesztert, régi
                   barátját tisztelte meg néha, hogy ötven, esetleg húsz krajcárt kölcsönkérjen,
                   amelyért a város egyik végéről a másikra gyalogolt.</p>
                <p> A társaság vidám hangulatba emelkedett. A falusiasan készített ételek pompásán
                   ízlettek a többnyire vidékről származott vendégeknek.</p>
-               <p> – El fogom játszani <hi rend="italic">Gil Blas</hi>t! – kiáltott föl egyszerre
+               <p> – El fogom játszani <hi>Gil Blas</hi>t! – kiáltott föl egyszerre
                   Louise asszony. – Lenke, segíts az öltözködésnél.</p>
                <p> – Bravó! – mondta határozatilag Szilveszter. – És te, Béla, most már hallgass a
                   Hentzi-szoborral.</p>
@@ -2166,7 +2161,7 @@
                   lépett be.</p>
                <p> – Már megint meghalt az öreg Szentpéteri – mondta őszinte részvéttel, és levelet
                   nyújtott át úrnőjének.</p>
-               <p> Szilveszter, a <hi rend="italic">Gil Blas</hi>-című jelenet szerzője, aki
+               <p> Szilveszter, a <hi>Gil Blas</hi>-című jelenet szerzője, aki
                   bizonyos idő óta székén olyan állásba helyezkedett, mint a szerzők, midőn
                   színdarabjukat játsszák, mérgesen dörmögött:</p>
                <p> – A legrosszabbkor hal meg a vén poéta. Nekem is mindig akkor küldi el a
@@ -2247,7 +2242,7 @@
                <p> – Bemutatás nélkül tolakodtam be. Kérem, asszonyom, legyen segítségemre!</p>
                <p> – Monte Christo úr, Német kisasszony, Tulipán úr… Ejnye, komámuram, hol jár az
                   esze? – mondta gyorsan Madame Louise. – És a nihilista úr, de hát őt ismeri
-                  méltóságod. Ő küldte az ázsiai pusztákról a <hi rend="italic">hunszív</hi> nevű
+                  méltóságod. Ő küldte az ázsiai pusztákról a <hi>hunszív</hi> nevű
                   füvet méltóságod versenyparipáinak. Amely füvön a honfoglalásra induló magyarok
                   lovai nőttek fel, s a nyeregkápában az ungi hegyekig tartott az otthonról hozott
                   takarmány – mondá Louise asszony szónokias lendülettel, mert jó színésznő módjára
@@ -2290,13 +2285,13 @@
                   hirtelen álom lepett volna meg, s valamely ablakon át láttam volna egyszerre a
                   Hatvani utcát, a Kalap utcát, a Sebestyén teret, az egész Belvárost. S a bolondos
                   Grósz Sándort is megpillantottam egyszerre, pedig csak egy-két valcert táncoltam
-                  vele életemben, amint a <hi rend="italic">Korona</hi> kávéház fészeknek nevezett
+                  vele életemben, amint a <hi>Korona</hi> kávéház fészeknek nevezett
                   kártyaodújában talpra ugrik. „Gyerekek, Lujza agyonlőtte magát!” S egyik
                   kávéházból, egyik utcából a másikba repül a hír: „Péczely Lujza meglőtte magát!” A
                   kanyargós, szűk, belvárosi utcákon együtt repül a hír a széllel, orvosokkal, jó
                   barátokkal, jó ismerősökkel telik meg a szoba, csupán ő nincs itt, messze van,
                   Párizsban van… Én pedig boldogan mosolyogtam az ágyam körül tolongókra. Íme: ez a
-                     <hi rend="italic">Kaméliás hölgy</hi> igazi, utolsó fölvonása, nem pedig ahogy
+                     <hi>Kaméliás hölgy</hi> igazi, utolsó fölvonása, nem pedig ahogy
                   Dumas fils megírta… A cselédeim körülöttem sírták át az éjszakát. Mindig régi
                   cselédeim voltak. A gyermekkori dajkám, a dajkám leánya és unokája házamnál éltek.
                   Milka szobaleányom húsz évig volt mellettem, s a házmestert még a régi házból
@@ -2306,8 +2301,7 @@
                   csontkoponyát helyeztem, amely egyszer régen, éjszakai lovaglás közben lovam lábai
                   elé gördült egy kis falusi temető mellett az országúton… Így feküdtem egész
                   éjszaka. Reggel, már alig virradt, már elhozták az újságokat: a fehér kaméliás
-                  hölgy, a híres Péczely Lujza öngyilkos lett… S egy nagy író tárcát írt rólam a <hi
-                     rend="italic">Magyar Hírlap</hi>ba.</p>
+                  hölgy, a híres Péczely Lujza öngyilkos lett… S egy nagy író tárcát írt rólam a <hi>Magyar Hírlap</hi>ba.</p>
                <p> Ilics Iván, aki idáig az ebédlőben tartózkodott a borospalack társaságában,
                   dadogva beszólott a nyitott ajtón: – Engem teljesen kifelejtett a történetből? Ki
                   írta meg a kis képes újságba, hogy miért lőtte meg magát? Ki tudta Pesten az
@@ -2405,7 +2399,7 @@
                   a színpad hátteréből a gyermekjáték nagyságú házikók ablakai gyönyörűen
                   világítottak. Mintha havas prém szegélyezte volna a házakat… Igen mulatságos este
                   volt – mondá Szilvia komoly és megfontolt hangon, miután Rezeda úr még mindig nem
-                  írta ki lábát <hi rend="italic">A lámpás</hi>ba<hi rend="italic">.</hi>
+                  írta ki lábát <hi>A lámpás</hi>ba<hi>.</hi>
                </p>
                <p> Klára egy darabig hallgatva vonogatta a tűt, mintha nagyon messzire járnának a
                   gondolatai. (Általában a jó Isten volna annak megmondhatója, hogy mit gondolnak a
@@ -2480,7 +2474,7 @@
                   törekedtem, hogy kellemesen érezze magát.</p>
                <p> Lóvasútra szálltak a hidakon túl.</p>
                <p> Még a hosszú és óriáskifli- és serszagú kocsik jártak a budai hegyek között. A
-                  kocsis csak néha-néha tülkölt, és <hi rend="italic">Tündér Iloná</hi>nál
+                  kocsis csak néha-néha tülkölt, és <hi>Tündér Iloná</hi>nál
                   hosszadalmasan várakoztak. A szembejövő kocsit kellett megvárni, és az utasok mind
                   a korcsmába tódultak. A kalauz néhány lökést próbált a javítás alatt levő
                   kuglipályán, míg a kocsis már nyári számlára ivott. Napfény és tavaszi derű
@@ -2491,13 +2485,12 @@
                <p> Horváth kisasszony bizonyos gyanakvással nézte Rezeda úr Janus-arcát.</p>
                <p> – Messze van még Monte Christo gróf kastélya?</p>
                <p> – Mindjárt ott leszünk – felelt a titokzatos férfiú.</p>
-               <p> Felülről megjött a Lóvasút. A hosszú kocsi szinte fáradtan állott meg a <hi
-                     rend="italic">Tündér Ilona</hi> előtt.</p>
+               <p> Felülről megjött a Lóvasút. A hosszú kocsi szinte fáradtan állott meg a <hi>Tündér Ilona</hi> előtt.</p>
                <p> – Mennyi szerelmet, boldogságot, bánatot, örömet húznak e lovacskák nyaranta –
                   vélekedett Rezeda úr –, midőn a szerető párokat a budai hegyek közé viszik a
                   kocsik! Júniusban a fűben heverészni vasárnap délután, a verkli hangja messziről
                   hallatszik, s először hazudni egy kisleánynak sírig tartó hűséget, akit a szigorú
-                  szülői házból csal el az ember a kirándulásra! A <hi rend="italic">Zöld
+                  szülői házból csal el az ember a kirándulásra! A <hi>Zöld
                      vadász</hi>nál sert inni és mindenféle virágokat hazavinni! Aki nem próbálta,
                   nem is tudja, hogy mi az: élni! Diákkoromban Pesten a budai hegyek közé csaltam
                   minden nőismerősömet!</p>
@@ -2553,11 +2546,10 @@
                <p> – Istenem, mi volt ez? – kérdezte Horváth kisasszony, és megtörölte a
                   homlokát.</p>
                <p> Rezeda úr nem felelt. Szilvia szórakozottan szurkálta napernyőjével a talajt.</p>
-               <p> A <hi rend="italic">Tündér Iloná</hi>nál az ablak mellett helyet foglaltak.
+               <p> A <hi>Tündér Iloná</hi>nál az ablak mellett helyet foglaltak.
                   Rezeda úr forralt bort rendelt, mert már hűvösödött a délután, és a hölgyek
                   alaposan megfáztak az erdei sétában.</p>
-               <p> Amíg a bort szürcsölgették, egyszerre hangos ostorpattanás hangzott fel a <hi
-                     rend="italic">Tündér Ilona</hi> előtt.</p>
+               <p> Amíg a bort szürcsölgették, egyszerre hangos ostorpattanás hangzott fel a <hi>Tündér Ilona</hi> előtt.</p>
                <p> Négy hosszú farkú pej ló gyorsan vitt egy hatalmas, vörösre festett kocsit, amely
                   sok tekintetben hasonlított azokhoz a postakocsikhoz, amelyeken egykor
                   Magyarországon utaztak. A kocsiablak redőnyei félig le voltak eresztve, és a
@@ -2580,7 +2572,7 @@
                   márciusban Alvinczi megünnepli eljegyzésük évfordulóját a kisasszonnyal. A hölgy
                   így is igen boldog lehet. Hisz házasság nemigen lesz soha ebből a dologból –
                   felelt Rezeda úr, és igen fölényesen óhajtott mosolyogni.</p>
-               <p> Horváth kisasszony még sokáig nézett ki a <hi rend="italic">Tündér Ilona</hi>
+               <p> Horváth kisasszony még sokáig nézett ki a <hi>Tündér Ilona</hi>
                   ablakából a kéklő, erdei országútra, mintha azt várná, hogy egyszer visszatér a
                   vörös postakocsi – érte.</p>
                <p> – Gyerünk – mondta kelletlenül Rezeda úr. – Az ünnepélynek már vége.</p>
@@ -2590,13 +2582,12 @@
                   Montmorency az ősanyák és ősapák előtt fehér ruhájában? Megcsókolja-e a régi
                   feszületet, amely vőlegénye édesanyjáé volt? És tud-e beszélgetni a régi
                   bútorokkal, s eljátssza-e jegyessége évfordulóján a sarokban álló ódon zongorán a
-                     <hi rend="italic">Lohengrin</hi> nászindulóját? Imádkozik-e egy régi szentkép
+                     <hi>Lohengrin</hi> nászindulóját? Imádkozik-e egy régi szentkép
                   előtt, amelyre a család régen elmúlt asszonyainak a szemsugara tapadt, s
                   felhúzza-e a vén zenélőórát, amely egy elmúlt öregúr magános borozgatásához
                   szolgáltatta a kísérőzenét?… Nem. Lotti nem húzza fel az órát. De én nem
                   felejteném el felhúzni.</p>
-               <p> Így szólt Horváth kisasszony, és régi delnők bánatos lépteivel hagyta el a <hi
-                     rend="italic">Tündér Ilona</hi> korcsmáját. S a lóvasúton, míg helyet foglalt,
+               <p> Így szólt Horváth kisasszony, és régi delnők bánatos lépteivel hagyta el a <hi>Tündér Ilona</hi> korcsmáját. S a lóvasúton, míg helyet foglalt,
                   bizonykodó, büszke mosollyal nézett el Rezeda úr válla fölött.</p>
                <p> – Én felhúztam volna a régi órát – mondta és búsan mosolygott.</p>
                <p> Rezeda úr vállat vont, és csaknem sírva felelt:</p>
@@ -2714,7 +2705,7 @@
                   traktálta szívről, szerelemről, költeményről; két nap múlva, midőn ismét
                   megszállta a vándorlási kedv, továbbment, de távozása előtt költőket rendelt a
                   beteges lelkű asszonyságnak: a bús és aranypókhálós Reviczkyt, az esti harangszó
-                  hangú Tompát és Turgenyev Iván <hi rend="italic">Tavaszi hullám</hi>ait…</p>
+                  hangú Tompát és Turgenyev Iván <hi>Tavaszi hullám</hi>ait…</p>
                <p> – De Punint és Baburint se hagyja ki, kedves tekintetes asszony. S bizonyosan
                   meggyógyul a lelke – mondta Béla, és a köpönyeg csatját megerősítette nyakában,
                   mintha nagy szél volna odakünn.</p>
@@ -2757,22 +2748,21 @@
                   a kuglizóban pihen, miután egész nap leveleket írt megyés püspököknek és zsidó
                   nagykereskedőknek, s a kerek pápaszem csodálatosan magas értelmiséggel csillogott.
                   A tollacska minden erejét és fantáziáját összeszedi, az apró betűcskék bibliai
-                  bőséggel omlanak, és nemegyszer bukkannak elő eredeti sorok a <hi rend="italic"
-                     >Manfréd</hi>ból vagy az <hi rend="italic">Anyégin</hi>ből… Stecz öreg hordár
+                  bőséggel omlanak, és nemegyszer bukkannak elő eredeti sorok a <hi
+                     >Manfréd</hi>ból vagy az <hi>Anyégin</hi>ből… Stecz öreg hordár
                   tíz levélnél kevesebbel sohasem indul el a város különböző pontjaira. Mire
                   bealkonyodik a Józsefváros felett, az öreg hordár piros sapkájában titokzatosan
                   tér meg a kuglizóba. Vagy ismerheti a fehér hajú és piros mellényes Erdélyi
-                  Gyulát, régen letűnt időknek regényíróját, aki <hi rend="italic">Szegény
-                     Dezső</hi> című regényéért húsz forintot kapott a <hi rend="italic">Pesti
+                  Gyulát, régen letűnt időknek regényíróját, aki <hi>Szegény
+                     Dezső</hi> című regényéért húsz forintot kapott a <hi>Pesti
                      Napló</hi>tól, és jelenleg csupán Szemere Miklós versenyparipáihoz ír ódákat,
                   mert az emberekről többé nem érdemes dalolni, ha megengedi… Seffer Lászlót vagy
                   Szeles Adorjánt. Egytől egyig kitűnő, komoly férfiak. Spártai jellemek, és a
                   petróleumos kóc sohasem hiányzik zsebükből, ha az országot föl kellene gyújtani…
-                  Még a <hi rend="italic">Vendéglősök Lapja</hi> parádi víz- és viaszgyertyaszagú
+                  Még a <hi>Vendéglősök Lapja</hi> parádi víz- és viaszgyertyaszagú
                   szerkesztőjének is bemutathatom, aki Kossuth temetésén vitte a fáklyát, és viszi
                   azóta is a megmaradott viaszdarabot. Csete Lajos, a Pokrócz Ádám apja a kövér
-                  Ligeti korcsmájában issza ezredik spriccerét, míg Jaskula Virág Béla a <hi
-                     rend="italic">Fővárosi Lapok</hi>at szerkeszti a Práter utcában, s kék szemével
+                  Ligeti korcsmájában issza ezredik spriccerét, míg Jaskula Virág Béla a <hi>Fővárosi Lapok</hi>at szerkeszti a Práter utcában, s kék szemével
                   ábrándosan tekinget mindazokra a magas ablakból, akiket mecénásoknak sejt. Régen
                   letűnt idők félig szent, félig őrült, olykor szegény bűnös emberei ők, akik
                   sohasem mernek előjönni a józsefvárosi kis korcsmákból, bár bűneikért
@@ -2810,7 +2800,7 @@
                   akiknek saroglyájához odaköthetem a lovamat. Én érvényesülni akarok, mert úgy
                   érzem, hogy tehetségem van. Hisz mindazok között, akiket fölemlített, egyiknek
                   sincs lapja!…</p>
-               <p> – Az <hi rend="italic">Olvasd</hi>! már megszűnt – felelte Bonifácz Béla
+               <p> – Az <hi>Olvasd</hi>! már megszűnt – felelte Bonifácz Béla
                   mélabúsan.</p>
                <p> A szürkülő hajú asszonyság áhítatosan nézett a János-hegy feletti égboltozatra,
                   ahol már feltünedeztek az esti csillagok.</p>
@@ -2820,7 +2810,7 @@
                   Mária szeretnék lenni. Ah, mily királyi kertekből áradó illat lehet az: együtt
                   emelkedni a dicsőség lajtorjáján. Egyik nap Dideri-Dir költeményét közlik a lapok,
                   másnap szép kedvesem, drága Alfrédem dalát. És olykor egymás mellett jelenik meg
-                  nevünk <hi rend="italic">A Hét</hi> hasábjain. Nem, kedves Bonifácz Béla, nem
+                  nevünk <hi>A Hét</hi> hasábjain. Nem, kedves Bonifácz Béla, nem
                   azért jöttem el az erdélyi havasok közül, hogy az öreg Gáspár Imrével sörözzek
                   együtt a józsefvárosi kis kuglizóban!</p>
                <p> – Kegyed egy stréber nő!</p>
@@ -2848,8 +2838,8 @@
                <p> – Jöjjön velünk, s ne hagyjon elpusztulni! – felelték Dideri-Dir leányai. – Itt
                   úgysincs semmi dolga. A csőszkunyhót őrzi.</p>
                <p> Bonifácz Béla elgondolkozott.</p>
-               <p> – Valami dolgom mégiscsak volna… Hetenkint cikket kell írni a <hi rend="italic"
-                     >Vendéglősök Lapjá</hi>ba<hi rend="italic">.</hi> Rettentő méreg az irodalom.
+               <p> – Valami dolgom mégiscsak volna… Hetenkint cikket kell írni a <hi
+                     >Vendéglősök Lapjá</hi>ba<hi>.</hi> Rettentő méreg az irodalom.
                   Vérbajossá teszi a polgárokat és polgárnőket, ha belékóstolnak. Az írók mind
                   szélhámosok. Kinevezik királyi mesterségnek, a legdicsőbb foglakozásnak a maguk
                   dolgát. Holott tulajdonképpen senkinek sincs szüksége az irodalomra. Az emberek
@@ -2910,10 +2900,9 @@
                   Szőkésbarna hajukat feszesen fésülik, és arcszínük pirosas, mintha most öblítették
                   volna hideg vízzel. Kék szemük van és rózsaszínű szájuk. A foguk fehér, és korán
                   meghíznak. Jókedvűek és biztosak a dolgukban. A sportladyk fesztelenül fogadják
-                  minden jól öltözött férfi udvarlását, a szeretőjük markőr a <hi rend="italic"
+                  minden jól öltözött férfi udvarlását, a szeretőjük markőr a <hi
                      >Habsburg</hi>-kávéházban, és csupán nyerni jönnek Pestre.</p>
-               <p> Amíg a <hi rend="italic">Kék macska</hi> és a <hi rend="italic">Flóra</hi>-<hi
-                     rend="italic">terem</hi> volt a legelőkelőbb mulatóhely Budapesten (majd
+               <p> Amíg a <hi>Kék macska</hi> és a <hi>Flóra</hi>-<hi>terem</hi> volt a legelőkelőbb mulatóhely Budapesten (majd
                   Somossy Károly fölépítette a világ egyik legszebb orfeumát), a bécsi női típus
                   képviselte az igazi artisztikát. A kövér, tejkeblű és a malac rózsaszínű bőréhez
                   hasonlatos arculatú dámák, akik csak sört vagy francia pezsgőt ittak, szívtelenül
@@ -2922,17 +2911,16 @@
                   (ahol még VII. Edvárd walesi herceg korában csárdást tanult táncolni) maradt meg
                   belőlük egy-egy öreg, de fessen öltözködő példány, akinek nem sikerült szerencsét
                   csinálni Budapesten.</p>
-               <p> Carola Cecília éjszaka a Beliczay<hi rend="italic">-</hi>kávéházban volt, ahová a
-                  grófok és bárók frakkban (mintegy a <hi rend="italic">Kék macska</hi>beli élet
+               <p> Carola Cecília éjszaka a Beliczay<hi>-</hi>kávéházban volt, ahová a
+                  grófok és bárók frakkban (mintegy a <hi>Kék macska</hi>beli élet
                   utolsó fellobbanásaként) jártak, Blau bácsi ingujjban biliárdozott Lazaroviccsal,
                   a nábobbal, akit éjjel-nappal, lépésről lépésre követtek Hartman és Lefkovics, a
                   hűséges pénzkölcsönzők, akik alkoholisták módjára itták a fiatal milliomos
-                  pezsgőjét. A Kmoch és Reiner-féle <hi rend="italic">Fraueubatallion</hi>
+                  pezsgőjét. A Kmoch és Reiner-féle <hi>Fraueubatallion</hi>
                   keringőjétől visszhangzott a pesti éjszaka, amelyet nyolcvan szép trikós
                   kisasszony táncolt az orfeum színpadán. Carola Cecília (akiért egyformán rajongtak
                   öreg börziáner zsidók és ifjú grófok) huszárkapitányi uniformisban vezényelte a
-                  pompás csapatot. Nagyváradra különvonattal vitték a zászlóaljat, hogy estére a <hi
-                     rend="italic">Fekete sas</hi>ban játsszék, és talán már föl is lobogózták a
+                  pompás csapatot. Nagyváradra különvonattal vitték a zászlóaljat, hogy estére a <hi>Fekete sas</hi>ban játsszék, és talán már föl is lobogózták a
                   váradi házakat, midőn Turinból megjött a sürgöny: a kormányzó meghalt… Cicele,
                   akinek olyan sűrű, hosszú haja volt, hogy fejétől sarkáig elborította, nem
                   őrjíthette meg végképpen a nagyváradiakat, az előadás elmaradt. Küry és Fedák
@@ -2940,10 +2928,10 @@
                   nagyfokú lelkesedését, amely a még meglehetősen naivnak látszó korban Cicelke
                   nyomán Pesten végiglángolt. Kérdezzétek meg az öregurakat, Amerikába költözött
                   pénzügynököket, letört gavallérokat és Rajna Ferencet, ki volt Carola Cecília,
-                  midőn a <hi rend="italic">Hölgyzászlóaj</hi>bana nemzetiszínű zászlót kibontotta!
+                  midőn a <hi>Hölgyzászlóaj</hi>bana nemzetiszínű zászlót kibontotta!
                   A még félig német pesti éjszaka őrjöngve tapsolt, az orfeum előtt a fiákeresek
-                  éljenezték, és a zene csengve-bongva zengett… Mi volt szebb? A <hi rend="italic"
-                     >Hölgyzászlóalj</hi> vagy a manapság divatos <hi rend="italic">Hulló falevél?
+                  éljenezték, és a zene csengve-bongva zengett… Mi volt szebb? A <hi
+                     >Hölgyzászlóalj</hi> vagy a manapság divatos <hi>Hulló falevél?
                   </hi>Ó, a régi karnagyok szemérmesek voltak. Aki egykor megírja Budapest
                   történetét, Somossy Károly és Carola Cecília alakjáról nagyon sokat írhat. Ők
                   tanították meg lumpolni a várost. Bizonyosan ma is isznak francia pezsgőt
@@ -2956,7 +2944,7 @@
                   Pesten az első elegáns restaurant-t, amelynek konyháján reggelig ég a tűz, és
                   olcsón mulatni lehet – nyomban bele is bukik a vállalkozó szellemű férfiú, bár
                   Brillat-Savarin receptje szerint főzi a tyúklevest; élelmes vendéglősök korcsmákat
-                  alapítottak, amelyeket csupán éjfél után nyitottak ki, a <hi rend="italic"
+                  alapítottak, amelyeket csupán éjfél után nyitottak ki, a <hi
                      >Temető</hi>ben reggel tíz órakor kiérdemesült aranyifjak mulattak Strasser
                   csikósbojtár modorban előadott dalain, és a Kauser-társaság hordó sört
                   helyeztetett az asztalra; divat május délben ligeti vendéglőbe hajtatni Móni gyors
@@ -3189,7 +3177,7 @@
                   törülközők gyűrődéséből, a hajfésűkből és puha, bolyhos vállkendőkből két
                   szerelemre hivatott fiatal nő jó szaga áramlott: Rezeda úr a sánta lord verseit
                   olvasgatta, s egy teljes, az Élet megünneplésére szánt májusi délután múlott el
-                  Lermontov <hi rend="italic">Korunk hősé</hi>nek emlékezetére.</p>
+                  Lermontov <hi>Korunk hősé</hi>nek emlékezetére.</p>
                <p> – Holnap elhozom Boccacciót – fenyegetőzött esténkint bánatos mosollyal Rezeda
                   úr. – A flórenci barátok és kikapós menyecskék tán hatással lesznek
                   hölgyeimre.</p>
@@ -3212,7 +3200,7 @@
                   alattomosan fényesítették a hajszálakat az ablaknál, a zongora mellett. Kivágott
                   nyakán gyöngéd pelyhek és kis, kék bajuszán mintha tréfásan-bús gondolatok
                   helyezkednének el, amint alig hallhatólag fütyült egy bús, magyar dalt. Rezeda úr
-                     <hi rend="italic">A vadász iratai</hi>t olvasta Turgenyevtől, és a scsigri
+                     <hi>A vadász iratai</hi>t olvasta Turgenyevtől, és a scsigri
                   kerület Hamletjének bánatos elbeszélését hangsúlyozta: Szilviáról Klárára emelvén
                   szemét a lap fordításánál, mintha ő maga volna az a sorsüldözött Vásziljevics
                   Vászilij, aki annak örül, hogy a boldogtalanság legszélsőbb fokát elérte.</p>
@@ -3254,7 +3242,7 @@
                   sohasem fog eszembe jutni.</p>
                <p> – Ki volt Medve? – folytatta az érdeklődést az udvarias Rezeda úr.</p>
                <p> – Azt sem tudom – mormogta elkeseredve Szilvia. – Egy kis cukrászda, ahol
-                  tejszínes kávét ittunk, kalitkában feketerigó volt, a <hi rend="italic"
+                  tejszínes kávét ittunk, kalitkában feketerigó volt, a <hi
                      >Frou-Frou</hi> című francia lap függött a fogason és Medve… Ennyi, amennyire
                   bizonyosan emlékezem. Még csak a szeme sincs eszembe. Mintha csak olyan messzire
                   ment volna el tőlem, mint az életemnek a boldogsága. Azt hiszem, ha a vers eszembe
@@ -3452,7 +3440,7 @@
                   semmiséget és annyi gyönyört mondtak egymásnak a sárga selyemszékeken, a kis
                   cukrászdában eloltották a lámpát! Így van minden az életben.</p>
                <p> – Csak a kalitkát és benne a feketerigót nem látom sehol! – ábrándozott Szilvia.
-                  – És a <hi rend="italic">Frou-Frou </hi>is itt függött valahol cifra párizsi
+                  – És a <hi>Frou-Frou </hi>is itt függött valahol cifra párizsi
                   hölgyeivel és frakkos gavallérjaival!</p>
                <p> A sarokban egy újságlap mögött egy fekete ruhás, csendes fiatalember üldögélt
                   eddig. Most látható lett fürtös feje és borotvált arca. Fénylő szemüveg volt az
@@ -3487,7 +3475,7 @@
                <p> A múzsa csak a szerelemnekTűntével jött meg. S mostan ímKísérlet ez: ha
                   megegyeznekDalomban érzés, eszme, rím.Szabad a költő, nincs keserve,S a kis lábat
                   megénekelve,Gyarló versében a szeszélyItt-ott magáról is beszél,S bár még borúsnak
-                  látszik a szem,De könnyét rég elsírta már.<hi rend="italic">ANYÉGIN</hi> Rezeda úr
+                  látszik a szem,De könnyét rég elsírta már.<hi>ANYÉGIN</hi> Rezeda úr
                   Budán lakott, a várban, és éjszakánkint, midőn hazafelé járt, gyakran találkozott
                   régi királyokkal, amint a kőfalból kiléptek. Rezeda illedelmesen megemelte a
                   kalapját a deákköpenyes Mátyás, vagy a zordon, fekete szakállas Zsigmond előtt, és
@@ -3584,13 +3572,13 @@
                   Ruzsonyi testvérek, divatárusak kirakatát. Francia szavakat tudott, amelyeket
                   ügyesen kevert beszédébe, és kedvenc írója volt Maupassant! Holott a város
                   kölcsönkönyvtárában, amelyet a ferde vállú és szeplős Rosenfeld kisasszonyok
-                  vezettek, még hetekkel előre kellett jegyezni <hi rend="italic">Rocambole</hi>-ra
-                  és <hi rend="italic">A véreb</hi>re. Előfizetője volt a <hi rend="italic">Párizsi
-                     Divat</hi>nak és<hi rend="italic"> A Hét</hi>nek. És pesti leány korában
+                  vezettek, még hetekkel előre kellett jegyezni <hi>Rocambole</hi>-ra
+                  és <hi>A véreb</hi>re. Előfizetője volt a <hi>Párizsi
+                     Divat</hi>nak és<hi> A Hét</hi>nek. És pesti leány korában
                   megismerkedett Heltai Jenővel. Művelt volt tehát, a keresztény és a zsidó hölgyek
                   orrukat fintorgatták, midőn délben a korzón egyes-egyedül sétált. A zongorán
                   kifogástalanul játszotta Csajkovszkij románcát, és este a pesti Operára gondolt,
-                  ahol egyszer a <hi rend="italic">Bécsi keringő</hi> című balettet látta. A körme
+                  ahol egyszer a <hi>Bécsi keringő</hi> című balettet látta. A körme
                   oly fényes és tiszta volt, mint egy francia hercegnőé, és talán naplót is írt – de
                   lehet, hogy ezt már csupán a városbeli hölgyek gyöngéd bosszantására cselekedte.
                   Sport szempontjából hosszú sétákat szokott tenni a város környékén, midőn is kis
@@ -3616,8 +3604,7 @@
                   megtanulja egy kissé az életét. Ígérje meg azonban, hogy elolvassa!</p>
                <p> – Ígérem – felelt némi vonakodás után a hős fiú.</p>
                <p> Estére az ablakon át Berta (vékony, aranyvégű cigarett füstölgött szájában ekkor)
-                  egy maroquin-bőrbe kötött könyvecskét adott át Rezeda úrnak. A könyv címe: <hi
-                     rend="italic">Anyégin Eugén. </hi>A diák napokig bele sem nézett a könyvbe,
+                  egy maroquin-bőrbe kötött könyvecskét adott át Rezeda úrnak. A könyv címe: <hi>Anyégin Eugén. </hi>A diák napokig bele sem nézett a könyvbe,
                   mert az idő tájt végrendeletét írta. Anyai jussáról rendelkezett – amely nem volt.
                   Kedvenc ebeit, lovait, birtokait mind a késmárki leánynak hagyományozta. Kár, hogy
                   nem volt kéznél egy megbízható, öreg szolga, akivel lóháton küldte volna el az
@@ -3627,13 +3614,13 @@
                   szép testőrtiszt, elismerő érdeklődéssel látott hozzá a hosszúnak ígérkező
                   költeményhez.</p>
                <p>
-                  <hi rend="italic">Anyégin</hi>! Tán csak azért volna jó még egyszer ifjú tanulónak
+                  <hi>Anyégin</hi>! Tán csak azért volna jó még egyszer ifjú tanulónak
                   lenni, hogy az elhagyott liget padján, kivésett női szívek és névkezdőbetűk között
-                  először olvassuk ismét <hi rend="italic">Anyégin Eugén</hi>t! Moszkvába utazni, és
+                  először olvassuk ismét <hi>Anyégin Eugén</hi>t! Moszkvába utazni, és
                   a balettnak tapsolni. Tatjána levelét venni, és a Néva partján sétálni! Mindnyájan
                   Anyégin Eugének vagyunk ifjú korunkban. És Lenszki bús sírhalmán ugyan ki nem
                   könnyezett?</p>
-               <p> Berta jól választott. Az <hi rend="italic">Anyégin</hi> olvasása egyszerre új
+               <p> Berta jól választott. Az <hi>Anyégin</hi> olvasása egyszerre új
                   világ csodáit nyitotta meg Rezeda úr előtt: elhatározta, hogy életcélt választ,
                   költő lesz, hírlapíró, Puskin Sándor lesz – és mindezt egy éjszaka, midőn égő
                   homlokkal és szinte túláradó szívvel olvasta az orosz költő összecsendülő sorait.
@@ -3649,7 +3636,7 @@
                   – felelt mosolyogva az asszony. – Ó, maga nagyszerű tanítvány. Remélem, még egykor
                   meghalni is kíván majd érettem, mint Musset Alfréd. Tehát estére a könyv helyén
                   lesz, és most ne beszéljünk többet a dologról.</p>
-               <p> A második könyv, amelyet Rezeda úr Berta jóvoltából olvasott, <hi rend="italic"
+               <p> A második könyv, amelyet Rezeda úr Berta jóvoltából olvasott, <hi
                      >Dombey és Fia</hi> volt, szerzője az angol mesemondó, Dickens, akinél szebben
                   és meglátóbban Angliát, Londont és a brit ifjúságot és öregséget, a walesi mezők
                   felett fénylő ködöt és az angol nők szívében szálladozó bárányfellegeket senki sem
@@ -3712,7 +3699,7 @@
                   városban. Így ismerkedett meg Rezeda úr Thackeray-vel és Dosztojevszkijjel. Berta
                   a franciák közül Maupassant-t imádta, míg a spanyolok közül Cervantes és Alarcón
                   Péter mulattatták. Hoffmann Amadeus Th. és a csodálatos Csehov együtt érkeztek
-                  Budára, és Tennyson <hi rend="italic">Királyidill</hi>jei több levél váltására
+                  Budára, és Tennyson <hi>Királyidill</hi>jei több levél váltására
                   adtak alkalmat. Így nevelte, művelte Berta a távolból Rezeda urat, míg egy napon
                   azt írta, hogy férjével Pestre jön, és pünkösd délután felkeresi a királynő
                   udvarában lovag öccsét. Rezeda úr ekkor elszökött hazulról, késő estig bolyongott
@@ -4251,7 +4238,7 @@
                   nappal felemelt fővel járnak az utcán. Vőlegények útbaigazítást kérnek, és öreg
                   házasemberek csodaszert a szerelem felújításához. Titkok hangzanak el, amelyeket a
                   jezsuita gyóntatóatya fülébe szokás elsuttogni, vagy a máriapócsi csodatevő
-                  asszony előtt leborulva, a templomkövekbe beleharapni. <hi rend="italic">Az
+                  asszony előtt leborulva, a templomkövekbe beleharapni. <hi>Az
                      Élet</hi> jár ide mindennap vizitbe, és csupán egy zsidó imakönyv, meg Faublas
                   lovag kalandjai akad olvasmánynak. Éjjel, a csöndben, a várakozásban a hölgyek hol
                   az imakönyvet, hol a kalandok gyűjteményét forgatják kezükben… Steinnénak férjhez
@@ -4319,7 +4306,7 @@
                <head> 11. Fejezet A pillanatnyi elmezavar </head>
                
                <p>
-                  <hi rend="italic">„Kedd. Reggel 6 óra.</hi>
+                  <hi>„Kedd. Reggel 6 óra.</hi>
                </p>
                
                
@@ -4327,9 +4314,9 @@
                   megtöltve fekszik díványomon, csak azt sajnálom, hogy csúnya lesz a póz, amidőn
                   lábam ujjával meghúzom a ravaszt. Régi íróim és saját meggyőződésem szerint: hat
                   lat por és tíz deka ólom segít rajtam. Elutazom, pedig úgy szeretnék élni, mint
-                     <hi rend="italic">Toscá</hi>ban a tenorista szívrehatóan énekli. (Kár, hogy két
+                     <hi>Toscá</hi>ban a tenorista szívrehatóan énekli. (Kár, hogy két
                   bal lába volt a színésznek.) Emlékszik Mannheit Jacques-ra gróf Almaviva
-                  szerepében? Egymás mellett ültünk a nézőtéren, de <hi rend="italic">Toscá</hi>t
+                  szerepében? Egymás mellett ültünk a nézőtéren, de <hi>Toscá</hi>t
                   egyedül hallgattam a nézőtér zugából hajdanában, és elhatároztam, hogy egykor, ha
                   Isten is úgy rendelte, szomorú képű kisbőgőssel fülembe, szívembe játszatom e dalt
                   – hajnalodik az Angyalvárban! –, és reggelre meghalok. Fölhúzom a függönyt, és éji
@@ -4354,7 +4341,7 @@
                   selyemruhában, zsidó asszonyok, akik mozdulataikkal, szemükkel, különös nyakukkal,
                   kéjes orrukkal, piros nyelvükkel édesített vastag ajkukkal és szerelemre váró,
                   ringó és emelkedő hátukkal csábítóan vonultak el az ifjú költő előtt… Sajnálom,
-                  úrnőm, hogy ezt leírtam. (Hisz remélhetőleg kiadja <hi rend="italic">A Nap</hi>
+                  úrnőm, hogy ezt leírtam. (Hisz remélhetőleg kiadja <hi>A Nap</hi>
                   ezen utolsó levelemet!) Senki sem jött felém: ez az igazság. Szinte félig
                   haldokolva néztem a gyönyörű nőket, akik az utcán, kávéházban vagy a színházban
                   eljártak mellettem. Továbbmentek pocakos és zsíros külsejű férfiakkal, akik
@@ -4374,7 +4361,7 @@
                   leharapni, fület kitépni, fogsort széjjelzúzni: egykor úgy tűnt fel nekem, mint a
                   világ rendje. Szerettem megvadult lovakat megállítani, kardot viselő hadnagyokkal
                   szembeállni puszta kézzel, tíz erős ujjam tán a bikát is megfojtotta volna – és
-                  most írok önnek, úrnőm a <hi rend="italic">Toscá</hi>bólzenehangok járnak át vad
+                  most írok önnek, úrnőm a <hi>Toscá</hi>bólzenehangok járnak át vad
                   szívemen, hogy reggelre meghalok.</p>
                <p> Mindenkinek megbocsátok, úrnőmnek is. Hódolattal, mélyre hajlott fejjel, szilaj
                   indulatoktól megmenekülten, elcsüggedve és csupán az ólomban bizakodva vallom
@@ -4384,8 +4371,8 @@
                   szerettem. Az előbb sírtam kegyedért. Furcsa, hogy nagysága előtt igazolom magam.
                   Ugyan mi köze az egész dologhoz?</p>
                <p> Reggel van. A nap, az élet, nagysága, meg egyéb ostobaságok… Verseket olvasok
-                  majd <hi rend="italic">Anyégin</hi>ből<hi rend="italic">.</hi> A balettet, vagy a
-                     Tavaszt<hi rend="italic">.</hi> Isten önnel, Királynő!„</p>
+                  majd <hi>Anyégin</hi>ből<hi>.</hi> A balettet, vagy a
+                     Tavaszt<hi>.</hi> Isten önnel, Királynő!„</p>
                
                <p> Horváth kisasszony estefelé kapta meg a levelet. Kocsira ült, és Rezeda úrhoz
                   hajtatott. A hírlapírót ekkor már elvitték a mentők. A katonafegyver derék sebet
@@ -4477,8 +4464,7 @@
                   gondolt, hogy nemsokára papot kell hívatni. Milyen nehéz lesz a búcsú a kedves
                   hölgytől! A régi király ecetfájáról szinte menüettlépésben keringtek alá a
                   levelek, és a rácvárosi háztetők felett mesebeli mélysége volt az égnek. A
-                  kémények oly komoran füstölögtek, mint az <hi rend="italic">Andersen</hi>-<hi
-                     rend="italic">mesék</hi>ben, és a sárkányfejű, rozsdás esőcsatornák szinte
+                  kémények oly komoran füstölögtek, mint az <hi>Andersen</hi>-<hi>mesék</hi>ben, és a sárkányfejű, rozsdás esőcsatornák szinte
                   alattomoskodva pislogtak megfoltozott szemükkel az őszi napsugárra, vajon mikor
                   jönnek már a hegyekről a köpönyeg alakú felhők, hogy ők is elvégezhessék
                   kötelességüket. Ahány fehér kutya volt a városrészben, mind sürgősen szaladt az
@@ -4495,7 +4481,7 @@
                   ruhámban helyet foglalhatnék mellette. A járókelők azt gondolhatnák, hogy a
                   kövérhátú lovak véletlenül elütöttek a Lánchídnál, és a jószívű Madame most
                   kórházba szállít kocsiján. Ti azonban bátran beülhettek a hintóba, a Krisztinába
-                  megyünk, a <hi rend="italic">Vörös Farkas</hi>ba, ahol nagy uzsonna leend
+                  megyünk, a <hi>Vörös Farkas</hi>ba, ahol nagy uzsonna leend
                   Szilveszter úr tiszteletére.</p>
                <p> – Meghalt a jó öreg? – kérdezte Rezeda úr.</p>
                <p> – Még nem, de már útban van. A kis Gellérten a vadrózsa bokrok közé jár
@@ -4629,12 +4615,12 @@
                   messziről hangzó hangon megszólalt.</p>
                <p> – Hétköznap nálunk is nagy keletje van a könyvnek. Szimónia – egykor jó házaknál
                   nevelőnő – a szalonban a nagy lámpás alá ül, és hangosan olvas a leányoknak. A
-                  múltkoriban az egész ház bőgött egy olvasmányon. <hi rend="italic">Levelek, amiket
-                     meg nem írunk</hi>. És Csergő Hugó írta. A<hi rend="italic"> Fehér nász</hi>,
+                  múltkoriban az egész ház bőgött egy olvasmányon. <hi>Levelek, amiket
+                     meg nem írunk</hi>. És Csergő Hugó írta. A<hi> Fehér nász</hi>,
                   mondta a költő, és mindnyájan csöndesen sírdogáltunk.</p>
                <p> Szilveszter úr hevesen intett.</p>
                <p> – Nem ismerem a könyvet, de véleményem szerint akkor voltak igazi nők az
-                  mulatóhelyen, amikor könyv nélkül tudták a <hi rend="italic">Perdita</hi>-ciklust
+                  mulatóhelyen, amikor könyv nélkül tudták a <hi>Perdita</hi>-ciklust
                   Reviczkytől. És a fiatal írók a Hímző utcában aludtak, laktak évszámra, abban a
                   mesebeli kastélyban. Fiatalkoromban nagy táncos voltam magam is… És a híres
                   Czigány Vilmát én tanítottam a Pest vármegyei dalokra. Madame Louise bogarászó
@@ -4647,8 +4633,7 @@
                <p> – Huszonhat. Majd dolgozni fogok.</p>
                <p> – Mit? kérdezte csodálkozva Louise asszony. – Tán verset fog írni?</p>
                <p> A férfi lesütötte a szemét.</p>
-               <p> – Van egy öreg barátom, aki megígérte, hogy behoz a most megindult <hi
-                     rend="italic">Az Újság</hi>hoz korrektornak. Gajári Ödön úgy szokott
+               <p> – Van egy öreg barátom, aki megígérte, hogy behoz a most megindult <hi>Az Újság</hi>hoz korrektornak. Gajári Ödön úgy szokott
                   gondoskodni az embereiről, mintha édes testvére volna valamennyi.</p>
                <p> – A korrektornak éjjel kell dolgozni, ön mellbetegnek látszik. Rezeda úr, fiatal
                   özvegyke maradna utána, és adósság a fűszeres boltban.</p>
@@ -4662,7 +4647,7 @@
                <p> – Istenem! Hisz jobban szeretem annál… Előbb megesküszünk valahol egy régi kis
                   templomban, szent életű öreg pap áldását kérjük szerelmünkre, reszketős egyházfi
                   áll tanúként, és a sánta harangozó kíván szerencsét a templomocska ajtajában. Ha
-                  pénzünk lesz, az orgonán <hi rend="italic">Lohengrin</hi> nászindulóját játszatjuk
+                  pénzünk lesz, az orgonán <hi>Lohengrin</hi> nászindulóját játszatjuk
                   egy hozzáértő mesterrel. A gyönyörű nő szeme, amely barnán és hibásan rám pillant,
                   nyugtalan lába és fehér keze, hol a szenvedély lakik… Csupa sejtelem a hölgy, és
                   bájának testrészeit megismerni vágyom… Barna képű, fekete rámás szentek néznek a

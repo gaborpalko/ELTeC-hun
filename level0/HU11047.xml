@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>A világjáró angol :  Kalandos regény </title>
                <date>2012-10-09</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -33,8 +33,8 @@
                   <name>Molnár Tamás</name>
                   <name>Szombathy Zsuzsanna</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>A világjáró angol : kalandos regény</title>
                      <author>Mummery Róbert</author>
                      <pubPlace>Budapest</pubPlace>
@@ -62,8 +62,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-18"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-18"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -244,44 +245,44 @@
                öt ujját nyomta reá:</p>
             <p>A maig is meglevő okmány így szól:</p>
             <p>
-               <hi rend="italic">Szerződés</hi>
+               <hi>Szerződés</hi>
             </p>
             <p>
-               <hi rend="italic">mely egyrészről Mummery Róbert ur tőkepénzes és Afrika-utazó,
+               <hi>mely egyrészről Mummery Róbert ur tőkepénzes és Afrika-utazó,
                   newyorki lakos, másrészről, Pombó csizmatisztító, afrikai lakos között
                   köttetett:</hi>
             </p>
             <p>
-               <hi rend="italic">Megegyezésünk:</hi>
+               <hi>Megegyezésünk:</hi>
             </p>
             <p>
-               <hi rend="italic">1. Mummery Róbert ur viseli az utazás költségeit. Ő ád Pombónak
+               <hi>1. Mummery Róbert ur viseli az utazás költségeit. Ő ád Pombónak
                   gyomorbavalót és szivar­véget, mig csak Kilindába, Pombó szülőföldjére nem
                   érnek.</hi>
             </p>
             <p>
-               <hi rend="italic">2. Pombó köteles Mummery Róbert urnak a csizmáját minden reggel
+               <hi>2. Pombó köteles Mummery Róbert urnak a csizmáját minden reggel
                   bogárfeketére suviczkolni, és az Afrika közepére való vezetést megcselekedni.</hi>
             </p>
             <p>
-               <hi rend="italic">3. Pombónak az utazás alatt csak akkor szabad énekelnie, ha Mummery
+               <hi>3. Pombónak az utazás alatt csak akkor szabad énekelnie, ha Mummery
                   Róberttől leg­alább is 40 méternyire létezik.</hi>
             </p>
             <p>
-               <hi rend="italic">4. Veszély idején egymást kötelesek védeni.</hi>
+               <hi>4. Veszély idején egymást kötelesek védeni.</hi>
             </p>
             <p>
-               <hi rend="italic">5. Ha szárnyas vadat lőnek, Pombó kapja a zuzzáját.</hi>
+               <hi>5. Ha szárnyas vadat lőnek, Pombó kapja a zuzzáját.</hi>
             </p>
             <p>
-               <hi rend="italic">6. Négylábu vadnak a farka Pombó derékdísze marad.</hi>
+               <hi>6. Négylábu vadnak a farka Pombó derékdísze marad.</hi>
             </p>
             <p>
-               <hi rend="italic">7. Ezen kedvezményekért Pombó köteles a puskák tisztántartásáról
+               <hi>7. Ezen kedvezményekért Pombó köteles a puskák tisztántartásáról
                   gondoskodni, és a sütés-főzést elvégezni.</hi>
             </p>
             <p>
-               <hi rend="italic">8. Az út torony-iránt megy, minthogy azonban Kilinda tornya előre
+               <hi>8. Az út torony-iránt megy, minthogy azonban Kilinda tornya előre
                   már csak azért sem látható, mert nincsen, a torony-iránt Pombó emlékezetére
                   bizatik. Kilindában háromheti pihenés. Innen a Jóremény fokáig Pombó a bátyjával
                   vagy valamelyik rokonával el­kisé­ri Mummery Róbert urat, miért is jutalmul
@@ -290,21 +291,21 @@
                   beleértetik.</hi>
             </p>
             <p>
-               <hi rend="italic">9. Ezen szerződés két példányban megíratott és a szerződött felek
+               <hi>9. Ezen szerződés két példányban megíratott és a szerződött felek
                   között megosztatott.</hi>
             </p>
             <p>
-               <hi rend="italic">Kelt Nápolyban, 1890. jun. 19-én.</hi>
+               <hi>Kelt Nápolyban, 1890. jun. 19-én.</hi>
             </p>
             <p>
-               <hi rend="italic">Tanuk:</hi>
+               <hi>Tanuk:</hi>
             </p>
             <p>
-               <hi rend="italic">Giovanni Maccaroni, Mummery Róbert, </hi>hotelier. afrikautazó,
+               <hi>Giovanni Maccaroni, Mummery Róbert, </hi>hotelier. afrikautazó,
                tőkepénzes.</p>
             <p>
-               <hi rend="italic">Marco Polenta, Pombó </hi>
-               <hi rend="italic">× </hi>cicerone. segéd-afrikautazó,</p>
+               <hi>Marco Polenta, Pombó </hi>
+               <hi>× </hi>cicerone. segéd-afrikautazó,</p>
             <p> csizmatisztító.</p>
             <p>Egyet aludtunk erre a szerződésre, azután összeállítottuk az utazásunkra szükséges
                tárgyak jegyzékét. Ennek már csak a fele van meg, de ebből is látható, mennyi
@@ -430,7 +431,7 @@
             <p>„Az amerikai köztársaság nevében ezennel megkezdem az afrikai fölfedezéseim
                sorozatát.”</p>
             <p>Elindultunk.</p>
-            <p>Tevém, a melynek <hi rend="italic">Ráró</hi> nevet adtam, vidámat ficzánkolt alattam.
+            <p>Tevém, a melynek <hi>Ráró</hi> nevet adtam, vidámat ficzánkolt alattam.
                A ficzánkolásból szilaj pol­ká­zás lett s Ráró olyan nyargalászást kezdett velem a
                piacz közepén, hogy két méternyi magas­ság­ra dobált a pupjai között. Majd oldalt
                dülöngve futkosott s ekközben úgy hátrahányta buta fejét, hogy az én parafa-sisakom
@@ -539,31 +540,31 @@
             <p>Fölvettem egy lapos, négyszögletes fehér kődarabot és a következő sorokat irtam
                rá:</p>
             <p>
-               <hi rend="italic">A köztársaság elnökének</hi>
+               <hi>A köztársaság elnökének</hi>
             </p>
             <p>
-               <hi rend="italic">Észak-Amerika</hi>
+               <hi>Észak-Amerika</hi>
             </p>
             <p>
-               <hi rend="italic">Sire!</hi>
+               <hi>Sire!</hi>
             </p>
             <p>
-               <hi rend="italic">Értesitem önt, hogy a mai napon fölfedeztem és lefoglaltam Afrika
+               <hi>Értesitem önt, hogy a mai napon fölfedeztem és lefoglaltam Afrika
                   legnagyobb piramisát.</hi>
             </p>
             <p>
-               <hi rend="italic">Ez eddig Cheopsnak neveztetett, ezután Mummery-piramis lesz a
+               <hi>Ez eddig Cheopsnak neveztetett, ezután Mummery-piramis lesz a
                   neve.</hi>
             </p>
             <p>
-               <hi rend="italic">Sziveskedjék hazám dicsőségére elszállítatni s Newyork piaczán adni
+               <hi>Sziveskedjék hazám dicsőségére elszállítatni s Newyork piaczán adni
                   neki helyet.</hi>
             </p>
             <p>
-               <hi rend="italic">Afrika, 1890 jul. 20-án.</hi>
+               <hi>Afrika, 1890 jul. 20-án.</hi>
             </p>
             <p>
-               <hi rend="italic">Tisztelettel: Mummery Róbert.</hi>
+               <hi>Tisztelettel: Mummery Róbert.</hi>
             </p>
             <p>A kőlevelet borítékba téve, lepecsételtem és a zsebembe rejtettem.</p>
             <p>Néhány perczig a piramison ülve gyönyörködtem Afrikában.</p>
@@ -834,7 +835,7 @@
             <p>A hold világosabban sütött. Az bokor mellett nőket pillantottam meg. Hárman voltak -
                két fekete asszony, meg egy fekete leány.</p>
             <p>A fekete leány szép volt. Ha ebbe a jelzőbe: „szép”, bele lehet képzelni a világ
-               összes szépei­nek leirását, akkor a <hi rend="italic">legszebb</hi> kifejezés illik
+               összes szépei­nek leirását, akkor a <hi>legszebb</hi> kifejezés illik
                rá.</p>
             <p>Mikor észrevette, hogy tekintetem a csodálat tüzével tapad reá, mosolygott. Fehér
                fogai elő­villantak. Szemeiből delejes fény áradt felém.</p>
@@ -1258,8 +1259,8 @@
             <p>A harmadik héten Pombó bement hozzájuk és a szokott adagoknál több eledelt vitt be
                magá­val. Az elefántok örömmel vették örül és bizalmasan kotorásztak a kötényében.
                Évának annyira tetszett ez a jelenet, hogy nevekkel jutalmazta meg őket:</p>
-            <p>A legöregebbet <hi rend="italic">Kundinak</hi>, a feleségét <hi rend="italic"
-                  >Pundinak</hi>, a gyermek-elefántot pedig <hi rend="italic">Pukundinak</hi>
+            <p>A legöregebbet <hi>Kundinak</hi>, a feleségét <hi
+                  >Pundinak</hi>, a gyermek-elefántot pedig <hi>Pukundinak</hi>
                nevez­te el.</p>
             <p>Az elefántok jókedvű ormánylóbálással fogadták ezt a kegyet.</p>
             <p>Azonban egyszer csak megváltozott a hangulat. Kundi körülkapta az ormányával Pombót s
@@ -1696,7 +1697,7 @@
             <p>Ekkor aztán megkezdtük az egész csorda kivégzését. Pombó és Sárközi egymásután
                eregették lövéseiket az oroszlánokra.</p>
             <p>Valamelyikök a fülemet is átlőtte, mire angol flegmával jegyeztem meg, hogy köszönöm
-               a <hi rend="italic">bókot</hi>, de én nem vagyok lelőni való oroszlán.</p>
+               a <hi>bókot</hi>, de én nem vagyok lelőni való oroszlán.</p>
             <p>Tíz percz mulva harmincznégy, vérrel beföcskendezett oroszlán feküdt holtan a fa
                alatt.</p>
             <p>Azonban a majom még mindig nem volt elfogva.</p>
@@ -2988,7 +2989,7 @@
             <p>Az esőmester úgy fiatalította az öreg szerecseneket, hogy ilyen boglyába dugta bele.
                Ott kellett maradniok, míg csak meg nem fiatalodtak.</p>
             <p>
-               <hi rend="italic">Tate-Pombót</hi> is a boglyában tartotta az esőmester. Persze,
+               <hi>Tate-Pombót</hi> is a boglyában tartotta az esőmester. Persze,
                Pombó valahányszor meglátogatta az apját, mindig vitt valami ajándékot, s így a kúra
                hosszasága érthető volt.</p>
             <p>Az öreg Tate-Pombó mélyen meg volt hatva, mikor a fia elmondta, hogy nekem köszönheti
@@ -3036,7 +3037,7 @@
             <p>- A szerecsenek, - szólt, - nem fognak bántani bennünket, ha egyet küldünk nekik
                közülünk ajándékba.</p>
             <p>- Minek az? - kérdeztem az öregtől.</p>
-            <p>- <hi rend="italic">Megenni,</hi> - felelte Tate-Pombó nyugodtan.</p>
+            <p>- <hi>Megenni,</hi> - felelte Tate-Pombó nyugodtan.</p>
             <p>E szavakra mély szomorúság szállt meg bennünket.</p>
             <p>- Kétségtelen, - szóltam lélekzethez jutva, hogy az ellenfél száma tulnyomó és hogy
                ellenük védekeznünk lehetetlen.</p>
@@ -3076,12 +3077,12 @@
                akarom pazarolni a bátorságomat. Hanem hát ajánlom én magam helyett Tate-Pombót. Ő
                rajta látszik, hogy úgy is megunta már az életet.</p>
             <p>Tate-Pombó a fejét rázta.</p>
-            <p>- Az én húsom nem kell a feketéknek. <hi rend="italic">Nekik fehér ember húsa
+            <p>- Az én húsom nem kell a feketéknek. <hi>Nekik fehér ember húsa
                   kell.</hi>
             </p>
             <p>- E szerint Sárközi barátom, mégis csak neked kell magadat föláldozni.</p>
             <p>- Kikérem magamnak, hogy engem fehér embernek nevezzen valaki! - kiáltott Sárközi. -
-               Én nem vagyok fehér ember. Én <hi rend="italic">czigány</hi> vagyok! Füstös fekete
+               Én nem vagyok fehér ember. Én <hi>czigány</hi> vagyok! Füstös fekete
                czigány. Ott Mummery úr, ő fehér ember.</p>
             <p>- Hohó, - feleltem méltósággal, - rólam nem lehet szó, mert egy ilyen
                Afrika-fölfedezőért ha­lá­los kár lenne. Négy világrész gyászolná hamvait és a
@@ -3253,13 +3254,13 @@
                tanúim.</p>
             <p>Azután két sürgönyt eresztettem New Yorkba.</p>
             <p>Az egyik sürgöny így hangzott:</p>
-            <p>„<hi rend="italic">Amerikai köztársaság elnökének New York:</hi>
+            <p>„<hi>Amerikai köztársaság elnökének New York:</hi>
             </p>
-            <p>Üdvözli önt Afrika fölfedezője <hi rend="italic">Mummery Róbert.</hi>”</p>
+            <p>Üdvözli önt Afrika fölfedezője <hi>Mummery Róbert.</hi>”</p>
             <p>A másik sürgöny:</p>
-            <p>„<hi rend="italic">Smitt Johnnak, New York:</hi>
+            <p>„<hi>Smitt Johnnak, New York:</hi>
             </p>
-            <p>Készítsen egy tuczat divatos pepita ruhát régi kundsaftjának, <hi rend="italic"
+            <p>Készítsen egy tuczat divatos pepita ruhát régi kundsaftjának, <hi
                   >Mummery Róbertnek</hi>, a ki epedve várja sorait Alexandriában, közönséges
                kukoriczanadrágban, - tisztelettel.”</p>
             

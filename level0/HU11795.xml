@@ -24,7 +24,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Rontó Pál viselt dolgai vizen és szárazon</title>
                <ref target="http://mek.oszk.hu/11700/11795"/>
                <date>2013-07-18</date>
@@ -34,8 +34,8 @@
                   <name>Szever Pál</name>
                   <name>Erdélyi Zsolt</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>Rontó Pál viselt dolgai vízen és szárazon</title>
                      <author>Forgó bácsi</author>
                      <pubPlace>Budapest</pubPlace>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2019-04-23"/>
          <change when="2018-10-03"/>
       </revisionDesc>
    </teiHeader>

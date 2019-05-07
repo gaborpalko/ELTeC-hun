@@ -19,12 +19,13 @@
          <extent>
             <measure unit="words">133267</measure>
             <measure unit="pages">472</measure>
+            <measure unit="vols">2</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>A Noszty fiú esete Tóth Marival</title>
                <date>1999-01-11</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -35,17 +36,36 @@
                   <name>Szabolcsi József</name>
                   <name>Kindlevarázs </name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
-                     <title level="s">Mikszáth Kálmán összes művei CD-ROM</title>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>A Noszty fiú esete Tóth Marival</title>
+                     <date>1999-01-11</date>
+                     <ref target="http://kindlevarazs.wordpress.com/kindle-teka/"/>
+                  </bibl>
+               </relatedItem>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
+                     <title>Mikszáth Kálmán összes művei CD-ROM</title>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Arcanum</publisher>
                      <date>1998</date>
                      <idno type="isbn-10">963 85923 5 4</idno>
-                     <ref target="http://kindlevarazs.wordpress.com/kindle-teka/"/>
                   </bibl>
                </relatedItem>
+               <relatedItem type="source">
+                  <bibl type="printSource">
+                     <title>Regények és nagyobb elbeszélések 20–21, 1906–1907, A Noszty fiú esete Tóth Marival</title>
+                     <author>Mikszáth Kálmán</author>
+                     <pubPlace>Budapest</pubPlace>
+                     <publisher>Akadémiai Kiadó</publisher>
+                     <date>1960</date>
+                  </bibl>
+               </relatedItem>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>A Noszty fiú esete Tóth Marival</title>
+               <author>Mikszáth Kálmán</author>
+               <date>1908</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -64,8 +84,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-14"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-21"/>
+         <change when="2018-11-14"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -74,7 +95,7 @@
             <head>ELSŐ FEJEZET</head>
             <head>CSODÁLATOS, HOGY AZ EMBEREK RENDESEN TÖBBET KÖLTENEK, MINT KELLENE</head>
                <p>Abban az időben nyalka huszárezred feküdt Trencsénben. Jó dolga volt a szép szőke
-                  trencséni <hi rend="italic">szlecsinkáknak és nyevesztáknak</hi> (kisasszonyoknak
+                  trencséni <hi>szlecsinkáknak és nyevesztáknak</hi> (kisasszonyoknak
                   és menyecskéknek), mert a kolera miatt egy gyalogezredet is idehelyeztek, az
                   egészséges városba. Annyi tiszt lődörgött itt, hogy még a szeplős asszonyoknak is
                   hármával jutott udvarló. De valamennyi tiszt közt a legszebb fiú volt Noszty
@@ -329,10 +350,10 @@
                   szétszaladnak a jóbarátok, a vérmes tervek s marad csak egy, a legutolsó, a
                   legkétségbeejtőbb, megírni haza az »öreg«-nek.</p>
                <p>
-                  <hi rend="italic">Kedves Apám!</hi>
+                  <hi>Kedves Apám!</hi>
                </p>
                <p>
-                  <hi rend="italic">Ha még életben akarsz találni, jöjj hamar, nagy vallomást kell
+                  <hi>Ha még életben akarsz találni, jöjj hamar, nagy vallomást kell
                      tennem, de azt csak élőszóval lehet. Ha október 10-ikéig jössz, még beszélhetsz
                      velem. Tizedikén reggel már halva leszek. Bocsássatok meg nekem és temessetek
                      anyám mellé.</hi>
@@ -426,7 +447,7 @@
                <p>- Persze, hogy haragszom - felelte és elfordította a szép, álmatag arcát.</p>
                <p>Erre aztán teljesen elkeseredett Kopereczky. Fejét lehajtotta a félkönyökére és
                   elkezdett könnyezni.</p>
-               <p>- No, ne okoskodj, <hi rend="italic">Kéti,</hi> ne légy gyerek! - szólt közbe az
+               <p>- No, ne okoskodj, <hi>Kéti,</hi> ne légy gyerek! - szólt közbe az
                   öreg Noszty. - Micsoda dolog az, Vilma? Hiszen csak tréfa az egész. Még csak az
                   hiányzik, hogy felhívjátok rá a közfigyelmet. Máris idenéznek az idegen
                   asztaloktól. Hamar nyújts kezet Kopereczkynek!</p>
@@ -504,7 +525,7 @@
                   Micsoda hóbort az, egy magyar bárót ilyen zsidó nevekkel megnyomorítani?</p>
                <p>Pedig bizony nem voltak azok a keresztelő funkcionáriusok bolondok, se a papája,
                   tudták ők azt, hogy mitől hízik a légy. Az Izrael Izsák neveknek éppen olyan, sőt
-                  amolyanabb oka van, mint például a <hi rend="italic">Tamás</hi> keresztnévnek a
+                  amolyanabb oka van, mint például a <hi>Tamás</hi> keresztnévnek a
                   Szirmay családban, vagy annak a hagyománynak a gróf Nádasdyaknál, hogy minden
                   házukat mindenkoron náddal födjék, amit annyira betartanak, hogy mikor a pesti
                   palotájukat nem engedte a fővárosi tanács náddal födetni, mégis náddal födték -
@@ -539,11 +560,11 @@
                   háta mögött azt mondják neki a »Harag­szom rád«-ban: »Haragszom rád«. (Miért?)
                   »Mert olyan furcsa neved van«. S össze­nevetnek lenéző ajkbiggyesztéssel. A megyei
                   restoráción nem választják meg semminek: a bemutatá­soknál még a családtagok is
-                  szégyenlik magokat s elharapják a keresztnevet; magok közt is <hi rend="italic"
+                  szégyenlik magokat s elharapják a keresztnevet; magok közt is <hi
                      >»Kéti«</hi>-nek nevezik a szerencsétlent (hogy ti. Két »i« van a neve után:
                   Kopereczky I. I.). Kéti báró érezte, hogy ettől az átkozott névtől okvetlenül meg
                   kell válnia, erre pedig csak egy mód volt, hogy főbelőjje magát s ezzel aztán egy
-                  füst alatt azt is bebizonyította apja előtt, hogy mégis <hi rend="italic"
+                  füst alatt azt is bebizonyította apja előtt, hogy mégis <hi
                      >igazi</hi> Kopereczky volt. Abban a tekintetben legalább, hogy nagy szamár
                   volt - amiről országszerte ismeretesek a Kopereczkyek -, mutatja ezt a pozsonyi
                   dietán szárnyrakelt paszkvillus is, Kopereczky István követre vonatkozó:</p>
@@ -567,7 +588,7 @@
                   római pápához is eljutott és addig kilincselt, költött és rimánkodott, míg végre
                   csakugyan megváltoztatták a keresztnevét valamely törvényesnek kieszelt formák
                   között Izrael Izsákra, de a bíróság kimondta, hogy néhai báró Kopereczky Móric a
-                  király által is helybenhagyott végintézkedése a <hi rend="italic">szent
+                  király által is helybenhagyott végintézkedése a <hi>szent
                      keresztségben nyert</hi> névre érvényes és nem a koronás fők audienciáján
                   szerzettre.</p>
                <p>Uccu lelkem teremtette, most aztán leesett a hályog a Kopereczky bárók szeméről,
@@ -672,7 +693,7 @@
                   akvizícióval. Titokban azonban nem tartották a famózus kijelentést s csakhamar
                   közkincsévé vált az emberiségnek, mint anekdota, bejárván az egész országot,
                   kacajt fakasztott mindenfelé. Sok becsületet nem szerzett vele a
-                  takarékpénztárnak, de szerzett magának még egy titulust, a »<hi rend="italic">báró
+                  takarékpénztárnak, de szerzett magának még egy titulust, a »<hi>báró
                      Stupiczki</hi>« nevet.</p>
                <p>Mindez inkább tudatlanságból eredt, mintsem hülyeségből s abból a szelességből,
                   hogy nem tudta a tudatlanságát véka alatt tartani. Nagyképűnek kell lenni az
@@ -813,7 +834,7 @@
                   utalványt.</p>
                <p>- Csak ez az unalmas írás ne lenne - zsémbelt. - Micsoda bolond találmány,
                   barátocskám. Az ember lefogdossa az emberi hangokat ezekkel a légylábakkal. Hát
-                  nem nagyszerű? Mit is mondtál csak? Hogy mindjárt kiváltod, <hi rend="italic"
+                  nem nagyszerű? Mit is mondtál csak? Hogy mindjárt kiváltod, <hi
                      >mihelyt lehet.</hi> Bocsánatot kérek, de mi nem élünk frázisokból. Nem vagyunk
                   mi sem közvélemény, se országgyűlés. Tessék üzleti nyelven beszélni! Mikor? Évet,
                   hónapot, napot! Mondjuk, kiváltod egy fél év alatt…</p>
@@ -1635,7 +1656,7 @@
                   tanácsokat öntögetett a fejébe, már tegnapelőtt előre elutazott a megyébe a
                   hangulatot megfordítani (már amennyire lehet), sőt egyenesen nem célirányos lett
                   volna, mert Feri sógor otthon maradt s minden másodnap megpumpolta, még pedig
-                  mindig duplájával az előbbeni kölcsönnek. Egy szóval <hi rend="italic"
+                  mindig duplájával az előbbeni kölcsönnek. Egy szóval <hi
                      >kubusra</hi> dolgozott. Ezt a metódust pedig állítólag egy hajdankori perzsa
                   sah se győzte a sakktáblán, pedig csak búzaszemekről volt szó. Hja, ezt nem lehet
                   tíz napig kitartani. A báró tehát azt mondta egy reggel Malinkának:</p>
@@ -2066,8 +2087,7 @@
                <p>- Próbáljunk a vogyinai zsidótól kérni, van annak elég.</p>
                <p>- No, az nekem is eszembe jutott, csakhogy már két év előtt. Azóta mindig azt
                   csinálom, de már nem lehet többé.</p>
-               <p>- Akkor azután nincs más hátra - vélte Bubenyik -, össze kell hívni a <hi
-                     rend="italic">főkötő-őröket.</hi>
+               <p>- Akkor azután nincs más hátra - vélte Bubenyik -, össze kell hívni a <hi>főkötő-őröket.</hi>
                </p>
                <p>Kopereczky fölszisszent ettől a szótól, mint akit a kígyó csípett meg.</p>
                <p>- A főkötő-őröket? - dadogta és szemei kitágultak a rémülettől. - Nem, nem,
@@ -2091,7 +2111,7 @@
                   valami borzasztó. Csak legalább azt tudná, mik azok a főkötő-őrök.</p>
                <p>Pedig igen egyszerű volt a dolog. A Kopereczky-családra egy ereklye maradt az
                   Anjou-királyok korából, egy főkötő, vagy amint abban az időben nevezték magyarul,
-                     <hi rend="italic">csepesz,</hi> melyet állítólag a Kopereczkyek egyik ősanyja,
+                     <hi>csepesz,</hi> melyet állítólag a Kopereczkyek egyik ősanyja,
                   született Omode Orsolya azon udvari szertartás alkalmával viselt, midőn Róbert
                   Károly királyunk kis fiát, Lajost, a szent keresztvízre tartotta. E komaságnak a
                   fényéből táplálkozott a Kopereczky-család hiúsága századokon át egész máig, annál
@@ -2190,7 +2210,7 @@
                   a Kopereczky Orsolya főkötőjén, hogy még a te torkodon leereszkedhessék vagy
                   kettő? Egy szót se többet, Izrael, egy szót se, mert forgós teremtette, mindjárt
                   más hangból kezdek beszélni.«</p>
-               <p>Ettől a <hi rend="italic">más hangtól</hi> félt Kopereczky. Hogy milyen is lehet
+               <p>Ettől a <hi>más hangtól</hi> félt Kopereczky. Hogy milyen is lehet
                   hát az a »más hang«, mikor már ez sincsen selyemből szőve?</p>
                <p>Nem kis feladat volt ennélfogva, amit Bubenyikre bízott a báró. Mert bizonyára
                   könnyebb és kevésbé fájdalmas azoknak a szegény csigaállatoknak ott a
@@ -2346,7 +2366,7 @@
                   ezer meg ezer apró baját is színes rímekbe fonja.</p>
                <p>Egy vidám vers (melyet Malinka azonnal le is írt magának) a törvényszékekkel
                   évelődik, hogy ti. a három fórum háromféle ítéletet hoz a számadó bojtár pörében,
-                  felmentőt és elmarasztalót, de mind a hármat »<hi rend="italic">a király
+                  felmentőt és elmarasztalót, de mind a hármat »<hi>a király
                      nevében</hi>«.</p>
                <p>Ha én király volnék,</p>
                <p> Mindég egyet mondanék,</p>
@@ -2448,7 +2468,7 @@
                <p>- Ejh, ezt a gyűszűnyit, ami még a palackban van, nem érdemes már eltenni.</p>
                <p>Bubenyiket meggyőzte ez az érvelés.</p>
                <p>- Hallom - kezdé a nyugalmazott kulcsárné az ő éneklő, kenetes hangján -, hogy
-                  most sok pénze van az új <hi rend="italic">fispánnak.</hi> (Fispán halcsontot
+                  most sok pénze van az új <hi>fispánnak.</hi> (Fispán halcsontot
                   jelent tótul; a két hölgy így csúfolta új állása óta egymásközt Kopereczkyt.)</p>
                <p>- Ki mondja azt? - röhögött Bubenyik. - Volt, nincs. A kocsis beszélte, hogy a
                   kártyában derekasan megkefélték Trencsénben a múlt éjjel; azt mondja, egy
@@ -3857,7 +3877,7 @@
                   ösztönszerűleg behunyta a szemeit, mert íme elérkezett a rettenet ruhájába
                   öltözött pillanat s jobb akkor sötétben lenni: Poltáry befejezte beszédét,
                   szórványos éljenzés hangzott fel (a Noszty-klikk éljenei), egyébként hideg maradt
-                  a hallgatóság, bár a suba alatt bevallották, hogy <hi rend="italic">hamari</hi>
+                  a hallgatóság, bár a suba alatt bevallották, hogy <hi>hamari</hi>
                   beszédnek (mert csak tegnap vállalta a szónoki tisztet) nem volt éppen utolsó.</p>
                <p>De az efölötti megjegyzések és véleménynyilvánítások csak legfeljebb két
                   másodpercig tarthattak, míg a főispán hátrataszította a panyókáját, megköszörülte
@@ -4635,8 +4655,7 @@
                   benne, mintha mondaná: »Eh, lárifári! Itt az én erőm.«</p>
                <p>- Úgy van, hirdetést, úgynevezett apróhirdetést - folytatá Homlódyné -, aminőkkel
                   tele vannak most a lapok utolsó oldalai. Ámornak pocsolyái. Ebben a hirdetésben,
-                  már ti. ha így történnék a találkozás, körülbelül ennek kellene lennie: »<hi
-                     rend="italic">Egy szőke fiatal hölgy,</hi> ki ekkor és ekkor ezen és ezen a
+                  már ti. ha így történnék a találkozás, körülbelül ennek kellene lennie: »<hi>Egy szőke fiatal hölgy,</hi> ki ekkor és ekkor ezen és ezen a
                   vonalon utazott, kék pettyes szövetruhát viselt, vöröskötésű regényt olvasott,
                   olyannyira kitörülhetetlen benyomást tett kedves egyéniségével és szépségével az
                   ott őgyelgő fiatalemberre, hogy legyen bár férjes asszony vagy hajadon, boldoggá
@@ -4913,7 +4932,7 @@
                <p>Miska tehát fölvette a zöld kötényt, kimaradt az iskolából és ott dolgozgatott az
                   öreg Stromm oldalán két-három évig. Mindjárt az első pipáját a híres Bornemissza
                   csendbiztos vette meg a kirakatból, ami nem csekély dicsőség volt. Mert a nagy
-                  csendbiztos, kinek halála után még sok évtized múlva is <hi rend="italic"
+                  csendbiztos, kinek halála után még sok évtized múlva is <hi
                      >bornemisszáknak</hi> nevezték abban az egész országrészben a pandúrokat,
                   egyszersmind nagy pipaértő hírében állt, s elég volt egy mestert kiemelni a
                   homályból maga az a tény, hogy az ő szájában látták az alkotását.</p>
@@ -6406,7 +6425,7 @@
                   nem tanulhatta ki), nem tud elosonni kacérkodó incselkedéssel s elvegyülni idegen
                   párok közé s mikor már-már megfogná legyeskedő kedvében a táncosa, kisiklani
                   karmai közül a pillangó illanásával, csalafinta kanyarodással, pedig csak úgy szép
-                  a <hi rend="italic">fogdosó,</hi> ha nehézséggel jár. Ezúttal ugyan nem virtus;
+                  a <hi>fogdosó,</hi> ha nehézséggel jár. Ezúttal ugyan nem virtus;
                   ott fogja el, úgy fogja el, ahogy akarja, mint a pihegő madárkát. A Rupi rárántja
                   a frisset. No, most kell megnézni. Most jön a kopogós. Ejh, de tudja. Majd átkapja
                   a Mari derekát két kézzel, föl-fölemelgeti, le-leeresztgeti filigrán táncosnéját,
@@ -7788,7 +7807,7 @@
                <p>- Miattam szánthatja, de azért mégse fog menni.</p>
                <p>- Pedig a feleségem nagyon szeretné.</p>
                <p>- Sajnos, de ami lehetetlen, az lehetetlen - sóhajtott fel Klementy.</p>
-               <p>- És én magam is akarom - ropogtatta meg az <hi rend="italic">r</hi> betűt a
+               <p>- És én magam is akarom - ropogtatta meg az <hi>r</hi> betűt a
                   főispán keményen.</p>
                <p>- Hm. Akkor meg is lesz - mondá Klementy meghajolva.</p>
                <p>- Ez már beszéd, ezt már szeretem - szólt a főispán örvendezve, kezet szorítván
@@ -8030,7 +8049,7 @@
                <p>- Ohó! Ohó! Bizonyítsa be!</p>
                <p>- Elég bizonyság, mélyen tisztelt közgyűlés, hogy négy Béla nevű királyunk volt; a
                   Béla név pedig semmi egyéb, mint a latin Albertusnak, Albusnak szláv fordítása:
-                     »<hi rend="italic">Bjela</hi>«. A magyar királyok tehát még fiaikat is szláv
+                     »<hi>Bjela</hi>«. A magyar királyok tehát még fiaikat is szláv
                   nevekre keresztelték…</p>
                <p>Egy rikácsoló hang, mint az olló, most egyszerre ketté metszette a beszédet. A
                   hang a karzatról jött. Mindenki odanézett. Hm, nem kápráznak-e a szemeink?
@@ -8378,8 +8397,8 @@
                   válogattam ki (ti. a rosszát válogatta ki). Hétszáz forint az áruk, sógorok közt,
                   mert olyan könnyelmű embertől, mint te, ha ugyan volna, egy másik hétszázat is
                   megkapnék. A bricskát pedig Krapecről hozattam. Nem új, mert az nem is gavallérnak
-                  való, azt hinnék ha új volna, hogy csak most <hi rend="italic">kezdesz</hi> úr
-                  lenni, pedig annak a színének kell lenni, hogy <hi rend="italic">folytatod.</hi>
+                  való, azt hinnék ha új volna, hogy csak most <hi>kezdesz</hi> úr
+                  lenni, pedig annak a színének kell lenni, hogy <hi>folytatod.</hi>
                   És arra fölséges egy ócska bricska, olyan mint az öreg nemesség. Egyébiránt
                   kitataroztatta Bubenyik, úgyhogy jobb az újnál és újból ki van lakkozva, olyan
                   mint izé… mint egy kalitka.</p>
@@ -8449,23 +8468,23 @@
                   valamint azokkal való diplomatikus és célirányos viselkedésről és bánásmódról,
                   ilyenformán:</p>
                <p>
-                  <hi rend="italic">Mezernye.</hi> Briskay Péter (háromszáz hold) szereti a latin
+                  <hi>Mezernye.</hi> Briskay Péter (háromszáz hold) szereti a latin
                   klasszikusokat, egyéb nem imponál neki, erős kálvinista, gorombáskodni kell vele,
                   a mézédes embert utálja.</p>
                <p>
-                  <hi rend="italic">Voglány.</hi> Wracza Károly meggazdagodott fűszerkereskedő, hiú
+                  <hi>Voglány.</hi> Wracza Károly meggazdagodott fűszerkereskedő, hiú
                   ember, pertu kell szólítani s tehetsz vele, amit akarsz.</p>
                <p>
-                  <hi rend="italic">Bárkányban,</hi> Török Gábor nagybirtokos és nagy szamár,
+                  <hi>Bárkányban,</hi> Török Gábor nagybirtokos és nagy szamár,
                   dicsérni kell a juhait és rendelni a saját készítésű édes pálinkából.</p>
                <p>
-                  <hi rend="italic">Kaszád.</hi> Korgó Dániel (négyszáz hold) sok atyafia van,
+                  <hi>Kaszád.</hi> Korgó Dániel (négyszáz hold) sok atyafia van,
                   szidni kell őket előtte.</p>
                <p>
-                  <hi rend="italic">Alsó-Rekettyés.</hi> Tóth Mihály demokrata, bolondos nézetekkel,
+                  <hi>Alsó-Rekettyés.</hi> Tóth Mihály demokrata, bolondos nézetekkel,
                   jó ember, használható, bár nagy befolyása még nincs. A nagyzolást nem szereti.</p>
                <p>
-                  <hi rend="italic">Drenk.</hi> Palojtay István. Nagy portentum. Buzgó katolikus és
+                  <hi>Drenk.</hi> Palojtay István. Nagy portentum. Buzgó katolikus és
                   erős antiszemita. Ámbár kuruc véralkatú, az uralkodóházat nem szabad előtte
                   ócsárolni, mert Károly Albert főherceg, akinek vadászterülete van a megyében, meg
                   szokta hívni vadászataira s ilyenkor vendégül is betér a házához. Erre igen
@@ -10286,7 +10305,7 @@
                   magáéba, kulcsra csukta be, aztán maga elé terítette ki a lapokat, és miután
                   ráakadt, éldelegve olvasta el a következő kishirdetést:</p>
                <p>
-                  <hi rend="italic">Somlyó-hegyen, a pápai iparosok idei szüretén azt a fiatal
+                  <hi>Somlyó-hegyen, a pápai iparosok idei szüretén azt a fiatal
                      leányt, aki cseresznyeszín ruhában, sárga rózsával a hajában jelent meg s magát
                      Klárának nevezte, arra kéri táncosa, kire felejthetetlen benyomást tett, hogy
                      adjon magáról életjelt e lapok kiadóhivatalába: </hi>»Örök seb« jelige
@@ -12330,7 +12349,7 @@
                <p>Mari szelíden nézett rá az ártatlan, tiszta szemeivel. Nem bujkált azokban semmi
                   bűn.</p>
                <p>- Semmi más nem történt, kedves Igali bácsi - szólt nyájasan, szokott
-                  csacsogásával -, minthogy én most már <hi rend="italic">kompromittálva</hi>
+                  csacsogásával -, minthogy én most már <hi>kompromittálva</hi>
                   vagyok.</p>
                <p>Az öregúr szemeit elöntötte a vér, keze ökölbe szorult. Megfordult, rettentő
                   tekintete Nosztyt kereste, de Noszty már akkor nem volt ott. Lassanként
@@ -12420,7 +12439,7 @@
                   hajtja-hajtja a kereket éjjel-nappal, az ételt is csak úgy az ajtón teszik be neki
                   egy kis asztalkán, de csak annyit eszik, mint egy kanári, vagy annyit se.</p>
                <p>Hogy ím annyit súgtak-búgtak mindenütt, immár a Klementy lapja sem hallgathatott s
-                  megjelent a <hi rend="italic">»Csavaros ésszel kifundált szerelmi kaland«</hi>
+                  megjelent a <hi>»Csavaros ésszel kifundált szerelmi kaland«</hi>
                   címen az egész esemény leírása nemes diszkrécióval, csak a kezdőbetűkkel jelezve a
                   szereplőket és némi tapintatos körülírással, hogy »amint Mezernyéről írják
                   lapunknak.« N. F. úr egyik szeretve tisztelt országgyűlési képviselőnk fia, ki a
@@ -12477,7 +12496,7 @@
                   pletykát. Csak a Palojtay becsületes arcán tükröződött mély részvét; ő nem bírta
                   eltitkolni, igaz barátja volt a Tóth családnak.</p>
                <p>- Nem jár nekem az a cím, méltóságos uram, nincs diplomám - szabadkozott Tóth
-                  Mihály -, nemes ember se vagyok, szóval semmi se vagyok, sőt <hi rend="italic"
+                  Mihály -, nemes ember se vagyok, szóval semmi se vagyok, sőt <hi
                      >most már</hi> kevesebb vagyok a semminél is.</p>
                <p>- Ejh, nem kell azt olyan nagyon szívére venni - vágott közbe Podwolski gróf
                   rögtön, in medias res akarván bocsátkozni -, hiszen magunk is voltunk fiatalok
@@ -12607,7 +12626,7 @@
                   üstöke -, az ember szinte kételkedni kezd, vajon az emberek szoktak-e gondolkozni.
                   Van, mondjuk, egy gazember, aki elrabolja gyermekünknek a becsületét s akkor utána
                   kell futnunk (már te szerinted Palojtay), hogy vigye el a leányt is, meg a
-                  hozományát is és ezt te reparációnak nevezed, a gróf úr pedig <hi rend="italic"
+                  hozományát is és ezt te reparációnak nevezed, a gróf úr pedig <hi
                      >mentésnek</hi> mondta (hogy mentsük amit lehet). Hogyan? Hát mentés ez? Hát
                   reparáció ez? Lássuk csak sorba. Eddig ugye tönkrement a leány becsülete, de még
                   megvan a fiatalsága, szépsége, hozománya. A gazember elviszi azt is. Apránként
@@ -12681,7 +12700,7 @@
                   modorában -, azt, hogy a leány értéke alászáll ilyenkor minden házasulandó előtt,
                   kivéve azt, aki kompro­mittálta. Ez van. Ez úgy van. De hogy állunk a reparálás
                   kérdésében? Hát igenis, reparálás volna, ha a kompromittálandó egyén megfelelő
-                  parti volt a leány számára már <hi rend="italic">azelőtt</hi> is. De hátha nem
+                  parti volt a leány számára már <hi>azelőtt</hi> is. De hátha nem
                   volt megfelelő, mert a leány nagyobb értékű kérőkre tartott igényt? Hiszen akkor
                   mégiscsak devalválva van, ha hozzámegy. A méltóságod fejtegetése tehát, bocsánatot
                   kérek, mégse matézis. Ott logikus csak, ahol a leány, a régi igényei szerint is,
@@ -12813,7 +12832,7 @@
                   mind csak komédia volt, kicsinált dolog volt a hozományod elkaparintására?</p>
                <p>Mari megreszketett, mint a nyárfalevél, az esztergakerékbe kellett fogóznia.</p>
                <p>- Nem mennék hozzá - rebegte csendesen, elhalón, összetörve.</p>
-               <p>- Elmehetsz, <hi rend="italic">édes leányom</hi> - mondá az apa szelíden, szinte
+               <p>- Elmehetsz, <hi>édes leányom</hi> - mondá az apa szelíden, szinte
                   megkönnyebbülve, és az ajtóra mutatott.</p>
                <p>- Én is menjek? - kérdé Tóthné.</p>
                <p>- Nem, te még maradj, Krisztina…</p>
@@ -13054,10 +13073,10 @@
                <p>Elnyűtt, elsárgult papiros hullt ki a levélből, Tóth Mihály rögtön felismerte a
                   Noszty betűit. Tényleg egy levél kezdete volt, mely szóról szóra így hangzott:</p>
                <p>
-                  <hi rend="italic">Kedves Máli tante!</hi>
+                  <hi>Kedves Máli tante!</hi>
                </p>
                <p>
-                  <hi rend="italic">Sietve vetem e sorokat papírra egy poloskás pápai vendéglőben.
+                  <hi>Sietve vetem e sorokat papírra egy poloskás pápai vendéglőben.
                      Tervünk nemcsak sikerült, hanem jobban megy, mintsem álmodhattuk volna. Csak a
                      kulcslyukon akartam bekukucskálni, s íme bent vagyok a szobában. Nemcsak
                      megláttam Marit, hanem táncoltam is vele, mégpedig anélkül, hogy tudnám ki,
@@ -13350,7 +13369,7 @@
                a sejtésből, mint a tudásból. A nagy mesemondók eltűntek tehát a föld színéről és
                vissza se fognak térni többé. Dumas, Hugó Viktor és Jókai után bezáródik a kapu és
                nem valószínű, hogy még valamikor megcsikorduljon sarkaiban.</p>
-            <p>Az elbeszélő és a színi irodalom most már a hétköznapi <hi rend="italic">életből
+            <p>Az elbeszélő és a színi irodalom most már a hétköznapi <hi>életből
                </hi>meríti tárgyait. De még nem egészen. Még mindig sok nyűgözi a konvencionális
                sablonokból. A szabályszerű elbeszélő művek (az akadémiai recept szerint írottak),
                bizonyos unalmat keltenek, mint a szabályosan épített házak. Semmi sem lehet
@@ -13367,7 +13386,7 @@
             <p>Nemde különös, hogy egy az érdeklődés megfeszítésére igyekvő műben előre meg legyen
                határozva a végkifejlődés. Hát az életből van ez véve? Oh Istenem, az élet nem olyan
                jóságos, hogy ezt garantálná a fiataloknak! Hiszen a konfliktusok nem volnának
-               konfliktusok, ha <hi rend="italic">muszáj </hi>volna jól végződniök… Inkább csak
+               konfliktusok, ha <hi>muszáj </hi>volna jól végződniök… Inkább csak
                azért lehet ez így, mert a közönség még fiatal s nem bánja, ha az történik a
                darabban, amit ő óhajt, hogy történjék. De nem kell-e egyszer ennek is megváltoznia,
                ha a közönség öregebb lesz?</p>
@@ -13393,7 +13412,7 @@
                észreveheti a történet kompozí­cióján s anyagán is az író kezét és ízlését, holott
                csak a kidolgozáson és fölfogáson volna szabad éreznie.</p>
             <p>Világos tehát, hogy az elbeszélő irodalom még mindig megy előre. Megy, de hová?</p>
-            <p>Én úgy gondolom, hogy a hírlapírói <hi rend="italic">riport </hi>felé. Itt fogja
+            <p>Én úgy gondolom, hogy a hírlapírói <hi>riport </hi>felé. Itt fogja
                valahol megtalálni a tökélyt. De persze épp úgy nemesítse meg a riportot ezután, mint
                ahogy megnemesítette azelőtt a mesét. Nincs az a becses írói tulajdonság, mely ne
                érvényesülhetne ebben a rámában is.</p>
@@ -13416,11 +13435,11 @@
                igazaim mellett felhoznám a Noszty fiú esetét Tóth Marival s mikor a történet
                bizonyító magvát elmondottam, mintha ezzel be is fejezném, nem törődve a személyek
                további sorsával. Épp ahogy a vonat beérvén végállomására, megáll és nem megy tovább,
-                  <hi rend="italic">habár maguk az utasok még be nem végezték </hi>az útjukat.</p>
+                  <hi>habár maguk az utasok még be nem végezték </hi>az útjukat.</p>
             <p>Csakhogy ezzel az újítási vággyal kapcsolatosan előugrik a kétely is. Birkóznak,
                birkóznak és nem bírják egymást földhöz vágni. Az újítási vágy nagy hetykeséggel veri
                a mellét: »Hiszen igazam van«, a kétely ellenben titubálva mérlegeli: Hátha csak a
-               patkót vertem fel <hi rend="italic">megfordítva </hi>a pegazusra, s a lábnyomokat
+               patkót vertem fel <hi>megfordítva </hi>a pegazusra, s a lábnyomokat
                tekintve, magamat is megtéveszt a hátravaló menés, mely előrevaló menésnek
                látszik?</p>
             <p>Ily viszonyok között nem mervén dönteni se ide, se oda, legokosabbnak látszott egy

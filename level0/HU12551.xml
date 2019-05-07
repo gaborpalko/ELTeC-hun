@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Katalin :  Regény fiatal leányok számára </title>
                <date>2014-03-04</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -33,14 +33,14 @@
                   <name>Szever Pál</name>
                   <name>Szabó Attila</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>Katalin :  Regény fiatal leányok számára </title>
                      <date>2014-03-04</date>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>Katalin : regény fiatal leányok számára</title>
                      <author>Benedek Elek</author>
                      <pubPlace>Budapest</pubPlace>
@@ -68,8 +68,10 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-19"/>
+         <change when="2019-04-23"/>
+         <change when="2019-02-27"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-19"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -79,7 +81,7 @@
               Az iró levele Katalinhoz.
            </head>
            <p>
-              <hi rend="italic">Kis-Baczon. </hi>1895. augusztus havában.</p>
+              <hi>Kis-Baczon. </hi>1895. augusztus havában.</p>
            <p>Ön megengedte nékem, édes Katalin, hogy megirjam küzdelmes életének történetét s
               azóta nincs nyugodalmam: bármerre járjak, fekete fellegként fölöttem borong a bús
               történet, im, elkisért a szülei hajlékba is. Sétálván föl s alá, nagyapó udvarán,
@@ -144,7 +146,7 @@
      </front>
       <body>
          
-         <div type="group">
+         <div type="part">
             <head>
                 ELSŐ RÉSZ.
             </head>
@@ -186,9 +188,9 @@
                   mint két tojás. Ikreknek néztük: azok is voltak. Fekete, csillogó fekete haja
                   mindkettőnek; arczuk, szemük nevető, beszédes. Csakugy lobogott kissé göndör
                   hajuk, a mint szaladtak Katalin után, kiáltva:</p>
-               <p>- Várj meg, várj meg, <hi rend="italic">kis mama</hi>!</p>
+               <p>- Várj meg, várj meg, <hi>kis mama</hi>!</p>
                <p>Mikor Katalin belefogott életének elbeszélésébe, ez a szó villant meg először
-                  lelkemben a gyermekkori emlékből: <hi rend="italic">kis mama</hi>! Igen, igen,
+                  lelkemben a gyermekkori emlékből: <hi>kis mama</hi>! Igen, igen,
                   hallottam ezt a szót. Mintha tegnap hallottam volna. És végig futtatván elmémet az
                   egész történeten, egy szóval, egyetlen egy szóval mégis előbb kell azt kezdenem,
                   mint a hogy Katalin kezdette.</p>
@@ -248,8 +250,7 @@
                   Tartsa el, a nélkül, hogy neki törődnie kelljen azzal: miként és hogyan. Ez nem az
                   ő gondja.</p>
                <p>Szentpáli Gábor nem vette észre az idők változását. Mohón élvezte az új idők
-                  előnyeit, mit leghelyesebben ebben az egy szóban lehet kifejezni: <hi
-                     rend="italic">kényelem</hi>, de nem vett tudomást az új idők követeléseiről.
+                  előnyeit, mit leghelyesebben ebben az egy szóban lehet kifejezni: <hi>kényelem</hi>, de nem vett tudomást az új idők követeléseiről.
                   Szánakozva gondolt őseire, kik egész életüket falun voltak kénytelen leélni, mig ő
                   csak egyet gondol, másnap már Budapesten lehet s élvezheti mindazt, mit egy nagy
                   város a gazdag embernek nyujt. S bár felesége éppenséggel nem vágyakozott a
@@ -356,8 +357,7 @@
                   előtt a szomoru valót, Szentpáli Gábor egész lényében megváltozott. Egy álmatlanul
                   átvirrasztott éjszaka éppen elég volt a változásra. A mit az első pillanatban
                   lehetetlennek tartott, most szörnyü világosan állott lelki szemei előtt: a bukás,
-                  az elkerülhetetlen bukás. Az éj sötétében ijesztő rémképek jelentek meg: a<hi
-                     rend="italic"> Nyomor </hi>és a <hi rend="italic">Halál</hi>.Szivébe nyilallott
+                  az elkerülhetetlen bukás. Az éj sötétében ijesztő rémképek jelentek meg: a<hi> Nyomor </hi>és a <hi>Halál</hi>.Szivébe nyilallott
                   a gondolat, hogy elveszti feleségét, azt az áldott jó asszonyt, kinek egészsége az
                   ő szemeláttára ment tönkre s ő mégsem vette észre, vagy legalább nem vette
                   komolyan. Most már visszaemlékezett arra a hideg téli napra is, mikor Szentpáliné
@@ -471,7 +471,7 @@
                   kettes sorokban, mellettetek a tanárnők, kik arra is vigyáznak, hogy nem néztek-e
                   véletlenül az elhaladó fiatal emberekre. Fülsüketitő lárma az utczákon.
                   Összegabalyodva kocsik, omnibuszok, lóvasut, villamos-vasut s a tenger nép! Alig
-                  lehet mozogni. Elhiszem, hogy ez nem tetszik neked. De <hi rend="italic">belől
+                  lehet mozogni. Elhiszem, hogy ez nem tetszik neked. De <hi>belől
                   </hi>mi más Budapest! Én ismerem belőlről!</p>
                <p>-Én nem fogom megismerni.</p>
                <p>- Meg fogod ismerni!</p>
@@ -486,12 +486,11 @@
                   meg a kezét, s mosolygást erőltetve suttogta:</p>
                <p>- Te bohó, te... Mindegy akárhol élünk, csak szeressük egymást.</p>
                <p>Hozzá tette: Csak te szeress!</p>
-               <p>»Csak <hi rend="italic">te </hi>szeress«, ismételte Baróthy Kálmán halkan s ez a
+               <p>»Csak <hi>te </hi>szeress«, ismételte Baróthy Kálmán halkan s ez a
                   pár szó elég volt, hogy a gyermek­leány szivéről elüzze a borut. Szép fekete
                   szemei büszkén, diadalmasan ragyogtak: Kálmán szereti őt igaz szeretettel!</p>
                <p>Lehunyta szemét, de nem tudott aludni: ébren álmodott. A vasuti kocsik kerekei is
-                  mintha mind azt zakatolták volna: Csak <hi rend="italic">te </hi>szeress! Csak <hi
-                     rend="italic">te </hi>szeress! S ebben a végtelen nagy bol­dogságban megjelent
+                  mintha mind azt zakatolták volna: Csak <hi>te </hi>szeress! Csak <hi>te </hi>szeress! S ebben a végtelen nagy bol­dogságban megjelent
                   lelki szemei előtt édes anyja szelid, jóságos arcza. Szeretettel nézett reá.
                   Boldogság ragyogott arczán. Mintha a szavát is hallotta volna: Csak te boldog
                   légy, Katalin, édes kicsi mamám!</p>
@@ -534,7 +533,7 @@
                <p>- A szemem be volt hunyva, de nem aludtam. S ha álmodtam is, ébren álmodtam.</p>
                <p>- Oly szép voltál, Katóka!</p>
                <p>- Ezt már oly sokszor mondtad. Ne légy unalmas.</p>
-               <p>- Sokszor, de nem <hi rend="italic">úgy</hi>,mint most.</p>
+               <p>- Sokszor, de nem <hi>úgy</hi>,mint most.</p>
                <p>- Jer, - mondta Katalin, - hogy egyébre terelje a beszédet - most kel föl a nap.
                   Nézzed, nézzed, de szép, de felséges! A sugarai már előre törnek, mindjárt
                   kibukkan, mindjárt!</p>
@@ -625,7 +624,7 @@
                <p>Szomoru, lemondó mosoly vonaglik beesett arczán.</p>
                <p>Az orvos belép. Gyöngéden fogja meg Katalint.</p>
                <p>- Jó lesz most magára hagyni a mamát. Megárt az izgalom.</p>
-               <p>- <hi rend="italic">Az én helyem itt van! </hi>- mondta Katalin.</p>
+               <p>- <hi>Az én helyem itt van! </hi>- mondta Katalin.</p>
                <p>Intett a szobaleánynak, hogy kimehet s friss borogatást tett mamája homlokára.</p>
                <p>Leült az ágy szélére, el nem mozdult onnét. Este hivták, hogy feküdjék le.
                   Kiüzente:</p>
@@ -634,7 +633,7 @@
             </div>
             <div type="chapter">
                <head>
-                  <hi xml:id="_Toc380492953">„Édes jó mamám!”</hi>
+                  
                </head>
                <p>Egy perczig sem hunyta le szemét. Szorongva leste édes anyja minden mozdulatát.
                   Mindegyre föléje hajolt s leste, figyelte az arczát. Szinte lopva, észrevétlen,
@@ -877,8 +876,7 @@
                   magával Györgyöt.</p>
                <p>- Köszönöm, öcsém, de Györgyöt Udvarhelyre viszem. Ott olcsóbb az élet. Beadom
                   azinterná­tusba. Odaviszem Kornélt is.</p>
-               <p>Katalin megfigyelte, hogy milyen hatást tesz Kálmánra ez a mondás: <hi
-                     rend="italic">olcsóbb élet.</hi>
+               <p>Katalin megfigyelte, hogy milyen hatást tesz Kálmánra ez a mondás: <hi>olcsóbb élet.</hi>
                </p>
                <p>Kálmán egy kicsit összerezzent. De azt senki sem vette észre, csak ő. A szive
                   összeszorult. Mintha vasmarokkal szorongatták volna. Ebben a pillanatban érezte
@@ -960,7 +958,7 @@
                   hogy hiába várja az apját), de szemére nem jött álom: folyvást az a nő állott
                   előtte, a kit majd igy kell szólitania: anyám.</p>
                <p>Kell? Nem, nem! Ezt a szót nem fogja kiejteni. Hisz az ő apja nem anyát hoz a
-                  házhoz, hanem egy <hi rend="italic">asszonyt</hi>,a kinek, hir szerint, sok pénze
+                  házhoz, hanem egy <hi>asszonyt</hi>,a kinek, hir szerint, sok pénze
                   van.</p>
                <p>Mély keserüséggel töltötte el a szivét a gondolat, hogy az ő édes apjuk, csak a
                   vagyon meg­mentésére gondol, reájuk nem; hogy az ő édes anyjuknak, ennek a müvelt,
@@ -1013,13 +1011,13 @@
                   csupán az ikrek­kel meg a fiútestvéreivel s épp elég ideje volt arra, hogy számot
                   vessen magával, elő­készitse magát a jövendőre, gondolkozzék a maga és testvérei
                   sorsán. És teljesen megérlelő­dött benne az az elhatározás, hogy csak addig marad
-                  a szülei házban, a mig bizonyos a felől, hogy az <hi rend="italic">övék </hi>s egy
+                  a szülei házban, a mig bizonyos a felől, hogy az <hi>övék </hi>s egy
                   pillanatig sem fogja enni annak az asszonynak a kenyerét. Sőt, a mint te­he­ti,
                   megszabaditja a kegyelemkenyértől az ikreket is. A fiúk inkább tudnak magukon
                   segi­te­ni. Ha szegénységgel, nyomorusággal is, valahogy csak végigjárják a
                   gimnáziumot, aztán majd csak megszerzik a mindennapit.</p>
                <p>Akárcsak egy hadvezér a haditervet, ő is megcsinálta a maga tervét főbb
-                  vonásokban. Az volt tervének a magva, hogy <hi rend="italic">uj otthont
+                  vonásokban. Az volt tervének a magva, hogy <hi>uj otthont
                   </hi>teremt magának és testvéreinek. De habár ideális lélek volt, nem ámitotta
                   magát hiu ábrándokkal. Látta, világosan látta, hogy nagy, nehéz küzdelmek teszik
                   próbára majd erejét, bátorságát, de nem riadt vissza a küzdelmektől. Szinte
@@ -1033,7 +1031,7 @@
                   előtt sem merte bevallani, hogy legnagyobb fájdalmat egy már-már szertefoszlott
                   szép álom okoz szivének. A mit eddig nem akart hinni, most már szinte bizonyos
                   volt a felől, hogy Kálmánt elszakitják tőle. Csöndesen, feltünés nélkül. Végre is,
-                  hivatalosan nem voltak jegyesek, <hi rend="italic">csak </hi>lélekben. Oly könnyü
+                  hivatalosan nem voltak jegyesek, <hi>csak </hi>lélekben. Oly könnyü
                   félreállani...</p>
                <p>Im, maholnap eltelik a nyár s Kálmán, bár alig egy pár órányira van tőle, egész
                   nyáron alig volt náluk háromszor. Akkor is kedvetlen, bosszus, ideges,
@@ -1094,11 +1092,10 @@
                   állani. Most, e nyáron hazajöttél. Harmadszor vagy itt.</p>
                <p>- De...</p>
                <p>- Tudom, mit akarsz mondani. Jönnél mindennap, de édes apád azt mondja: minek
-                  jársz annyit Szentpáliékhoz, annak <hi rend="italic">már </hi>nincs értelme.
+                  jársz annyit Szentpáliékhoz, annak <hi>már </hi>nincs értelme.
                   Hallod, Kálmán, már nincs. És te nem jössz. Nem is jöhetsz, mert apáddal nem
                   szállhatsz szembe, hogy követnéd aztán szived sugallatát. Nem szállhatsz szembe,
-                  nem azért, mert ő az apa, te meg gyermeke vagy, hanem, mert nem vagy <hi
-                     rend="italic">független</hi>. Ha apád leveszi rólad a kezét: véged. Mit
+                  nem azért, mert ő az apa, te meg gyermeke vagy, hanem, mert nem vagy <hi>független</hi>. Ha apád leveszi rólad a kezét: véged. Mit
                   kezdesz? Diplomád nincs.</p>
                <p>- Lesz.</p>
                <p>Mondta, de maga sem hitte. Katalin sem hitte.</p>
@@ -1224,7 +1221,7 @@
                   az övével! Betegség ha ér: sem éjjele, sem nappala. Remegő szivvel virraszt ágyunk
                   felett, de válságos pillanatokban hőssé válik, harczra kél magával a rettenetes
                   Halállal.</p>
-               <p>Mama! Nincs szó, mely oly hiven fejezné ki az <hi rend="italic"
+               <p>Mama! Nincs szó, mely oly hiven fejezné ki az <hi
                   >önfeláldozást</hi>, a maga jólétéről való le­mondást, mint ez a szó: mama! Ez az
                   egyetlen szó, melyet minden gyermek ismer, bármely nyelvet beszéljen s királynak,
                   koldusnak csak addig boldog a gyermeke, mig van, a kinek mondja: mama!</p>
@@ -1266,7 +1263,7 @@
                <p>Róza, ki éppenséggel nem volt az a szép leány, a kinek Katalin az ikrek előtt
                   mondotta, sőt inkább csunyának lehetett mondani, mint szépnek, szinte
                   visszataszitó kedvességgel borult Katalin nyakába.</p>
-               <p>- Ó, én tudom, hogy mi <hi rend="italic">jó pajtások </hi>leszünk! Sok szépet
+               <p>- Ó, én tudom, hogy mi <hi>jó pajtások </hi>leszünk! Sok szépet
                   hallottam rólad!</p>
                <p>- Én is sok szépet hallottam rólad, - mondta a kisebbik leány a nénje után s
                   nyakába ugrott Katalinnak.</p>
@@ -1297,7 +1294,7 @@
                   a leg­szebb szoba.</p>
                <p>Katalin nem tudta legyőzni felindulását. Könybe lábbadt a szeme, szinte zokogásba
                   fult a hangja, a mint mondta:</p>
-               <p>- Lehet, hogy a legszebb, de a <hi rend="italic">legszomorubb </hi>is! Itt halt
+               <p>- Lehet, hogy a legszebb, de a <hi>legszomorubb </hi>is! Itt halt
                   meg az én édes jó anyám!</p>
                <p>Az uj mama összerezzent, mintha hideg szél süvöltött volna be az ablakon. Kint
                   valóban tombolt a szél, csapkodta a havat az ablakokhoz, valahol a kertben nagy
@@ -1564,7 +1561,7 @@
                   özvegy hiuságának hizeleg, ha a Szentpáli nevet viselheti, de majd, ha beüt a
                   katasztrófa, félre áll és nem lesz segitségére az ő apjának, ezt már az első nap
                   igazolta. Tehát ő helyesen okoskodott fiatal leány létére is, mikor a két rossz
-                  közül azt tartotta kevésbbé rossznak, ha <hi rend="italic">magukban </hi>lesznek,
+                  közül azt tartotta kevésbbé rossznak, ha <hi>magukban </hi>lesznek,
                   mikor a bukás bekövetkezik, mint hogy egy család helyett két család legyen
                   egyfödél alatt, mely régóta összeomlással fenyeget.</p>
                <p>Az özvegynek könnyü lesz a dolga: van pénze bőven, gyermekei is gazdagon el vannak
@@ -1607,7 +1604,7 @@
                <p>- Katalin...</p>
                <p>- Ne, ne! Ne is vegyen. Nem is mennék hozzá.</p>
                <p>- Nem mennél hozzá... Miért nem?</p>
-               <p>- Apa. Hallgass ide. Kálmánban nincs <hi rend="italic">karakter</hi>. Értetted,
+               <p>- Apa. Hallgass ide. Kálmánban nincs <hi>karakter</hi>. Értetted,
                   édes apa, nincs karaktere. Ő nagyon jól tudja, hogy mi tönkre mentünk. Én magam
                   megmondottam neki.</p>
                <p>- És ő mit szólt?</p>
@@ -1682,7 +1679,7 @@
                <p>- Csak nem gondolod, hogy kikerülöm a házatokat, mikor erre visz az utam? Tettem
                   én ezt valaha?</p>
                <p>- Valóban, ez nagyon szép tőled, - mondotta Katalin gúnyosan. - Nem kerülöd ki a
-                  házunkat. Ugyanezt tette ma egy pesti úr is. Ez is <hi rend="italic">erre járt
+                  házunkat. Ugyanezt tette ma egy pesti úr is. Ez is <hi>erre járt
                   </hi>és nem kerülte ki a házunkat.</p>
                <p>- Kérlek, te mindjárt félreértesz.</p>
                <p>- Dehogy, Kálmán. Én értelek téged. Értem minden szavadat, még azt is, a melyet
@@ -1798,7 +1795,7 @@
                   is, ha megváltanád a birtokot, nemcsak nekem és gyermekeimnek váltanád meg.</p>
                <p>- Mit akarsz? - kérdezte nyersen az asszony.</p>
                <p>- Semmi különöset. Csak azt akarom, hogy egy pár óráig viseld magadat Szentpáli
-                  Gáborné­hoz illő módon. Csak arra kérlek: légy <hi rend="italic">úri
+                  Gáborné­hoz illő módon. Csak arra kérlek: légy <hi>úri
                   asszony</hi>.</p>
                <p>- Talán nem vagyok az!?</p>
                <p>- Az vagy, Róza, az vagy. Lásd, itt van Baróthy Kálmán...</p>
@@ -2038,7 +2035,7 @@
                   boldogulj a te hited szerint.</p>
                <p>Kálmán csudálkozva nézett az apjára.</p>
                <p>- Megbocsáss, apa, de igazán nem értem keserü kifakadásodat. Te magad mondtad,
-                  hogy <hi rend="italic">rajtunk</hi>, rajtatok és rajtam csak egy jó házasság
+                  hogy <hi>rajtunk</hi>, rajtatok és rajtam csak egy jó házasság
                   segit. Csakhogy ez a jó házasság nem megy oly könnyen. Valamit kell kezdenem.
                   Dolgozni nem tudok, tehát - képviselő leszek. Remé­lem, nem léptetsz föl valakit
                   ellenem? Juttatsz nekem egytiszta, jó, kényelmes kerületet.</p>
@@ -2137,7 +2134,7 @@
                <p>- Nos igen, a tied és a testvéreidé.</p>
                <p>- Nem értem...</p>
                <p>- Kedves Róza, te sok mindent nem értesz. Majd megérted, ha szinről-szinre látod.
-                  De beszéljünk egyébről, a mi téged jobban érdekel. Ülj le már, <hi rend="italic"
+                  De beszéljünk egyébről, a mi téged jobban érdekel. Ülj le már, <hi
                      >nálam</hi>.</p>
                <p>Róza habozva ült le s kényelmetlenül feszengett a székben. Ugy érezte magát,
                   mintha fogoly volna. Szeretett volna menekülni, de röstellette ott hagyni
@@ -2342,11 +2339,11 @@
                <p>A gyermekszobából egyszerre át egyfényesen világitott terembe, hol frakkos ifjak
                   fogadják mosolyogva az iruló-piruló, bátortalanul lépő leánykákat, kik egy pár
                   forduló után nagy leányoknak érzik magukat s szünetkor csodálkoznak magukon, hogy
-                     <hi rend="italic">ezért </hi>voltak izgatottak oly hosszú időn keresztül...
+                     <hi>ezért </hi>voltak izgatottak oly hosszú időn keresztül...
                   Hiszen ha ezt előre lehetne tudni! Mi jó, hogy nem lehet. Csak igy marad meg egy
                   egész életre édes emléknek az első bál, mely oly sok kedves ábrándot fakaszt a
                   fiatal szivekben...</p>
-               <p>... Katalin az asztal mellett ül, kedves könyvében, a <hi rend="italic">Kárpáthy
+               <p>... Katalin az asztal mellett ül, kedves könyvében, a <hi>Kárpáthy
                      Zoltán</hi>-banlapozgat, de ma szórakozott s azokat a sorokat sem tudja
                   figyelemmel olvasni, melyeket alá-aláhuzogatott, mikor először olvasta. És azután
                   sokszor. Hiába erőltette magát, hogy elterelje figyelmét a szomszéd szobákból
@@ -2368,7 +2365,7 @@
                   legalább látszólag, az első nap kitört vihar után hirtelen, csodálatos hirtelen
                   állott helyre.</p>
                <p>Egyébként is: ő már Kálmánnal leszámolt végkép. Ő legalább azt hitte. Mert abban
-                  nem volt bizonyos, hogy a <hi rend="italic">szive is </hi>leszámolt volna... Még
+                  nem volt bizonyos, hogy a <hi>szive is </hi>leszámolt volna... Még
                   egypár hónap legfönnebb az ő élete itt, aztán következik - mi, azt ki tudhatná
                   előre? Kálmán tisztában lehet már ő felőle. Háromszor adta tudtára, hogy nem akar
                   találkozni vele. Először, mikor váratlanul haza jött Budapestről seste, mikor el
@@ -2639,7 +2636,7 @@
                
             </div>
          </div>
-         <div type="group">
+         <div type="part">
             <head>
                 MÁSODIK RÉSZ.
             </head>
@@ -2696,8 +2693,7 @@
                   meghóditá az olvasóközönséget s Etelka a legnagyobb szegénységben maradt hátra
                   édes anyjával. Szerencsére, az apja emlé­keért, bevették az intézetbe ingyenesnek,
                   az édes anyja pedig regényeket forditott a lapoknak, ebből tengette életét. A
-                  legsilányabb kereset a világon: a jóllakásra kevés, az éhenhalásra sok, de <hi
-                     rend="italic">valami</hi>. Két szobácska s egy konyha, ez volt a lakásuk s az
+                  legsilányabb kereset a világon: a jóllakásra kevés, az éhenhalásra sok, de <hi>valami</hi>. Két szobácska s egy konyha, ez volt a lakásuk s az
                   egyik szobát rendesen albérbe adták.</p>
                <p>Katalin mindig örömmel ment Etelkáékhoz, szivét meghatotta az özvegy hősies
                   küzdelme s ha módját ejthette, olyan formában, hogy nem lehetett visszautasitani,
@@ -2800,7 +2796,7 @@
                   jó barátok, a költő tisztelői most már elforditják a fejüket, ha látnak az utczán,
                   nehogy megállitsam és kérjek tőlük valamit. Egy szó, mint száz: Etelkát nem vették
                   fel a tanitónő-képzőbe. Egyszerüen nem jutott neki hely. Sem ingyenes, sem
-                  fizetett. A tanfelügyelő azt mondta: hja, kérem, ez <hi rend="italic"
+                  fizetett. A tanfelügyelő azt mondta: hja, kérem, ez <hi
                      >minta-intézet</hi>, ide legfönnebb 25 leányt vesznek föl. A miniszterhez nem
                   is mentem. - Tessék, biztatott a tanfelügyelő, a jövő évben újra próbálni, talán
                   akkor. Apropos, ugy-e, a kedves leánya - keresztény? - Igen, mondtam én
@@ -2887,7 +2883,7 @@
                   érettem jőjj és tán visszavigy, semmi értelme sem volna. Rám nézve a vissza­menés
                   erkölcsi lehetetlenség, de meg vagyok győződve, hogy, ha te vissza is szeretnél
                   vinni, a miben nem kételkedem, Boronkainé asszony nem fogadna vissza oly leányt, a
-                  ki <hi rend="italic">megszökött </hi>a háztól. Nem engedné meg ezt az ő
+                  ki <hi>megszökött </hi>a háztól. Nem engedné meg ezt az ő
                   tiszteletre méltó erkölcsi fölhá­bo­ro­dása. Azért irom meg tehát a czimemet, édes
                   jó apám, hogy irj nekem, a mikor teheted, a te hogylétedről és irj a szegény
                   ikrekről, a kiknek kicsi szivét, tudom, végtelenül megbúsitottam. Vigasztald meg
@@ -3078,7 +3074,7 @@
                <p>Este, az üzlet bezárása előtt, mondta Weisz úr:</p>
                <p>- Kisasszony, ön még sokra viheti. Egyelőre egy forint a napi bére. Megélhet
                   ebből?</p>
-               <p>- <hi rend="italic">Én </hi>meg, - mondotta Katalin.</p>
+               <p>- <hi>Én </hi>meg, - mondotta Katalin.</p>
                <p>- Ó ez csak a kezdet. Ne csüggedjen.</p>
                <p>- Köszönöm, Weisz úr. Ön igazán oly jó. Isten önnel. Jó éjt.</p>
                <p>Arcza büszke örömtől ragyogott, a mint végig haladt az utczákon. Szeretett volna
@@ -3191,7 +3187,7 @@
                <p>A testvéreinek! Velük aludott el, velük ébredett. Reájuk gondolt napközben is, a
                   gép zakato­lásában is az ikrek szavát hallotta: Kismama, hol vagy? Jere haza,
                   kismama!</p>
-               <p>Nem tudta elűzni a fejéből Gyulai költeményét, a <hi rend="italic">Gonosz
+               <p>Nem tudta elűzni a fejéből Gyulai költeményét, a <hi>Gonosz
                      mostohá</hi>-t.Akkor tanulta meg ezt a gyönyörü szép költeményt, mikor a
                   mostoha elfoglalta az ő édes anyja helyét. A szivébe vágott minden sora, minden
                   szava. Különösen mióta eljött a szülei háztól, folyton ez a költemény üldözi.
@@ -3204,7 +3200,7 @@
                <p>Visszafelelnek az ikrek:</p>
                <p>Vagyon nekünk jó mostohánk,</p>
                <p>
-                  <hi rend="italic">Nagyon </hi>gondot visel reánk!...</p>
+                  <hi>Nagyon </hi>gondot visel reánk!...</p>
                <p>Ó, ha szárnyat ölthetne s meglátogathatná éjjelenként az ikreket! Melléjük
                   feküdnék, velük aludnék, jó hajnalban fölkelne, megcsókolná, vigasztalná: tűrjetek
                   még, édes kicsi árváim, már rakom a fészket. Meg van az alapja. Egyszerre csak
@@ -3217,7 +3213,7 @@
                <p>»Édes Katókám, - irta Szentpáli - mélyen megszomoritottad a szivemet azzal, hogy
                   elhagytad a »volt« szülei házat, de még nagyobb szomorúságot okoz apai szivemnek,
                   hogy bele kell nyugodnom a kegyetlen sorsba, nem mehetek utánad, nem mondhatom
-                  neked: <hi rend="italic">jere haza</hi>.A ház, melyet Szentpáli Jób ősapám épitett
+                  neked: <hi>jere haza</hi>.A ház, melyet Szentpáli Jób ősapám épitett
                   s mely számos nemze­déknek adott biztos hajlékot, nem az enyém s - mely kegyetlen
                   végzet! magam is megtürt lakója vagyok az ősi háznak. Magam is azon járatom az
                   eszemet, hogy valami hivatalt vállaljak, bármily szerény hivatalt, hogy ne kelljen
@@ -3408,10 +3404,9 @@
                <p>Nem tudta, hol jár, csak ment össze-vissza utczából ki, utczába be, egy-egyutczán
                   háromszor is végig ment, a nélkül, hogy észre vette volna. Egyszerre csak előtte
                   állott Eötvös szobra, mely feketén, búsan vált ki a még alig levelezdő akáczfák
-                  körül. Bement a kis parkba, s hosszan nézte a szobrot. <hi rend="italic">A
+                  körül. Bement a kis parkba, s hosszan nézte a szobrot. <hi>A
                      megfagyott gyermek </hi>költőjének szelid, gondolkozó arczát. Sorban jutottak
-                  eszébe a költő versei. <hi rend="italic">A megfagyott gyermek. </hi>A <hi
-                     rend="italic">Végrendelet</hi>. Önkéntelen suttogta magában a <hi rend="italic"
+                  eszébe a költő versei. <hi>A megfagyott gyermek. </hi>A <hi>Végrendelet</hi>. Önkéntelen suttogta magában a <hi
                      >Végrendelet </hi>kezdő sorait:</p>
                <p>Ha majdan átfutottam,</p>
                <p> Göröngyös utamat...</p>
@@ -3767,7 +3762,7 @@
                   jelöltben, a ki nagyon érti a nép szája ize szerint való szónokolást, már-már a
                   maga részére is hóditotta a kerület többségét, s mondhatom, ha én nem veszem
                   kezembe a Kálmán dolgát, elbukik, jóllehet az apja főispán s a hivatalos hatalom
-                     <hi rend="italic">mindent </hi>elkövetett az érdekében. Bizony, történt sok
+                     <hi>mindent </hi>elkövetett az érdekében. Bizony, történt sok
                   szégyenletes visszaélés, de hát ez igy van többé-kevésbbé mindenütt. »A ki birja
                   az marja.« Tehát: Baróthy Kálmán országgyülési képviselő. Azt mondta, hogy a
                   napokban föl is megy Budapestre. Hogy mi történt, mi nem köztetek, azt én nem
@@ -4020,7 +4015,7 @@
                   néztem, bár nem volt óra, hogy rá ne gondoljak. De valami csodás változás történt
                   vele. Az utolsó fél esztendőben egészen megemberesedett a külsejében is. De hát
                   most itt vagyunk, együtt vagyunk édes jó apám. Kicsike az Uzoniné szobája, de mi
-                  jól elférünk négyecskén. Pompás <hi rend="italic">megálló </hi>hely ez, honnét
+                  jól elférünk négyecskén. Pompás <hi>megálló </hi>hely ez, honnét
                   ki-kiröpülünk, meg vissza, mignem föl­rakjuk a mi kicsi fészkünket is.</p>
                <p>Az ikrekkel már kész a tervem. A mi fölös időnk lesz, Györgygyel arra forditjuk,
                   hogy kipótoljuk a falusi iskola hiányos oktatását, elkészitjük őket őszre s ha
@@ -4127,7 +4122,7 @@
                <p>- És nem könnyebben nevelheti fel, ha egy becsületes férfi áll az oldalán, a ki
                   meg tudja menteni a nehéz gondoktól; a ki épp oly szeretettel ölelné keblére az ön
                   testvéreit, mint saját gyermekeit?</p>
-               <p>- Nem, nem! Erre én <hi rend="italic">egyedül </hi>vállalkoztam. Egyedül akarom
+               <p>- Nem, nem! Erre én <hi>egyedül </hi>vállalkoztam. Egyedül akarom
                   teljesiteni, a mit magam elé tüztem, ha beléhalok is. Ön derék, becsületes ember,
                   de mégsem édes apja az én testvé­reim­nek. Ezer meg ezer összeütközés támadhatna a
                   mostoha testvérek között; ön a saját gyer­mekeit, én az én testvéreimet pártolnám,
@@ -4278,9 +4273,9 @@
                <p>- Szeretnék népszinművet irni.</p>
                <p>- Fiatal vagy te még arra, György.</p>
                <p>- Fiatal!? Azért sikerülhet. Ha jól tudom, Rákosi Jenő is tizennyolcz éves korában
-                  irta az <hi rend="italic">Aesopus</hi>-át s ez, szerintem, a legszebb
+                  irta az <hi>Aesopus</hi>-át s ez, szerintem, a legszebb
                   alkotása.</p>
-               <p>- Igen ám, de hányan irtak még tizennyolcz éves korukban <hi rend="italic"
+               <p>- Igen ám, de hányan irtak még tizennyolcz éves korukban <hi
                      >Aesopus</hi>-t?Te csak azt az egyet nézed, kinek már az első fellépése fényes
                   diadal volt s nem gondolsz arra a száz meg száz ifjura, kik évek hosszú során át
                   próbálgatják a szárnyukat és nem tudnak felrepülni, mignem végre is a földön kell
@@ -4675,7 +4670,7 @@
                   magát. Sőt örült, hogy még idejében megismerkedett Kálmán multjával. Igaz, hogyaz
                   eljegyzésük már nyilvános volt, de végre is nem ez az első mátkaság, mely
                   szétment. Hosszabb időre el­utazik a mamájával, elfeledik a felbontott mátkasággal
-                  járó kellemetlenségeket s majd eljön az <hi rend="italic">igazi</hi>, a ki
+                  járó kellemetlenségeket s majd eljön az <hi>igazi</hi>, a ki
                   boldoggá teszi őt, a ki méltó lesz ő hozzá. Vigasztalást, erőt meritett Katalin
                   sorsá­ból, kit, ime, nem tört meg szegénység, nem tört meg a gyermekkori
                   eszményképében való nagy csalódás; a kiben van erő lemondani, feledni és a ki
@@ -4989,7 +4984,7 @@
                
             </div>
          </div>
-         <div type="group">
+         <div type="part">
             <head>
                 HARMADIK RÉSZ.
             </head>
@@ -5119,7 +5114,7 @@
                   mit a multkor irtál, hogy nem a vagyon adja a névnek a fényt, s György és Kornél,
                   mindkettő a maga pályáján, dicsőséget szerez a Szentpáli névnek, nagyobb
                   dicsőséget, mint azok az ősök, kik éltek az öröklött vagyonból s munka nélkül
-                  élték le az életet. De hiába, az én szivem hozzá van nőve az <hi rend="italic"
+                  élték le az életet. De hiába, az én szivem hozzá van nőve az <hi
                      >anyaföldhöz </hi>s fáj, erősen fáj, mást látnom őseimnek földjén.«</p>
                <p>- Szegény jó apa, - sóhajtott Katalin, - neked igazad van.</p>
                <p>De nem rég úgy vette észre, hogy György és Kornél valamit titkolnak előtte; azt is
@@ -5143,15 +5138,14 @@
                   Meg­ér­dem­lem. Gyáva voltam, nyomorult voltam. Tönkretettem a magam életét,
                   boldogságo­mat, holott lehettem volna, ha van bennem erő, képesség, boldog és
                   boldoggá tehettelek volna téged is. Most itt ülök a romokon és siratom tönkretett
-                  életemet. Mily boldogok lehettünk volna mi! Éltünk volna szegénységben, de <hi
-                     rend="italic">együtt </hi>éltünk volna, egymást bátoritva, vigasztalva. Közös
+                  életemet. Mily boldogok lehettünk volna mi! Éltünk volna szegénységben, de <hi>együtt </hi>éltünk volna, egymást bátoritva, vigasztalva. Közös
                   lett volna örömünk, bánatunk...</p>
                <p>Ám néha úgy tetszik nekem, hogy még nem veszett el minden. Járván a hegyek közt,
                   nyiló virágokat látok egy ezer éves vár romladékai közt. Im, a romok közt is
                   nyilhatik virág! Katalin! Katalin! Ha megdobbanna a szived! Ha a mi romjaink közt
                   is nyilhatnék még virág!«</p>
                <p>Könyek törtek elő Katalin szeméből. Hátha igaza van Kálmánnak? De ő azt irta
-                  vissza: a mi romjaink közt már nem nyilhatik virág. <hi rend="italic"
+                  vissza: a mi romjaink közt már nem nyilhatik virág. <hi
                      >Bemohosodtak.</hi>
                </p>
                <p>Nagy zajjal jöttek haza az ikrek, velük Kornél.</p>
@@ -5215,7 +5209,7 @@
                   két héttel mind összegyűlnek a régi fészekben s ott töltik a nyarat.
                   Természetesen, Katalin lesz a háziasszony, a kastély fejedelemasszonya s a többiek
                   mind az ő hűséges fehér rabszolgái. Egyelőre állan­dóan senki sem lakik a
-                  kastélyban, de minden nyáron ez lesz a testvérek <hi rend="italic">gyülekező</hi>,
+                  kastélyban, de minden nyáron ez lesz a testvérek <hi>gyülekező</hi>,
                   találkozó helye, őszszel aztán visszarepül ki-ki a maga fészkébe.</p>
                <p>- Óh édes jó Istenem! - fohászkodott föl Katalin - mertem volna-e hinni ezt tíz év
                   előtt!</p>
@@ -5307,8 +5301,7 @@
                   Engem e pillanatban, ha már regényt ir rólam, egy érdekel különösen. Ki ne feledje
                   az én kis Zsófikámat.</p>
                <p>Tudja-e, ki ő? Az én »unokám«. Mert én, jól megjegyezze, kedves barátom,
-                  »nagymama« vagyok. Most tanitom beszélni Jolánka első gyermekét, Zsófikát s a <hi
-                     rend="italic">mama </hi>után erre a szóra tanitottam meg: nagymama. Harminczkét
+                  »nagymama« vagyok. Most tanitom beszélni Jolánka első gyermekét, Zsófikát s a <hi>mama </hi>után erre a szóra tanitottam meg: nagymama. Harminczkét
                   évvel nagymamának lenni! Nos, ha tiz éves korom­ban már kismamája voltam
                   testvéreimnek, mért ne lehetnék nagymamája a testvéreim gyer­me­keinek?</p>
                <p>Mily nagy boldogság e szóban: nagymama! Most már igazán mondhatom, hogy mindent

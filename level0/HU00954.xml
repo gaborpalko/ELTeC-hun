@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Szent Péter esernyője</title>
                <date>1999-01-08</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -34,20 +34,35 @@
                   <name>Szabolcsi József</name>
                   <name>Juhász Lehel</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>Szent Péter esernyője</title>
                      <date>1999-01-08</date>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl><title>Mikszáth Kálmán összes művei CD-ROM</title>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
+                     <title>Mikszáth Kálmán összes művei CD-ROM</title>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Arcanum</publisher>
                      <date>1998</date>
                      <idno type="isbn-10">963 85923 5 4</idno>
                   </bibl>
                </relatedItem>
+               <relatedItem type="source">
+                  <bibl type="printSource">
+                     <title>Regények és nagyobb elbeszélések 7, 1895, Szent Péter esernyője</title>
+                     <author>Mikszáth Kálmán</author>
+                     <pubPlace>Budapest</pubPlace>
+                     <publisher>Akadémiai Kiadó</publisher>
+                     <date>1957</date>
+                  </bibl>
+               </relatedItem>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>Szent Péter esernyője</title>
+               <author>Mikszáth Kálmán</author>
+               <date>1895</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -66,13 +81,14 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-14"/>
+         <change when="2019-01-30"/>
          <change when="2018-11-21"/>
+         <change when="2018-11-14"/>
       </revisionDesc>
    </teiHeader>
   <text>
       <body>
-         <div type="group">
+         <div type ="part">
             <head>ELSŐ RÉSZ A LEGENDA</head>
             <div type="chapter">
                <head>VISZIK A KIS VERONKÁT</head>
@@ -147,7 +163,7 @@
                   makacs. Azt mondja, hogy ő csak bizonyos növényeket hajlandó táplálni, például
                   zabot, krumplit, a többire nem vállalkozik - de ezeket is úgy kell kicsalni az
                   anyaföldtől úgyszólván erőszakkal. </p>
-               <p>De nem is anya ez a föld, inkább <hi rend="italic">anyós.</hi> Tele van a belseje
+               <p>De nem is anya ez a föld, inkább <hi>anyós.</hi> Tele van a belseje
                   kövekkel, s csúnya repedések, árkok hasogatják meg, amiknek a szélein fehér fű
                   (árvalányhaj) teng, mint az elaggott anyóka állán ősz szőrszálak.</p>
                <p>Túlságosan öreg-e a föld? De hiszen nem lehet öregebb, mint a többi. Csak hamarább
@@ -685,7 +701,7 @@
                   zokogás itt-ott a gyülekezet közt is, amint a legérzékenyebb búcsúszavakkal
                   szólaltatta meg a halottat:</p>
                <p>
-                  <hi rend="italic">Búcsúzom, búcsúzom felső, alsó szomszédomtól, Lajkó Pál
+                  <hi>Búcsúzom, búcsúzom felső, alsó szomszédomtól, Lajkó Pál
                      komámtól, Klincsok György sógortól.</hi>
                </p>
                <p>Lajkó Pál egész házanépe sírni kezdett, Klincsokné elragadtatva felkiáltott: </p>
@@ -720,8 +736,7 @@
                <p>- Meglesz, minden meglesz.</p>
                <p>- És mibe kerül az egész? - kérdezte Srankóné.</p>
                <p>János pap kiszámította krétával, hogy mibe kerül.</p>
-               <p>- Úgy ám - szólt Srankóné -, de adja még hozzá tisztelendő uram azt a <hi
-                     rend="italic">pirosat is,</hi> hadd lássuk, hogy azzal vajon mennyivel lesz
+               <p>- Úgy ám - szólt Srankóné -, de adja még hozzá tisztelendő uram azt a <hi>pirosat is,</hi> hadd lássuk, hogy azzal vajon mennyivel lesz
                   drágább.</p>
                <p>- Miféle pirosat?</p>
                <p>- Hát amit a Gongolyné temetésén tartott a feje fölött. Gyönyörű volt az.</p>
@@ -871,7 +886,7 @@
                
             </div>
          </div>
-         <div type="group">
+         <div type ="part">
             <head>MÁSODIK RÉSZ A GREGORICSOK</head>
             <div type="chapter">
                <head>A TAPINTATLAN GREGORICS</head>
@@ -1114,8 +1129,8 @@
                   az Úristen teremtette, amelyik a selyemszoknyás fehérnépekét. És napközben azt is
                   megtudta, hogy a fülkifúrás egy bolhacsípésnél aligha fáj jobban.</p>
                <p>Igenis, fülbevalót akart, és most már ő volt rajta, ő türelmetlenkedett, hogy
-                  Gregorics Pál minél előbb <hi rend="italic">okvetetlenkedjék.</hi> Hiszen lehet az
-                  ilyet <hi rend="italic">siettetni.</hi> Minden Éva leánya kitalálja a módját.
+                  Gregorics Pál minél előbb <hi>okvetetlenkedjék.</hi> Hiszen lehet az
+                  ilyet <hi>siettetni.</hi> Minden Éva leánya kitalálja a módját.
                   Csinosan, takarosan öltözködött, lángszínű selyempántlikát font a kenderszöszke
                   varkocsába, felhúzta a patyolat ingvállat, olyan finomat, mint a légyvesztő
                   papiros, eldobta a kapcsos pruszlikot, amely az idomokat összehúzza, eltakarja,
@@ -1341,7 +1356,7 @@
                   megígért póni helyett?</p>
                <p>És csintalanul kacagott. Mire az öreg is nevetni kezdett, megelégedetten simogatva
                   négy-öt szőrszálból álló bajszát. Volt az ő nevetésében valami ravaszkás,
-                  jelentőségteljes, mintha <hi rend="italic">befelé,</hi> a saját lelkének
+                  jelentőségteljes, mintha <hi>befelé,</hi> a saját lelkének
                   nevetne.</p>
                <p>- Nem, nem, a pónit megkapod. De biztosítlak, hogy egyszer majd hozzád kerül az
                   esernyő, és jó lesz a felhők, esők ellen.</p>
@@ -1355,7 +1370,7 @@
                   ifjabbja már nem tud deákul. Pedig ez az egyetlen étel, aminek a főzéséhez
                   szükséges a deák nyelv, már természetesen a kecsegén, harcsán, a paprikán és a
                   tiszavízen kívül. Így vagyon ez fel­jegyezve Márton híres szakácskönyvében, s
-                  voltaképpen oda céloz, hogy <hi rend="italic">asszony halpap­ri­kást nem tud
+                  voltaképpen oda céloz, hogy <hi>asszony halpap­ri­kást nem tud
                      főzni,</hi> vagy pedig nem lehetetlen, hogy a szegedi halászok régi hármas
                   regulájára vonatkozik, melyet a halpaprikások főzésénél idők kezdete óta szem
                   előtt tartottanak: »habet saporem, colorem et odorem« (Megvan az íze, színe és
@@ -1368,7 +1383,7 @@
                <p>Gregorics felkiáltott: »Jaj, az esernyőm!« Arcán síri sápadtság ömlött el.
                   Szemeiből a rémület beszélt. A két evezős mosolygott, az öreg Ördög Márton
                   fitymálva jegyzé meg, áttolva pipáját a másik agyarára:</p>
-               <p>- Nem nagy kár érte, nemzetes uram. Nem volt az már való, csak a <hi rend="italic"
+               <p>- Nem nagy kár érte, nemzetes uram. Nem volt az már való, csak a <hi
                      >búzaembernek</hi> a kezébe. (Búzaember a rongyokból felöltöztetett báb, aki a
                   verebek elijesztésére van hivatva a búzák között.)</p>
                <p>- Száz forint annak, aki visszahozza! - hörögte kétségbeesetten.</p>
@@ -1854,14 +1869,14 @@
                   élet. Étlapján le volt festve egy kövér úriember, aki szóba áll az utcán egy
                   sovány alakkal, s alattuk a következő párbeszéd vala lenyomatva:</p>
                <p>
-                  <hi rend="italic">Soványi úr:</hi> Ugyan hol étkezik, bácsi, hogy ilyen pompásan
+                  <hi>Soványi úr:</hi> Ugyan hol étkezik, bácsi, hogy ilyen pompásan
                   néz ki?</p>
                <p>
-                  <hi rend="italic">Kövéri úr:</hi> Hát itt, az »Első Április«-ban.</p>
+                  <hi>Kövéri úr:</hi> Hát itt, az »Első Április«-ban.</p>
                <p>
-                  <hi rend="italic">Soványi úr: </hi>Ejnye, akkor én is oda megyek.</p>
+                  <hi>Soványi úr: </hi>Ejnye, akkor én is oda megyek.</p>
                <p>Ennek dacára azonban mégis rosszul főztek az »Első Április«-ban, s talán éppen e
-                     <hi rend="italic">felültető </hi>párbeszéd által volt indokolt a vendéglő
+                     <hi>felültető </hi>párbeszéd által volt indokolt a vendéglő
                   elnevezése »Első Április«-nak. Hja, a régi korcs­márosok őszinték voltak; még ha
                   hazudtak is, olyan ártatlanul tették, hogy mindenki értse a csalafintaságot.</p>
                <p>A Gyuri napi életéről valóságos bulletinek érkeztek Gáspár úrhoz: egy kávémérésben
@@ -2104,7 +2119,7 @@
                <p>- Hm, az efféle eladásokkal mindig baj van - mondta Sztolarik hidegen -, a
                   tulajdonos kiskorú, sok irka firkával jár az árvaszékhez. Én örömestebb hagyom a
                   dolgot úgy, ahogy van. Maholnap végez a fiú, nagykorú lesz, csináljon aztán az ő
-                  kis <hi rend="italic">skvarkájával</hi>
+                  kis <hi>skvarkájával</hi>
                   , amit tud. Még szemre­hányásokat tenne nekem. Nem,
                   nem Gregorics úr, én nem bocsátkozom ebbe. A fiúnak végre is pretium affectionis
                   ez a kis viskó s ez a két hold, ott játszott, ott töltötte a gyermek­éveit.</p>
@@ -2226,7 +2241,7 @@
                   csodálatosabb, mert Drotler bányamérnök, ki a felmerült körülmények folytán
                   csakugyan tett a Libanonon Sztolarik megbízásából fúrásokat, kereken kijelentette,
                   hogy a besztercei föld gyomrában egy uncia arany sincs, arra meg mer esküdni,
-                  kivévén talán azt, amit az <hi rend="italic">asszonyi fogakon</hi>
+                  kivévén talán azt, amit az <hi>asszonyi fogakon</hi>
                   beletemettek.</p>
                <p>- De hátha kőszén van a Libanon alatt?</p>
                <p>- Az sincs.</p>
@@ -2275,7 +2290,7 @@
                <p>Boldizsártól lóhalálában nyargalt Gáspárhoz:</p>
                <p>- Nem bánom, no, tartsa meg a Libanont negyvenért. Gáspár csendesen rázta a fejét: </p>
                <p>- Talán csak nem ettem maszlagot.</p>
-               <p>S most újra megindult a licitálás, de már <hi rend="italic">lefelé,</hi> kínálta
+               <p>S most újra megindult a licitálás, de már <hi>lefelé,</hi> kínálta
                   harmincötért, harmincért, huszonötért, míg végre sok mindenféle hercehurca után
                   valahogy rájok sózta tizenötezer forintért. Közösen vették meg, s közösen íratták
                   a nevükre a telekkönyvben.</p>
@@ -2320,12 +2335,12 @@
                   halványodék, csak a prókátorok emlegették néha Gregorics Pált:</p>
                <p>- Ej, az egy roppant eszű ember volt!</p>
                <p>Hanem a vagyona hová lett, azt senki sem bírta eltalálni. </p>
-               <p>Azaz, hogy mégis! Örököltek a <hi rend="italic">mesék.</hi> Ezek rendelkeztek vele
+               <p>Azaz, hogy mégis! Örököltek a <hi>mesék.</hi> Ezek rendelkeztek vele
                   szabadon, fogyasztották, gyarapították, tették ide, tették oda, ahova nekik
                   tetszett.</p>
             </div>
          </div>
-         <div type="group">
+         <div type ="part">
             <head>HARMADIK RÉSZ A NYOMOK</head>
             <div type="chapter">
                <head>AZ ESERNYŐ KIBUKKAN</head>
@@ -2416,7 +2431,7 @@
                   Pál. Istenemre mondom, sok pénzének kellett lennie. Igazán nem sejt ön felőle
                   semmit?</p>
                <p>Nem sejtett semmit - de gondolata mindig rajta járt s megrontotta minden örömét,
-                  nyugalmát. A jeles ifjú valóságosan csak <hi rend="italic">félember </hi>lett,
+                  nyugalmát. A jeles ifjú valóságosan csak <hi>félember </hi>lett,
                   mert két ember lelkiállapotát kellett viselnie. Egyik nap abban élt, hogy ő egy
                   szolgálónak a fia, az is csak törvénytelen. Érezni kezdte, hogy sokra vitte saját
                   eszével, egyéniségével, és boldog, megelégedett volt ilyenkor, a munka nemes vágya
@@ -2445,7 +2460,7 @@
                <p>- Jaj, de nehezen várt, meghalni se tudott, míg te nem jössz. De én voltam a
                   hibás.</p>
                <p>- És miért várt olyan nehezen? Nem mondta?</p>
-               <p>- De bizony mondta. <hi rend="italic">Át akart neked adni valamit.</hi>
+               <p>- De bizony mondta. <hi>Át akart neked adni valamit.</hi>
                </p>
                <p>Hogy világosodik, hogy szürkül a homály. Apró fehér pontok keletkeznek itt-ott. A
                   bécsi kocsigyáros előadásából megállapítható, hogy bankutalványban kellett lennie
@@ -2539,7 +2554,7 @@
                   asztalokat, székeket, volt ott elősorolva bunda, puska, vadásztarisznya, botos,
                   hurkatöltő, de esernyő nem fordult elő. Tízszer átolvasta, hasztalan, nincs semmi
                   nyom, ha csak a következő sort nem vesszük annak:</p>
-               <p>»<hi rend="italic">Hasznavehetetlen tárgyak 2 forint. Megvette a fehér
+               <p>»<hi>Hasznavehetetlen tárgyak 2 forint. Megvette a fehér
                   zsidó.</hi>«</p>
                <p>Ki tudja ez-e az? De csak ez lehet. E hasznavehetetlen tárgyak közt lehetett az
                   esernyő. Megvette a fehér zsidó. Nos, fel kellett tehát a fehér zsidót keresni. Ez
@@ -2566,8 +2581,7 @@
                   részletekről, minthogy ő hosszú ideig volt a városban közjegyző, s ösmert minden
                   embert, minden viszonyt.</p>
                <p>Őszintén és részletesen elbeszélte fölfedezését, hogy a Gregorics Pál vagyona,
-                  mely minden valószínűség szerint egy külföldi bankban van letéve utalványra, <hi
-                     rend="italic">majdnem </hi>megkerült. Az utalvány, semmi kétséget nem szenved,
+                  mely minden valószínűség szerint egy külföldi bankban van letéve utalványra, <hi>majdnem </hi>megkerült. Az utalvány, semmi kétséget nem szenved,
                   a Gregorics Pál esernyőjének a nyelében volt eldugva, az esernyőt meg valószínűleg
                   megvette az árverésen valami Müncz Jónás nevű zsidó. </p>
                <p>Mindezt lihegve, gyorsan, egy szuszra hadarta el Gyuri az egykori gyámjának.</p>
@@ -2588,7 +2602,7 @@
                   vitte, ő csak Zólyomban és Hontban jár, a többi megyéket felosztotta a fiai közt,
                   Móricé Trencsén, Nyitra, Számié Szepes, Liptó, a legkisebbik kölyök, a Kóbi, csak
                   a múlt héten kapta Bars vármegyét, de a másvilágra sem ő nem szándékozik, sem a
-                  gyerekeket nem ereszti, ha nem <hi rend="italic">muszáj.</hi>
+                  gyerekeket nem ereszti, ha nem <hi>muszáj.</hi>
                </p>
                <p>A Wibra Gyuri szemei megcsillantak az örömtől:</p>
                <p>- Bravó, kedves gyámatyám! - kiáltott fel (de beillett az rikoltásnak is). - Ilyen
@@ -2949,7 +2963,7 @@
                   tiszafa nyújtott árnyékot. Ez a fa, melyet sorompóval vett körül a nemes város, s
                   két oldalról padot állíttatott alája, szintén hozzátartozott Bábaszék jövendő
                   nagyságához: a pézsmaszagú, aranyzöldbe játszó bogarak, melyek keskeny, hosszúkás
-                  leveleit ellepték, s némely orvosságok készítéséhez kellenek, e <hi rend="italic"
+                  leveleit ellepték, s némely orvosságok készítéséhez kellenek, e <hi
                      >hólyaghúzó izgoncok</hi> (ahogy a tudósok hívják őket) megannyi argumentumok
                   lehetnek a felsőségnél, hogy Bábaszék is megkapja egykor a patikát.</p>
                <p>A bábaszéki menyecskék sokszor vittek ilyen bogarakat bögrékben azelőtt Zólyomba,
@@ -2986,8 +3000,7 @@
                <p>- De bizony arra is vonatkoznak. Csak figyelemmel tessék hallgatni. Podhrágyon
                   megtudtam, hogy onnan Abellovára ment. Hát én is Abellovára mentem. Az itt
                   előadottak szerint máris gyanakodni kezdtem, hogy az öregem elméje elborult, úgyis
-                  mindig hajlott a búskomorságra. Itt ugyanis elbeszélték nekünk, hogy az <hi
-                     rend="italic">angyalos krajcárokat</hi> négykrajcárjával váltogatta be a
+                  mindig hajlott a búskomorságra. Itt ugyanis elbeszélték nekünk, hogy az <hi>angyalos krajcárokat</hi> négykrajcárjával váltogatta be a
                   falubeliektől. Később azonban kitűnt, hogy tévedtem a föltevésemmel.</p>
                <p>- Hogyan? Még mindig nem volt bolond?</p>
                <p>- Nem, mert néhány nappal utána két zsidó legény járt Abellován, akik egy-egy
@@ -3005,8 +3018,7 @@
                   prófétát, ő meg szétbontván batyuját (nem Illés próféta, de az én tátim)
                   árucikkelyeivel dobálta őket. Ötven év múlva se felejtik el ezt a napot
                   Sztrecsnyón, midőn kókusz-szappanok, kalárisok, bicskák és harmonikák hulltak,
-                  mint az égi manna, a nép közé. Azóta példabeszéd is lett, amint hallom, hogy: <hi
-                     rend="italic">»Egyszer járt Sztrecsnyón bolond zsidó!«</hi>
+                  mint az égi manna, a nép közé. Azóta példabeszéd is lett, amint hallom, hogy: <hi>»Egyszer járt Sztrecsnyón bolond zsidó!«</hi>
                </p>
                <p>- Ördög vigye Sztrecsnyót! Térjünk már egyszer a dologra!</p>
                <p>- Ott vagyunk már. A veres tornyú Kobolnyikon már batyu nélkül látták szegény
@@ -3091,7 +3103,7 @@
                <p>No, ugyan mi nevezetes történhetett? Talán a Mravucsánné zsenge libái vesztek el a
                   legelőről?</p>
                <p>Tízen is kérdezik Fialát, mi történt, de Fiala a világért sem veszi ki szájából a
-                  pompásan égő<hi rend="italic"> »zapekacskát«</hi>
+                  pompásan égő<hi> »zapekacskát«</hi>
                   , s különben is önérzetesebb férfiú, mintsem
                   magánúton közölje, ami hivatalos.</p>
                <p>Előbb tehát eldobolta a verset, s csak azután kiáltá stentori hangon, a verő
@@ -3611,12 +3623,12 @@
                
             </div>
          </div>
-         <div type="group">
+         <div type ="part">
             <head>NEGYEDIK RÉSZ A BÁBASZÉKI INTELLIGENCIA</head>
             <div type="chapter">
                <head>VACSORA MRAVUCSÁNÉKNÁL</head>
                <p>Nem akarom szélesen elbeszélni, ami még következik. Csak a Krisztus ruháival
-                  történt meg a csoda, <hi rend="italic">hogy együtt nőttek a gyermekkel.</hi> A kis
+                  történt meg a csoda, <hi>hogy együtt nőttek a gyermekkel.</hi> A kis
                   palástka, melyet fiúcska korában viselt, ugyanaz volt, mely a Golgotára lépegető
                   férfi Jézus tagjait fedte.</p>
                <p>Azóta nincsenek többé ilyen palástok (a szabók nagy örömére), csak a regényírók
@@ -3661,7 +3673,7 @@
                <p>Tiszteletes Rafanidesz Sámuel úr sehogy sem tartozott az unalmas, ájtatosságot
                   szimuláló papok közé, s habár a híres bábaszéki tót mondás, melyet Klempa Teofil
                   állított össze olyan elmésen, hogy visszafelé olvasva is ugyanazon értelme van:
-                     <hi rend="italic">»szedi na fare Rafanidesz«</hi> (ül a parókián Rafanidesz),
+                     <hi>»szedi na fare Rafanidesz«</hi> (ül a parókián Rafanidesz),
                   otthon a parókián üldögélő férfiúnak festi, éppen ellentéte volt a »szedatus«
                   embereknek, örökké járt és kalandozott. Egyszóval jó vére volt, és már az előbbi
                   eklézsiájából is (valahol Nógrád megyében) menyecske-dolog miatt kellett távoznia.
@@ -3686,7 +3698,7 @@
                   nótáriussegédnek ama százszor hallott rébuszát, melyet most százegyedszer adott
                   fel Veronka kisasszonynak, lehúzván (állítólag vadászatban) megsebesült kisujjáról
                   a sebóvó kesztyűujjat: »Miféle város ez, kisasszony?« Az ördög tudná hirtelen
-                  eltalálni, hogy az <hi rend="italic">Kisujjszállás</hi>. Egyébiránt a stuccer
+                  eltalálni, hogy az <hi>Kisujjszállás</hi>. Egyébiránt a stuccer
                   nótáriussegédnek talán nem is fáj a kisujja és alkalmasint soha nem is fájt - csak
                   azért hordja a kesztyűujjat, hogy a rébuszát elmondhassa a kisasszonyoknak.</p>
                <p>Voltaképpen istenkísértés egy ilyen vacsorát akarni lefesteni. Hiszen semmi
@@ -4068,7 +4080,7 @@
                <p>- Korán indulunk reggel? - kérdé.</p>
                <p>Pajkos engedelmességgel hajtotta meg magát, féloldalt görbítve hófehér nyakát,
                   mintha el volna törve.</p>
-               <p>- Amint parancsolja, <hi rend="italic">Tamás </hi>úr.</p>
+               <p>- Amint parancsolja, <hi>Tamás </hi>úr.</p>
                <p>Gyuri elértette a »Tamás« szót, és tréfásan viszonzá:</p>
                <p>- Minden attól függ, hogy meddig alusznak a szentek.</p>
                <p>Veronka visszafordult a pitvarból, morcos arcot vágott, összeszorította a kis
@@ -4104,7 +4116,7 @@
                <p>A kártyából ugyan hiányzott a zöld alsó, de ez éppenséggel nem zavarta a bábaszéki
                   intelligenciát, már a múltkor is így játszották a preferáncot, az utolsónak
                   kevesebb jutván egy kártyával az osztásnál, mely azonban képzeletben mégis neki
-                  jutott, s mint <hi rend="italic">szellemi kártya</hi> szerepelt a játéknál. Ha
+                  jutott, s mint <hi>szellemi kártya</hi> szerepelt a játéknál. Ha
                   zöld volt a híváson, az utolsó képzeletben adta az ütésre a zöld alsót,
                   mondván:</p>
                <p>- Rajta van a szellemi alsó!</p>
@@ -4113,7 +4125,7 @@
                   jó éjfélutánig eltartott. A szenátorok játsztak, a mészáros meg a tiszteletes úr.
                   A segédjegyző a kvaterkákat hordta, a pénztelen Klempa (mindenütt a kántor a
                   legszegényebb) parlagon könyökölt hol itt, hol ott, mert egyik helyről a másikra
-                  kergették azon a címen, hogy <hi rend="italic">peches gibic</hi>, ami alapjában
+                  kergették azon a címen, hogy <hi>peches gibic</hi>, ami alapjában
                   igen lehangoló és elkeserítő titulus, de mégsem becsületsértés. Költözött,
                   vándorolt a szegény Klempa játékostól-játékoshoz, míg végre a mészáros és a
                   tiszteletes úr közötti asztalcsücskön lehajtá lankadt fejét és elaludt, hosszú
@@ -4455,7 +4467,7 @@
                
             </div>
          </div>
-         <div type="group">
+         <div type ="part">
             <head>ÖTÖDIK RÉSZ A HARMADIK ÖRDÖG</head>
             <div type="chapter">
                <head>A CZOBOR MÁRIA RÓZSÁJA, A FÖLDHASADÉK ÉS A VÉN KÖRTEFA</head>
@@ -4500,8 +4512,7 @@
                <p>- De hisz az nyolcvan év előtt volt, madame, azóta elhaltak.</p>
                <p>- Hát a fiaik?</p>
                <p>Nyugodt csak akkor lett, midőn elhagyták a Liskovinát, s a nyitott oporci határ
-                  jött sovány zab- és pohánkaföldjeivel. Szomorú hely az ilyen, ahol <hi
-                     rend="italic">karóra ülnek a petrencék.</hi>
+                  jött sovány zab- és pohánkaföldjeivel. Szomorú hely az ilyen, ahol <hi>karóra ülnek a petrencék.</hi>
                   
                </p>
                <p>Egyébiránt nem soká lehetett nyugodt, mert az oporci határból megint egy erdő
@@ -4745,7 +4756,7 @@
                   fához!</p>
                <p>János szót fogadott, de nagy dörmögéssel, fejcsóválással. Sehogy se tudta
                   eltalálni, mi történ­hetett, mire kell a hám? Hallott ugyan valamikor olyanforma
-                  mesét a fonóban, hogy a <hi rend="italic">Fatépő Gábor</hi> két medvét fogott
+                  mesét a fonóban, hogy a <hi>Fatépő Gábor</hi> két medvét fogott
                   egyszer a szekere elé az erdőn. Csak tán nem ilyesmire kell a hám?</p>
                <p>Mindegy. Kell, amire kell. Vitte vállán az úr után a hasadékhoz. Ott aztán a két
                   hámot összekötötték egybe, a kisafa-szíjaknál fogva, s leeresztették a
@@ -5044,10 +5055,10 @@
                <p>Veronka megkönnyebbült lélegzetet vett. (Gyuri már napközben beavatta, hogy a
                   gyűrűket várja Besztercéről.)</p>
                <p>- Adja ide!</p>
-               <p>- Majd azután - szólt vontatottan az elnök. - <hi rend="italic">Előbb</hi>
+               <p>- Majd azután - szólt vontatottan az elnök. - <hi>Előbb</hi>
                   beszélnem kell veled.</p>
                <p>
-                  <hi rend="italic">Előbb</hi> kell beszélnie! Tehát olyant akar mondani, amit nem
+                  <hi>Előbb</hi> kell beszélnie! Tehát olyant akar mondani, amit nem
                   lehetne utóbb (értsd: a gyűrű odaadása után). Veronka a világot érezte süllyedni
                   maga alatt.</p>
                <p>Gyuri kedvetlenül emelkedett fel helyéről, Veronka mellől, akinek kezei izgatottan
@@ -5096,7 +5107,7 @@
                <p>- Jó, jó - kezdé az elnök némi szünet után -, a dolog mindenesetre bonyodalmas ez
                   ideig, de a legnagyobb bonyodalmak talán még ezután jönnek.</p>
                <p>- Ej, mi jöhetne? - kérdé bizonytalan hangon Gyuri.</p>
-               <p>- Ne vágj most közbe, <hi rend="italic">várd be az ötórai vonatot.</hi>
+               <p>- Ne vágj most közbe, <hi>várd be az ötórai vonatot.</hi>
                   Mindenekelőtt azzal legyünk tisztában, szereted-e a leányt?</p>
                <p>Szegény Veronka úgy reszketett a búvóhelyén, mint egy didergő madár. Behunyta a
                   szemét, mint az elítélt a tőkén, kit egy balga ösztön vezet, hogy a lecsapódó
@@ -5133,7 +5144,7 @@
                <p>- De hátha Veronka nélkül is hozzájuthatsz az örökségedhez?</p>
                <p>El nem nyomhatott egy fitymáló mosolyt.</p>
                <p>- Hiszen éppen most fejtettem ki - szólt türelmetlenül -, hogy nem lehet, de ha
-                  lehetne, se zárnám ki az örökségből, mely félig-meddig <hi rend="italic"
+                  lehetne, se zárnám ki az örökségből, mely félig-meddig <hi
                      >lelet,</hi> mert a gondviselés mintegy szándékosan feléje hömpölygette.</p>
                <p>Sztolarik megfordította most a kérdést.</p>
                <p>- De hátha Veronka által se juthatsz örökségedhez?</p>
@@ -5178,9 +5189,9 @@
                   tartozik. A pázsit a templom körül, a piros, zöld és mindenféle templomi zászlók
                   odabent, a padok szélein szíjtartójukban, szép, szelíd asszonyok képeivel, Sancta
                   Barbara, Sancta Rosalia, ora pro nobis! Mennyi szent legenda egy rakáson! A
-                  mennyeiek lehozva ide a <hi rend="italic">fele útra</hi> (mert az ég fele útja a
+                  mennyeiek lehozva ide a <hi>fele útra</hi> (mert az ég fele útja a
                   templom), ahol a földiekkel együtt lehetnek. Szemben a főoltár, a gyerekeknek diót
-                  osztogató Szent Miklóssal, Glogova <hi rend="italic">eddigi </hi>védőszentjével.
+                  osztogató Szent Miklóssal, Glogova <hi>eddigi </hi>védőszentjével.
                   (Azért eddigi, mert egy idő óta Szent Péter kezd belenyúlkálni a kenyerébe.)
                   Balról a szenteltvíz-tartónál a Krisztus képe, csinált rózsakoszorúval a
                   töviskorona fölött. Itt imádkozott azon a napon a fiatal pap, mikor Veronkát, mint
@@ -5243,7 +5254,7 @@
                   előtte volt…</p>
                <p>- Mit bánom én, mikor volt!</p>
                <p>Adameczné nyugodtan öntött új tésztát a palacsintasütőre.</p>
-               <p>- Hát igen… hol is hagytam el? A Matykónál. <hi rend="italic">Szemtől jött
+               <p>- Hát igen… hol is hagytam el? A Matykónál. <hi>Szemtől jött
                      neki.</hi>
                    Mert gyönyörű gyerek ám a Matykó…</p>
                <p>Gyuri türelmetlenül toppantott a lábával.</p>

@@ -18,12 +18,13 @@
          <extent>
             <measure unit="words">94912</measure>
             <measure unit="pages">445</measure>
+            <measure unit="vols">3</measure>
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Az utolsó: Regény</title>
                <date>2016-10-13</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -35,8 +36,8 @@
                   <name>Varjú Mária</name>
                   <name>Fecz Ágnes</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>Az utolsó : regény</title>
                      <author>Malonyay Dezsõ</author>
                      <pubPlace>Budapest</pubPlace>
@@ -64,12 +65,13 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2019-04-23"/>
          <change when="2018-10-04"/>
       </revisionDesc>
    </teiHeader>
   <text>
       <body>
-         <div type="vol">
+         <div type="volume">
             <head>
                ELSŐ KÖTET.
             </head>
@@ -3825,7 +3827,7 @@
                
             </div>
          </div>
-         <div type="vol">
+         <div type="volume">
             <head>
                MÁSODIK KÖTET.
             </head>
@@ -7080,7 +7082,7 @@
                
             </div>
          </div>
-         <div type="vol">
+         <div type="volume">
             <head>
                HARMADIK KÖTET.
             </head>

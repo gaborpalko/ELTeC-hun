@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Lavina :  Regény </title>
                <date>2015-09-15</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -34,14 +34,14 @@
                   <name>Erdélyi Zsolt</name>
                   <name>Mészáros Atilla</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>Lavina :  Regény </title>
                      <date>2015-09-15</date>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>Lavina : regény</title>
                      <author>Pekár Gyula</author>
                      <pubPlace>Budapest</pubPlace>
@@ -69,8 +69,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-19"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-19"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -662,7 +663,7 @@
                valaki e gondolatot agyában már annyira elkoptatta, mint ő, lehet-e igazán
                öntudatlanul boldog? De a mellett sok ős-eredeti vonás van benne, csodálatos vadság,
                kétségbeesett ragaszkodás rögeszméihez... no meg a haja szine, az határozottan
-               gyönyörü, kissé ugyan, a mint nekem bevallotta, <hi rend="italic">elle a corrigé la
+               gyönyörü, kissé ugyan, a mint nekem bevallotta, <hi>elle a corrigé la
                   fortune</hi>; vagyis angol szódás vizben mosogatta a fejét, s azért lett olyan
                aranyvörös szine a hajának - de hát hisz ez mindegy, az embernek az asszonyokat ugy
                kell venni, a milyenek, sose szabad őket alkatrészekre dekomponálni... Csak egyre
@@ -682,7 +683,7 @@
             <p>Kaczagott, de elszégyelte magát, a mért ily rossz nyelve van.</p>
             <p>- Csodálatos, mormogá, pedig más körülmények közt, azt hiszem, nagy szerelem
                támadhatott volna közöttünk. De hát nekem az a bajom, hogy tulsokat akartam szeretni
-               s most már <hi rend="italic">félek </hi>szeretni, vagyis véglegesen odaadni egy
+               s most már <hi>félek </hi>szeretni, vagyis véglegesen odaadni egy
                asszonynak a szivemet, - neki pedig az a baja, hogy tulságos hirtelen adta ide a
                magáét... Melanie egyszerüen téved; még mindig a férjét, azt a régit szereti...
                Engem? Engem nem is ismer, hisz a férjét látja bennem... De hát mit tegyek?
@@ -1683,7 +1684,7 @@
             <p>- Dehogy, dehogy édesem! Hanem hát mért nem szereted te Donhofent? Egy idő óta vettem
                észre, hogy...</p>
             <p>- Én? kaczagott Melanie idegesen, dehogy! dehogy! De hát csak nem akarnád, tevé hozzá
-               valami gyötrő, kinos vakmerőséggel, hogy <hi rend="italic">nagyon </hi>szeressem,
+               valami gyötrő, kinos vakmerőséggel, hogy <hi>nagyon </hi>szeressem,
                mi?</p>
             <p>- Miért ne? kérdé Sándor naivan, nem értve meg rögtön a felesége szavát. A ki az én
                barátom s a kit én szeretek, azt a feleségem is szeretheti...</p>
@@ -1868,7 +1869,7 @@
                férjét, mindinkább őszintén kivánta, hogy e két ember fellegtelenül boldog
                legyen.</p>
             <p>Mikor tehát meghallotta, hogy Moszkovszkyék megjöttek, mindjárt másnap lóra ült s
-               átügetett hozzájuk. Ugy gondolá, jobb lesz rá nézve is, de <hi rend="italic">főleg a
+               átügetett hozzájuk. Ugy gondolá, jobb lesz rá nézve is, de <hi>főleg a
                   szegény asszonyra nézve</hi>, ha minél előbb tulesnek az első találkozás zavarán.
                Igyekezni fogok megkönnyiteni a dolgot Melaniera nézve, mormogá magában, mikor
                belépett.</p>
@@ -2083,7 +2084,7 @@
                pillanatra elfelej­tette... S a mint ugy találgatta magában, öntudatlanul azok a
                szavak jöttek ajkaira, melyekről szórakozottságánál fogva tudomást se vett, de a
                melyeket szemei ott láttak a levélben s tovább vittek fel agyába...</p>
-            <p>- Dodó, <hi rend="italic">mon amour</hi>, Sándor ma nincs itthon...</p>
+            <p>- Dodó, <hi>mon amour</hi>, Sándor ma nincs itthon...</p>
             <p>- Mit beszélek én itt össze? mormogá megijedten. Ahá, az a levél...</p>
             <p>De aztán egyszerre nagyon melege lett. Vére ugy a fejébe szállott, hogy pillanatra
                minden elsötétült körülötte és semmit se látott a szobában. Ott állt az iróasztal
@@ -2349,8 +2350,7 @@
             <p>- Ki az? mordult meg odabent egy komor hang.</p>
             <p>- Nyisd ki Sándor, én vagyok, Kamocsay...</p>
             <p>Az ajtó nyikorogva nyilt ki. Egy dult, sápadt arcz jelent meg benne.</p>
-            <p>- Bocsáss meg, barátom, hogy az életben még egyszer felkereslek s ismét <hi
-                  rend="italic">boldogult </hi>feleséged ügyében, mormogá Friczi halkan; ott akadtam
+            <p>- Bocsáss meg, barátom, hogy az életben még egyszer felkereslek s ismét <hi>boldogult </hi>feleséged ügyében, mormogá Friczi halkan; ott akadtam
                rá a park alatt a... a szép testére...</p>
             <p>Őszinte könyek voltak azok, melyek ekkor a Friczi szemében megjelentek.</p>
             <p>Moszkovszky Sándor megrendült, mint mikor egy nagy fába villám üt. Pillanatig oda

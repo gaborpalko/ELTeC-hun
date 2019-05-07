@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Az Isten háta mögött</title>
                <date>1999-04-14</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -33,15 +33,16 @@
                   <name>Somogyi Sándor</name>
                   <name>Laskay Gabriella</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="digitalSource">
                      <title>Az Isten háta mögött</title>
                      <date>1999-04-14</date>
                      <ref target="http://nektar.oszk.hu/hu/manifestation/626956"/>
                   </bibl>
                </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl><title>Az Isten háta mögött ; A fáklya : Két regény</title>
+               <relatedItem type="source">
+                  <bibl type="printSource">
+                     <title>Az Isten háta mögött ; A fáklya : Két regény</title>
                      <author>Móricz Zsigmond</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Szépirod. Kvk.</publisher>
@@ -49,6 +50,11 @@
                      <idno type="isbn-10">963 15 2635 6</idno>
                   </bibl>
                </relatedItem>
+            </bibl>
+            <bibl type="firstEdition">
+               <title>Az Isten háta mögött</title>
+               <author>Móricz Zsigmond</author>
+               <date>1911</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -67,8 +73,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-14"/>
+         <change when="2019-04-23"/>
          <change when="2018-11-21"/>
+         <change when="2018-11-14"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -348,7 +355,7 @@
             <p>- Hát igyátok meg, pajtáskám. Nekem menni kell. Mégis nem járja, hogy úgy magában
                hagytam azt a fiatalembert... Megyek a feleségemért. Hanem ni. Albíró úr. Jöjjön el
                egyszer hozzánk. Nagyonszívesen látjuk. A feleségem igen fog örülni.</p>
-            <p>- Kérem, ha... - mondta habozva az albíró, s nem tudta, mit tegyen<hi rend="bold">,
+            <p>- Kérem, ha... - mondta habozva az albíró, s nem tudta, mit tegyen<hi>,
                </hi>hogy utasítsa vissza a felszólítást.</p>
             <p>- Semmi ha. Holnapután együtt leszünk vacsorán. Jó? A fiatal káplánkedvéért vacsorát
                adunk, azaz, hogy meghíjuk egynéhány jóismerősünket. Csupa jó társaság lesz... Te is
@@ -418,7 +425,7 @@
             <p>A férj érezte, hogy most megint teljesen igaza van a feleségének, s nem mert
                szólni.</p>
             <p>Kalandozva futtatta az eszét mindenen, s egyszerre csak az jutott az eszébe:</p>
-            <p>- Mit akart az a Bardócz azzal, hogy <hi rend="italic">sajátságos</hi>?</p>
+            <p>- Mit akart az a Bardócz azzal, hogy <hi>sajátságos</hi>?</p>
             <p>És hangosan azt mondta:</p>
             <p>- Az új albíró megígérte, hogy eljön hozzánk vacsorára holnapután.</p>
             <p>- Igazán? - mondta csodálkozva az asszony.</p>
@@ -510,8 +517,7 @@
                ebédlőszekrényhez lépett, és a fatálcáról vette a borospalackot, és sorra töltött
                minden pohárba.</p>
             <p>- Hogy kuksol a fráter! Hát a tanulnivaló, hé! A rézangyalát! Matúrára készül és
-               ahelyett, hogy elbújna, mint szorgalmas diákokhoz illik, és tanulná a <hi
-                  rend="italic">hik, hek, hokot, </hi>hát itt kuksol. Mi lesz avval a matúrával?</p>
+               ahelyett, hogy elbújna, mint szorgalmas diákokhoz illik, és tanulná a <hi>hik, hek, hokot, </hi>hát itt kuksol. Mi lesz avval a matúrával?</p>
             <p>A diák borzasztóan lenézte a nagybátyját, aki csak tanító, s így fogalma sincs róla,
                mi az a hic, haec, hoc. Mosolygott, s a tudósok önérzetével mondta, hogy:</p>
             <p>- Majd csak megérünk valahogy!</p>
@@ -689,7 +695,7 @@
                jó volt tudni, hogy ez a közömbös ember, mint valami eunuch, vigyáz a
                feleségére...</p>
             <p>Valaki a vállára tette a kezét.</p>
-            <p>Hátrafordult. <hi rend="italic">Kopó </hi>volt, a tanára.</p>
+            <p>Hátrafordult. <hi>Kopó </hi>volt, a tanára.</p>
             <p>Egyszerre az alázatos diák lett belőle.</p>
             <p>- Na fiacskám - mondta a tanár és cvikkerjét feltolta a szemöldöke alá, úgy nézett ki
                belőle, félig nyitva maradt szájjal. - Hát hol járunk? Hol járunk?</p>
@@ -776,7 +782,7 @@
             <p>- Igazán?... - szólt részvevő hangon az igazgató.</p>
             <p>Az igazgató magas, sovány, rideg arcú ember volt, aki mindig részvéttel van
                mindenkihez. A szekundát is a legnagyobb részvéttel írja be. Úgy is nevezték el a
-               diákok, hogy <hi rend="italic">Njámnjám.</hi>
+               diákok, hogy <hi>Njámnjám.</hi>
             </p>
             <p>A diák most ismerte meg a hangot. Felnézett, s ijedten látta az igazgató fehér arcát,
                fekete bajuszát, amely oly szabályosan kunkorodott, mint az ökör szarva. A magas
@@ -872,7 +878,7 @@
                Mácsik.</p>
             <p>Reuter elvörösödött és tiltakozott a gyanúsítás ellen.</p>
             <p>A túlsó oldalon akkora lett a dalolás, hogy egy szót sem lehetett tovább érteni. Hát
-               Kovács is belekornyikált rekedt hangjával: <hi rend="italic">Olyan vagyok miként
+               Kovács is belekornyikált rekedt hangjával: <hi>Olyan vagyok miként
                   ősszel Az elsárgult falevél Csakhogy az én éltem fája Több tavaszt már nem
                   remél.</hi>
             </p>
@@ -1502,9 +1508,8 @@
             <p>- Miért tetszik ezt kérdezni? - kérdezte hirtelen felindulva, mert mégis nem járja,
                hogy így vallassák az embert.</p>
             <p>- Hát kérem szépen - mondta az igazgató és fanyalogva mosolygott -, nagyon
-               kedvezőtlen hírek vannak a fiatalemberről... Tegnap este <hi rend="italic">negyed
-                  tizenegykor </hi>az utcán látták... aztán megint az utcán látták és sírt... <hi
-                  rend="italic">fél tizenegykor...</hi>
+               kedvezőtlen hírek vannak a fiatalemberről... Tegnap este <hi>negyed
+                  tizenegykor </hi>az utcán látták... aztán megint az utcán látták és sírt... <hi>fél tizenegykor...</hi>
             </p>
             <p>- Mikor? - szörnyedt el a tanító.</p>
             <p>- Azt mondta, hogy a nagynénije beteg.... Hál’ istennek, ma érdeklődtem, ebből egy
@@ -1519,7 +1524,7 @@
                aki látta, hadd köpjek a szeme közé. Tizenegy órakor még ott volt előttem, fel sem
                állott addig az asztaltól. Én küldtem ki tanulni tizenegykor.</p>
             <p>Az igazgató arcán semmi sem látszott.</p>
-            <p>- Kérem, az órák nagyon különbözőképpen járhatnak. <hi rend="italic">Az én órámon
+            <p>- Kérem, az órák nagyon különbözőképpen járhatnak. <hi>Az én órámon
                </hi>pont fél tizenegy volt, mikor Veres László érettségiző növendékkel az utcán
                találkoztam...</p>
             <p>A tanítónak leesett az álla.</p>
@@ -1604,7 +1609,7 @@
             <p>A kinyitott részben a diákok bűnlajstroma volt. Több név után talált arra a lapra,
                amelyre fel volt írva ez:</p>
             <p>
-               <hi rend="italic">I. Veres László, </hi>gmn. VIII. o. tan.</p>
+               <hi>I. Veres László, </hi>gmn. VIII. o. tan.</p>
             <p>1910. jún. 7. Este 10. ó. 17. p. a nagy utca sarkon: megy Gacsalhoz, aki a latin
                szósz. elkérte s szintén latinból készült. Valótlan.</p>
             <p>10. ó. 35. p. Igazgató úr tal. vele nagy utca hídnál. Sírt. A nagynéni beteg.
@@ -2071,7 +2076,7 @@
                beszélt sok mindent, hogy gondolkozik valami filozófián. Tudom is én min, akkor sem
                igen tudtam, mert egy kicsit be voltam csípve. De azért annyi eszem volt, hogy
                megbámuljam, amit mondott és kérem, azt gondoltam magamban, hogy ebből a fiúból
-               valaha nagy ember lesz! És kérem, ilyen őrültséget, hogy ő a <hi rend="italic">Mester
+               valaha nagy ember lesz! És kérem, ilyen őrültséget, hogy ő a <hi>Mester
                   utcában </hi>lett volna! Ugyan kérem, nem az a fiú az! Ezek a szamár tanárok nem
                is értik annak a gyereknek az eszét! Kicsapni az iskolából! Nahát, kérem, ha ezt
                megteszik, akkor bizony isten meg kell pokrócolni azt a piszok Kopót!</p>
@@ -2160,7 +2165,7 @@
             <p>- Teringettét - mondta magában az albíró -, sokkal csinosabb, mint gondoltam. Használ
                neki ez az előnyös világítás.</p>
             <p>Az előnyös világítás az volt, hogy háttal ült az ablaknak. </p>
-            <p>Biztos volt benne, hogy az éjszaka <hi rend="italic">baj </hi>történt!</p>
+            <p>Biztos volt benne, hogy az éjszaka <hi>baj </hi>történt!</p>
             <p>Tovább nézte az asszonyka ujjait, s látta, hogy azok fehérek, egyenesek, vékonyak. Jó
                kis kéz - mondta magában -, jó lehet megfogni, kézben tartani... csókolni. De mért
                ilyen erős és kitartó. Ez nem rokonszenves benne... Nagy erőprodukciónak látszott a
@@ -2254,7 +2259,7 @@
                Sajnos, ő kissé előkelő ennek az asszonynak, akinek eddig csak tanítókkal, legfeljebb
                káplánokkal volt dolga. Most tartja magát egy kicsit a bestia.</p>
             <p>
-               <hi rend="italic">A bestia! </hi>Ez a szó megtetszett neki. Szinte belekapaszkodott
+               <hi>A bestia! </hi>Ez a szó megtetszett neki. Szinte belekapaszkodott
                és ismételgette magában. Ebből merített erőt és bátorságot. Hisz az csak természetes,
                hogy annak a bestiának viszonya van mindenkivel, hogy megcsalja az urát!...</p>
             <p>Az ajtó nyílt, és a tanító lépett be. Néhány üveg bort hozott. Mindkét kezében volt
@@ -2298,8 +2303,7 @@
                levegőt!...</p>
             <p>Keserű gúny volt a hangjában, az albíró megérezte, hogy annyira kényes pont ez, hogy
                nem illik védenie.</p>
-            <p>- Hja, hiába, ott <hi rend="italic">telik! - </hi>mondta az asszony. - Lehet nagy <hi
-                  rend="italic">flanc, </hi>ahol van pénz. A közjegyző, az megkeres legalább egy
+            <p>- Hja, hiába, ott <hi>telik! - </hi>mondta az asszony. - Lehet nagy <hi>flanc, </hi>ahol van pénz. A közjegyző, az megkeres legalább egy
                tizenötezret, járhat a közjegyzőné, mint akármék pesti dáma.</p>
             <p>Az albíró befejezte a levesét, amely sós is volt, kissé állott ízű is, és
                visszaidézte magában a köz­jegyzőné alakját. Mindig nagyon disztingvált, nagyon finom
@@ -2314,7 +2318,7 @@
             <p>A fiatalember nevetett, s felvont homlokkal emlékezett a csúnya, de kedves kis
                cigány­leányokra; roppant kedvesek voltak a piros ruhában... nagyon ügyesen
                teniszeznek...</p>
-            <p>- Persze, magának a szívét hasogatom, hogy az ideáljait <hi rend="italic"
+            <p>- Persze, magának a szívét hasogatom, hogy az ideáljait <hi
                   >lesimfelem</hi>.</p>
             <p>- Dehogy, nekem nem ideálom egy sem...</p>
             <p>- Na, azért nem szeretné, ha a doktor-kisasszonyt, az Arankácskát emlegetném.</p>
@@ -2361,7 +2365,7 @@
             <p>- Ugyan, vén szamár! - nevetett az asszony, hogy az arany foga kicsillogott, s
                megsejtve, hogy az albíró azt nézi, eltakarta az asztalkendővel.</p>
             <p>- Na de bizony! Már mikor legelőször megláttam, mindjárt feltűnt nekem az arany foga!
-               teringettét - mondtam magamban -, <hi rend="italic">azért </hi>csinos leány!</p>
+               teringettét - mondtam magamban -, <hi>azért </hi>csinos leány!</p>
             <p>- Fogja már be a száját! - mondta az asszonyka, és hangosan kacagott.</p>
             <p>Koccintottak.</p>
             <p>- Hiszi, nem hiszi... - mondta az albíró az asszonynak -, tegnap este mikor mondták,
@@ -3520,8 +3524,8 @@
             <p>- Mi tetszik, ifiúr?</p>
             <p>- Ugye, maga vesztette el a königgrätzi csatát?</p>
             <p>- Mán, ifiúr kérem, én akkor lógerbe vótam Olmücbe.</p>
-            <p>- Ajaj, hát akkor <hi rend="italic">azért </hi>veszett el a csata. Mindjárt tudtam,
-               hogy magának <hi rend="italic">kellett </hi>valami részének lenni benne.</p>
+            <p>- Ajaj, hát akkor <hi>azért </hi>veszett el a csata. Mindjárt tudtam,
+               hogy magának <hi>kellett </hi>valami részének lenni benne.</p>
             <p>A fiúk hátat fordítottak a szobának s az ablakon néztek ki, hogy ki ne törjön a
                hangos kacagás. A pedellus maga is mosolygott és csóválta a fejét.</p>
             <p>Kis idő múlva Mácsik azt súgta a fiúknak:</p>
@@ -3721,7 +3725,7 @@
             <p>A tanár szélvész módra sietett be az igazgatói szobába.</p>
             <p>- Kérlek szépen - mondta az igazgatónak. - Ezt nem lehet eltűrni! Ennek az egynek nem
                lehet megkegyelmezni. Hát kérlek, ez a fiú, ez a silány, kérlek, ez az éjszaka! az
-               éjszaka! <hi rend="italic">ott </hi>volt!</p>
+               éjszaka! <hi>ott </hi>volt!</p>
             <p>Az igazgató kegyetlen savanyú arcot vágott.</p>
             <p>- Ugyan kérlek, hagyj már békén! Úgyis tele lesznek a lapok most azzal az esettel.
                Nem aka­rom, hogy éppen mikor egy házasságtörési dráma van a városban, hát éppen most
@@ -3831,7 +3835,7 @@
                Ha azok valamit teszik, hát kérem, jönnek az újságok, és a várost
                kompromittálnak.</p>
             <p>Kezet nyújtott s elment. Veres összevonta a homlokát:</p>
-            <p>- Miért mondtam én ennek, hogy <hi rend="italic">könyörgöm</hi>! De szamár vagyok!...
+            <p>- Miért mondtam én ennek, hogy <hi>könyörgöm</hi>! De szamár vagyok!...
                Á, polgármester úr, azért nem békülünk! Á, könyörgöm, nem lehet levenni az embert a
                lábáról...</p>
             <p>A trafikosné a másik oldalon kinn állott az ajtóban és integetett a tanítónak. Veres
@@ -3889,7 +3893,7 @@
                beszélt volna, megvárta, míg Berta kisasszony újat adott, már bent volt vele a
                szobában.</p>
             <p>- Az fontos, kérem - folytatta a másik úr -, mert ez megdönti az asszonynak azt a
-               vallomását: a közjegyző maga beszélte el, hogy <hi rend="italic">nem várta, </hi>nem
+               vallomását: a közjegyző maga beszélte el, hogy <hi>nem várta, </hi>nem
                is gondolta, hogy elmegy oda az albíró, és hogy nagyon izgatottan ment oda a
                fiatalember!!! Kérem, ha izgatottan ment, annak az az oka, hogy nagyon is készült
                valamire!</p>
@@ -3913,7 +3917,7 @@
             <p>- Hát annak mi baja volt? - szólt bele Máté.</p>
             <p>- Semmi - legyintett Veres, és amint ránézett a Bardócz kolléga kíváncsian mosolygó
                arcára, előbb az jutott eszébe, vajon mire értette tegnapelőtt este ez az úr, hogy
-                  <hi rend="italic">sajátságos! </hi>azután, hogy mi is volt az éjjel?... Beharapta
+                  <hi>sajátságos! </hi>azután, hogy mi is volt az éjjel?... Beharapta
                a szájaszélét s hülyén nézett maga elé.</p>
             <p>A kopasz vörösszőke úr felnevetett.</p>
             <p>- Igazán, minden szenzáció csak addig tart, míg nagyobb nem jön. Kis halat megeszi a

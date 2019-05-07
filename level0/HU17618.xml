@@ -23,7 +23,7 @@
             <p>Published as part of ELTeC</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl type="digitalSource">
                <title>Enyém? :  A Kisfaludy-Társaság Lukács Krisztina díjával jutalmazott regény </title>
                <date>2017-12-13</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -34,14 +34,8 @@
                   <name>Németh Ibolya</name>
                   <name>Góczán Andrea</name>
                </respStmt>
-               <relatedItem type="copyText">
-                  <bibl>
-                     <title>Enyém? :  A Kisfaludy-Társaság Lukács Krisztina díjával jutalmazott regény </title>
-                     <date>2017-12-13</date>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="copyText">
-                  <bibl>
+               <relatedItem type="source">
+                  <bibl type="firstEdition">
                      <title>Enyém? : a Kisfaludy-Társaság Lukács Krisztina díjával jutalmazott regény</title>
                      <author>Szikra</author>
                      <pubPlace>Budapest</pubPlace>
@@ -69,8 +63,9 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2018-11-19"/>
+         <change when="2018-04-23"/>
          <change when="2018-11-22"/>
+         <change when="2018-11-19"/>
       </revisionDesc>
    </teiHeader>
   <text>
@@ -1418,7 +1413,7 @@
             <p>- Nos hát igen. Miért olyan sápadt? Hiszen most már tudja, ugy-e?... hogy nincs miért
                féltékeny­kedni reá, mert amit iránta érzek, oly messze, messze van a
                szerelemtől...</p>
-            <p>- Mert olyan magasan áll felette!<hi rend="italic">... </hi>-egészítettem ki szavait,
+            <p>- Mert olyan magasan áll felette!<hi>... </hi>-egészítettem ki szavait,
                csendesen sírdogálva.</p>
             <p>De László valószínüleg nem hallotta meg a sóhajtásomat, mert nem felelt reá, hanem
                azért mégis mellém ült, sőt szelid jósággal ölébe vett, mint egy kényeztetésre váró
@@ -2197,7 +2192,7 @@
             <p>Dédesy Ilona báróné levele</p>
             <p> Koltaházy Nándorine bárónéhoz Palermóba.</p>
             <p>
-               <hi rend="italic">Dédes</hi>, 1901. március 20.</p>
+               <hi>Dédes</hi>, 1901. március 20.</p>
             <p>Kedves Nandi néni! Tegnap temettük el Klárát és azóta mindnyájan úgy érezzük, hogy
                minden öröm örökre elköltözött az életünkből. De ha már mi olyan vigasztalhatatlanok
                vagyunk, elképzelheti, mit szenved László, aki olyan nagyon boldog volt vele. Higyje
