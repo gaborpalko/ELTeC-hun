@@ -16,8 +16,8 @@
          </titleStmt>
          <extent>
             <measure unit="words">144144</measure>
-            <measure unit="pages">na</measure>
-            <measure unit="vols"/>
+          <!--  <measure unit="pages">na</measure>
+            <measure unit="vols"/>-->
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>

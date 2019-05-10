@@ -9155,7 +9155,7 @@
             </div>
             <div type="chapter">
                <head>HARMINCZÖTÖDIK FEJEZET. KOHN ALBIN ADATAI A SZIBÉRIAI ÉLETRŐL.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                <p>A legérdekesebb adatokat találjuk, melyek Benyovszky feljegyzéseire leginkább
                   fényt vetnek, Kohn Albinnál. Ez az útazó is, mint politikai száműzött tette meg az
                   útat Szibériába, a honnan hét évi ott-tartózkodás után az általános amnesztia
@@ -9210,7 +9210,7 @@
                   összetalál Benyovszky feljegyzéseivel.</p>
                
                <div>
-                  <milestone type="subChapter" n="II"/>
+                  <!-- milestone type="subChapter" n="II"/ -->
                   <head>A BRADJÁGOK.</head>
                   <p>Bradjágnak híják Szibériában a szökevényt, a ki a kényszermunka helyett,
                      melynél kap rendes élelmezést, rabköntöst és börtönlakást, inkább választja a
@@ -9336,7 +9336,7 @@
                   
                </div>
                <div>
-                  <milestone type="subChapter" n="III"/>
+                  <!-- milestone type="subChapter" n="III"/ -->
                   <head>SZAMOJEDEK ÉS CSUKCSIAK.</head>
                   <p>Az éjsarkhoz közel lakó népek, az örök jéghez hozzákötött fajok között is
                      vannak fokozatok. A hogy a mívelt világ nemzetei versenyeznek a »nemesség«
@@ -9481,7 +9481,7 @@
                   
                </div>
                <div>
-                  <milestone type="subChapter" n="IV"/>
+                  <!-- milestone type="subChapter" n="IV"/ -->
                   <head>KURUZSOLÁS.</head>
                   <p>Hogy milyen háládatos foglalkozás a hókuszpókusz - Szibériában, azt a
                      hivatkozott lengyel száműzöttnek is volt módjában egy ízben tapasztalni.</p>
@@ -9524,7 +9524,7 @@
                   
                </div>
                <div>
-                  <milestone type="subChapter" n="V"/>
+                  <!-- milestone type="subChapter" n="V"/ -->
                   <head>ERKÖLCSI FOGALOM. HÁZASSÁGSZERZÉS. LEÁNYRABLÁS.</head>
                   <p>Szemérmetességről, női erényről a szibériai népfajoknak még csak fogalmuk
                      sincsen. Valamennyi útazónak, száműzöttnek a feljegyzései mind arról
@@ -9624,7 +9624,7 @@
                </div>
             </div>
             <div>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                <head>HARMINCZHATODIK FEJEZET. FELFEDEZETLEN NÉPFAJOK. AZ ITELMENEK.</head>
                <p>A terjedő orosz faj egyre szorítja felfelé az éjsarknak a jégvilág őslakóit. Azok
                   egyre fogynak, még pedig abban az arányban, a melyben fogy az életmódjukra
@@ -9707,7 +9707,7 @@
                   és állat, a kit az ember megegyen.</p>
                
                <div>
-                  <milestone type="subChapter" n="II"/>
+                  <!-- milestone type="subChapter" n="II"/ -->
                   <head>AZ ITELMENEK.</head>
                   <p>A mi Benyovszky Móricz naplójának hitelességét leginkább bizonyítja, az, hogy a
                      mint ő Kamcsatkát leírja 1776-ban, az utána jövők leírásai adatról-adatra
@@ -9868,7 +9868,7 @@
             <div type="chapter">
                <head>HARMINCZNYOLCZADIK FEJEZET. ARANYMEZŐK, GYÉMÁNTHEGYEK. AZ ÉGVILÁGÍTÁS AZ ÉJSARK
                   KÖRŰL. A MAMMUTH.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <head>ARANYMEZŐK, GYÉMÁNTHEGYEK.</head>
                   <p>A jeges tenger partjait rég időtől fogva látogatták a hajósok, nem annyira
                      természettudós kutatási vágyból, mint kincskeresés végett. Czethalászok, a kik
@@ -9894,7 +9894,7 @@
                   
                
                <div>
-                  <milestone type="subChapter" n="II"/>
+                  <!-- milestone type="subChapter" n="II"/ -->
                   <head>ÉGVILÁGÍTÁS.</head>
                   <p>El kell ismernem, hogy egy helyütt Bolsereczk leírásánál azt a hibát követtem
                      el, hogy a helyet tíz szélességi fokkal feljebb képzelve az éjsark felé,
@@ -9916,7 +9916,7 @@
                   
                </div>
                <div>
-                  <milestone type="subChapter" n="III"/>
+                  <!-- milestone type="subChapter" n="III"/ -->
                   <head>ÁLNAPOK.</head>
                   <p>Más, szintén többször előforduló nevezetessége az éjsarki vidéknek az álnapok
                      tüneménye, mely olyankor jön elő, a midőn derült idő mellett a lég tele van
@@ -9929,7 +9929,7 @@
                   
                </div>
                <div>
-                  <milestone type="subChapter" n="IV"/>
+                  <!-- milestone type="subChapter" n="IV"/ -->
                   <head>KÖDHALLUCZINÁCZIÓ.</head>
                   <p>A szibériai átlátszó ködnek is van valami sajátsága, mely a szokatlan láttani
                      csalódást idézi elő. Nordenskjöld emberei látnak a ködben egy óriási fehér
@@ -9944,7 +9944,7 @@
                   
                </div>
                <div>
-                  <milestone type="subChapter" n="V"/>
+                  <!-- milestone type="subChapter" n="V"/ -->
                   <head>A MAMMUTH.</head>
                   <p>Az állatvilágnak e legrejtélyesebb alakját a föld minden részében feltalálni
                      elszórt maradványaiban; de tömegesen és egészben megtartva eddigelé csak
@@ -10084,7 +10084,7 @@
             <div type="chapter">
                <head>HARMINCZKILENCZEDIK FEJEZET.</head>
                   <div>
-                  <milestone type="subChapter" n="I"/>
+                  <!-- milestone type="subChapter" n="I"/ -->
                   <head> BENYOVSZKY ADATAI SZIBÉRIÁRÓL, KAMCSATKÁRÓL ÉS A KAMCSATKAI
                   PARTOKRÓL.</head>
                <p>Benyovszky »Életrajzá«-nak két feladata van; az egyik az, hogy a mennyire lehet,
@@ -10229,7 +10229,7 @@
                   mondatában megígér, a következő harminczkettedik fejezetben:</p>
                </div>
                <div>
-                  <milestone type="subChapter" n="II"/>
+                  <!-- milestone type="subChapter" n="II"/ -->
                   <head>KAMCSATKA LEÍRÁSA</head>
                   <p>czím alatt be is váltja. Ennek fordítását a
                      következőkben adjuk:</p>
@@ -10342,7 +10342,7 @@
                   
                </div>
                <div>
-                  <milestone type="subChapter" n="III"/>
+                  <!-- milestone type="subChapter" n="III"/ -->
                   <head>KAMCSATKA PARTJAIRÓL</head>
                   <p>tartalmaz rövid észrevételeket. E fejezet fordítását a következőkben adjuk:</p>
                   <p>»1. A keleti parton a mélység megmérhetlen és egy folyton tartó áram halad
@@ -11672,7 +11672,7 @@
             </div>
             <div type="chapter">
                <head>NEGYVENÖTÖDIK FEJEZET. JEZÓ SZIGETE. AZ AINÓK.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                <p>Július 21-én hagyta el Benyovszky a Víz-szigetet, s egy heti kóborlás után a
                   tengeren, miközben több szigetet láttak, értek el Japánba s kötöttek ki Uzilpatkar
                   öblében. Nem tudjuk, hol fekszik a mi térképeink szerint e kikötő, valószínű
@@ -11693,7 +11693,7 @@
                </p>
                
                <div>
-                  <milestone type="subChapter" n="II"/>
+                  <!-- milestone type="subChapter" n="II"/ -->
                   <head>JEZÓ-SZIGET LEÍRÁSA.</head>
                   <p>»Bármely hajós e szigeteket bizonyos távolságból a szárazföld egy tovavonuló
                      részének tarthatná. A hollandokat is ez a körülmény vezette a legnagyobb
@@ -12404,7 +12404,7 @@
                   bebizonyítsa Benyovszkynak Makaóba való érkezését. Ezen okmányokat Nicholson saját
                   jegyzeteivel a következőkben közöljük magyar fordításban:</p>
                
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>»Kivonat Bon érsek úr leveléből; kelt Makaóban 1771 szeptember 24-én.</p>
                   <p>»Tegnap egy hajó érkezett Makaóba magyar lobogóval, melyet a magyar báró
                      Benyovszky Móricz Ágost Aladár vezényelt, a ki Albert herczegnek, a szász
@@ -12444,7 +12444,7 @@
                      franczia és latin nyelvet jól beszélik, ama két nyelvet is könnyen megértik e
                      nyelvek közeli rokonságánál fogva.</p>
                   
-                <milestone type="subChapter" n="II"/>
+                <!-- milestone type="subChapter" n="II"/ -->
                   <p>»Értesítés egy kis 80 tonnás hajónak Makaóba érkeztéről az utolsó szeptember
                      23-án, báró Benyovszky Móricz Ágost Aladár magyar ezredes vezénylete alatt,
                      kinek hajóján 62 magyar katona és 5 nő volt, a kik egyenes bevallásuk szerint
@@ -12519,7 +12519,7 @@
                   
                
                <div>
-                  <milestone type="subChapter" n="III"/>
+                  <!-- milestone type="subChapter" n="III"/ -->
                   <head>III. (Másolat.) BÁRÓ BENYOVSZKY ELBESZÉLÉSE KAMCSATKÁTÓL MAKÓIG TETT
                      ÚTJÁRÓL.</head>
                   <p>»Devenu en prison,
@@ -12562,7 +12562,7 @@
                   
                </div>
                <div>
-                  <milestone type="subChapter" n="IV"/>
+                  <!-- milestone type="subChapter" n="IV"/ -->
                   <p>»Kivonat az indiai társaság kantoni főügynökének 1771 november 20-án kelt
                      leveléből, mely a »British King« hajón érkezett meg.</p>
                   <p>»Szeptember 23-án a magyar báró Benyovszky Móricz Ágost Aladár vezetése alatt
@@ -12586,7 +12586,7 @@
                   
                </div>
                <div>
-                  <milestone type="subChapter" n="V"/>
+                  <!-- milestone type="subChapter" n="V"/ -->
                   <p>»Kivonat egy 1771-ben Khinában Kantonban kelt s Pigou úrnak írott levélből.</p>
                   <p>»Szeptember 23-án érkezett Makaóba egy magyar báró vezetése alatt álló kis
                      hajó. A báró szerint a magyar udvar őt titkon megbízta, hogy a parancsnoksága

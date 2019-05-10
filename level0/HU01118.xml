@@ -10704,7 +10704,7 @@
          </div>
          <div type="chapter">
             <head>1847-1848. Képtöredékek.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Klein úr megköszönte, hogy ez áron megszabadult, de még Jakab sem mert igen
                   hetvenkedni, annál inkább, mert Tanti egyszer találkozván vele, nagyon lelkére
                   kötötte, hogy valami gazságát ne hallja. Engedett Jakab a kényszerűségnek, és a
@@ -10714,7 +10714,7 @@
                   csakugyan nem lehet.</p>
                <p>Hagyjuk el tehát Jakabot, majd rákerül még a sor.</p>
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Diadalához ért negyven év múlva a nyelv, az írói név közbecsülés vonalára
                   emelkedett, s a szónoklat mestereket mutatott föl az országban, és a művészvilág
                   mindenütt látott egy úttörőt, ki után indulhasson az új nemzedék.</p>
@@ -10749,7 +10749,7 @@
                   24-iki párisi hírekkel.</p>
                <p>A föntebbi tárgynak folytatásáról nem emlékszik senki.</p>
             
-            <milestone type="subChapter" n="III"/>
+            <!-- milestone type="subChapter" n="III"/ -->
                <p>Elhatározta az isten, hogy még a tizenkilencedik század fele előtt lehulljon a
                   jobbágyság járma.</p>
                <p>Szétszaladt a hír az országban, hogy a robot, kilenced és tized megszűnt, s e két
@@ -10763,7 +10763,7 @@
                      nyolcszáz esztendős volt.</hi>
                </p>
             
-            <milestone type="subChapter" n="IV"/>
+            <!-- milestone type="subChapter" n="IV"/ -->
                <p>Lecsüggesztett fővel járnak az utcán az emberek, és már néhány napja ugyanazon egy
                   hírről beszélnek:</p>
                <p>Széchenyi megőrült!</p>
@@ -10790,7 +10790,7 @@
                      meg nem hiszitek.</hi>
                </p>
             
-            <milestone type="subChapter" n="V"/>
+            <!-- milestone type="subChapter" n="V"/ -->
                <p>Nem bírok tovább időzni e kornál, mint a nyomasztó álomtól - menekülni kívánok
                   belőle, - s igen érzem, hogy tollam akadozik, s a papír szétrepedni készül a
                   betűrajzolás alatt. Maradjon a történeté e lap, melyre e szót akarja írni

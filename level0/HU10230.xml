@@ -465,7 +465,7 @@
             </div>
             <div type="chapter">
                <head>MATER HONORIA.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Három hét telt el e jelenetek óta. Mi végre szegődött Vaszil az ifjabb
                      kalandorhoz, ki ez ügyben kétségtelenül a főszemély volt, azt talán később
                      sikerülend megtudnunk, mikor valószinűleg alkalmunk leend e vállalkozó
@@ -852,7 +852,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Majdnem azon időben, mikor Rákóczi Julia s barátnéja együtt beszélgettek, a
                      zárda más szárnyában, szép világos teremben, amattól különböző nemű társalgás
                      folyt. Mater Honoriát a sekrestyében láttuk. Midőn az apáczák s növendékek
@@ -1178,7 +1178,7 @@
             </div>
             <div type="chapter">
                <head>A FIATAL LELKÉSZ.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Mig Aspermont Brenkovicscsal folytatja útját, addig történetünk más felé
                      irányozza röptét.</p>
                   <p>* * *</p>
@@ -1366,7 +1366,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>E kitérés után, mely Rákóczi egyéniségének s viszonyainak méltányos felfogására
                      elkerülhetlen volt, ismerkedjünk meg vele személyesen.</p>
                   <p>* * *</p>
@@ -1527,7 +1527,7 @@
                   <p>- Meglátjuk! - szólt a lelkész, félrelökvén az elébe állót.</p>
                   
                
-               <milestone type="subChapter" n="III"/>
+               <!-- milestone type="subChapter" n="III"/ -->
                   <p>Mikor az apródok még mindig üres szobáján át a herczegébe lépett: Rákóczi annak
                      közepében állt Kellioval. Mindkettőnek arcza kellemetlen meglepetést árult el,
                      főleg a Kellioé, ki megpillantván a bejött egyházi öltönyét, szigorú kifejezést
@@ -1814,7 +1814,7 @@
                      végszavainál.</p>
                   
                
-               <milestone type="subChapter" n="IV"/>
+               <!-- milestone type="subChapter" n="IV"/ -->
                   <p>Minden rokonszenve mellett Rákóczinak e sajátos, erőteljes egyéniség iránt,
                      érezte, hogy a dolog az illem s eszély határait túlhágta, s nem bámulhatunk, ha
                      e jelenetnek minden áron véget akart vetni.</p>
@@ -1903,7 +1903,7 @@
             </div>
             <div type="chapter">
                <head>AMADIL.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Hova ment az ifjú Bercsényi a talányos jellemű Brenkovicscsal, s miért
                      választotta a két Magyarhon legszilajabb s leghevesebb ifja éppen a szerzetesi
                      tiszteletruhát azon látogatásra, melynek tanui valánk; végre mi birhatta az
@@ -2106,7 +2106,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Az eseményteljes nap végre lehanyatlott: a gyéren világított szűk utczákat
                      homály födte.</p>
                   <p>Az idő felosztása akkortájban még nem cserélte fel a napot az éjjel; s kivévén
@@ -2358,7 +2358,7 @@
             </div>
             <div type="chapter">
                <head>A TÁBOR.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>- És most hová?! - E kérdést hallók Amadil ajkairól ellebbenni.</p>
                   <p>Hányszor a sors végletein, vesztés mint dicsőségben, a kellő fokon s a tátongó
                      örvény szélén, határoz e néhány szó üdv és kárhozat fölött!</p>
@@ -2725,7 +2725,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Tökölyi Imre minden tekintetben feltünő egyéniség volt, nemcsak férfiasan-szép
                      és deli külsejére, hanem akkori időben ritka műveltségére nézve is. Ehhez
                      járult a fegyverkezés minden nemébeni tökéletes gyakorlottsága s ügyessége,
@@ -2998,7 +2998,7 @@
                         magunk iránt</hi>.</p>
                   
                
-               <milestone type="subChapter" n="III"/>
+               <!-- milestone type="subChapter" n="III"/ -->
                   <p>E, mikép hiszszük, szükséges kitérés után lépjünk Tökölyi Imre sátorába.</p>
                   <p>A fejedelem, miként őt jelenben mindenki czímezte, a tágas kerevetek közepe
                      táján foglalt, törökös kényelemmel, helyet. A gondtelt fő jobb kezére volt
@@ -3534,7 +3534,7 @@
                      Bercsényit.</p>
                   
                
-               <milestone type="subChapter" n="IV"/>
+               <!-- milestone type="subChapter" n="IV"/ -->
                   <p>Mint a forrás, mely a hegy tövében ered, s leszivárogván keskeny erén, utjában
                      kis patakkal találkozik, s csevegve lejt hímes gyep közt színes kövecseken, míg
                      tág völgybe ér, és a gyengéd széles folyó öleli fel, és mennek untalan,
@@ -4365,7 +4365,7 @@
             </div>
             <div type="chapter">
                <head>HEUSSLER DONÁT.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Háromszéken a bozzai szoros közelében, az erdőségben táborozott Heussler Donát,
                      a mint ezt Brenkovics jelentéséből tudjuk már.</p>
                   <p>Néhány nappal Tökölyi Imre megérkezése előtt a zernesti völgybe, Heusslernek s
@@ -4510,7 +4510,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Míg ezek kártyáztak, közel a levélszínhez szóváltás hallatszott.</p>
                   <p>Ugy tetszett, mintha nő és férfiú élesen vitatkoznának egymással, de a beszéd
                      értelmét ki nem lehetett venni.</p>
@@ -4726,7 +4726,7 @@
                      hangon így szólt:</p>
                   
                
-               <milestone type="subChapter" n="III"/>
+               <!-- milestone type="subChapter" n="III"/ -->
                   <p>«Testvérek, német s magyar vitézek! az Isten akarata nyilatkozott; százötven
                      éves súlylyal Magyarországon fekvő büntető kezét elemelte e szép és gazdag
                      földről. Az ellenséget eltiporta s pokolra vetette, hol eretnekségeért örökké
@@ -4964,7 +4964,7 @@
             </div>
             <div type="chapter">
                <head>A ZERNESTI CSATA.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>A tágas zernesti völgy Heussler száguldó lovasságának dübörgésétől
                      visszhangzott, melyet a gyalogság gyorsan, a legjobb rendben követett.</p>
                   <p>Felséges tér ez! mező, szántóföldek, itt-ott egy kis halom, magas
@@ -5301,7 +5301,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Ritka előnyünkre szolgál, hogy e csatát szemtanu, <hi>Cserei
                         Mihály</hi> után írhatjuk le, ki abban résztvett s kivel nemsokára
                      találkozni fogunk.</p>
@@ -5615,7 +5615,7 @@
                   </p>
                   
                
-               <milestone type="subChapter" n="III"/>
+               <!-- milestone type="subChapter" n="III"/ -->
                   <p>Míg igy a nevezetes csata egyes fordulatait felidéztük az aggkor homályaiból,
                      varázsvesszőnk még egyszer felemelkedik, hogy a legmegkapóbb jelenetek egyikét
                      említetlen ne hagyjuk, mely történetünk szövegével szoros kapcsolatban van.</p>
@@ -5838,7 +5838,7 @@
             </div>
             <div type="chapter">
                <head>VÁRATLAN VENDÉG.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Még halljuk a csata elhaló zsibaját, mint a szünő vihar egyes csattanásai,
                      visszhangzik emlékezetünkben a seregek ordítása, a Jézus és Allah név; azután
                      mint a tengeren, a kiküzdött hullámok haldokló morajjal kisimulnak, történetünk
@@ -6172,7 +6172,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>- Az erdélyiek s mi nehányan, kik köztök valánk, láttuk, hogy Tökölyinek
                      csillaga lehúnyt, folytonos ingerültsége közben senkiben sem bízik, s keblében
                      minden gyanusítás termékeny földre talál; elhatároztuk tehát e czél nélküli
@@ -6338,7 +6338,7 @@
                      azonban az orvosok hitelt nem adtak.</p>
                   
                
-               <milestone type="subChapter" n="III"/>
+               <!-- milestone type="subChapter" n="III"/ -->
                   <p>- E tájban egy ügyes orvos és vegytanár, Borri József, milanói nemes, ki a
                      Rákócziak idejében nem egyszer fordult meg Erdélyben, ott, mikép előtted is
                      tudva van, férjem nővérét vette nejül, s az unitárius hitre tért át, a
@@ -7310,7 +7310,7 @@
             </div>
             <div type="chapter">
                <head>ELSŐ SZERELEM.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>A történelem feladata megmondani, mikép sikerült végre a nép közt elharapódzó
                      lázadást elfojtani; mi Rákóczi Ferenczhez térünk vissza.</p>
                   <p>Az ifjú, Aspermont tanácsából, Olaszhont választotta utazása czéljául.</p>
@@ -7696,7 +7696,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Rákóczi Ferencz nagyszerű politikai s hadi életének varázs-övén kívül állunk
                      még; az emberrel van dolgunk, nem a történelmi hőssel. A hajnal dereng itt
                      elénk, s az ifjan táguló szív szentélye, mely először doboghat szabadon, s
@@ -7911,7 +7911,7 @@
                      visszatért éltes herczegnő s Magdaléna társaságában látunk.</p>
                   
                
-               <milestone type="subChapter" n="III"/>
+               <!-- milestone type="subChapter" n="III"/ -->
                   <p>Veronának egy pompás palotája előtt állunk.</p>
                   <p>Ezen épület a legszebbek közé tartozott a városban. A szem mindenhol becses
                      márványnyal, remek aranyozásokkal s a művészet dicső mutatványaival
@@ -8226,7 +8226,7 @@
                      tündérzetében föltüntetni.</p>
                   
                
-               <milestone type="subChapter" n="IV"/>
+               <!-- milestone type="subChapter" n="IV"/ -->
                   <p>Bécsben vagyunk, egy sötét téli éj födi a keskeny utczákat, s Rákóczi Ferencz
                      egyedül ül irószobájában, melynek ablakai az urak utczájára nyiltak.</p>
                   <p>Neje az udvarnál volt, s részt vett azon igen kirekesztő s választott körben,
@@ -9145,7 +9145,7 @@
             </div>
             <div type="chapter">
                <head>SÁROS.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Néhány hónap mulva, a nevezetes jelenet után, melynek tanúi valánk, Rákóczi
                      Ferencz nejével s egész udvarával sárosi várában vette lakását, hol vele,
                      fényes háztartásával - a régi magyar főurak szellemében - s mindazokkal
@@ -9511,7 +9511,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Rákóczi 26-dik születési napja közeledett. Hogy mindazon készületeket, melyeket
                      neje ezen érdekes ünnepélyre elintézett, nagyobb titokban tartsa, nem is
                      említvén a közeledő napot, rábirta férjét, hogy a nem igen távol lévő zborói
@@ -9772,7 +9772,7 @@
             </div>
             <div type="chapter">
                <head>LONGUEVAL.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Undorral közelítünk a gyalázatos névhez, mely e czikk élén áll. - Az
                      erkölcstelenedésnek s elvetemültségnek nem ismerjük gyávább s émelyítőbb nemét,
                      mint az árulás. Vegyen bármi színt, öltse fel bár magára az emberszeretet, a
@@ -10010,7 +10010,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Ha itt félbeszakítjuk e párbeszédet, oka az, mivel a történelem kétségtelenné
                      teszi, hogy Longuevalnak sikerült Rákóczi Ferenczet egy általános kitételekben
                      fogalmazott levél irására birni, s így csak megakasztanók eseményeink folyamát,
@@ -10238,7 +10238,7 @@
                      pedig szerette Magyarországot, az idő megfejti miért s minő forrón.</p>
                   
                
-               <milestone type="subChapter" n="III"/>
+               <!-- milestone type="subChapter" n="III"/ -->
                   <p>Az ifjú két napot töltött a sárosi várban, gyakran lehete őt Rákóczival
                      egyedül, mély közlésben s élénk társalgásban látni. Mit végeztek, nehéz
                      elhatározni; de alig hihető, hogy Clermont mindenre ne gondolt volna.
@@ -10612,7 +10612,7 @@
                      kötelesség!</p>
                   
                
-               <milestone type="subChapter" n="IV"/>
+               <!-- milestone type="subChapter" n="IV"/ -->
                   <p>Két nappal e beszélgetés után, késő éjjel, nehéz zivatar ömlött a sárosi vár
                      agg rovátkáira s az egész vidékre. A magas hegység fölött nehéz fekete kárpit
                      vonult össze, mintha a fellegek mind ide gyűlnének a terjedt magyar földről. -
@@ -10751,7 +10751,7 @@
             </div>
             <div type="chapter">
                <head>GAURA DRAKULUJ.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Míg Rákóczi Ferencznek sorsában e baljóslatú, válságos fordulat további
                      kifejlését kisérnők, elkerülhetlen, messze Sárostól az erdélyi és oláhországi
                      hegységekben azok lépteit kifürkésznünk, kiket regényünk érdekében sem feledni,
@@ -11097,7 +11097,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>A nyilt öböl, melynek végét s csatornáit lehetlen volt világosan kivenni, mikép
                      mondtuk, oly magas, széles és tágas, hogy összehasonlítással világos eszméjét
                      nem adhatjuk. Az aggteleki híres barlang s a wiedlicskai sóakna legtágasb öble
@@ -11467,7 +11467,7 @@
                      rátok!</p>
                   
                
-               <milestone type="subChapter" n="III"/>
+               <!-- milestone type="subChapter" n="III"/ -->
                   <p>A kilátás csatákra és hadi életre, sokkal inkább ínye szerint volt e népnek,
                      mint mindaz, a mit Brenkovics és társai békéről és nyugalomról mondhattak
                      volna.</p>
@@ -13576,7 +13576,7 @@
             </div>
             <div type="chapter">
                <head>A CORNETTE.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Nehány hét telt el újra, s e rövid idő alatt sok, igen sok történt.</p>
                   <p>Bercsényinek czélja volt Bécsbe menni, egész szenvedélye feléledt, s bár e
                      merény életveszélylyel járt az akkori körülmények közt; nincs kétség benne,
@@ -13892,7 +13892,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Egyszerre Rákóczi börtönének ajtajában a kulcs megfordult s Lehmann, ki
                      alkalmasint tudta, hogy Rákóczi nejével a búcsú óráit ébren töltendi, halk
                      kopogás után megnyitotta az ajtót.</p>
@@ -13991,7 +13991,7 @@
             </div>
             <div type="chapter">
                <head>A MERÉNY.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Nem akartuk a búcsú nehéz órájának részleteit tovább fűzni; búskomoly érdekét
                      és kínait ki ne ismerné?! - Oh! a börtöni búcsúnak az emberi elme
                      találékonysága a kínzásban még e fájdalmas érdekét is elkeseríti.</p>
@@ -14178,7 +14178,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Késő éjjel érkeztek egy magános malomhoz, lovaikról szakadt a tajték.</p>
                   <p>Útközben alig váltottak pár szót; Rákóczi csak annyit tudott meg Brenkovicstól,
                      ki szorosan mellette lovagolt, hogy egy malomnál át kell öltözködniök, s azon
@@ -14267,7 +14267,7 @@
             </div>
             <div type="chapter">
                <head>KASPEREK.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Rákóczi gyorsan folytatá útját; hitelt halad a buzgóság, a riadó öröm, melylyel
                      a nemzet szabadulása hírét vevé. Azok, kik Magyarhont csak ama híréről ismerik,
                      melyet ellenségei, irigyei a kék légből szőttek össze s reá hímet varrtak a
@@ -14583,7 +14583,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Nem akarjuk a készületeket hosszasan leírni, a tyúk megsült, az asztal terítve
                      lőn.</p>
                   <p>Patvar vigye, gondolá magában az öreg, bár minő szél hordta ide a vén ránczos
@@ -14798,7 +14798,7 @@
             </div>
             <div type="chapter">
                <head>A HŰ BARÁT.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Nem messze távozunk e vidéktől s nem is hosszú hézagot ékelünk történetünk
                      szövegébe; mert Rákóczi Podolinba érkezvén, már némileg lengyel földön volt, -
                      honnan ha tovább kisérjük, Lengyelországban vagyunk. Az időlap a leírt
@@ -15036,7 +15036,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Bercsényi mentve volt! egész éjen át barangolt az erdőségben, míg egy faluba
                      ért, hol egyenesen a lelkész lakába sietett.</p>
                   <p>Miután ennek röviden elbeszélte, a mit megmondhatni gondolt történetéből,
@@ -15348,7 +15348,7 @@
             </div>
             <div type="chapter">
                <head>RÁKÓCZI.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Sok idő telt el az utóbbi események óta: Rákóczi hosszasan tartózkodott
                      Lengyelországban; a beelsi palatinus neje őt saját házában előző
                      vendégszeretettel fogadta, mint ezt Rákóczi szíves elismeréssel érdekesen
@@ -15610,7 +15610,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Három hét telt el e nevezetes találkozás óta. Bercsényi félsikerrel járt, mert
                      30,000 forintnál többet nem tudott Danczigban szerezni; e csekély összeget ily
                      merész vállalatra, Bonal marquis saját felelősségére kölcsönözte Rákóczinak
@@ -15855,7 +15855,7 @@
                      hátrányára a zajongó hallgatóságnak, vagy inkább kiabálóságnak.</p>
                   
                
-               <milestone type="subChapter" n="III"/>
+               <!-- milestone type="subChapter" n="III"/ -->
                   <p>Egyszerre csudásan elnémultak mindnyájan, mintha a szó kiapadna torkukból, vagy
                      nyelvük fagyott volna meg.</p>
                   <p>Távolról mindig élesben és csengőbben megszólalt először a szent magyar földön
@@ -16044,7 +16044,7 @@
             </div>
             <div type="chapter">
                <head>MUNKÁCS.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Mihelyt Rákóczi seregébe több magyar, mint orosz és oláh gyűlt össze, a
                      fenyíték is nehezebb lőn. A munkács-vidékiek s azoknak legnagyobb része, kik a
                      herczeget a klimieczi völgyben fogadták, majd mind Rákóczi-alattvalók voltak s
@@ -16181,7 +16181,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Három nap alatt Rákóczi, a körülményeket tekintve, csodás rendben érkezett
                      Munkácsra, maga előtt küldvén híres manifestumát, a vérbe edzett szavakkal: <hi
                        >Recrudescunt inclitae gentis hungarae vulnera!</hi> - mely
@@ -16797,7 +16797,7 @@
             </div>
             <div type="chapter">
                <head>AZ ÁR NŐ.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Rákóczi haladott seregével, s a sirás s üvöltés, mely olykor mint a szélcsapás
                      verdeste füleit, meg nem szűnt. Minél tovább érkezett, annál inkább úgy
                      tetszett, mintha a fájdalom s tündérzet országához közelednék, honnan e panasz
@@ -17059,7 +17059,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Eddig ért Vaszil ezredes beszédében, midőn egyszerre az egész társaság
                      felugrott ülő s fekvő helyzetéből.</p>
                   <p>Rákóczi jött lóháton számos kisérettel: újabb hirek érkeztek, s a herczeg
@@ -17277,7 +17277,7 @@
                      székelységet, s Rákóczi mellett nyilatkoztak.</p>
                   
                
-               <milestone type="subChapter" n="III"/>
+               <!-- milestone type="subChapter" n="III"/ -->
                   <p>Ennyi történt már, mikor Károlyi Sándor Tokaj alatt Rákóczi táborába jött. Két
                      hónapig tartóztatták fel őt Bécsben; a büszke hatalmasok megvetéssel hurczolták
                      elő s hátra. Károlyi Sándor férfias nyiltsággal figyelmeztette őket
@@ -17379,7 +17379,7 @@
             </div>
             <div type="chapter">
                <head>A TÁVOLIAK.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Mielőtt Rákóczit tovább kisérnők, áldozzunk időt azon hölgykoszorúnak, mely
                      történeti drámánkon átszövődik. Alig volt kor Magyarország nemzeti életében,
                      hol a hölgyek - a <hi>választottakat értjük</hi> - szebb fényben
@@ -17548,7 +17548,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Pozsonyban vagyunk, a fallal kerített város egyik terén, tágas épületben, mely
                      előtt őrt látunk fel- s alájárni. Ennek fehér öltözete, a kanóczos fegyver
                      kezében, s a bal fülére rántott háromszög, mi a kalapot képviselte, azonnal
@@ -17774,7 +17774,7 @@
             <head>HARMADIK KÖTET.</head>
             <div type="chapter">
                <head>SETÉTBEN.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Egy más jelenet tűzi elénk magát, ugyan e városban s közel Aspermont lakához,
                      de később.</p>
                   <p>Mintegy 11 óra lehet éjjel, midőn Pozsonyban egy szűk utczába három lovag
@@ -17924,7 +17924,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>E rövid, de megható félbeszakasztás után - Amadil volt első, ki megindult, - a
                      többiek kisérték.</p>
                   <p>A ház előtt, a szűk utczában, hosszú szekér állt, fehér gyolcs ernyővel borítva
@@ -19033,7 +19033,7 @@
             </div>
             <div type="chapter">
                <head>KÉP ÉS LEVÉL.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Ha eddig a véres csaták s a hihetlen merények emlékeit emeltük ki a múlt
                      homályából, nem leend érdektelen egy udvari jelenetet feljegyeznünk, mely
                      történetünkkel összefüggésben van.</p>
@@ -19210,7 +19210,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>A császárnő inkább, mint valaha fejedelemnő, fel szerette tartani a légkört,
                      mely az udvart övezi, s feledséget ily esetben ritkán bocsátott meg. - Hölgyei
                      egyikének, ki parancs elfogadására készen, nem igen távol ült, azonnal intett,
@@ -19843,7 +19843,7 @@
             </div>
             <div type="chapter">
                <head>ANGYALOK ÉS EGY KORONA.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Lépjünk a képzelet önalkotta világjából az életbe vissza; de ne vegyük azt, a
                      mit a mindig éber lélek álmainkban összesző és teremt, puszta játéknak. Ugrás a
                      természetben nincsen, s a legcsodásabb álmoknak természetes indokai vannak, az
@@ -20167,7 +20167,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Így beszélgetve telt az idő, - szárnya volt! lehetett-e ez másként? Rákóczi
                      átlátta, hogy nejének szavát kell tartani, s erősen feltette magában, oly ajtót
                      nyitni egykor neje s gyermekei szabadulásukra, mely őket örökre visszaadja
@@ -20344,7 +20344,7 @@
             </div>
             <div type="chapter">
                <head>SZABADSÁG VAGY BECSÜLET?</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Arról, hogy a herczegnő hajnalban távozni akar, mint szintén, hogy neki Bécsbe
                      a német hatalmasok közelébe kell visszatérni, Rákóczi magyar látogatóinak nem
                      szólt. Ki akart minden hosszas marasztást kerülni: azért ez alkalmasint
@@ -20419,7 +20419,7 @@
                      drága jó lélek! bízz bennem, a lehetlent teendem lehetővé, hogy örökre
                      visszanyerjelek.</p>
                   
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Éppen Julia kezdé követelni a sort a szives búcsúban s Magdaléna szerényen
                      várta az utolsó kéz-szorítást, midőn többen a tisztek s vendégek közül a
                      terembe léptek.</p>
@@ -20967,7 +20967,7 @@
             </div>
             <div type="chapter">
                <head>HIRMONDÓ A KURUCZ FŐNÖK.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Isten jó ebédet készített hű népének: a szép szőllőhegyeken zöld ernyők alatt
                      főtt a tűzfolyam, melyet italára szánt. Nem volt sok, nem kevés ez évben; a
                      fellegkormány óvatos szellemek kezére bizatott, azért fényesen sugárzott a nap,
@@ -21346,7 +21346,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>A hűs völgybe érvén, alig haladtak néhány száz lépésnyire, midőn sűrű fák mögül
                      új lovas csapat bontakozott ki, jóval különböző attól, melyet eddig kisértünk.
                      Mintegy tizen lehettek, többnyire apró, de jeles lovakon, melyeknek hosszú
@@ -21577,7 +21577,7 @@
                      építettük föl a szabadság egyházát.</p>
                   
                
-               <milestone type="subChapter" n="III"/>
+               <!-- milestone type="subChapter" n="III"/ -->
                   <p>Míg e tanácskozás folyt, melynek minden részleteit adni, túlvinne a kiszabott
                      határokon, addig a vihar egész erejével megrohanta e völgyvidéket; dühösen
                      csapott be a zápor az egyház üvegtelen ablakrésein s olykor egy-egy csattanás
@@ -22085,7 +22085,7 @@
             </div>
             <div type="chapter">
                <head>NŐRAGADÓK.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Míg az erdélyi küldöttség közeledett, míg Magyarországon a csaták folytak s
                      Bécsben, a tanács görbélyeiben és
                      serpenyőiben az álom és méregszer főtt, ennyi buzgóság, ily rémítő erőfejtés
@@ -22508,7 +22508,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Hosszas lenne az egész utat s annak egyes jeleneteit leírni, azért röviden
                      mondjuk, hogy három napi bolyongás után oly helyeken, hol Amadil sohasem járt,
                      hegyes vidékbe s szűk völgybe értek. A negyedik napnak estéjén egy kis
@@ -22735,7 +22735,7 @@
                      mellékszobából.</p>
                   
                
-               <milestone type="subChapter" n="III"/>
+               <!-- milestone type="subChapter" n="III"/ -->
                   <p>A meglepetés mindkét részről oly nagy volt, hogy darabig szótlan tekintettek
                      egymásra, mintha szemeiknek nem hinnének.</p>
                   <p>* * *</p>
@@ -23085,7 +23085,7 @@
                   <p>Rózsa és Amadil a másik szobában tűntek el.</p>
                   
                
-               <milestone type="subChapter" n="IV"/>
+               <!-- milestone type="subChapter" n="IV"/ -->
                   <p>Egy óra telt el, míg Amadil úti málnáiból a legszebbet s legékesebbet
                      kiszedette, mit magával hozott, s míg egészen készen volt öltözködésével.</p>
                   <p>Végre kilépett a hálószobából. Fehér nehéz selyem födte tagjait, széles, gazdag
@@ -23314,7 +23314,7 @@
             </div>
             <div type="chapter">
                <head>CONFOEDERATIO.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>- - - Bercsényi Miklós volt! Amadil előtt új élet nyilt meg; szenvedélyes
                      kedélye végre azon elembe jutott, hová őt akaratlanul vonták titkos vágyai.</p>
                   <p>Álszégyen talán azon érzés, mely legjobban megfejti, miért kerülte Bercsényit
@@ -23544,7 +23544,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Augusztus hónapjában, ugyanez évben Rákóczi országgyűlést hirdetett a Rákos
                      mezejére, ősi szokás szerint, fel költeni akarván a nemzet kebelében régi
                      magasztos emlékeit. De később czélszerűbbnek vélte a gyülés helyét
@@ -23774,7 +23774,7 @@
                      valami elfogadható s valószinű ürügy alatt.</p>
                   
                
-               <milestone type="subChapter" n="III"/>
+               <!-- milestone type="subChapter" n="III"/ -->
                   <p>Ugyanaz volt e Wratislaw, kivel a prágai kolostorban találkoztunk s kinek neje
                      később szoros baráti viszonyban élt Rákóczi Juliával.</p>
                   <p>Jobb ürügyet lehetlen leende a férfiúnak találni, mint egy látogatást a
@@ -24253,7 +24253,7 @@
             </div>
             <div type="chapter">
                <head>RÁKÓCZINÉ S ŐRANGYALA.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>A hadnak magasztos hangversenye felriadt újult erővel a magyar földön. Ágyuk
                      dörögtek, trombiták harsogtak, s a síri utóhangok sóhajtottak éjféli órákban
                      vérmezők rémei felett.</p>
@@ -24538,7 +24538,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>- Érettem? hogyan? - mond Amália, ki egyáltalában nem volt tréfás
                      szeszélyben.</p>
                   <p>- Igen, Amália, tapasztalni fogod újra, a mi mindig megtörtént, hogy ő is,
@@ -24749,7 +24749,7 @@
                      szavakat mondá: - - de meg ne ijedjenek herczegségtek.</p>
                   
                
-               <milestone type="subChapter" n="III"/>
+               <!-- milestone type="subChapter" n="III"/ -->
                   <p>Nincs bizonyosabb mód valakit elijeszteni, mint ha bevezetésül arra intjük,
                      hogy meg ne ijedjen. Valóban a két herczegnőt a főhadnagy hirtelen megjelenése
                      kellemetlenül lepte meg.</p>
@@ -25357,7 +25357,7 @@
             </div>
             <div type="chapter">
                <head>A NAP LEÁLDOZIK.</head>
-               <milestone type="subChapter" n="I"/>
+               <!-- milestone type="subChapter" n="I"/ -->
                   <p>Rákóczi fel volt indulva Károlyi ellen s a követséget szigorú arczczal s feddő
                      szavakkal fogadta, kijelentvén, hogy két mérföldnyire az ellenség táborától
                      országgyülést tartani nem kevesebb mint árulás. Ő tehát a minő készséggel
@@ -25503,7 +25503,7 @@
                
 
 
-               <milestone type="subChapter" n="II"/>
+               <!-- milestone type="subChapter" n="II"/ -->
                   <p>Mindezek valami határozatlan kétes várakozásban lesték a történendőket: még
                      mindig le nem birván mondani egy szerencsés véletlen, vagy külbeavatkozás
                      reményéről.</p>

@@ -72,7 +72,7 @@
       <body>
          <div type="chapter">
             <head>ELSŐ FEJEZET.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone unit="subChapter" n="I"/ -->
                <p>A templom-utczai báró Stein-féle palota első emeleti szobájában a méltóságos báró
                   egészsé­ges, köpczös alakja himbálódzott egy karosszék bársonyos mélységében.
                   Csupa frisseség hivatalosan bevallott ötvenhat éve daczára a báró ur és csupa
@@ -328,7 +328,7 @@
                   valami váratlan bolondság, a mi kihibbantja boldog nyugalmából az embert.</p>
                <p>Mire való ez, midőn oly szép és kellemes a világ, a kinek érdemes benne élni.</p>
                
-                        <milestone type="subChapter" n="II"/>
+                        <!-- milestone unit="subChapter" n="II"/ -->
                <p>Illésházi Péter képviselő ur emelt fővel lépett ki a palota kapuján. Ismét a régi
                   volt. Nyugodt, hideg, előkelő gentleman, ki nyájas mosolylyal viszonozza az
                   ismerősök köszöntését és nem érdekli különösebben semmi. Lement a templom-utczán
@@ -444,7 +444,7 @@
                   történelem. Az este a gyerekeké volt, a bolondoké, a mienk, - beszéljen tehát csak
                   a nappalról, uram, a nappalról!</p>
                
-                        <milestone type="subChapter" n="III"/>
+                        <!-- milestone unit="subChapter" n="III"/ -->
                <p>Illésházi Péter nemes ur beszédet fog mondani mindjárt a nappalról is. Előbb
                   azonban hadd keresse össze hozzá a szükséges szavakat; addig nem kezdi meg. A
                   levegő tele van bosszantó káprázatokkal. Stein báró egészséges arczát látja, a
@@ -579,7 +579,7 @@
                      </div>
          <div type="chapter">
             <head>MÁSODIK FEJEZET.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone unit="subChapter" n="I"/ -->
                <p>Illésházi ösztönszerüen a Stein-féle palota felé sietett. Szükségét érezte, hogy
                   mentegesse magát valaki előtt. Az iménti jelenet durvaságának egész nagyságában
                   állott szemei előtt. Meg­tette, a mi elkerülhetetlenül szükségesnek látszott,
@@ -700,7 +700,7 @@
                   utazott el, akkor ma este még szükségem lesz önre. Fölkeressük a templom-utczában
                   a Nro. 28-at.</p>
                
-                        <milestone type="subChapter" n="II"/>
+                        <!-- milestone unit="subChapter" n="II"/ -->
                <p>Erre a kényes diplomácziai közbenjárásra, melyre valószinüleg ő méltósága, a
                   báróné adott férjének szigorú utasitást, azonban nem volt szükség. Illésházi a tiz
                   órai vonattal csakugyan elutazott falusi birtokára a leányához.</p>
@@ -884,7 +884,7 @@
                   ki megkivánja, de legnagyobb baj annak, a ki vergődik súlya alatt, mint a Bathó
                   Mihály szép, szomorú fia: Lőrincz.</p>
                
-                        <milestone type="subChapter" n="III"/>
+                        <!-- milestone unit="subChapter" n="III"/ -->
                <p>Egy reggel magához szólitotta Bathó a fiát. Megfogta kezét, gyöngéden a szeme közé
                   nézett, s rámutatott kinyujtott jobbjával az Illésházi-kastélyra, melynek magas
                   kupolájáról csillagra verődött vissza a reggeli napnak fénye.</p>
@@ -1044,7 +1044,7 @@
                      </div>
          <div type="chapter">
             <head>HARMADIK FEJEZET.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone unit="subChapter" n="I"/ -->
                <p>Lőrincz az illésházi park felé sietett, s nem gondolt édes apjával, a kinek
                   akarata keresztbe akarta szegni az övét. Izgatottságában azon az egy lázas
                   gondolaton kivül, mely egész lényét betöltötte, semmi egyebet nem érezett.
@@ -1185,7 +1185,7 @@
                   biztossággal nézett a távozó Rómeó után, mintha egy buta rabszolgáról lett volna
                   szó, ki urnője számára egy pohár friss vizért siet.</p>
                
-                        <milestone type="subChapter" n="II"/>
+                        <!-- milestone unit="subChapter" n="II"/ -->
                <p>Első emeleti lakosztályában Illésházi nem csengette be vén cselédjét. Maga
                   öltözködött, maga nyitotta ki a parkra nyiló ablakszárnyakat is. Megpillantotta
                   leányát is, amint a Bathó-fiuval beszélget, de nem mutatott különösebb
@@ -1295,7 +1295,7 @@
                <p>- Ennek meg kell lenni; ennek <hi>okvetlen</hi> meg kell
                   lenni...</p>
                
-                        <milestone type="subChapter" n="III"/>
+                        <!-- milestone unit="subChapter" n="III"/ -->
                <p>Leült egy széles, puha karosszékbe az ablak mellé és várt. Kiszinezte,
                   kiszámitotta magának előre, hogy mit mond meg a leányának és mit hallgat el.
                   Ezután nagyon meggondolja, hogy mit emlitsen, mit ne. Vigyázni kell. Az árnyak
@@ -1828,7 +1828,7 @@
          </div>
          <div type="chapter">
             <head>ÖTÖDIK FEJEZET.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone unit="subChapter" n="I"/ -->
                <p>A nemes ur parancsol, de kinek?</p>
                <p>Leánya gyorsan elhagyta a termet és kisietett. Illésházi egyedül maradt. Mindez
                   sebesebb és csattanósabb éllel folyt le, mint egy villámcsapás, a melyre senki
@@ -1960,7 +1960,7 @@
                   haldokló, véres, fiatal legényt lát a földön, a kinek ő lőtte keresztül a
                   mellét.</p>
                
-                        <milestone type="subChapter" n="II"/>
+                        <!-- milestone unit="subChapter" n="II"/ -->
                <p>Eltelt két hét.</p>
                <p>Illésházi azt remélte, hogy időközben meg fog érkezni a méltóságos család, nem
                   érkezett meg azonban senki, csak a <hi>Potykák</hi> tehetséges
@@ -2085,7 +2085,7 @@
                <p>- Hajts!</p>
                <p>Az inas becsapta az ajtót, s a hintó kirobogott a kapun.</p>
                
-                        <milestone type="subChapter" n="III"/>
+                        <!-- milestone unit="subChapter" n="III"/ -->
                <p>A nemes ur gyors elutazása se a Madame-ot, se Blankát nem lepte meg. Sokszor
                   megtörtént, hozzá voltak szokva. A jó öreg Madame-ot csak a számára visszahagyott
                   levél keseritette, a melyben érthetetlen bizalmatlanságot látott. Föl is tette
@@ -2215,7 +2215,7 @@
                <p>A jó Madame egyelőre csak azt határozta el, hogy mindenesetre figyelni fog; nagyon
                   fog figyelni, - lássa...</p>
                
-                        <milestone type="subChapter" n="IV"/>
+                        <!-- milestone unit="subChapter" n="IV"/ -->
                <p>Másnap reggel Blanka már hét órakor lement a kertbe. A Madame ilyenkor még
                   Bewelakwa ur természetrajzi studiumairól álmodozott. Ah! hátha mégis csak ráállt
                   volna a kisérletre...</p>
@@ -2475,7 +2475,7 @@
                      </div>
          <div type="chapter">
             <head>HATODIK FEJEZET.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone unit="subChapter" n="I"/ -->
                <p>Illésházinak is voltak álmai, de ezek gonosz természetüek voltak. Az egész uton
                   hallgatott. Ugy látszik, nem lesz hajnala ennek a nedves éjszakának - erőszak
                   nélkül...</p>
@@ -2594,7 +2594,7 @@
                   valamit okosan elvégezni. Ez fényes siker. Be fog jegyeztetni a hátrahagyandó
                   iratok naplójába.</p>
                
-                        <milestone type="subChapter" n="II"/>
+                        <!-- milestone unit="subChapter" n="II"/ -->
                <p>A méltóságos ur már esti fél hét órakor meggyujtotta a lámpát, s olyan helyet
                   akart magának a szalónban kikeresni, a hol nyugodtan lehet, a mig a nyomozás
                   eredménye eldől. Ilyen hely azonban nem volt. Izgatottan, szünet nélkül
@@ -3014,7 +3014,7 @@
          </div>
          <div type="chapter">
             <head>NYOLCZADIK FEJEZET.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone unit="subChapter" n="I"/ -->
                <p>Egy hét a csendességből és a némaságból.</p>
                <p>Az illésházi kastélyban lábujjhegyen lépett ez alatt a végtelenül hosszú idő alatt
                   minden ember és senki a másikkal hangos szót nem válthatott.</p>
@@ -3132,7 +3132,7 @@
                   mi­képpen peregnek le a leány arczán a forró cseppek és nem mert megszólalni.</p>
                <p>Leült a tükör alá egy székre és ott sirdogált titokban ő is.</p>
                
-                        <milestone type="subChapter" n="II"/>
+                        <!-- milestone unit="subChapter" n="II"/ -->
                <p>Illésházi egyedül feküdt a kék szobában. Az orvos ágyba akarta kényszeriteni; nem
                   figyelt rá, a kereveten feküdt. Egy csomó orvosszer állt az éjjeli szekrény
                   márványlapján, a nemes ur nem érintette meg egyiket sem. Hallgatag, sötét,

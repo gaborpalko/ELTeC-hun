@@ -16,8 +16,7 @@
          </titleStmt>
          <extent>
             <measure unit="words">147769</measure>
-            <measure unit="pages">na</measure>
-            <measure unit="vols"/>
+         
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
@@ -28,9 +27,9 @@
                <date>1997-01-20</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
                <ref target="http://mek.oszk.hu/00600/00688"/>
-               <respStmt>
+              <!-- <respStmt>
                   <resp>Original Electronic Edition</resp>
-               </respStmt>
+               </respStmt>-->
                <relatedItem type="source">
                   <bibl type="digitalSource">
                      <title>Az arany ember</title>

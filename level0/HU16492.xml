@@ -83,7 +83,7 @@
          </div>
          <div type="chapter">
             <head>ELSŐ FEJEZET.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>A szinházi villamos jelzők a <hi>Sibilla</hi> harmadik felvonásának
                   kezdetét jelentették. Az ajtó­csapkodás lassanként megszünt, a portás beczammogott
                   szük lakásába, s körmeit melengetve telepedett le a kemencze mellé. Kellemetlen
@@ -206,7 +206,7 @@
                   ismét kitört volna a családi vihar.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Boronkai figyelme most a szinpadhoz vezető ajtó felé fordult, melyet e pillanattól
                   kezdve sürün nyitogattak. A kapus kirohant lakásából az utczára nyiló ajtó felé, s
                   majdnem össze­ütközött a <hi>Sibilla</hi> szerzőjével, a ki viszont
@@ -371,7 +371,7 @@
                   Fülöp van itt. Engedett meghivásomnak és feljött egy csésze theára.</p>
                
             
-            <milestone type="subChapter" n="III"/>
+            <!-- milestone type="subChapter" n="III"/ -->
                <p>Az ajtó gyorsan megnyilt, s Boronkainé nyájasan, viruló arczczal vezette be az
                   ifjut a belső szobába, hol még égett a lámpa. A zöld ripsz butorzat dohány barna
                   szinre sáppadt a lámpa fényben, s a kopottas szőnyegek valamikor aranysárga
@@ -715,7 +715,7 @@
          </div>
          <div type="chapter">
             <head>MÁSODIK FEJEZET.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Fülöp nyakára huzta kabátja prémjét, szivarra gyujtott, s elindult a nagy köruton
                   keresztül haza felé. A szél időnként végig söpörte az aszfalton a száraz havat, s
                   megrázta a gázlámpák üveglemezeit. Kellemetlen, hideg februári éjszaka volt, - a
@@ -856,7 +856,7 @@
                   érni.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Fülöp meg volt róla győződve, hogy Julia sem kerülheti ki sorsát, - óvakodott
                   azonban, hogy ezt ő adja tudtára. A rokoni viszony ily kegyetlen nyilatkozatra nem
                   hatalmaz fel, s Julia sem provokálta az őszinteséget, különben talán még is csak
@@ -1001,7 +1001,7 @@
          </div>
          <div type="chapter">
             <head>HARMADIK FEJEZET.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Feliczia tante szalonjában pár nap előtt egy ismert fiatal ember tragédiájáról
                   volt szó, a ki közvetlenül esküvője előtt lőtte magát főbe. A lapok hosszasan
                   foglalkoztak az esettel. A dráma egyetlen részlete sem maradt megbeszélés nélkül.
@@ -1092,7 +1092,7 @@
                   okvetlen számitani lehet.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Fél egykor valaki csendesen megkopogtatta az ajtót.</p>
                <p>Fülöp meglepetve ugrott föl a kerevetről, - atyja lépett be hozzá frakkban, fehér
                   nyakken­dő­vel, teljes báli toiletteben. A tanácsos magas, erős ember volt,
@@ -1529,7 +1529,7 @@
          </div>
          <div type="chapter">
             <head>ÖTÖDIK FEJEZET.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Az öreg Petrovics Ferencz valamivel tizenegy óra után érkezett a Münszter-házba, s
                   azonnal bejelentette magát. Magas, csontos, szűkszavu öreg ember volt, - egyszerü
                   szürke köntösében, asztrakán sipkájában, rövidre nyirt, erős bajuszával inkább
@@ -1771,7 +1771,7 @@
                   ezt az ön meleg theoriáját a családi közelségről.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Clermontné kérdőleg nézett Fülöpre. Érezte, hogy az ifju sejti a Szeniczeinével
                   való jelenet izgalmas lefolyását, s ezt leplezni akarta mindenáron.
                   Kérdezősködéstől nem tarthat, Fülöp egyetlen szóval se szokta átlépni azt a
@@ -1968,7 +1968,7 @@
          </div>
          <div type="chapter">
             <head>HATODIK FEJEZET.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>A tágas folyosóra lépve, melyet üvegablakok védtek a szél és hó ellen, s melyen
                   Feliczia tante pálmáinak, fikuszainak és ritka szép, kék virágu hortenziáinak egy
                   része is el volt helyezve, Fülöp a lépcsőkön felsiető Szerafint pillantotta meg. A
@@ -2069,7 +2069,7 @@
                   fordulatot valami különösebb okkal is magyarázni tudná.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Feliczia tante átküldte hozzá a szobaleányt és megüzente, hogy mivel nagyon el van
                   foglalva, ezuttal ne látogassa meg. Fülöp tudomásul vette az üzenetet.</p>
                <p>- Ott van még a kisasszony? kérdezte a szobaleánytól.</p>
@@ -2390,7 +2390,7 @@
                   ne rontsa el huga örömét is.</p>
                
             
-            <milestone type="subChapter" n="III"/>
+            <!-- milestone type="subChapter" n="III"/ -->
                <p>A tervezett sétának ezalatt egy kis akadálya támadt. Fülöp inasa belépett, hogy
                   egy idősebb asszony és egy fiatal kisasszony, mindketten gyászban, beszélni
                   óhajtanának vele. Nem merte elutasitani őket; előkelő hölgyek lehetnek, különösen
@@ -2583,7 +2583,7 @@
          </div>
          <div type="chapter">
             <head>HETEDIK FEJEZET.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>A következő hetekben Feliczia tante csak egyszer emlitette, hogy szeretné, ha
                   Fülöp meglátogatná a külföldet, - midőn azonban észrevette, hogy az ifju
                   következetesen kitérőleg válaszol, s titkos, soha nem nyugvó aggodalmait semmi sem
@@ -2938,7 +2938,7 @@
                   nem érezte magát benne otthonosan. Ma még kevésbbé, mint máskor.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>A szobaleány a baloldali kisebb, piros teremben is meggyujtotta a lámpát. A
                   kényelmes, vörös peluche butorok égni látszottak a lámpafényben, s ez a
                   fantasztikus világosság, melyet még a disztárgyak groteszk bősége, s a függönyök
@@ -3474,7 +3474,7 @@
             
            <div type="chapter">
             <head>KILENCZEDIK FEJEZET.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>- Nem szabad többé rá gondolnom.. mondogatta magának másnap reggel. Ezzel a
                   banális mondattal aludt el és ezzel ébredt. Tudta, hogy e tilalom semmiben sem
                   különbözik attól a vékony szalmaszáltól, melybe a fuldokló kapaszkodik, de
@@ -3718,7 +3718,7 @@
                   elhatározó lépés a közeledésre, nem valószinü, hogy egykor találkozni fognak.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Egészen más okokból, de ugyanigy gondolkozott Boronkai is. Mióta lehetségesnek
                   tartotta, hogy Fülöp és Szera között még »okosabb« viszony is kifejlődhet,
                   szakadatlanul ezzel a kellemes lehetőséggel foglalkozott. Képzeletben már előre
@@ -3861,7 +3861,7 @@
                   lakosztályát ma is csak oly óvatossággal fogja elkerülni, mint máskor.</p>
                
             
-            <milestone type="subChapter" n="III"/>
+            <!-- milestone type="subChapter" n="III"/ -->
                <p>Fülöp elkisérte atyját a minisztériumba, a honnan szintén gyalog szándékozott
                   visszatérni.</p>
                <p>Münszter feltünően vidám kedvvel beszélgetett fiával, a kaszinót azonban, hová
@@ -4428,7 +4428,7 @@
          </div>
          <div type="chapter">
             <head>TIZENEGYEDIK FEJEZET.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Szera távozása után Fülöp nyugtalansággal vallotta be magának, hogy a leány
                   ragaszkodása, ez a félénk, bátortalan, de egész lényét betöltő mély vonzalom
                   hatással van reá. Sokkal biztosabban tudta megitélni az emberi szivet, semhogy meg
@@ -4633,7 +4633,7 @@
                <p>Fülöp némán meghajtotta magát Clermontné előtt és elhagyta a szalónt.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Tisztában volt vele, hogy a történtek után magyarázattal tartozik Clermontnénak,
                   tehát otthon maradt. A tante szerencsére kezébe adta a legalkalmasabb mentséget, -
                   használni fogja. Találékonysága, emberismerete, ösztöne mind nem érne semmit, ha a
@@ -4953,7 +4953,7 @@
          </div>
          <div type="chapter">
             <head>TIZENKETTEDIK FEJEZET.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Lemondott arról a tervről, hogy a fiatal asszonyt az operában meglátogassa. Már is
                   oly gyöngeséget árult el, a melyet fokozni nem szabad. Az eszélyesség is azt
                   követeli, hogy ne engedje át magát oly érzelmeknek, melyeknek kifejlődésével nincs
@@ -5217,7 +5217,7 @@
                   vasuton indult haza.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Feliczia tante maga intézkedett, hogy kedvenczének butorait haladéktalanul az uj
                   lakásra szállitsák, s végül maga is kocsiba ült, hogy Münszter társaságában
                   mindent megtekintsen. Boronkai a ligethez vezető fasorban talált egy inkább
@@ -6009,7 +6009,7 @@
          </div>
          <div type="chapter">
             <head>TIZENNEGYEDIK FEJEZET.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Néhány hét mulva ez elbeszélt események után Clermontné egyedül sétálgatott a
                   kertben. Fülöp atyja kiséretében hagyta el a villát és megigérte, hogy estére
                   okvetlenül vissza fog térni. Münszter udvarias és szivélyes volt, - mint mindig.
@@ -6270,7 +6270,7 @@
                   nagy kék szemeiben pajzán fenyegetés játszadozott.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Estelizés után Fülöp a zongorához ült, s bemutatta nejének a legujabb
                   operette-dallamokat. Clermontné nagy figyelemmel, hallgatva vizsgálta férje
                   arczvonásait, azután helyet foglalt a bronz Faun alatt levő kereveten, s egy
@@ -6562,7 +6562,7 @@
                   frisiteni a természetet.</p>
                
             
-            <milestone type="subChapter" n="III"/>
+            <!-- milestone type="subChapter" n="III"/ -->
                <p>Egyik legnagyobb kegye bizonyára az alkotónak, hogy az emberi szervezetet mélyen
                   megrázó felindulások után a testi és lelki kimerültség oly nagy foka tompitja el
                   az idegeket, a mely határos a jótékony félálommal. Clermontné is azzal a halálos

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00760" xml:lang="hu">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU010019" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,8 +16,9 @@
             </respStmt>
          </titleStmt>
          <extent>
-            <measure unit="words">na</measure>
-            <measure unit="pages">na</measure>
+            <measure unit="words">82098</measure>
+       <!--     <measure unit="words">na</measure>
+            <measure unit="pages">na</measure>-->
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
@@ -750,7 +751,7 @@
          </div>
          <div type="chapter">
             <head>A BÁN LEÁNYA.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Mélyen a bosnyák hegységekben, nem igen távol a sutiskai vártól, Kotromanovics
                   István, híres bosnyák bán birtokától, vadászsereg kezdett gyűlöngni, mely kevéssel
                   azelőtt az erdők minden rejtekeit elállta.</p>
@@ -907,7 +908,7 @@
                   néma csend terült.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>A nap már lehaladott; minő zaj és dübörgés visszhangzott kevéssel ezelőtt, oly
                   síri csend hevert most a rengeteg sürű boltozatai alatt. Csak az esti szellő
                   susogott a lombokon keresztül, s a gyors patak habtorlásai zúgtak koronként.</p>
@@ -1119,7 +1120,7 @@
          </div>
          <div type="chapter">
             <head>A VIDÁM LOVAGOK.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Nehány holddal azon idő után, mikor a bosnyák erdőség homályiban, Kotromanovics
                   István híres bánnak nem kevésbbé híres leányát először láttuk, történetünk
                   színhelye megváltozott.</p>
@@ -1303,7 +1304,7 @@
                   délután, s a nap épen hanyatló félben volt.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Poláwsky lovag, Lichnyowsky kiséretében nemsokára visszasietett azon terembe, hol
                   őt poharazni láttuk, s hová már Szapia s a más két vendég visszatértek volt.</p>
                <p>Pár percz mulva Zborowsky is belépett.</p>
@@ -1344,7 +1345,7 @@
                   élne.</p>
                
             
-            <milestone type="subChapter" n="III"/>
+            <!-- milestone type="subChapter" n="III"/ -->
                <p>Idő telt el ujra, s midőn a terem egyik tágas falán függő roppant aranyozott óra
                   nyolczat ütött, egy más teremnek ajtaja nyilik meg előttünk, tág mezőt tárván a
                   legérdekesb szemlék egyikére.</p>
@@ -1619,7 +1620,7 @@
          </div>
          <div type="chapter">
             <head>A FEKETE VENDÉG.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Az idő haladott, de a Lengyelföld a vigalom hona, élénk szép és hősies népe nem
                   tartozik azok közé, kiken a bánat erőt vesz, kiket a szerencsétlenség lenyom; ha
                   honi dalait hallja, ha poharak csillognak, s főleg szép és bájos hölgyek közt van,
@@ -1874,7 +1875,7 @@
                   körülfogták a férfiak, s vele együtt kitolakodtak a teremből.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Kínos szünet követte ezen erőszakos jelenetet, mely alatt Bariczka nem szólt
                   többet, hanem hidegen s gúnyos megvetés kifejezésével arczában engedett magával
                   tenni, mit az erőszak végzett fölötte.</p>
@@ -2079,7 +2080,7 @@
          </div>
          <div type="chapter">
             <head>VISEGRÁD.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Néhány hét telt el e jelenetek után. Még mindig tél van, szigorúan köszönt be, s
                   1351-ben egyével találkozunk a hazánkban ismeretes kemény és tartós teleknek,
                   mikor folyóink védelme megszünik s csalékony hátaik országúttá s biztos hidakká
@@ -2310,7 +2311,7 @@
                   végüket érték, mert a király szólni akar vele.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Zdenkót, mikép mondva volt, Apor Egyed a könyvtárba vezette, mely a király
                   irószobájától csak egy remek üvegfalazat által választatott el. Ekkortájban az
                   üvegablakok használata már terjedni kezdett Magyarországon, hol azelőtt még a
@@ -3003,7 +3004,7 @@
          </div>
          <div type="chapter">
             <head>A KISÉRTETEK TANYÁJA.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Mielőtt a sajátos jeleneteket megközelítnők, melyek történetünk e fordulatában
                   reánk várnak, világosb fogalom okáért egy lapot kell a komolyabb Cliotól
                   kölcsönöznünk.</p>
@@ -3271,7 +3272,7 @@
                   de ez sem baj - ha kell!</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Nem folytathatá tovább, mert a lovasok - mindössze négyen, közelükbe érkeztek s
                   vigan felkiáltottak: - Üdvözök legyetek - idegen urak! épen jókor jöttetek részt
                   venni az ünnepélyben.</p>
@@ -3547,7 +3548,7 @@
                   várt? meglátjuk alkalmasint, mielőtt e romoktól távoznánk.</p>
                
             
-            <milestone type="subChapter" n="III"/>
+            <!-- milestone type="subChapter" n="III"/ -->
                <p>Nemsokára az emelvény előtt álltak Kázmér és Szapia, nem csak azon álczás négy
                   lovagtól kisértetve, kikkel őket eddig társalogni láttuk, hanem többektől, kik,
                   miután a zene ideiglenesen elnémult, fel s alá sétálgattak a teremben s kik közül
@@ -4104,7 +4105,7 @@
          </div>
          <div type="chapter">
             <head>ESZTHER KRAKKÓBAN.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Mig ezek Kotromanovics közelében történtek, másnemű jelenetet kell kikapnunk az
                   események szövegéből.</p>
                <p>Miután Kázmér királynak hatalmas szövetségese segedelmével sikerült ellenségeit
@@ -4392,7 +4393,7 @@
                   komoly történetnek, mint valóban történt.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Mintegy három hét telt el a király ezen találkozása óta Esztherrel, midőn egy este
                   igen fényes ünnepély vezette mindazokat a királyi palotába, kik az
                   összejövetelekre feljogosítva voltak.</p>
@@ -4591,7 +4592,7 @@
          </div>
          <div type="chapter">
             <head>ÉLET-ÖRVÉNY, ÉLETTERV.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Másnap reggel, midőn Eszther már fel volt öltözve s készületeit tevé Krakkót
                   odahagyni, Smilinszky lépett a szobába.</p>
                <p>Az ifju egész tartásában valami volt, a mi Eszthert meglepte. Eddig benne csak a
@@ -4774,7 +4775,7 @@
                   ha más, nem ő maga akarja e viszonyt megtörni, ezen ember veszve van!</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>- Veszve! - kiáltott fel Smilinszky, - nem mondtam-e, hogy a király bosszúja ír
                   szivemre! De e koczkavetésre meg merném kisérteni szerencsémet mindig. Mit tehet a
                   király, ki házasságunkba beleegyezett, mindkettőnket udvarába fogadott, s ki már
@@ -5250,7 +5251,7 @@
          </div>
          <div type="chapter">
             <head>HOLLÓKÁROGÁS.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Lubart felvervén Halicsot s eltöltvén az utczákat halottakkal, roppant martalékkal
                   mindennemű árukban, lovakban, marhákban, odahagyta a még füstölgő várost s miután
                   a vidéken ölve s gyujtogatva átrombolt: mielőtt Kázmér király valamit tehetett
@@ -5439,7 +5440,7 @@
                   sietett eléje.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>- Én vagyok, - felelt Zdenko, - mihelyt herczegséged hirnökétől megtudtam a
                   szemtelen s jogellenes tettet, mely a herczegnőket s kegyedet tőrbe ejtette,
                   azonnal leghűbb embereinket szétküldöttem, nyomban követni Lubart seregeinek
@@ -5653,7 +5654,7 @@
          </div>
          <div type="chapter">
             <head>NEM MIND ARANY, A MI FÉNYLIK.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Mintegy hat hét telt el e jelenetek után, midőn lépteink ujra, hosszú távollét
                   után, Sutiskába, a híres bánnak udvarába vezetnek.</p>
                <p>Már Lajos és Kázmér királyok gyors hírnökök által megtudták, a mi Halicsban
@@ -5835,7 +5836,7 @@
                   minden visszatért néma csendességébe.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Nem igen távol a sutiskai vártól, Mladin öreg vadásznál, újra vendég mulatott,
                   mint mindig, mikor a bánnál valami nevezetes ünnepély tartatott, vagy igen sok
                   látogatói voltak. Ilyenkor, ha más nem, legalább az érkezett vendégek kíséretéből
@@ -5957,7 +5958,7 @@
                   melynek első körvonalait észrevette.</p>
                
             
-            <milestone type="subChapter" n="III"/>
+            <!-- milestone type="subChapter" n="III"/ -->
                <p>Sutiska felől s már jó közel a vadászlakhoz valóban egy karcsú árny sietett elő s
                   mi, kik Diana eltávozásán jelen valánk, pillanatig sem kétkedhetünk, hogy az, ki
                   az éjnek homályában, e vízárokkal kerített s dobogó által védett várból egyedül
@@ -6136,7 +6137,7 @@
                   anyától, kit egykor, miként állítád, szerettél - inkább üdvödnél?</p>
                
             
-            <milestone type="subChapter" n="IV"/>
+            <!-- milestone type="subChapter" n="IV"/ -->
                <p>Lubart felkölt üléséből, látván, hogy Diana oda hagyta székét s darabig némán
                   tekintett a hölgy arczába. Diana harminczharmadik évét töltötte be, de az évek
                   nyom nélkül haladtak el a hölgy felett. Lubart, ha nem találta is szebbnek őt mint
@@ -6278,7 +6279,7 @@
          </div>
          <div type="chapter">
             <head>A VÁRATLAN BEAVATOTT.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Míg a lithvániai herczegek, névszerint Kjeistut és Olgerd, felbőszülve foglyaik
                   megszökésén, mindenfelé szétküldötték czirkálóikat, addig Lubart, mikép láttuk, e
                   foglyok egyikét, alkalmasint valami meghitt embere által Dianának, a hölgytől
@@ -6435,7 +6436,7 @@
                   számítok reád, a nap fel van jegyezve leveledben.</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Itt félbeszakadt a párbeszéd s Herrmann eltávozott. Hová ment Halicsból, mit
                   cselekedett, miből állt a megbizás: talán később tudjuk meg; most visszatérünk a
                   bosniai bánnak várába, hol, mikép röviden megemlítettük már, mindnyájan, kiket a
@@ -6677,7 +6678,7 @@
                   szeretője.</p>
                
             
-            <milestone type="subChapter" n="III"/>
+            <!-- milestone type="subChapter" n="III"/ -->
                <p>Eszther! - kiáltott fel Diana, kit a hölgy nehány utolsó szava felrázott jeges
                   elszántságából. - Ah most értem a gyűlölséget Rokiczana iránt! Csak azt meg nem
                   foghatom, miként kell nekem, e gyűlölség eszközéül szolgálnom! - De folytassa
@@ -7302,7 +7303,7 @@
          </div>
          <div type="chapter">
             <head>KI SEJTI, MIT A JÖVŐ ÓRA HOZ?</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Mindenki átlátta, mikép e merény egyéni érdekből történt, s hogy a ki ezt intézte,
                   nem lehetett más, mint az egyedüli ember, kinek oka volt Zdenkón és Rokiczanán
                   bosszút állni.</p>
@@ -7541,7 +7542,7 @@
                   fegyveres szolga kiséretében kivált, s pompás lovának féket eresztvén,
                   elővágtatott s Eszther előtt termett.</p>
                
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>Mihelyt Herrmann a lovasnak szándékát észrevette s szemével megszámlálta, mintegy
                   hányan lehetnek körülbelől a jöttek, hirtelen Bzreslavszkyhoz fordult s
                   felkiáltott: - Védendjük magunkat halálig, ha kell!</p>
@@ -7808,7 +7809,7 @@
          </div>
          <div type="chapter">
             <head>A KIRÁLYNÉ.</head>
-            <milestone type="subChapter" n="I"/>
+            <!-- milestone type="subChapter" n="I"/ -->
                <p>Míg Kont lovag a szép, de halálosan kimerült Rokiczanával tovább, de nem tudjuk
                   hová siet, történetünk nehány napi szünet után újra a bosniai bánnak udvarába
                   vezet.</p>
@@ -8005,7 +8006,7 @@
                   lovag a király maga!</p>
                
             
-            <milestone type="subChapter" n="II"/>
+            <!-- milestone type="subChapter" n="II"/ -->
                <p>- A király maga! - kiáltott fel a bán, kit e szavak egészen kivetettek
                   eszmefolyamából; azután békétlenül tevé hozzá: - Minő vétkes tévedés, a király
                   maga! Kont lovag? ki oly gyakran volt vendégünk s kinek egyszerű módjában semmi

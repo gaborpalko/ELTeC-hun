@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00760" xml:lang="hu">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU09290" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,8 +16,10 @@
             </respStmt>
          </titleStmt>
          <extent>
+            <measure unit="words">17090</measure>
+           <!-- 
             <measure unit="words">na</measure>
-            <measure unit="pages">na</measure>
+            <measure unit="pages">na</measure>-->
          </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
