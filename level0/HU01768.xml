@@ -17,8 +17,8 @@
          <extent>
             <measure unit="words">59762</measure>
             <measure unit="pages">171</measure>
-            <measure unit="vols"/>
-         </extent>
+  <!--          <measure unit="vols"/>
+-->         </extent>
          <publicationStmt>
             <p>Published as part of ELTeC</p>
          </publicationStmt>
