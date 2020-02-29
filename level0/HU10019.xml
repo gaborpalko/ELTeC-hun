@@ -5,7 +5,7 @@
       <fileDesc>
          <titleStmt>
             <title>Eszther</title>
-            <author>na<idno type="VIAF">na</idno>
+            <author>Jósika Miklós (1794-1865)
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -25,31 +25,18 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <title>na</title>
-               <respStmt>
+                <respStmt>
                   <resp>Original Electronic Edition</resp>
-                  <name>na</name>
-                  <name>na</name>
-                  <name>na</name>
+                  <name>[unspecified]</name>
+                 
                </respStmt>
-               <ref target="na"/>
-               <date>na</date>
-               <relatedItem type="printEdition">
-                  <bibl type="digitalSource">
-                     <title>na</title>
-                     <ref target="na"/>
+              
+               <bibl type="firstEdition"><title>Eszther</title>
+                     <pubPlace>Pest</pubPlace>
+                  <publisher>Heckenast Gusztáv</publisher>
+                     <date>1853</date>
+                    
                   </bibl>
-               </relatedItem>
-               <relatedItem type="source">
-                  <bibl type="digitalSource"><title>na</title>
-                     <author>na</author>
-                     <pubPlace>na</pubPlace>
-                     <publisher>na</publisher>
-                     <date>na</date>
-                     <ref
-                        target="na"/>
-                  </bibl>
-               </relatedItem>
             </bibl>
          </sourceDesc>
       </fileDesc>
