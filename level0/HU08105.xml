@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU08105" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU08105" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A szív örvényei : Kisregények és elbeszélések : ELTeC edition</title>
-            <author ref="viaf:54141095">Kemény Zsigmond (1814-1875)</author>
+            <author ref="viaf:54141095">Kemény, Zsigmond  (1814-1875)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -174,8 +172,7 @@
                <p>Kísérői közül az, kinek karján lépett be, középkorú nobili volt, sötétbarna,
                   értelmes és férfias arccal.</p>
                <p>A nő egy futó pillanatot vetvén <hi>Szent Cecíliá</hi>-ra, mely az
-                  ajtónál a szélső kép, jobbra fordul, és a Tizian <hi
-                  >Életkorai</hi>val átellenbeni festményeket tekinti végig, de csak félfigyelemmel,
+                  ajtónál a szélső kép, jobbra fordul, és a Tizian <hi>Életkorai</hi>val átellenbeni festményeket tekinti végig, de csak félfigyelemmel,
                   vagy azért, mert már régóta ismeri, vagy mert azoknak becset nem tulajdonít.</p>
                <p>A nobili pedig a legközönyösebb hangulattal van a Manfrini-palota ritkaságai
                   iránt, hogy a szép nőnek, kinek vezetője, minden tekintetét felfoghassa, minden
@@ -212,8 +209,7 @@
                   mindenütt, hol valaki egy tárgyat különös figyelemre méltat.</p>
                <p>Amint Anselm megfordul, hogy barátját fölkeresse, szemei el nem kerülhették Carlo
                   Dolci <hi>Magdaléná</hi>-ját.</p>
-               <p>A történet úgy akarja, hogy ekkor egy kis kéz, levont kesztyűvel, a <hi
-                    >Bűnbánó Magdaléna</hi> felé mutat, és egy női hang felel egy
+               <p>A történet úgy akarja, hogy ekkor egy kis kéz, levont kesztyűvel, a <hi>Bűnbánó Magdaléna</hi> felé mutat, és egy női hang felel egy
                   kérdésre, mely egy a képhez közelálló férfival való társalgásból merülhetett
                   föl.</p>
                <p>Meg kell vallani, hogy Anselm rendkívül kedves zengzetűnek találta a női hangot; a
@@ -253,8 +249,7 @@
                   nevezhetnők Laurának, Amáliának az ily méla némbert? Nem foglalhatna-e szintúgy
                   helyet egy érzelmes német család sorában, mint a szent történelem arcképei
                   előtt?</p>
-               <p>Anselm vállat vonított, s a kis nőkezet, mely akkor is <hi
-                     >Magdaléna</hi> felé intett, nem kezdi többé oly imádandónak tartani, mert a
+               <p>Anselm vállat vonított, s a kis nőkezet, mely akkor is <hi>Magdaléna</hi> felé intett, nem kezdi többé oly imádandónak tartani, mert a
                   kéz tulajdonosának ízlésében oka van kétkedni.</p>
                <p>- Barátom - szólítá meg Pongrác -, távoznom kell. Ne várj a gondolával. Ma még
                   látjuk egymást.</p>
@@ -958,8 +953,7 @@
                   halászcsónakokon egy megkezdett dal, melynek második rímét már a szomszéd matróz
                   zengi, hogy tovább adhassa, míg ajakról ajakra költözvén, a végső refrén nesze a
                   tenger habjai közül a lagúnán bágyadtan érkezik vissza... mindez egy perc
-                  benyomása és élve; mert Antonio gondolája már a mellékcsatornához lejt, s az <hi
-                    >Albergo Italiano</hi> ajtólépcsőjénél köt ki.</p>
+                  benyomása és élve; mert Antonio gondolája már a mellékcsatornához lejt, s az <hi>Albergo Italiano</hi> ajtólépcsőjénél köt ki.</p>
                <p>- Né, mint megelevenült a puszta épület, mely oly fájón nézett félig bedeszkázott
                   ablakival és a kopasz erkélyoszlopokkal lakszobáinkra! Dél óta koldusmezét
                   elvetette, s mint látszik, most ünnepet ül.</p>
@@ -1313,8 +1307,7 @@
                   balszerencse esetében emberi segítségre s közel fekvő menhelyekre számítani.</p>
                <p>A vihar percenként feljebb fokozta erejét, és a nyílt tengeren még az árbocos
                   kisebb hajóknak is gondot adhatott volna; azonban Anselm, hosszú s unalmas
-                  küzdelem után, a megázáson kívül minden baj nélkül ért az <hi
-                     >Albergo Italianó</hi>-hoz.</p>
+                  küzdelem után, a megázáson kívül minden baj nélkül ért az <hi>Albergo Italianó</hi>-hoz.</p>
                <p>Asztalán Wehrner névjegyét találta.</p>
                <p>- Mikor keresett ez az úr?</p>
                <p>- Még tíz óra előtt - válaszolá legénye, rendezvén az öltözködésre
@@ -1373,8 +1366,7 @@
                <p>E termek rendezése több költészetet árult el, mint egy regény, mely íróját
                   dicsőíti, és több műértést, mint amennyire könyv és élet oktathatja azt, kinek
                   keblében nem csillog föl az ihletettség istenszikrája.</p>
-               <p>Egy udvarlója szerint a grófné oly fényes házat tartott, hogy az <hi
-                     >Ezeregyéj</hi> királynéi és gyémánt palotákban lakó nemtői, ha e homályos
+               <p>Egy udvarlója szerint a grófné oly fényes házat tartott, hogy az <hi>Ezeregyéj</hi> királynéi és gyémánt palotákban lakó nemtői, ha e homályos
                   földrészt, hol mi, prózai emberek, tengünk, meglátogatták volna, Agatha termeiben
                   rangjukhoz és finom ízlésükhöz méltóan fogadtathatának.</p>
                <p>De a velenceiekre e fényűzésnél még inkább hatott a szép némber egy szeszélye.</p>
@@ -1382,8 +1374,7 @@
                   kísértetve gyakran csónakázott a szigetre, hol aztán könnyű kocsin vagy telivér
                   angol paripákon nyargaltak az avar tér fövényei közt, versenyezve a széllel, mely
                   haragos szárnyain fakó tengerfövényt és krétás port dobált utánuk.</p>
-               <p>A lagúnák népe, mely életében csak a Dulcamara kocsiját látta, ha tudniillik <hi
-                    >A bájital</hi> színpadra került, s melynek minden ismerete a
+               <p>A lagúnák népe, mely életében csak a Dulcamara kocsiját látta, ha tudniillik <hi>A bájital</hi> színpadra került, s melynek minden ismerete a
                   Márk-templom csarnoka előtti négy bronz lovon túl alig terjedt, csodálatra volt
                   ragadtatva e jelenetektől, s midőn Albanoni gondolája a nagy csatornán átvonult,
                   ki-ki óhajtá a csodálatos lényt látni, ki gyönyört lelt oly mulatságokban, mikhez
@@ -2500,8 +2491,7 @@
                <p>S Agatha, midőn már lekötöttségétől fel van oldva, ismét vonzalmat érez rokona
                   iránt, kinek annyival tartozik, s ki őt a háladatosság alól eddig is csak azért
                   menté fel, mert díjul igen sokat - szerelmet követelt.</p>
-               <p>Devény, ámbár százada a szomszéd faluban fekvék, a férj merev <hi
-                     >udvariassága</hi> s a nő modora miatt ritkán fordult meg a háznál, s csak
+               <p>Devény, ámbár százada a szomszéd faluban fekvék, a férj merev <hi>udvariassága</hi> s a nő modora miatt ritkán fordult meg a háznál, s csak
                   Izidor unszolásaira vett a nagyobb időtöltésekben is részt...</p>
                <p>Oly háztartás, melynek dísztermei a zajos öröm és szórakozások állandó tanyájává
                   lettek, de lakószobáiba nem költözött megelégedés, s hol éjjeli mécsnél az
@@ -2731,8 +2721,7 @@
                <p>- Tudom, tudom, te neheztelsz reá; de a rokonok közt nem kellene a haragnak
                   hosszan tartani... Agathám, ugye kedves fekvésű vár ez? Mintha rámáját, a gyönyörű
                   vidéket, Wouwerman festette volna. Még majd vadászatra is kimehetek, s ha
-                  hazajövök, te fel fogsz olvasni nekem, mint Lauterbrunnban, midőn a <hi
-                    >Kőszáli kecské</hi>-nél az a gaz vendéglős megkoplaltatott. Mit
+                  hazajövök, te fel fogsz olvasni nekem, mint Lauterbrunnban, midőn a <hi>Kőszáli kecské</hi>-nél az a gaz vendéglős megkoplaltatott. Mit
                   is olvastál akkor?</p>
                <p>- Goethe <hi>Novellá</hi>-ját.</p>
                <p>- Igen, azt a szép történetet, melyben egy kisgyermek tetszése szerint vezeti az

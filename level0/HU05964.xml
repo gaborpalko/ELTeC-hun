@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU05964" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU05964" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Piroska : ELTeC edition
             </title>
-            <author>Cholnoky László (1879-1929)<idno type="VIAF">35255524</idno>
-            </author>
+            <author ref="viaf:35255524">Cholnoky, László  (1879-1929)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -50,8 +47,7 @@
                      <publisher> Noran</publisher>
                      <date>2000</date>
                      <idno type="isbn-10">963 9048 81 X</idno>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/428331"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/428331"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -263,8 +259,7 @@
                amint szemközt jött vele. A fordulónál aztán megismerte. Marinczer volt, a Flórusz
                sógora. A dolog iránt semmi kétség sem lehetett: a jövevény cifra, csodálatos
                füttyfutamokat lövellt ki a szájából, oly agyafúrtan intézve a dolgot, hogy a
-               tekervényes fúgákból mindig és következetesen a Márta című opera <hi
-                  >utolsó rózsa-áriája</hi> jött ki. Flórusz már többször tett tréfásan említést
+               tekervényes fúgákból mindig és következetesen a Márta című opera <hi>utolsó rózsa-áriája</hi> jött ki. Flórusz már többször tett tréfásan említést
                sógorának erről a szenvedélyéről, de egyébként sem lehetett tévedés, mert Malvin
                látásból nagyon jól ismerte az osztálytanácsost, jóllehet az nem ismerte őt.</p>
             <p>Amikor Marinczer hatalmas alakja eltűnt, Malvin egy pillanatra nekitámaszkodott a
@@ -918,8 +913,7 @@
                hófehér fogai. - Hallja, bácsi? Nordovics!</p>
             <p>Flórusz zavartan gyötörgette kis bajuszát, majd elmosolyodott.</p>
             <p>- Bocsánatot kérek! - mondta, könnyedén meghajolva a szabómester előtt.</p>
-            <p>- Ez a kis bolond minden csekélységen akkorát tud nevetni, mintha a <hi
-                  >Peleskei nótárius</hi>-t látná! - mondta Nordheimer. - Az volt ám a nagyszerű
+            <p>- Ez a kis bolond minden csekélységen akkorát tud nevetni, mintha a <hi>Peleskei nótárius</hi>-t látná! - mondta Nordheimer. - Az volt ám a nagyszerű
                darab, ha ugyan tetszett látni!</p>
             <p>Pár pillanatig elmerengett emlékein, majd lemondóan legyintett.</p>
             <p>- A jogász úr nem emlékezhetik rá!... Sokkal fiatalabb!</p>
@@ -1099,8 +1093,7 @@
                különös abban, ha a férjét megcsalja, ezzel szemben meg van győződve arról, hogy még
                ez a csekélység is nyomban rendbe jön, ha Szent Antal oltárán elhelyez harminchat
                krajcárt vagy egy kiselejtezett tésztarádlit. - Nordheimer arról is meg volt
-               győződve, hogy a fiatalember már két napja csakis annak a bizonyos <hi
-                  >perdöntő pontnak</hi> a megoldásán töri a fejét. Flórusz csak annyit mondott,
+               győződve, hogy a fiatalember már két napja csakis annak a bizonyos <hi>perdöntő pontnak</hi> a megoldásán töri a fejét. Flórusz csak annyit mondott,
                hogy van valami a dologban, amit nem ért, hanem a szabómester azt egészen ösztönösen
                a <hi>döntő pont kérdésévé </hi>rafinálta magában, hogy az ezerfelé
                szertefolyó kételyeket megrendszabályozza, és hogy legyen egy szilárd cölöp, amelyhez
@@ -1117,8 +1110,7 @@
                miniatűr körükben felvetődhettek, tetemes butasága mellett is eligazította mindig.
                Most, hogy az új jogügyi szaktanácsos felbukkanásáról értesült, ugyancsak ösztönösen
                úgy érezte, hogy ez az ügy nincsen egészen rendben, sőt amikor a beismerkedés
-               módozatait is végighallgatta, már bizonyosan vélte tudni, hogy a <hi
-                  >döntő pont kérdését </hi>jogi szaknyelven Piroskának hívják. Leghelyesebbnek
+               módozatait is végighallgatta, már bizonyosan vélte tudni, hogy a <hi>döntő pont kérdését </hi>jogi szaknyelven Piroskának hívják. Leghelyesebbnek
                tartotta azonban várakozó álláspontra helyezkedni.</p>
             <p>Mindez két nappal ezelőtt történt; a mai nap délutánján a várás izgalmaiból előállott
                feszültség a kis családnál hirtelen, minden átmenet nélkül megernyedt, és helyét az a
@@ -1756,8 +1748,7 @@
             <p>Flórusznak nagyot dobbant a szíve. Az írást nem látta még soha, de már egészen
                bizonyosan tudta, hogy a várva várt perc elérkezett.</p>
             <p>Nordheimer írt, és meghívta a fiatalembert szombat estére vacsorára. A házasságuk
-               huszonöt éves fordulóját ünneplik, és a joghallgató urat <hi
-                  >mindenki</hi> - ez a szó alá volt húzva - okvetlenül elvárja, hogy jelenlétével
+               huszonöt éves fordulóját ünneplik, és a joghallgató urat <hi>mindenki</hi> - ez a szó alá volt húzva - okvetlenül elvárja, hogy jelenlétével
                az ünnepély fényét emelje. Nota bene gyanánt azt írta Nordheimer, hogy rajta,
                Flóruszon kívül mindössze az ő két öreg <hi>colekája</hi> lesz ott,
                senki más.</p>
@@ -3261,8 +3252,7 @@
                akkor beszélni, amikor már elmúlt -, és a három öreg hosszasan, boldogan, szívből
                nevetett most is az ezerszer hallott kis történet felett, amit ezúttal Nordheimerné
                melegített fel. Az úgy volt, hogy az úriaskodó Hortoványi egyszer együtt ment egy
-               barátjával a Rákos utcában, és amikor meglátta a kiírást: <hi
-                  >Bakteriológiai Intézet</hi>, olvasási tudományát fitogtatandó, kiböngészte a
+               barátjával a Rákos utcában, és amikor meglátta a kiírást: <hi>Bakteriológiai Intézet</hi>, olvasási tudományát fitogtatandó, kiböngészte a
                különös szókat, aztán úriasan, szenzitíve felsóhajtott:</p>
             <p>- Istenem, már a bakteroknak is külön tanfolyamot kell végezniök!... Hová
                jutunk!?...</p>
@@ -4821,8 +4811,7 @@
                könnyelműen legyintve. - Ugyan, hagyd el!... Tudom én, hogyan megy az, ha egy ilyen
                ábrándos, félbolond úrigyerek valami zagyva, kusza szerelmet szed a szívére, és aztán
                annak a súlya alatt elkezd szép lassan alácsúszni!... Sohase harapdáld az ajkadat,
-               kedvesem, <hi>én</hi> vagyok a te igazi barátod, <hi
-                  >én</hi>, nem pedig a Szütymögi, meg a Prücsök, meg a... a Csiszlik nevű
+               kedvesem, <hi>én</hi> vagyok a te igazi barátod, <hi>én</hi>, nem pedig a Szütymögi, meg a Prücsök, meg a... a Csiszlik nevű
                szabólegény, aki doktor úrnak szólít, és diszkréten félrefordul, ha a doktor úrnak
                eszébe jut a sáros cipőjét beletörülni másnak a tiszta ruhájába!</p>
             <p>- Kedvesem - mondta Flórusz idegesen -, én rendkívül nagyra tartom a te barátságodat,
@@ -4868,15 +4857,13 @@
                díjnoksággal foglalkozó farkasokéba. Ő mondta, nem én, őreá haragudj, ha a parabolát
                kissé szögletesnek találod... A mai Rózsikák hangosan követelik a férfiakéhoz hasonló
                elhatározási szabadságot; nem volna helyénvaló, ha ennek a szabadságnak a
-               konzekvenciáit is viselnék?... Hanem csodálatos körforgás ez! <hi
-                  >B</hi> észreveszi, hogy barátját, <hi>A</hi>-t, aki pompás fiú, a
+               konzekvenciáit is viselnék?... Hanem csodálatos körforgás ez! <hi>B</hi> észreveszi, hogy barátját, <hi>A</hi>-t, aki pompás fiú, a
                Rózsikák egyike a legnaivabb, a legegyszerűbb eljárással elkezdi gyúrni, formálni,
                amíg olyan kicsiny lesz, mint egy krajcáros bugyli, akkor aztán szépen összecsukja,
                és beleteszi a retiküljébe. <hi>B</hi> tépi a haját, tördeli a kezét,
                hogy ez érthetetlen őrület, de két hónap múlva ő maga is átalakul bugylivá, és amikor
                   <hi>C</hi> számon kéri tőle a dolgot, diadalmas mosollyal azt
-               mondja: hja, barátom, csakhogy az én esetem egészen más!... Őutána <hi
-                  >C</hi> következik, és amikor az ábécé a végére ért, kezdődik megint elülről!...
+               mondja: hja, barátom, csakhogy az én esetem egészen más!... Őutána <hi>C</hi> következik, és amikor az ábécé a végére ért, kezdődik megint elülről!...
                Nos, kedves Flóruszom, az én filozófiám másik ága ezeknek a bölcsességeknek a
                konzekvenciái felé mutat!... Mármost, kérlek, csak választani kell! De választani -
                   <hi>kell!</hi> Okvetlenül kell!... És megalkuvás nincs!... Ha a fogó

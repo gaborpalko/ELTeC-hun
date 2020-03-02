@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17606" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17606" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tabu :  Regény  : ELTeC edition
             </title>
-            <author> Teleki Sándorné (1864-1937) <idno type="VIAF">309595549</idno>
-            </author>
+            <author ref="viaf:309595549">Teleki, Sándorné  (1864-1937)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -48,8 +45,7 @@
                      <pubPlace>Budapest</pubPlace>
                      <publisher> Athenaeum</publisher>
                      <date>1919</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/2993476"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/2993476"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -3343,8 +3339,7 @@
                   kedvessel előhuzakodni, hogy Ádám iránti hűségének szószólója legyen. »És ha nem
                   volna semmi, ha a vele töltött hét év egy sivár pusztaság lenne, még akkor is...
                   Most, amikor tudom, hogy mit szenved, mit gyötrődik, mit nélkülöz ott künn a
-                  hadifogságban... Nem, nem!... Egy cél van, ami egész életemet be <hi
-                     >kell</hi> hogy töltse, egyetlen­egy: Ádámot boldoggá tenni. Ha egyszer
+                  hadifogságban... Nem, nem!... Egy cél van, ami egész életemet be <hi>kell</hi> hogy töltse, egyetlen­egy: Ádámot boldoggá tenni. Ha egyszer
                   hazajön... És addig?« tolakodott előtérbe egy hivatlan kérdés, de Vécsy Bóra, kis
                   selyem utipárnáját feje alá gyűrködve, dacosan felelte: »Addig? Semmi.
                   Várom...«</p>
@@ -4500,8 +4495,7 @@
                   sok-sok felesleges könnyet sajtolt a szemébe. Féltékenysége is bántotta, sértette,
                   mert hisz tisztában volt azzal, hogy nem »szerelemféltés« ébresztette volt azt,
                   hanem az, ami minden asszonyra annyira lealázó »az <hi>én</hi>
-                  feleségem«, »az <hi>én</hi> asszonyom«, »az <hi
-                     >én</hi> nevem viselője«-féle zsarnokoskodás.</p>
+                  feleségem«, »az <hi>én</hi> asszonyom«, »az <hi>én</hi> nevem viselője«-féle zsarnokoskodás.</p>
                <p>Igen. Tagadhatatlan. Mindez, sőt talán még sok minden egyéb is eszébe jutott
                   olykor és fájt és sebzett és rombolt, de ilyenkor Bóra önfegyelemmel sietett egy
                   még tökéletesebb, még tisztább fényben ragyogó eszménykép megalkotásához

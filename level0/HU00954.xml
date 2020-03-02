@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00954" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00954" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Szent Péter esernyője : ELTeC edition</title>
-            <author>Mikszáth Kálmán (1847-1910) <idno type="VIAF">46774986</idno>
-            </author>
+            <author ref="viaf:46774986">Mikszáth, Kálmán  (1847-1910)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -88,7 +85,7 @@
    </teiHeader>
   <text>
       <body>
-         <div type ="part">
+         <div type="part">
             <head>ELSŐ RÉSZ A LEGENDA</head>
             <div type="chapter">
                <head>VISZIK A KIS VERONKÁT</head>
@@ -886,7 +883,7 @@
                
             </div>
          </div>
-         <div type ="part">
+         <div type="part">
             <head>MÁSODIK RÉSZ A GREGORICSOK</head>
             <div type="chapter">
                <head>A TAPINTATLAN GREGORICS</head>
@@ -1383,8 +1380,7 @@
                <p>Gregorics felkiáltott: »Jaj, az esernyőm!« Arcán síri sápadtság ömlött el.
                   Szemeiből a rémület beszélt. A két evezős mosolygott, az öreg Ördög Márton
                   fitymálva jegyzé meg, áttolva pipáját a másik agyarára:</p>
-               <p>- Nem nagy kár érte, nemzetes uram. Nem volt az már való, csak a <hi
-                     >búzaembernek</hi> a kezébe. (Búzaember a rongyokból felöltöztetett báb, aki a
+               <p>- Nem nagy kár érte, nemzetes uram. Nem volt az már való, csak a <hi>búzaembernek</hi> a kezébe. (Búzaember a rongyokból felöltöztetett báb, aki a
                   verebek elijesztésére van hivatva a búzák között.)</p>
                <p>- Száz forint annak, aki visszahozza! - hörögte kétségbeesetten.</p>
                <p>Az evezősök összenéztek, a fiatalabbik, a Börcsök Jancsi kezdte a csizmáit
@@ -2340,7 +2336,7 @@
                   tetszett.</p>
             </div>
          </div>
-         <div type ="part">
+         <div type="part">
             <head>HARMADIK RÉSZ A NYOMOK</head>
             <div type="chapter">
                <head>AZ ESERNYŐ KIBUKKAN</head>
@@ -2963,8 +2959,7 @@
                   tiszafa nyújtott árnyékot. Ez a fa, melyet sorompóval vett körül a nemes város, s
                   két oldalról padot állíttatott alája, szintén hozzátartozott Bábaszék jövendő
                   nagyságához: a pézsmaszagú, aranyzöldbe játszó bogarak, melyek keskeny, hosszúkás
-                  leveleit ellepték, s némely orvosságok készítéséhez kellenek, e <hi
-                     >hólyaghúzó izgoncok</hi> (ahogy a tudósok hívják őket) megannyi argumentumok
+                  leveleit ellepték, s némely orvosságok készítéséhez kellenek, e <hi>hólyaghúzó izgoncok</hi> (ahogy a tudósok hívják őket) megannyi argumentumok
                   lehetnek a felsőségnél, hogy Bábaszék is megkapja egykor a patikát.</p>
                <p>A bábaszéki menyecskék sokszor vittek ilyen bogarakat bögrékben azelőtt Zólyomba,
                   hol a patikárus megvette egy pár garasért, de utóbb statutummal tiltá el ezt a
@@ -3623,7 +3618,7 @@
                
             </div>
          </div>
-         <div type ="part">
+         <div type="part">
             <head>NEGYEDIK RÉSZ A BÁBASZÉKI INTELLIGENCIA</head>
             <div type="chapter">
                <head>VACSORA MRAVUCSÁNÉKNÁL</head>
@@ -4467,7 +4462,7 @@
                
             </div>
          </div>
-         <div type ="part">
+         <div type="part">
             <head>ÖTÖDIK RÉSZ A HARMADIK ÖRDÖG</head>
             <div type="chapter">
                <head>A CZOBOR MÁRIA RÓZSÁJA, A FÖLDHASADÉK ÉS A VÉN KÖRTEFA</head>
@@ -5144,8 +5139,7 @@
                <p>- De hátha Veronka nélkül is hozzájuthatsz az örökségedhez?</p>
                <p>El nem nyomhatott egy fitymáló mosolyt.</p>
                <p>- Hiszen éppen most fejtettem ki - szólt türelmetlenül -, hogy nem lehet, de ha
-                  lehetne, se zárnám ki az örökségből, mely félig-meddig <hi
-                     >lelet,</hi> mert a gondviselés mintegy szándékosan feléje hömpölygette.</p>
+                  lehetne, se zárnám ki az örökségből, mely félig-meddig <hi>lelet,</hi> mert a gondviselés mintegy szándékosan feléje hömpölygette.</p>
                <p>Sztolarik megfordította most a kérdést.</p>
                <p>- De hátha Veronka által se juthatsz örökségedhez?</p>
                <p>- Az szinte kizártnak látszik.</p>

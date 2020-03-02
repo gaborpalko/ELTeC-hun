@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU14261" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU14261" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Lavina :  Regény  : ELTeC edition</title>
-            <author>Pekár Gyula(1867-1937)<idno type="VIAF">2057726</idno>
-            </author>
+            <author ref="viaf:2057726">Pekár, Gyula (1867-1937)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -47,8 +44,7 @@
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Singer-Wolfner</publisher>
                      <date>1895</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/3242631"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/3242631"/>
                   </bibl>
                </relatedItem>
             </bibl>

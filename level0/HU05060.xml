@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU05060" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU05060" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Sárarany : ELTeC edition</title>
-            <author> Móricz Zsigmond (1878-1942)<idno type="VIAF">22179627</idno>
-            </author>
+            <author ref="viaf:22179627">Móricz, Zsigmond  (1878-1942)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -1926,8 +1923,7 @@
                <p>- Nem fél, hogy megrozsdásodik? Elég ennyi munka egy férfinak, hogy az idegei
                   rendben legyenek?</p>
                <p>A gróf mosolygott.</p>
-               <p>- Én nem vagyok egy <hi>férfi</hi>, hanem egy <hi
-                     >gróf</hi>, s a grófok nem vasból vannak, hanem valami ritka nemesfémből.
+               <p>- Én nem vagyok egy <hi>férfi</hi>, hanem egy <hi>gróf</hi>, s a grófok nem vasból vannak, hanem valami ritka nemesfémből.
                   Nekünk nem munka kell, hogy fényesek legyünk tőle, hanem légmentes elzárkózottság
                   és méltó keret.</p>
                <p>Belenézett az arcába, s megcsókolta a száját.</p>
@@ -3445,8 +3441,7 @@
                   szerelemben, amit a parancsolója akar, kíván. Az asszony valami élő melegágya
                   legyen a férje minden képességének, amelyben megpihen az ember, s új erőre kap. Ha
                   ilyen volna! Akkor mit nem tenne meg érette!</p>
-               <p>Hiszen tudja is ő, mit kíván, csak annyit érez, hogy az asszony <hi
-                     >nem olyan, amilyennek ő szeretné</hi>.</p>
+               <p>Hiszen tudja is ő, mit kíván, csak annyit érez, hogy az asszony <hi>nem olyan, amilyennek ő szeretné</hi>.</p>
                <p>Ő az asszonyi természetet oly türelmes, lágy, béketermő valaminek szerette volna
                   elképzelni, amely mindig olyan, amilyennek az ura kívánja el. Mikor legelőször
                   hallotta tőle azt a szót, hogy “bizony nem szakítom meg magamat érted”, nem akart
@@ -5176,8 +5171,7 @@
                   járt körül a levegőben.</p>
                <p>Akkor visszatért az öntudata. Tudta, hogy megölte a grófot, s tudta, hogy lelőtte
                   a sógorát. Még a lehullott madárról is tudott. Mindent tudott és semmit sem bánt,
-                  mindennek megvolt az oka, s kimondta az okot: <hi
-                  >dühömbe!</hi>...</p>
+                  mindennek megvolt az oka, s kimondta az okot: <hi>dühömbe!</hi>...</p>
                <p>Ebben a percben fölemelte kezét; idegen érzést érzett rajta s megnézte.</p>
                <p>Elsápadt tőle, a szeme összehúzódott kicsire s ellenségesen, riadtan nézett a
                   kezére; az orrából hánytató inger folyt vissza le a gyomrába, s undorodás és

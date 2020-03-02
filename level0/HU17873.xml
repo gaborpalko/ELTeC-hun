@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17873" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17873" xml:lang="hu">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Az élet esélyei: Regény: ELTeC edition</title>
-                <author> Jósika Júlia (1813-1893) <idno type="VIAF">46218998 </idno>
-                </author>
+                <author ref="viaf:46218998 ">Jósika, Júlia  (1813-1893)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -40,8 +37,7 @@
                             <pubPlace>Pest</pubPlace>
                             <publisher>Lauffer</publisher>
                             <date>1864</date>
-                            <ref
-                                target="http://nektar.oszk.hu/hu/manifestation/1594662"/>
+                            <ref target="http://nektar.oszk.hu/hu/manifestation/1594662"/>
                         </bibl>
                     </relatedItem>
                 </bibl>

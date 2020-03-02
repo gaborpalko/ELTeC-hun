@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00666" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00666" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Egy régi udvarház utolsó gazdája : Regény : ELTeC edition</title>
-            <author ref="viaf:59092543">Gyulai Pál (1826-1909)</author>
+            <author ref="viaf:59092543">Gyulai, Pál  (1826-1909)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -1221,8 +1219,7 @@
                ugyancsak kitett magáért. Az ezredesnének senki sem tudott főzni, mosni; untalan
                Bécset emlegette, lenézte Erdélyt, sógora tömérdek kárán nem szánakozott illő
                megindulással, az ország állapotján éppen nem búsult, s az asztal fölött legtöbbet
-               arról beszélt, mi újság Bécsben, s mindent elmondott, mit kedves lapja a <hi
-                  rend="italic">Fremdenblatt</hi> legújabb számában olvasott. Erzsi sokáig
+               arról beszélt, mi újság Bécsben, s mindent elmondott, mit kedves lapja a <hi rend="italic">Fremdenblatt</hi> legújabb számában olvasott. Erzsi sokáig
                öltözködött, el-elkésett a reggeli- vagy ebédtől, kevés kedvet mutatott a ház
                gondjaiban való részvételre, ahelyett érzékeny német regények olvasásával töltötte az
                időt, vagy Saphir <hi rend="italic">Wilde Rosen</hi>-jei mellett ábrándozott
@@ -1539,10 +1536,8 @@
                megkérdi, mit csinál az ő kis felesége. Mit feleljek neki, szólj, édes Erzsikém?</p>
             <p>- Egy bújdosó, egy földönfutó felesége legyen? Abból semmi sem lesz. Én
                Kahlenbergernek ígértem, az ő felesége lesz, az övé, csak azért is - dühöngött az
-               ezredesné, oly keményen csapva az asztalra, hogy a <hi rend="italic"
-                  >Fremdenblatt</hi> egy-két száma a légbe röpült.</p>
-            <p>Radnóthy összehúzta szemöldökét, fölvette a leesett <hi rend="italic"
-                  >Fremdenblatt</hi>-ot, mintha mondani akarná az ezredesnének, hogy olvassa kedves
+               ezredesné, oly keményen csapva az asztalra, hogy a <hi rend="italic">Fremdenblatt</hi> egy-két száma a légbe röpült.</p>
+            <p>Radnóthy összehúzta szemöldökét, fölvette a leesett <hi rend="italic">Fremdenblatt</hi>-ot, mintha mondani akarná az ezredesnének, hogy olvassa kedves
                lapját és hallgasson, s nem ügyelve sűrű és hangos átkozódásaira, folytatta leányával
                a beszélgetést.</p>
             <p>- Hát arra a halvány, szemérmes kisfiúra emlékszel-e, tudod, arra, aki neked annyi

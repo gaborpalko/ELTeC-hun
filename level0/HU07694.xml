@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07694" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07694" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Anatole :  Regény  : ELTeC edition</title>
-            <author>Toldy István(1844-1879)<idno type="VIAF">56032353</idno>
-            </author>
+            <author ref="viaf:56032353">Toldy, István (1844-1879)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -48,8 +45,7 @@
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Franklin-Társulat</publisher>
                      <date>1906</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/3221385"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/3221385"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -3570,8 +3566,7 @@
                <p>Nem - nem!</p>
                <p>Oh hallgass el kisértő rém, - elég volt, - ah elég ebből a gyötrelemből!</p>
                <p>Hahaha! kaczagj tábornok, - nem fenyeget veszély. - - Flavigneux Anatole nem meri
-                  leányo­dat elvenni, mert fél, hogy nem tud vele - <hi
-                  >megélni!</hi>»</p>
+                  leányo­dat elvenni, mert fél, hogy nem tud vele - <hi>megélni!</hi>»</p>
                <p> E sorok után Anatole eldobta a tollat, földhözvágta naplóját, felkelt, de alig
                   tett nehány lépést a szobában, eszméletlenül rogyott ágyára. Midőn reggel jó későn
                   bementem hozzá, ott talál­tam, rendetlen öltözékben, ágyán fekve. Melle nehezen

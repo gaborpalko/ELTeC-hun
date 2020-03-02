@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU08835" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU08835" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Az elvált asszony : ELTeC edition
             </title>
-            <author>Szomaházy István(1864-1927)<idno type="VIAF">73382097</idno></author>
+            <author ref="viaf:73382097">Szomaházy, István (1864-1927)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -47,8 +45,7 @@
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Singer - Wolfner</publisher>
                      <date>1912</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/2993879"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/2993879"/>
                   </bibl>
                </relatedItem>
             </bibl>

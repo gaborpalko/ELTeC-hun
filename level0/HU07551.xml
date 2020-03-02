@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07551" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07551" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Magyar titkok : Regény : ELTeC edition</title>
-            <author ref="viaf:121393539">Nagy Ignác (1810-1854)</author>
+            <author ref="viaf:121393539">Nagy, Ignác  (1810-1854)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -10168,8 +10166,7 @@
                   is az idegen szinészet és irodalom további pártoltatását nem kivánjuk
                   előmozdítani; mert, ha példáúl valakit, beszélni akarván vele, üstökénél fogva
                   huznánk föl magunkhoz a magasba, hogy szavainkat megértse, nemde így fogna hozzánk
-                  szólni: - Uram, könnyebben esik neked kissé hozzám leszállani?!<hi
-                     xml:id="_ftnref2">[2]</hi>
+                  szólni: - Uram, könnyebben esik neked kissé hozzám leszállani?!<hi xml:id="_ftnref2">[2]</hi>
                </p>
                <p>Ezen eszmék illő alkalmazása adott létet a Széchenyi-kertnek is, a fönebb érintett
                   hirlapi megrovások következtében.</p>
@@ -19907,8 +19904,7 @@
                   lesz oly nagy ellenmondás, mint minő némely más czímek és tartalmuk, vagyis
                   viselőik közt, a mai világban, gyakran uralkodni szokott; mert én be fogom
                   bizonyítani, hogy csakugyan van falu a fővárosban, mig néhány ember alkalmasint
-                  nem tudná megmutatni, mikép valóban volt arra ok, hogy czímének vége nok. -<hi
-                     xml:id="_ftnref4">[4]</hi>
+                  nem tudná megmutatni, mikép valóban volt arra ok, hogy czímének vége nok. -<hi xml:id="_ftnref4">[4]</hi>
                </p>
                <p>Mint már szerencsém vala mondanom, némán haladtunk előre, s ha a nép babonás hite
                   való, hogy lány születik akkor, midőn több ember van együtt, s mégis huzamosb

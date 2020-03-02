@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00695" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00695" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A kőszívű ember fiai : ELTeC edition</title>
-            <author ref="viaf:59084200">Jókai Mór (1825-1904)</author>
+            <author ref="viaf:59084200">Jókai, Mór  (1825-1904)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -279,8 +277,7 @@
                   hatalmas befolyásokkal, mik családi összeköttetésre vezethetnek - a költői
                   ábrándok követése nélkül.</p>
                <p>Egy pillanatnyi eltorzulása ez arcnak tanúsítá, mily végtelen kínokat kell kiállni
-                  ez embernek azalatt, amíg beszél. Csak pillanatig tartott az. A <hi
-                     >nemes</hi> akarat legyőzte a <hi>pór</hi> természetet.</p>
+                  ez embernek azalatt, amíg beszél. Csak pillanatig tartott az. A <hi>nemes</hi> akarat legyőzte a <hi>pór</hi> természetet.</p>
                <p>Tudta folytatni végintézkedését.</p>
                <p>- Ily három erős oszlop fönn fogja tartani azt a művet, amit én alkottam. Egy
                   diplomata - egy katona - egy főhivatalnok. Miért nem építhettem még tovább, amíg
@@ -1300,8 +1297,7 @@
                <p>A burána meg szokta azt mondani maga, hogy ő kicsoda.</p>
                <p>Az egész ég egyetlen felhővé alakult, mely jött sebesen gomolyogva, alatta
                   sötétkéknek látszott már az egész róna, s e fekete ég, e sötétkék föld között jött
-                  táncolva, keringve egy rettenetes, fehér kísértet, a <hi
-                     >hótölcsér</hi>, a jégmezők tüneménye, melynek talapja lenn a földön, feje fenn
+                  táncolva, keringve egy rettenetes, fehér kísértet, a <hi>hótölcsér</hi>, a jégmezők tüneménye, melynek talapja lenn a földön, feje fenn
                   a felhők között! Az északi “szélmenyasszony”, ki homok helyett hóbul emel oszlopot
                   ég és föld között, s ez őrült keringő oszlop ádáz rohammal nyargal végig a síkon,
                   lerombolva, összetépve, zúzva mindent, mit útjában talál: erdőt, házat, embert,
@@ -1729,17 +1725,14 @@
                <p>Még mélyebbre szállt le. Ott már fájt szemeinek a nézés; a többölnyi mély vízen át
                   s a vastag jégkérgen keresztül alig derengett már valami világosság.</p>
                <p>Tovább kutatott!</p>
-               <p>Leszállt egész a vízfenékig, míg lába a kavicsot érte. Kereste <hi
-                     >víz mentében</hi>.</p>
+               <p>Leszállt egész a vízfenékig, míg lába a kavicsot érte. Kereste <hi>víz mentében</hi>.</p>
                <p>Úgy kiáltotta magában: “Ödön! Ödön! Hol vagy?”</p>
-               <p>Akkor valami jutott eszébe, a vízfenék talaján nehány lépést tett előre <hi
-                    >víz ellenében</hi>; s ott meglátott egy egyenesen álló
+               <p>Akkor valami jutott eszébe, a vízfenék talaján nehány lépést tett előre <hi>víz ellenében</hi>; s ott meglátott egy egyenesen álló
                   alakot.</p>
                <p>Ez volt az.</p>
                <p>Azon módon állt előtte Ödön a víz fenekén, ahogy elmerülni látta; összefont
                   karokkal, fejjel fölfelé állva, csak arca fölfelé volt fordítva. A nehéz
-                  korcsolyák lábain egyenesen állva tarták, s a roham, mellyel a jég alá futott, <hi
-                    >víz ellenébe</hi> vitte.</p>
+                  korcsolyák lábain egyenesen állva tarták, s a roham, mellyel a jég alá futott, <hi>víz ellenébe</hi> vitte.</p>
                <p>Leonin hirtelen hajába markolt az alaknak, s egy lökést adva testének lábaival,
                   gyorsan emelkedett fölfelé.</p>
                <p>De hova fölfelé?</p>
@@ -3409,8 +3402,7 @@
                      csillagok: szerető női szemek! Mikor partra vontak bennünket a halászok, nem
                      távoztam mellőle, míg meg nem kérdhetém tőle: ragyognak-e még csillagaid? Ő
                      mosolyogva felelt: “mind a négy.”</hi> (E szónál mind a két hölgy érezte a
-                  másik villanyos rándulatát; e bűvös szikra egyszerre ütött át idegeiken.) <hi
-                    >Azután egy kis forróláz következett Ödönre, amin most már
+                  másik villanyos rándulatát; e bűvös szikra egyszerre ütött át idegeiken.) <hi>Azután egy kis forróláz következett Ödönre, amin most már
                      szerencsésen túl vagyunk. Nem távozom mellőle sem éjjel, sem nappal. Bátran
                      nyugodhatnak ágya fölött őrcsillagai. - Ma erővel levelet akart írni, de hát,
                      íme, nem sikerült. Nekem kellett azt folytatnom. Hanem ez ne nyugtalanítsa önt,
@@ -4279,8 +4271,7 @@
                   népeinkhez legközelebb.</p>
                <p>- No? És?</p>
                <p>- No és a mieink azt mondják, hogy a <hi>közügyért</hi> szívesen
-                  beverik a más fejét; de a maguk fejét nincsen kedvük beveretni a <hi
-                     >közügyért</hi>. Nem lehet őket semmi tettlegességre biztatni.</p>
+                  beverik a más fejét; de a maguk fejét nincsen kedvük beveretni a <hi>közügyért</hi>. Nem lehet őket semmi tettlegességre biztatni.</p>
                <p>- Gyáva fickók - mormogá Rideghváry, s a csengettyűhöz nyúlt.</p>
                <p>Az eddig alkalmazott hadicselek mind nem sikerültek.</p>
                <p>Először is: a teremben több volt a fehér toll, mint a fekete toll.</p>
@@ -5563,15 +5554,13 @@
                <p>- <hi>Halljam</hi>.</p>
                <p>- Vidd el utolsó kártyámat <hi>Alfonsine-nak</hi>.</p>
                <p>- Ha tudniillik még egyszer <hi>meghínak</hi>!</p>
-               <p>- Csak oly sötét ne volna, hogy írhatnék egy szót a <hi
-                     >névjegyemre</hi>.</p>
+               <p>- Csak oly sötét ne volna, hogy írhatnék egy szót a <hi>névjegyemre</hi>.</p>
                <p>- Nézd, az a gránát ide jön, <hi>istenemre</hi>!</p>
                <p>Nagy búgva csapott le egy távolból érkező gránát a torlasz kövei közé, s ott
                   megfenekelve folytatta tűzokádó üdvözlését, néhány percre vérvilágot vetve az
                   álmából felriadt csapatra.</p>
                <p>Mausmann arra is verset mondott.</p>
-               <p>- No, mármost küldtek neked <hi>lámpát</hi>. Ennél ráírhatod a “<hi
-                    >madám, pá</hi>”-t!</p>
+               <p>- No, mármost küldtek neked <hi>lámpát</hi>. Ennél ráírhatod a “<hi>madám, pá</hi>”-t!</p>
                <p>Annál a süstörgő fénynél írta rá Fritz névjegyére e szókat: “Én önt szerettem,
                   adieu.”</p>
                <p>Az utolsó szónál már lobbant a gránát, s izzó darabjai a két ifjú feje fölött
@@ -5581,8 +5570,7 @@
                <p>Mausmann kisvártatva így szólt:</p>
                <p>- Te, Fritz, tudod-é, hogy én most mit <hi>gondolok</hi>?</p>
                <p>- Én is rímet mondjak rá?</p>
-               <p>- Majd teszem magam. Minket aligha el nem árultak ezek az <hi
-                     >angyalok</hi>.</p>
+               <p>- Majd teszem magam. Minket aligha el nem árultak ezek az <hi>angyalok</hi>.</p>
                <p>- Honnan gondolod azt?</p>
                <p>- Mindent megtudnak odaát, amit mi titokban tervezünk.</p>
                <p>- Jó kémeik vannak.</p>
@@ -5598,8 +5586,7 @@
                   elegyíteni.</p>
                <p>- Ne légy háládatlan, Mausmann. Emlékezzél a demokrata nőegyletre, mennyit tett ez
                   a közügyért, hogy ápolta sebesülteinket, hogy gyűjtötte a pénzt számunkra, hogy
-                  lelkesítette kitartásra a férfiakat. Ah, barátom, nők nélkül nincsen szabadság<hi
-                    >harc</hi>.</p>
+                  lelkesítette kitartásra a férfiakat. Ah, barátom, nők nélkül nincsen szabadság<hi>harc</hi>.</p>
                <p>- <hi>Kudarc</hi>!</p>
                <p>- Már megint rímeket <hi>gyártasz</hi>?</p>
                <p>- Nem <hi>árt az</hi>!</p>
@@ -6295,8 +6282,7 @@
                   őreitől éjfélben: éj közepén nekifut a sötét éjszakának; fekete, koromsötét éjben
                   végigfutja a város kísértetes utcáit, hogy feltalálja kedvesének anyját, hogy
                   annak lábaihoz vesse magát, és így szóljon hozzá: “Asszony! Fiadat meg akarják
-                  ölni, rettenetes, gyalázatos halállal! Siess! Keresd fel! Válassz számára <hi
-                    >valami szebb halált</hi>!”</p>
+                  ölni, rettenetes, gyalázatos halállal! Siess! Keresd fel! Válassz számára <hi>valami szebb halált</hi>!”</p>
                <p>- Edit! - rebegé Richárd, s a leányka hideg kezét forró homlokához szorítá.</p>
                <p>- Én választottam, fiam.</p>
                <p>- Mondjad, anyám!</p>
@@ -6459,8 +6445,7 @@
                <p>- Jerikó = Bécs; Raháb = a zárdafő; Józsua = a tábornok; a Gibeonita és Emoreus =
                   a huszárcsapat és az aula.</p>
                <p>- Te elárultad őket!</p>
-               <p>- Csitt! Rég szemmel tartják őket. Csak azt nem tudják, mit akar a Gibeon. <hi
-                    >Átjönni-e</hi> Jerikóba, vagy <hi>elmenni</hi> a
+               <p>- Csitt! Rég szemmel tartják őket. Csak azt nem tudják, mit akar a Gibeon. <hi>Átjönni-e</hi> Jerikóba, vagy <hi>elmenni</hi> a
                   Kanaánba? Én azt jeleztem, <hi>jönnek</hi>.</p>
                <p>Baradlayné még mindig nem értette ezt. Tagjait zsibbadás állta el az irtózat
                   miatt.</p>
@@ -7281,8 +7266,7 @@
                <p>- Nagy útról jövök.</p>
                <p>- Nekem azt mondták, kimenekültél, s már Pozsonyban vagy.</p>
                <p>- Úgy volt. Három nap hasztalan kerestelek; aztán felhagytam a reménnyel, hogy
-                  megtaláljalak, s elhagytam e várost. Hanem Pozsonyban hallottam <hi
-                     >valamit</hi>, és az visszahozott.</p>
+                  megtaláljalak, s elhagytam e várost. Hanem Pozsonyban hallottam <hi>valamit</hi>, és az visszahozott.</p>
                <p>- Te <hi>visszatértél</hi>!</p>
                <p>- Hogy veled beszéljek.</p>
                <p>- Ó, minek tetted azt? Hiszen ha tudattad volna velem, én mehettem volna oda, ahol
@@ -8958,12 +8942,9 @@
                   sortüzelés lovasságát visszariasztá, elkezdte röppentyűtelepét játszatni
                   ellenük.</p>
                <p>Játszatni? No, hát ők is játéknak vették.</p>
-               <p>- Á! Régi ismerősök - élcelt rájuk Mausmann. - Szüretkor láttam <hi
-                     >eleget</hi>. Minden filiszter ilyet <hi>ereget</hi>. Nézzétek,
-                  hogy fúródik a <hi>földbe</hi>. Ennek az orra homokkal <hi
-                    >tőlt be</hi>. Ez a másik sem <hi>sikerült</hi>. A
-                  meg ni, hova <hi>elkerült</hi>. No, most az igazi <hi
-                     >e lesz</hi>. (A röppentyű csakugyan előttük csapódott le süvöltve, süstörögve.
+               <p>- Á! Régi ismerősök - élcelt rájuk Mausmann. - Szüretkor láttam <hi>eleget</hi>. Minden filiszter ilyet <hi>ereget</hi>. Nézzétek,
+                  hogy fúródik a <hi>földbe</hi>. Ennek az orra homokkal <hi>tőlt be</hi>. Ez a másik sem <hi>sikerült</hi>. A
+                  meg ni, hova <hi>elkerült</hi>. No, most az igazi <hi>e lesz</hi>. (A röppentyű csakugyan előttük csapódott le süvöltve, süstörögve.
                   Mausmann odaugrott hozzá, s dacára a sziporkáknak, megkapta a nyelét, beledobta a
                   röppentyűt az árokba, ott pukkant el, csak azután mondta rá a kádenciát: Te pedig
                   itten nem <hi>kellesz</hi>!)</p>
@@ -10553,9 +10534,7 @@
                   a borok istenét.</p>
                <p>Élő megtestesülése a boldog jelmondatnak: “Extra Hungariam non est vita; si est
                   vita, non est ita”.</p>
-               <p>Lakása ott van abban a faluban, ahol 1849 végén arra a kérdésre: “Járt-e itt <hi
-                    >ellenség</hi>, azt felelték. - Itt nem, de a szomszédban járt <hi
-                    >mind a három</hi>: a német is, a muszka is, a magyar is.”</p>
+               <p>Lakása ott van abban a faluban, ahol 1849 végén arra a kérdésre: “Járt-e itt <hi>ellenség</hi>, azt felelték. - Itt nem, de a szomszédban járt <hi>mind a három</hi>: a német is, a muszka is, a magyar is.”</p>
                <p>Az ősi lakot még a nagyapja építette Mindenváró Ádám úrnak, s azóta egy téglát nem
                   ragasztottak ahhoz. Földszinti volt; a lépcsőjárás nagy kényelmetlenség. A teteje
                   zsindellyel fedve, s a zsindelyen fölül még nádtetőzet; nem azon célból, hogy a
@@ -10566,10 +10545,8 @@
                   szél fú. Az egész házban legnagyobb lakosztály a konyha.</p>
                <p>Ilyen konyhát a mostani takaréktűzhelyes korszakban ritka helyen találni már,
                   nagy, nyitott tűzhelyével, melyen felyül is ég tűz, alul is ég tűz; felyül főznek,
-                  alul kalácsot sütnek. A pattogó hasábok közül emelkedik ki a sokhorgú <hi
-                    >vaskutya</hi>, az tartja az egyik végét a nyársnak, amire
-                  felhúzva forog a piruló kan pulyka, keresztülütve a nyílforma <hi
-                     >lúdlelkével</hi>; a forgató gépet egy béresgyerek helyettesíti. A tűz körül
+                  alul kalácsot sütnek. A pattogó hasábok közül emelkedik ki a sokhorgú <hi>vaskutya</hi>, az tartja az egyik végét a nyársnak, amire
+                  felhúzva forog a piruló kan pulyka, keresztülütve a nyílforma <hi>lúdlelkével</hi>; a forgató gépet egy béresgyerek helyettesíti. A tűz körül
                   rotyogó fazikak, félig letakarva mázos cserépfedőkkel.</p>
                <p>A lángtól félrevonva egy háromszög vaslábakon, azon egy lapos cserépedény, az
                   betakarva pléhfedővel; a háromszög alja s a pléhfedő teteje megrakva parázzsal,
@@ -10788,8 +10765,7 @@
                <p>De már nem volt semmi földi hatalom, mely Ádám úr száját meg tudta volna őrizni,
                   hogy a pipa ki ne hulljon belőle, s behemóti kacagásra ne nyíljanak szét torkának
                   minden apertúrái.</p>
-               <p>- Jaj de nagy bolond vagy te, Zebulon! Mintha látnálak, hogy szorongattad <hi
-                    >anyai</hi> kebledhez azt a kis zsidó gyereket! Úhhahaha! Ne
+               <p>- Jaj de nagy bolond vagy te, Zebulon! Mintha látnálak, hogy szorongattad <hi>anyai</hi> kebledhez azt a kis zsidó gyereket! Úhhahaha! Ne
                   beszélj már több szomorú történetet, mert kidűl az oldalam a röhögéstül.</p>
                <p>Utóbb még magára Zebulonra is elragadt házigazdájának derültsége.</p>
                <p>- No de most már jó helyen vagy, koma! - vigasztalá őt Ádám úr. - Itt ellehetsz az
@@ -10932,10 +10908,7 @@
                <p>Pedig úgy félt tőle, mint a sárkánytól.</p>
                <p>E félelem hadvezetővé tette; odabökdösött az ujjával a kiterített mappára, s
                   magyarázta rajta a pontokat.</p>
-               <p>- Itt állunk hatvanezren, itt állunk hetvenezren. Erre masírozik a <hi
-                    >gros</hi>, itten van a <hi>pivot</hi>. Innen <hi
-                    >debouchiroz</hi> az avantgarda, itt koncentráltatik a <hi
-                    >reserva</hi>. Itt találkozik valamennyi! Aki közbeszorul, az
+               <p>- Itt állunk hatvanezren, itt állunk hetvenezren. Erre masírozik a <hi>gros</hi>, itten van a <hi>pivot</hi>. Innen <hi>debouchiroz</hi> az avantgarda, itt koncentráltatik a <hi>reserva</hi>. Itt találkozik valamennyi! Aki közbeszorul, az
                   természetesen el van fogva.</p>
                <p>Nem nézett utána senki. Jártathatta az ujjait Zebulon a térképén tetszése szerint,
                   amerre akarta.</p>
@@ -11277,8 +11250,7 @@
                   moslikos dézsát napszámba, szenvedek hazámért hideget, éhséget; s mikor megérkezem
                   országgyűlésbe, akkor fognak engemet nyakon, s állítanak vésztörvényszék elejbe.
                   No, szip dolog!</p>
-               <p>- Már ez pedig nem lehet másképp. Megmagyarázza ezt a <hi
-                     >Március</hi> jól. Egyszer már keményen kell fogni ezeket a hazárulókat! Aki ma
+               <p>- Már ez pedig nem lehet másképp. Megmagyarázza ezt a <hi>Március</hi> jól. Egyszer már keményen kell fogni ezeket a hazárulókat! Aki ma
                   itt, holnap amott!</p>
                <p>- No, én egy óráig sem voltam amott - menté magát Zebulon.</p>
                <p>- Aki csak beszédbe állt is az ellenséggel.</p>
@@ -11893,9 +11865,7 @@
                   emberi harag mennydörgését hirdetve szétpukkanásukban. A nép ott állt a kapukban,
                   és háromszáztizenhat dördülést számlált meg a feje fölött.</p>
                <p>Ez még nem volt büntetés, nem bosszú, csak intés.</p>
-               <p>A bombák nem gyújtottak. Hanem annyit tudattak a néppel, hogy az <hi
-                     >égboltozatról</hi> való fogalom csak mese; nem <hi
-                     >firmamentum</hi> az; nem takarja az be a halandók fejeit, ártót, ártatlant -
+               <p>A bombák nem gyújtottak. Hanem annyit tudattak a néppel, hogy az <hi>égboltozatról</hi> való fogalom csak mese; nem <hi>firmamentum</hi> az; nem takarja az be a halandók fejeit, ártót, ártatlant -
                   senkit.</p>
                <p>Még egy nagy ereje volt a gyönge Budavárnak. Az, hogy megtámadója gyöngébbnek
                   hitte, mint amilyen.</p>
@@ -12820,8 +12790,7 @@
                <p>Majd mindjárt megtudjuk.</p>
                <p>Kínában, amint tudós Wagner Cristophorus írja, az a bevett és törvényesen
                   helybenhagyott szokás van, hogy miután évi átalány szerint tíz százalékkal több
-                  leány születik, mint fiú, ez a <hi>manco</hi> a természet <hi
-                    >bilance</hi>-ában akként üttetik helyre, hogy a fölös számú
+                  leány születik, mint fiú, ez a <hi>manco</hi> a természet <hi>bilance</hi>-ában akként üttetik helyre, hogy a fölös számú
                   csecsemők egy meghatározott napon a Lileu Ping szigetre összehordatnak, ott
                   megáldatnak, beszenteltetnek, s aztán a “sárga folyóba” belehajigáltatnak. A sárga
                   folyónak a keleti partja mocsáros, ott a bambusz közt sok gyík lakik, mik tátongó,
@@ -12956,8 +12925,7 @@
                   egy rongyos szűrdarabbal betakart gyermekalakot heverni félmeztelenül, fájdalomtul
                   lehunyt szemekkel. Az a gyermek, amint a belépés neszét hallotta, elkezdett
                   nyöszörögni: “Ó, adjanak egy kis vizet, meghalok szomjan.”</p>
-               <p>- Tudja, édes lelkem, nagyságos úr, azért tettem erre az <hi
-                     >árnyékos</hi> helyre, hogy ne ártson a szemének a világosság.</p>
+               <p>- Tudja, édes lelkem, nagyságos úr, azért tettem erre az <hi>árnyékos</hi> helyre, hogy ne ártson a szemének a világosság.</p>
                <p>- Menjen, és hozzon neki vizet!</p>
                <p>- Jaj, édes lelkem, nagyságos úr, betegnek nem jó vizet adni. Én sohasem hagyom
                   inni a beteg gyereket, mert az annak rossz.</p>
@@ -12998,9 +12966,7 @@
                <p>Ne gondolja valaki, hogy ez valami államintézmény. Magánpolgárok jószívű
                   adakozásából áll fenn; a státus csak annyit tesz meg vele, hogy az adakozásokból
                   lehúz egypár ezer forint <hi>jövedelmi adót</hi>, az emberek
-                  legszánandóbbját fosztva meg, ki háromszorosan részvétet igényel, mint <hi
-                    >gyermek</hi>, mint <hi>szegény</hi>, mint <hi
-                    >beteg</hi>.</p>
+                  legszánandóbbját fosztva meg, ki háromszorosan részvétet igényel, mint <hi>gyermek</hi>, mint <hi>szegény</hi>, mint <hi>beteg</hi>.</p>
                <p>Hanem hát “az Astaroth éhezik”. A büdzsé a gyermekpépbe is belezabál.</p>
                <p>Richárd a legjobb helyet találta ki Palvicz Ottó gyermekének. Ott visszaadják azt
                   az emberiségnek.</p>
@@ -13152,8 +13118,7 @@
                <p>- Hja, bizon ez nagy erő. Ennek, nem tudom, hogyan fognak ellene állhatni azok
                   odabenn.</p>
                <p>Rideghváry kérkedő gunyorral mondta:</p>
-               <p>- Fuimus Troes! Ruet Ilium et ingens gloria Parthenopes. (<hi
-                     >Voltunk</hi> Trójaiak! Megdűl Ilium és Parthenope roppant dicsősége.)</p>
+               <p>- Fuimus Troes! Ruet Ilium et ingens gloria Parthenopes. (<hi>Voltunk</hi> Trójaiak! Megdűl Ilium és Parthenope roppant dicsősége.)</p>
                <p>- S mi lesz akkor legyőzöttekkel?</p>
                <p>- Vae victis! (Jaj a legyőzötteknek!) - volt rá a válasz.</p>
                <p>- De csak nem fognak valami erősen izélni velük? (Nem merte az igazi szót
@@ -13327,11 +13292,8 @@
                   égen.</p>
                <p>Lesznek élő emberek, akik emlékezni is fognak rá. Valóban a legnagyobbszerű
                   perihélia volt az, amit látni lehetett.</p>
-               <p>A <hi>koróna</hi>, a <hi>hálósz</hi> és a <hi
-                    >melléknap</hi> egyszerre.</p>
-               <p>A <hi>koróna</hi> egy emberöltő időben egyszer ha előfordul. A <hi
-                    >hálósz</hi> századot átlépő ritkaság; a kettő a <hi
-                     >melléknappal</hi> együtt portentum: égi csoda, melyről a természettudósok
+               <p>A <hi>koróna</hi>, a <hi>hálósz</hi> és a <hi>melléknap</hi> egyszerre.</p>
+               <p>A <hi>koróna</hi> egy emberöltő időben egyszer ha előfordul. A <hi>hálósz</hi> századot átlépő ritkaság; a kettő a <hi>melléknappal</hi> együtt portentum: égi csoda, melyről a természettudósok
                   köteteket írnának - más békés időkben.</p>
                <p>Az 1849-i júniusban nem voltak Magyarországon természettudósok, kik az akkori
                   melléknapot leírták volna.</p>
@@ -14016,8 +13978,7 @@
                   Gergő, aki hunder-bundere van, vagy te szorítod meg őket, vagy ők szorítanak meg
                   téged.</p>
                <p>- No, és mi lett?</p>
-               <p>- Hát, én szorítottam meg őket! Odakocogtam egyenesen a városház ajtajához. <hi
-                    >Megparancsoltam</hi> egy kozáknak, hogy fogja a lovam kantárját,
+               <p>- Hát, én szorítottam meg őket! Odakocogtam egyenesen a városház ajtajához. <hi>Megparancsoltam</hi> egy kozáknak, hogy fogja a lovam kantárját,
                   míg visszakerülök; azután a strázsától megkérdeztem, hogy hol a generális. Nem
                   tudom, generális volt-e. De rárontottam. Tudtam, hogy azért van ilyen messzire
                   leküldve a főseregtől, hogy élelmiszereket szerezzen számára. Egyenesen
@@ -14233,8 +14194,7 @@
                <p>- Azt nem fogjátok meglátni!</p>
                <p>- Én akarom azt olvasni!</p>
                <p>Most Jenő arca egyszerre kigyulladt.</p>
-               <p>- Baradlay <hi>Ödön</hi>! E levél Baradlay <hi
-                     >Eugennak</hi> szólt. Az én vagyok.</p>
+               <p>- Baradlay <hi>Ödön</hi>! E levél Baradlay <hi>Eugennak</hi> szólt. Az én vagyok.</p>
                <p>S elfordult tőle büszkén.</p>
                <p>- Úgy anyánk jól talált! - monda Ödön.</p>
                <p>Az anya fölkelt térdéről. Könnyei omlottak, és arca büszke volt.</p>
@@ -15469,8 +15429,7 @@
                <p>S minthogy most Nemesdombon nincs rendes pap - az öreg meghalt, a káplán
                   elbocsátása pedig nem találtatik elég érvényesnek -, tehát folyamodni kell az
                   espereshez, hogy hatalmazza fel a káplánt az elbocsátási engedély kiadására.</p>
-               <p>Az esperes pedig úgy találja, hogy ez fölösleges, ennek semmi nyoma a <hi
-                    >komjáti kánonban</hi>: aztán hogy megmutassa, hogy neki nem
+               <p>Az esperes pedig úgy találja, hogy ez fölösleges, ennek semmi nyoma a <hi>komjáti kánonban</hi>: aztán hogy megmutassa, hogy neki nem
                   parancsol a bécsi pap, nem ád felhatalmazást.</p>
                <p>Akkor aztán Richárd arra fakad, hogy elhiszi, hogy a házasságot az Úristen
                   szerzette, hanem hogy a ceremóniákat az ördög csinálta hozzá, az meg bizonyos.</p>
@@ -15490,8 +15449,7 @@
                   vallja a Szentháromságot.</p>
                <p>A bécsi pap azt állítja, hogy az nem lehet.</p>
                <p>A polgári törvénykönyv azt állítja, hogy lehet.</p>
-               <p>A bécsi pap nem akarja őket másként megesketni, mint ha a vőlegény <hi
-                    >reverzálist</hi> ad magáról, hogy minden törvényadta jogairól
+               <p>A bécsi pap nem akarja őket másként megesketni, mint ha a vőlegény <hi>reverzálist</hi> ad magáról, hogy minden törvényadta jogairól
                   lemond, mely szerint leendő családjának fele ide, fele oda járjon imádkozni, s
                   valamennyit egy vallásra adja, ha lesz.</p>
                <p>Erre aztán dühbe jön a vőlegény, s felfogadja, hogy rögtön megy a rabbinushoz, s

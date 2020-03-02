@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU13887" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU13887" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A tisztesség nevében : Regény : ELTeC edition</title>
-            <author ref="viaf:63397465">Kóbor Tamás (1867-1942)</author>
+            <author ref="viaf:63397465">Kóbor, Tamás  (1867-1942)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -2075,8 +2073,7 @@
                dolgában utolsó vagyok az utolsók között. Maga becsületes ember és megfizetett engem,
                joga van engem megvetni, de azt tudhatja rólam, hogy kalandornő nem vagyok, hazudni,
                zsarolni nem szoktam. Nos, én mondom önnek, itt, szemtől-szembe ezzel az emberrel,
-               hogy isten és a világ előtt nekem jogom volt őt jegyesemnek tekinteni, hogy <hi
-                 >megvásároltam </hi>őt magamnak - érti? Az utcza sarából szedtem föl
+               hogy isten és a világ előtt nekem jogom volt őt jegyesemnek tekinteni, hogy <hi>megvásároltam </hi>őt magamnak - érti? Az utcza sarából szedtem föl
                és <hi>megfizettem</hi>. Ez az ember az én kitartott szeretőm volt,
                amije van, tőlem kapta, amire vitte, általam vitte. S ha büszke családja mocsoktalan
                nevére, egy olyan embernek nem adhat becsületes leányt.</p>
@@ -2901,8 +2898,7 @@
                diligence-ból egy magános hölgy szállott csak ki. A szegényes fogadó asszonya maga
                vezette a szobába, mig golyvás kamasz fia a hátán hordta be a málháját:</p>
             <p>- Már vissza méltóztatott jönni?</p>
-            <p>- Igen - felelt a hölgy - meggondoltam magamat, másfelé megyek. Megnézem a <hi
-                 >Via malat</hi>.</p>
+            <p>- Igen - felelt a hölgy - meggondoltam magamat, másfelé megyek. Megnézem a <hi>Via malat</hi>.</p>
             <p>- Ó, az nagyon szép, azt nem szabad elmulasztania.</p>
             <p>- Miféle hegy az ott?</p>
             <p>- A Zapport.</p>

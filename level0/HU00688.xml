@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00688" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00688" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Az arany ember : ELTeC edition</title>
-            <author ref="viaf:59084200">Jókai Mór (1825-1904)</author>
+            <author ref="viaf:59084200">Jókai, Mór  (1825-1904)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -197,8 +195,7 @@
                   s minden falunak voltak saját csempészei. Minélfogva csak aziránt volt szükséges
                   intézkedni, hogy amely falu ifjai éppen az őrségen vannak, annak a falunak a vénei
                   járjanak ugyanakkor a csempészhajókkal; ami ismét igen szép családi vonás. Azonban
-                  az államnak még egyéb magas céljai is voltak e szigorú határőrzéssel. A<hi
-                   > pestis </hi>meggátlása.</p>
+                  az államnak még egyéb magas céljai is voltak e szigorú határőrzéssel. A<hi> pestis </hi>meggátlása.</p>
                <p>A rettenetes keleti pestis!</p>
                <p>Mi ugyan meg nem tudjuk mondani, hogy mi az és milyen az, mert hazánkban éppen
                   százötven esztendeje, hogy az utolsó hiú özvegyasszony felvette a pestises sált
@@ -1125,8 +1122,7 @@
                <p>Hanem hát nem volt azon a hajón sem dugáru, sem dögvész, hanem - valami más.</p>
                <p>Timár eltette tárcájába a címtelen levelet, s gondolta magában: vajon mi lehet
                   benne írva? Abba pedig az volt írva:</p>
-               <p>„Sógor! Ajánlom e levél átadóját különös figyelmedbe. Ez egy <hi
-                     >arany ember!”</hi>
+               <p>„Sógor! Ajánlom e levél átadóját különös figyelmedbe. Ez egy <hi>arany ember!”</hi>
                </p>
                
             </div>
@@ -3275,8 +3271,7 @@
                <p>Egyszer aztán megszólalt ő is:</p>
                <p>- Akarja-e az úr átvenni a készpénzt, ami az árva leányt illeti, avagy átadjam a
                   városi gyámhivatalnak? (Ettől megijedt Brazovics úr.) No ha akarja, hát jöjjön
-                  velem a hivatalszobájába, végezzünk ott; - mert én sem szeretem a<hi
-                     > cselédveszekedést.</hi>
+                  velem a hivatalszobájába, végezzünk ott; - mert én sem szeretem a<hi> cselédveszekedést.</hi>
                </p>
                <p>E százhatvan fontos gorombaságra egyszerre elnémult az úr is, meg az asszonyság
                   is. Az ilyen nagyon lármázó embereknél rendesen teljes sikerrel működő gyógyhatású
@@ -3635,13 +3630,10 @@
                   szemekből, egy nyaklánc csupa gyémánt-solitairekből, és azután egy achátszelence,
                   melyet midőn felnyitott, egy egész halmaz gyémánt és rubin villogott eléje;
                   boglárok, lánckötő csatok egész halommal s azokba foglaltan az ékszerészet
-                  ritkaságai, amiket a műszeretők egymásra árvereznek, a macskaszemfényű <hi
-                   >syderitek, </hi>kameának faragott <hi>plasmák,
+                  ritkaságai, amiket a műszeretők egymásra árvereznek, a macskaszemfényű <hi>syderitek, </hi>kameának faragott <hi>plasmák,
                   </hi>tűzopálok, <hi>keleti aquamarinok </hi>sötétkék fénnyel, vörös
-                  topázok, a ritka <hi>rózsaszín pyrop, </hi>a <hi
-                     >napkőnek </hi>nevezett gyöngyházfényű <hi>adulár,
-                  </hi>aszínváltoztató <hi>labrador, </hi>a karmazsinpiros <hi
-                   >spinel, </hi>antik remek vésművek, korall, borostyánkő, s pietra
+                  topázok, a ritka <hi>rózsaszín pyrop, </hi>a <hi>napkőnek </hi>nevezett gyöngyházfényű <hi>adulár,
+                  </hi>aszínváltoztató <hi>labrador, </hi>a karmazsinpiros <hi>spinel, </hi>antik remek vésművek, korall, borostyánkő, s pietra
                   d’Egittóból. Fejedelmi gyűjtemény! Egy kristálydobozban voltak példányai azoknak a
                   ritkán mutogatott platinatalléroknak, miket az orosz cár az Unkiars Skellesz-i
                   békekötéskor küldött Sztambulba. Végül négy tekercs gördült ki a zsák fenekéről;
@@ -4121,8 +4113,7 @@
                   szerződés ideje.</p>
                <p>- Tetszik önnek ez az időtartam?</p>
                <p>Hogyne tetszett volna?</p>
-               <p>A másik, ami meglepte Timárt, a saját neve volt, mely ekként hangzott: „Nemes <hi
-                   >Levetinczy </hi>Timár Mihály”.</p>
+               <p>A másik, ami meglepte Timárt, a saját neve volt, mely ekként hangzott: „Nemes <hi>Levetinczy </hi>Timár Mihály”.</p>
                <p>- Tetszik önnek ez a predikátum?</p>
                <p>„Nemes Levetinczy Timár Mihály.” Ez bizony elég szépen hangzik.</p>
                <p>- Az armális majd utána fog önnek küldetni! - szólt kegyragyogású arccal a magas
@@ -5035,8 +5026,7 @@
                   Megveszem a zsidó templomot.</p>
                <p>(S nehogy valaki azt higgye, hogy ez utóbbi mondat valami rossz élc volt Fabula
                   Jánostól, meg kell mondanunk, hogy az akkori viszonyok között az Izrael vallását
-                  követő lakosok egy új imaházat kényszerülvén építeni a gróf Zichy-féle <hi
-                   >nemesi </hi>telken, a régibb héber imaház csakugyan árverés alá
+                  követő lakosok egy új imaházat kényszerülvén építeni a gróf Zichy-féle <hi>nemesi </hi>telken, a régibb héber imaház csakugyan árverés alá
                   volt bocsátva, s az Fabula Jánosnak különösen megtetszett.)</p>
                <p>De minekelőtte azt megvette volna, még aznap hatszor ellátogatott Timár úrhoz;
                   egyszer a feleségét hozta el, másodszor az eladó leányát, harmadszor a menyecske
@@ -8557,8 +8547,7 @@
                <p>A túlvilágról megjelent lélek nem lett volna rettentőbb rá nézve, mint ez a szelíd
                   alak, fehér arcával, nyugodt tekintetével, midőn jöttére felállt az íróasztal
                   mellől, s a tollat letette kezéből.</p>
-               <p>A nagy kereskedelmi mérlegkönyv állt előtte, abban <hi
-                     >dolgozott.</hi>
+               <p>A nagy kereskedelmi mérlegkönyv állt előtte, abban <hi>dolgozott.</hi>
                </p>
                <p>Mihályt egyszerre rohanta meg az érzések minden ellentéte. Az ijedelem, hogy
                   titkos útja végén éppen nejét találja legelőször; az öröm, hogy őt itt találja
@@ -8858,8 +8847,7 @@
                <p>Amint Timéa meglátta azt az arcképet, egyszerre átváltozott az arca. Oly indulat,
                   minőt nem lehet tettetni, de nem lehet eltitkolni sem, jelent meg márványvonásain;
                   két kézzel kapott az arcképhez, s azt hévvel szorítá ajkaihoz, és mind a két szeme
-                  megtelt könnyel. Ez érzelem volt, mely elárulá magát. Timéa arca elkezdett <hi
-                   >élni!</hi>
+                  megtelt könnyel. Ez érzelem volt, mely elárulá magát. Timéa arca elkezdett <hi>élni!</hi>
                </p>
                <p>Mihály meg volt mentve.</p>
                <p>Timéa kebléből kitört a rég fojtva tartott érzelem, elkezdett hevesen zokogni.</p>
@@ -10191,8 +10179,7 @@
                   ravaszán, s megvan a<hi> fölébredés. </hi>Aki itt marad, folytassa
                   az álmot!</p>
                <p>Az utolsó estén Mihály, Noémi és Teréza kiültek a kunyhó elé estebéd után; mind a
-                  hárman arra a kis padra, és Mihály arra gondolt, hogy ültek már azon egyszer <hi
-                   >négyen </hi>is!</p>
+                  hárman arra a kis padra, és Mihály arra gondolt, hogy ültek már azon egyszer <hi>négyen </hi>is!</p>
                <p>A hold teljes gömbalakja ott bujkált az ezüstfelhők között.</p>
                <p>Noémi Timár kezét ölébe vonva tartá két keze közt.</p>
                <p>- Vajon mi lehet ez a hold? - kérdezé Noémi.</p>
@@ -10375,8 +10362,7 @@
                <p>A kiáltásra felébred az alvó nő, s feltekint.</p>
                <p>Timéa az...</p>
                <p>- Kíván ön valamit? - kérdezé a nő, fektéből gyorsan fölemelkedve.</p>
-               <p>Csak a<hi> hangra </hi>ébredt fel, nem a <hi
-                     >névre.</hi>
+               <p>Csak a<hi> hangra </hi>ébredt fel, nem a <hi>névre.</hi>
                </p>
                <p>Mihály még mindig az álom benyomása alatt volt. Bámulva nézte e csodálatos
                   átváltozást: Noémiről Timéára.</p>
@@ -11543,8 +11529,7 @@
                <p>Délceg férfi volt. Szép, daliás arc.</p>
                <p>Timéa nem ment eléje, még mindig a lámpa előtt állt. Timár őreá figyelt.</p>
                <p>Pokol! Mit kellett látnia?</p>
-               <p>Amint az őrnagy belépett a szobába, Timéa arca mélyen <hi
-                     >elpirult.</hi>
+               <p>Amint az őrnagy belépett a szobába, Timéa arca mélyen <hi>elpirult.</hi>
                </p>
                <p>Igen, az alabástromszobor tudott hajnalfényt ragyogni, a szentkép arca megmozdult,
                   és a szűzfehérség rózsákkal párosult.</p>
@@ -13340,8 +13325,7 @@
                <p>Egyenesen a rianás felé vette útját.</p>
                <p>Könnyen rátalálhatott a távolból. A jószívű halászok által felállított jelek, a
                   póznák a szalmacsutakokkal messziről figyelmeztettek rá minden jámbor lelket, hogy
-                  ezt a helyet <hi>kerülje. </hi>Timár ezt <hi
-                     >kereste.</hi>
+                  ezt a helyet <hi>kerülje. </hi>Timár ezt <hi>kereste.</hi>
                </p>
                <p>Mikor egyikéhez e vészt jelző szalmacsutakoknak eljutott, ott megállt, és kalapját
                   levéve; feltekintett az égre.</p>
@@ -13735,8 +13719,7 @@
                <p>Kacsuka úr végighallgatá a mondottakat, s akkor így szólt Zófi asszonynak:</p>
                <p>- Zófi mama, annak a kardnak a hajdani gazdája tudja, hogy mit kell neki tenni. Ha
                   Levetinczyné asszony férjétől elvált volna, s szegényül, vagyontalanul maradt
-                  volna a világon, annak a kardnak a volt gazdája sietett volna neki kezét <hi
-                   >nyújtani. </hi>Most azonban Levetinczyné asszony gazdag özvegy,
+                  volna a világon, annak a kardnak a volt gazdája sietett volna neki kezét <hi>nyújtani. </hi>Most azonban Levetinczyné asszony gazdag özvegy,
                   férje után milliókat örökölt, most annak a kardnak a volt gazdája, aki szegény
                   ember, nem mehet oda a gazdag hölgy kezét <hi>megkérni.</hi>
                </p>
@@ -14158,8 +14141,7 @@
                <p>- Ah! ön ahhoz nem ért. Majd Athalie lesz olyan jó.</p>
                <p>Timéa egész gyanútalanul ejtette ki ezt a szót; de az őrnagy megdöbbent attól a
                   halaványságtól, ami e szónál Athalie arcán megjelent, s eszébe jutott, hogy valaha
-                  éppen így mondta Athalie Timéának: <hi>„Jer</hi>, <hi
-                     >tűzd fejemre menyasszonyfátyolomat.” </hi>És talán Athalie sem gondolt akkor
+                  éppen így mondta Athalie Timéának: <hi>„Jer</hi>, <hi>tűzd fejemre menyasszonyfátyolomat.” </hi>És talán Athalie sem gondolt akkor
                   arra, hogy minő vérfagylaló méreg van szavaiban.</p>
                <p>Athalie odalépett Timéához, hogy magas kontyára felillessze a fehér főkötőt.</p>
                <p>Azt meg kellett tűzni jobbról-balról mindenféle hajtűkkel.</p>
@@ -14458,8 +14440,7 @@
                <p>Csak Zófi asszony nem találta olyannak.</p>
                <p>Amint a legelső kávéskanállal megízlelt belőle, elfintorította az orrát.</p>
                <p>„Ennek a puncsnak valami olyan szaga van, mint annak az italnak szokott lenni,
-                  amit nyűgös gyermekek számára bosszankodó anyák szoktak főzni - <hi
-                     >mákhéjakból.”</hi>
+                  amit nyűgös gyermekek számára bosszankodó anyák szoktak főzni - <hi>mákhéjakból.”</hi>
                </p>
                <p>Ilyen szagot érzett rajta.</p>
                <p>S úgy megundorodott tőle, hogy nem bírta a poharat többé ajkához közel vinni.
@@ -14784,8 +14765,7 @@
                   mondani, s amit eddig mondott, igazak voltak: s midőn ekkor Timéa lehúzza
                   kesztyűjét, s égre emeli kezét, melyet egy szörnyű vágás összeforrt hege
                   éktelenít. Ez is Athalie menyegzői ajándéka.</p>
-               <p>És Timéa ezzel a reszkető, sebzett kézzel esküszik az élő Istenre, hogy <hi
-                   >elfelejtett mindent, </hi>nem emlékezik arra sem, hogy férfi
+               <p>És Timéa ezzel a reszkető, sebzett kézzel esküszik az élő Istenre, hogy <hi>elfelejtett mindent, </hi>nem emlékezik arra sem, hogy férfi
                   volt-e vagy nő, akivel küzdött.</p>
                <p>„Nyomorult!” suttogja fogait összeszorítva Athalie. (Hiszen test testhez érve
                   küzdöttek egymással.) „Te vádolni sem mersz azzal, amit én meg mertem tenni!”</p>
@@ -15119,8 +15099,7 @@
                <p>Az anyai ágról való dédapám már nem volt olyan gazdag; de annál híresebb: ő volt
                   II. Rákóczi Ferenc fejedelemnek titoknoka, Pulay, ki a külhatalmasságokkal
                   fenntartá az összeköttetést a fejedelem részéről.</p>
-               <p>De nagyanyai ágról ismét egy nagy vagyonú családból volt közös eredetünk: a <hi
-                   >Szűcsök</hi>-éből.</p>
+               <p>De nagyanyai ágról ismét egy nagy vagyonú családból volt közös eredetünk: a <hi>Szűcsök</hi>-éből.</p>
                <p>Szűcs Lajosné még a hetvenes években mindenkitől ismert alakja volt a budapesti
                   társaságnak. Nagy háza volt a Múzeum körúton, villája Balaton-Füreden: az idény
                   alatt minden este ott lehetett látni a Nemzeti Színházban, szögletpáholyában.

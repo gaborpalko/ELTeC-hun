@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU01117" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU01117" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A nemzet napszámosai : Magyar korrajz : ELTeC edition</title>
-            <author ref="viaf:36952007">Vas Gereben (1823-1868)</author>
+            <author ref="viaf:36952007">Vas, Gereben  (1823-1868)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -7531,8 +7529,7 @@
             <p>- Éppen az a fő dolog, fölséges uram, hogy semmit se csináljon velük, hadd legyenek
                itt legalább négyheti bizonytalanságban, ennél érzékenyebb büntetést nem adhat nekik
                fölséged; mert némelyik inkább beáll rabnak bizonyos tíz esztendőre, mint négyheti
-               bizonytalanságra. Fölséges uram, így kell a magyarokkal bánni.<hi xml:id="_ftnref4"
-                  >[4]</hi>
+               bizonytalanságra. Fölséges uram, így kell a magyarokkal bánni.<hi xml:id="_ftnref4">[4]</hi>
             </p>
             <p>A fejedelem egy kissé gondolkodott, arcáról a ráncok lassankint kiderülének s az
                öregnek vállára tevén kezét, e szavakkal ereszté el:</p>

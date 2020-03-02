@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU14769" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU14769" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Itt és a jövő életben : Regény két kötetben : ELTeC edition</title>
-            <author ref="viaf:20466121">Beniczkyné Bajza Lenke (1839-1905)</author>
+            <author ref="viaf:20466121">Beniczkyné, Bajza Lenke  (1839-1905)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

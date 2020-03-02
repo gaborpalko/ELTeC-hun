@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU13316" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU13316" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A Kont-eset :  Fantasztikus regény a XXI. századból  : ELTeC edition
             </title>
-            <author>Szemere György(1863-1930)<idno type="VIAF">121485073</idno>
-            </author>
+            <author ref="viaf:121485073">Szemere, György (1863-1930)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -49,8 +46,7 @@
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Franklin</publisher>
                      <date>1911</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/3148962"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/3148962"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -118,8 +114,7 @@
                álmából és segítségért kiabált. A többiek is menekülni szerettek volna, de eszükbe
                jutott, hogy őseik gyávaságukon való szégyenükben megfordulnának kriptáikban, hát
                helyt állottak, csak a tudós szaladt el; annak még nem voltak ősei.</p>
-            <p>És síri csend támadt a fényes teremben. Minden szem a vén <hi
-                  >betörő</hi> kezére tapadt. Némelyek előregurnyadtak, hogy első gyanús mozdulatára
+            <p>És síri csend támadt a fényes teremben. Minden szem a vén <hi>betörő</hi> kezére tapadt. Némelyek előregurnyadtak, hogy első gyanús mozdulatára
                rávessék magukat. Lélek sem akadt a társa­ság­ban, a ki meg ne esküdött volna, hogy
                bomba van az <hi>anarchista</hi> keblében s hogy fel akarja a kaszinót
                robbantani.</p>
@@ -185,8 +180,7 @@
             <p>- Miért gondolja uraságod, - kérdezte a bolondtól, miközben szemöldöke alá nyomta
                monok­liját, - miért gondolja, hogy bolondok vagyunk?</p>
             <p>- Csak azért, - válaszolt ez, - mert ép az imént hivtatok <hi>le</hi>
-               magatok közé s alighogy rászántam magamat erre a rengeteg <hi
-                  >megalázkodásra</hi>, kapja magát az a keskenyfejű (s újjal rámutatott Kanutra) és
+               magatok közé s alighogy rászántam magamat erre a rengeteg <hi>megalázkodásra</hi>, kapja magát az a keskenyfejű (s újjal rámutatott Kanutra) és
                azt ajánlja: távozzam föltűnés nélkül, kend meg - fordult Szentmarjay felé - azt
                kérdezi tőlem: honnan jöttem?... Véreim, - konkludált a szerencsétlen (?) ember, - ez
                a ti eljárástok rókakölyökhöz illik, nem magyar emberhez.</p>
@@ -260,8 +254,7 @@
                érdemled meg a harmadik eget.</p>
             <p>- Ott találkozott uraságod Garayval? - kérdezte nekibátorodva a sunyi Klimanóczy.</p>
             <p>- Ott. Egy rangban voltam vele. Nekem az összeesküvés miatt hétszáz esztendő kellett
-               ahhoz, a mihez neki negyven is elég volt... Hiába, - sóhajtott <hi
-                  >Kont</hi>, - a lantosoknak az egek is kedveznek.</p>
+               ahhoz, a mihez neki negyven is elég volt... Hiába, - sóhajtott <hi>Kont</hi>, - a lantosoknak az egek is kedveznek.</p>
             <p>- Bruhaha, - tört ki Kanut akarata ellenére, - hát az égben is van protekczió?</p>
             <p>- Van. Protekczió csak a hetedik égben nincs. Ott, a legfelső fokon teljes a
                rény.</p>
@@ -348,13 +341,11 @@
                javíthatatlan Szentmarjay, - hogy került kegyed az unokájától így egymagában a mi
                társaságunkba? Miért nem kisérte el kedves ükunokája?</p>
             <p>- Az nagyon egyszerű, - válaszolt <hi>Kont</hi> úr készségesen, - az
-               éhség hozott ide. Az ükunokám ugyanis kétszer is elájult, mióta <hi
-                  >megérkeztem</hi>. Még talán most is ott hever az asztal alatt. Hát, mondok,
+               éhség hozott ide. Az ükunokám ugyanis kétszer is elájult, mióta <hi>megérkeztem</hi>. Még talán most is ott hever az asztal alatt. Hát, mondok,
                keresek magamnak egy vigabb házat, a hol enni is kapok, a helyett, hogy elájuljanak
                tőlem... Ez a ház itt igen ki volt világítva, mondok, e helyt valami áldomást tarthat
                a gazda, jutni fog belőle nekem is.</p>
-            <p>Szörnyű gyanú czikázott át a Kanut agyvelején... Hédery elájult az <hi
-                  >őrült</hi> szerint, (még most is ott fekszik az asztal alatt). Mitől ájulhatott
+            <p>Szörnyű gyanú czikázott át a Kanut agyvelején... Hédery elájult az <hi>őrült</hi> szerint, (még most is ott fekszik az asztal alatt). Mitől ájulhatott
                volna el? Nyilván leütötte az őrült... (Ezzel meg­került a frakkérdés kulcsa is.)</p>
             <p>- Urak, - jelentette ki magából kikelve, - én szaladok a Hédery-palotába. Ki tudja,
                mi történt Gáborral?</p>
@@ -393,8 +384,7 @@
                csattogó agyarú vadkan a szelindekfalkát, le­rázta magáról a két betegápolót.</p>
             <p>- Miért akarjátok hátrakötni a kezemet? - ordította s megrázta oroszlánüstökét. - A
                mai királyotokat nem bántottam én.</p>
-            <p>Az urak csak dűltek-hűltek... Kont szerepéhez következetes marad az <hi
-                  >őrült</hi> a kényszerzub­bony igája alatt is... Jellemes őrült, annyi
+            <p>Az urak csak dűltek-hűltek... Kont szerepéhez következetes marad az <hi>őrült</hi> a kényszerzub­bony igája alatt is... Jellemes őrült, annyi
                bizonyos!</p>
             <p>- Zsigmondot sem <hi>ráztam</hi> volna meg, - folytatta Kont úr, - ha
                meg nem sérti vala a nemesek törvényeit s az esküjét, a mit ezekre a törvényekre
@@ -505,8 +495,7 @@
                lett volna a földön. De abban (bár Héderi három példát is tudott rá), senki se hitt.
                Ilyenformán meg­bukott a józan ész, az urak képtelenek voltak a megfoghatatlant
                valónak elfogadni. A csuda nem csuda, csak a véletlenek csudálatos végzetes
-               összejátszása; Kont valami svindler akrobata, a ki <hi
-                  >megbabonázta</hi> Héderyt, mert az csak mégse lehet, hogy egy máltai lovag
+               összejátszása; Kont valami svindler akrobata, a ki <hi>megbabonázta</hi> Héderyt, mert az csak mégse lehet, hogy egy máltai lovag
                roszhiszeműleg <hi>csaljon</hi>.</p>
             <p>Ez hát rendben lett volna, a kérdés most már csak az volt: mitévők legyenek az urak?
                Kiadják-e a <hi>szélhámost</hi> a mentőknek, vagy elzárassák őt? Avagy
@@ -518,8 +507,7 @@
             <p>A kaszinótagok összesúgtak-búgtak, tanácskoztak, veszekedtek, s végre is abban
                állapodtak meg, hogy meg kell eszelni Héderit: ne gördítsen akadályt az <hi>ükapja megfigyeltetése</hi> elé. Ugyis kieresztik, ha épeszűnek
                bizonyul.</p>
-            <p>Kapaczitálták a kis embert, de az hallani sem akart a <hi
-                  >merényletről</hi>.</p>
+            <p>Kapaczitálták a kis embert, de az hallani sem akart a <hi>merényletről</hi>.</p>
             <p>- Megőrültetek? - rikácsolta. - Az én ükapámat, a vértanut őrültek közé csukatni!
                Inkább meg­halok...</p>
             <p>Az orvos szerencsére tárgytalanná tette a megindult disputát.</p>
@@ -644,10 +632,8 @@
             <p>- Dicső uram! - kezdte - Mélyen tisztelt barátaim! Egy, mondhatnám, sőt közérzésem
                paran­csára mondom is: egy kínos kötelességet ró rám igazgatói állásom. Ez a
                kötelesség: a kaszinó nemes tradiczióit, előkelő szellemét minden viszonyok között
-               épentartani. A mi magas, mond­hatnám, sőt mondom is: a mi <hi
-                  >magasztos</hi> vendégünk és elődünk, Istenben boldogult, de szerencsésen újra
-               életre kelt Kont vitéz az imént egy oly szót ejtett ki, beösmerem: <hi
-                  >fönséges</hi> száján, a mit remegve bár, de megjegyzés nélkül nem hagyhatok. Ez a
+               épentartani. A mi magas, mond­hatnám, sőt mondom is: a mi <hi>magasztos</hi> vendégünk és elődünk, Istenben boldogult, de szerencsésen újra
+               életre kelt Kont vitéz az imént egy oly szót ejtett ki, beösmerem: <hi>fönséges</hi> száján, a mit remegve bár, de megjegyzés nélkül nem hagyhatok. Ez a
                szó: összeesküvés... Itt - folytatta a szónok akadozva bár, de elszántan, - a mi
                fényes termeinkben idegen ez a szó. Mi lojális, békés alattvalók vagyunk, imádjuk
                törvénytartó királyunkat (dörgő éljenzés) s minden­féle összeesküvésnek ellenei
@@ -655,14 +641,12 @@
                különben: Éljen Kont vitéz!</p>
             <p>Kont kezet fogott az öreg kegyelmessel, jószivüen, kordiálisan.</p>
             <p>- Nem értettél meg öcsém, - mondta neki. - Ki akarja bántani a királyotokat, ha
-               betartja a törvényt? A német király ellen izgattam én: a <hi
-                  >császár</hi> ellen, épen hogy a <hi>királyunk mellett</hi>.</p>
+               betartja a törvényt? A német király ellen izgattam én: a <hi>császár</hi> ellen, épen hogy a <hi>királyunk mellett</hi>.</p>
             <p>A rendes körülmények között természetes mentség Kont őszinte (?) bámulatára roppant
                zavarba hozta az előkelő publikumot</p>
             <p>Belényessy gróf hápogott valamit, de a hangját nem lehetett hallani, csak a szája
                járt. Azt is befogta (teljes tisztelettel bár), Hédery Gábor, az ükunoka.</p>
-            <p>- Ne beszélj, holnap majd megmagyarázom ükapának a <hi
-               >viszonyokat</hi>.</p>
+            <p>- Ne beszélj, holnap majd megmagyarázom ükapának a <hi>viszonyokat</hi>.</p>
             <p>A kegyelmes bólintott.</p>
             <p>- Jó, - mondta, - de jól magyarázd meg, hogy megértse valahogy.</p>
             <p>- Bizd rám, - mondta Gábris gróf, aztán felemelte kezét.</p>
@@ -1754,8 +1738,7 @@
                az eszünkön túljárjanak.</p>
             <p>Kont elnevette magát, mint a kocsizó utas, a kit krajczárért visongó purdék üldöznek,
                aztán kezére ütvén a lova kantárját czibáló ujságirónak, csendet intett:</p>
-            <p>- Hát komolyan látni akarjátok a csillagot, ficzkók? Ott van a <hi
-                  >karám</hi> sarkában (s arrafelé mutatott a kardjával), abban a gödörben; ha
+            <p>- Hát komolyan látni akarjátok a csillagot, ficzkók? Ott van a <hi>karám</hi> sarkában (s arrafelé mutatott a kardjával), abban a gödörben; ha
                iparkodtok, estére kivájhatjátok a körmötökkel is. - Mondván, visszadugta kardját
                hüvelyébe, megsarkantyúzta lovát és azt se mondta, bá - elvágtatott. Nyomában a
                csatlósai...</p>
@@ -1882,8 +1865,7 @@
                hogy megvilágítsa a Kont-ügyet.</p>
             <p>A hatóság (azon a jogczímen, hogy a vitéz legendás nimbusza valóságos lázba ejtette
                Buda­pest közönségét s ezzel állítólag erkölcsi károkat tett a lelkekben, azonkívül
-               forgalmi torló­dásoknak, csoportosulásoknak lőn az okozója) <hi
-                  >személyazonosságának</hi> igazolására szólította fel Kontot.</p>
+               forgalmi torló­dásoknak, csoportosulásoknak lőn az okozója) <hi>személyazonosságának</hi> igazolására szólította fel Kontot.</p>
             <p>Az eljárás teljesen korrekt volt s mégis nevetett rajta az egész főváros. Illetve
                azon a válaszon, a mit Kont a rendőrkapitánynak adott.</p>
             <p>- Sajnálom, hajdu barátom, de tanukért az égbe kell mennie, mert itt a földön rég
@@ -2246,8 +2228,7 @@
                maradhat a régi, a fő, hogy a szivetek és öklötök legyen magyar.</p>
             <p>Ezzel aztán véget is értek a felköszöntők, a nélkül, hogy a vadtósztokra került volna
                a sor. Ennek a veszedelemnek maga a házigazda vette elejét.</p>
-            <p>- Igyatok véreim, mulassatok és ne magasztaljatok többet, mert csak <hi
-                  >ezentúl</hi> fogtok engem <hi>igazán</hi> megérteni.</p>
+            <p>- Igyatok véreim, mulassatok és ne magasztaljatok többet, mert csak <hi>ezentúl</hi> fogtok engem <hi>igazán</hi> megérteni.</p>
             <p>Volt ebben a kijelentésben is valami titokszerűség, a melynek hatása alól nem
                egyhamar szabadúltak a várúr vendégei. Pedig immár jócskán fogyott a pezsgő, rég
                elérkezett volna az az időpont, a melynél rendes körülmények között kifényesednek a
@@ -2548,9 +2529,7 @@
                mondta, hogy szerelmes. Még az ellen sem tiltakozott, hogy idegen embert sejtsen
                benne... Egy vakmerő, izgalmas, kéjes játékot játszott vele, s az eredmény: «Nem volt
                félelemre okom.»</p>
-            <p>Mi ez? Képmutatás? Taktika? Avagy most már csakugyan maga is <hi
-                  >hiszi</hi>, hogy az ükapja szerinte az akkori érzése <hi
-               >csalt</hi>?</p>
+            <p>Mi ez? Képmutatás? Taktika? Avagy most már csakugyan maga is <hi>hiszi</hi>, hogy az ükapja szerinte az akkori érzése <hi>csalt</hi>?</p>
             <p>Hát majd megtudja, hányadán áll vele. Mire helyet foglalt a szép asszonynyal
                szemközt, már kész volt a vitéz a tervvel is, a melynek segítségével a herczegnő
                lelkébe behatolni remélt.</p>
@@ -2569,8 +2548,7 @@
             <p>- Azt, - válaszolta Emerenczia herczegnő, - a mit maga: magasabb érdekből viselem a
                konzek­vencziáit.</p>
             <p>- Ez nem felelet.</p>
-            <p>- Annyira az, hogy válasz az előbbi kérdésre. Sőt kulcsa az én <hi
-                  >kiábrándulásomnak</hi> is. Egy olyan férfitól, a ki <hi>magasabb
+            <p>- Annyira az, hogy válasz az előbbi kérdésre. Sőt kulcsa az én <hi>kiábrándulásomnak</hi> is. Egy olyan férfitól, a ki <hi>magasabb
                   érdekből</hi> csókol meg egy nőt, félni nem lehet.</p>
             <p>Kont vitéznek kissé megpirosodott az arcza.</p>
             <p>- Addig, míg nem tudott erről a magasabb érdekről, - kérdezte lassan, szinte tagolva
@@ -3108,8 +3086,7 @@
                hangot és modort cserélve, - úgy mint én! - És kifeszítette hatalmas karjait, hogy a
                ruhája szinte repedezett bele. - Jó lesz barátom? - enyelgett a nazarénussal, mint
                apa gyermekével. - Ugye jó?</p>
-            <p>- Jó, - mondta a nazarénus és imádattal nézett fel a <hi
-               >hősre</hi>.</p>
+            <p>- Jó, - mondta a nazarénus és imádattal nézett fel a <hi>hősre</hi>.</p>
             
          </div>
          <div type="chapter">
@@ -3369,8 +3346,7 @@
                természetesen tökéletesen felfordul, ha egy évszázadok óta háborítatlanul birtoklott
                s többizben bona fide átöröklött vagyon elüttetik a birtoklók kezéről, de ezt az
                elméletet úgyis czélszerűségi szem­pontok pattantották ki s növesztették jogi
-               dogmává, következésképen értéküket vesztik, mihelyest magasabb <hi
-                  >czélszerüségi</hi> szempontokkal jutnak összeütközésbe.</p>
+               dogmává, következésképen értéküket vesztik, mihelyest magasabb <hi>czélszerüségi</hi> szempontokkal jutnak összeütközésbe.</p>
             <p>- Jogászi okfejtésemen kívül - jelentette ki Kincses, - főképen erre alapozom perünk
                kedvező esélyeit. Negyven-ötven családnak jóhiszemű birtokaiból való hirtelen
                kiborítása minden­esetre óriási kavarodásoknak lesz a szülője és látszólag egy jogi
@@ -3382,8 +3358,7 @@
                igazság fogalmai - folytatta - a jelen században amúgy is egy erjedési, ujjáalakulási
                folyamatba kerültek. Az embernek (látván, hogy minduntalan változnak a fel­fogások
                igazságról, eszményről), nincsenek többé megállapodott, kialakult képzetei; az
-               embe­rek, mondom, ebben az ideges korban inkább hajlandók <hi
-                  >érzéseiket</hi> követni, a melyekben ritkán csalatkoztak, mint az <hi>eszüket</hi>, a mely minduntalan megcsalja őket. Már pedig -
+               embe­rek, mondom, ebben az ideges korban inkább hajlandók <hi>érzéseiket</hi> követni, a melyekben ritkán csalatkoztak, mint az <hi>eszüket</hi>, a mely minduntalan megcsalja őket. Már pedig -
                konklu­dált Kincses, - a tömeget kétségtelenül a nagy uram pártjára hajtja a szive.
                Gondviselésszerű feltámadásának, úgyszólva isteni eredetének nimbusza (a mely a
                népnek immáron a vérébe ment át s onnan többé ki nem irtható) oly tényezővé
@@ -3405,8 +3380,7 @@
                jogalapját...</p>
             <p>- Azt nem látom, - ismerte be Kont, - de azért ne tartson roszhiszemű
                perpatvarkodónak. Mert mi a jogalap, a jog, ha társadalmakat reformáló, nemzetképző
-               törekvésekkel és czélokkal kerül szembe? Az egyén igaza, <hi
-                  >magánhaszna</hi> a köz, a társadalom, az emberiség kárára.</p>
+               törekvésekkel és czélokkal kerül szembe? Az egyén igaza, <hi>magánhaszna</hi> a köz, a társadalom, az emberiség kárára.</p>
             <p>Kincses mester intett a fejével.</p>
             <p>- Úgy van. Minden emberi érték relativ. Az ember végczélja, a míg világ a világ,
                örökké az lesz: a sok értéktelen érték lehető legtökéletesebb felbecsülése, hogy a
@@ -3810,8 +3784,7 @@
                háromszor is elolvasta a czimet. Nyilván öröme telt a herczegnő finom és mégis
                határozott irásában.</p>
             <p>- Kell válasz? - kérdezte aztán a komornyikot.</p>
-            <p>- Igenis, a herczegi huszár az előcsarnokban vár <hi
-                  >nagyméltóságod</hi> válaszára.</p>
+            <p>- Igenis, a herczegi huszár az előcsarnokban vár <hi>nagyméltóságod</hi> válaszára.</p>
             <p>Kont elfordult kissé a komornyiktól és zsebkésével óvatosan, szinte gyöngédséggel
                felbon­totta a levelet. Elolvasta. Elpirult, szeme szelíd fényben úszott.</p>
             <p>- Azt üzenem a herczegnőnek, hogy tüstént nála leszek.</p>
@@ -3829,8 +3802,7 @@
                említették is előtte a Kont nevét... Ilyenkor kigyúlt az arcza s zavaros lett a
                beszéde, a miért nagyon, de nagyon haragu­dott magára. De legyőzni nem tudta magát.
                Hiszen tisztában sem volt érzéseivel. Alapjában haragudott ő a vitézre is. Bántotta
-               női méltóságát, hogy az úgy bánt vele, mint naiv gyer­mekkel s hogy <hi
-                  >betolakodott</hi> a bizalmába, a nélkül, hogy képes lett volna őt magától
+               női méltóságát, hogy az úgy bánt vele, mint naiv gyer­mekkel s hogy <hi>betolakodott</hi> a bizalmába, a nélkül, hogy képes lett volna őt magától
                elhárítani. Igaz, hogy azt meg se igen kisértette, nem akarta, nem merte; kénytelen
                volt magának beval­lani, hogy az ismeretlen származású impozáns férfi beczézése,
                bizalma, ha bántotta is, de egyben hizelgett neki. Be kellett ismernie, hogy hozzá
@@ -4149,8 +4121,7 @@
             <p>- Én? - fortyant fel Belényessy mérgesen, mint egy pulykakakas, - mikor egy
                talpalattnyi földet sem örököltem a Kont javakból?</p>
             <p>- Igen ám, - eszelte Gyimóthy, - de forradalom esetén nem azt fogja a paraszt nézni,
-               hogy mi kié <hi>volt</hi>, hanem azt, hogy mi kié <hi
-                  >most</hi>.</p>
+               hogy mi kié <hi>volt</hi>, hanem azt, hogy mi kié <hi>most</hi>.</p>
             <p>Belényessy megaprehendált, mint mindig, mikor valaki fején találta a szöget és kiment
                vacso­rázni.</p>
             <p>Az ajtóban majdnem összekoczczant egy gömbölyded férfival. <hi>Kincses
@@ -4643,8 +4614,7 @@
                milyen esz­közökkel szándékozik a vitéz tervét megvalósítani, támpont hijján
                mindezideig okoskodni is röstellt. Ám most, hogy kiszállt a kastélyból, a nagyúr
                prófétai szavainak hatása alatt berregni kezdtek hatalmas és tökéletes agyában a
-               gondolat kerekei. A rugó, a mely megindította a szerves óraművet: <hi
-                  >«A föld azé legyen, a ki jobban meg tudja azt becsülni.»</hi>
+               gondolat kerekei. A rugó, a mely megindította a szerves óraművet: <hi>«A föld azé legyen, a ki jobban meg tudja azt becsülni.»</hi>
             </p>
             <p>Tehát - konstatálta Kincses bevezetőül, - egy radikális birtokpolitika
                inaugurálásával akarja Kont reformátori munkáját megkezdeni. Oly nagyméretű
@@ -5117,8 +5087,7 @@
                szükségem, hanem a nagy tömeg hipnoti­zálására. Azokra számítottam, a kik hisznek a
                Mária szeplőtelen fogantatásában, Krisztus csudatevéseiben, felfeszíttetése utáni
                feltámadásában. Ezeknek a hitére pályáztam s nem hiába. Mert a nagy tömeg hite ma az
-               én erőm forrása, a mely a szemfényvesztő, szuggerált csudák után a <hi
-                  >valódi csudára</hi> is képesíteni fog... Mert az lesz, ha megmentem ezt az
+               én erőm forrása, a mely a szemfényvesztő, szuggerált csudák után a <hi>valódi csudára</hi> is képesíteni fog... Mert az lesz, ha megmentem ezt az
                enervált nemzetet…</p>
             <p>Kincsesnek leesett a feje.</p>
             <p>- Úgy van - hebegte, mert izgatottságában nem jött ki szájából ép szó. - Úgy
@@ -5497,8 +5466,7 @@
                törvényt kell hozni, mint a mennyi életviszony szabályozásra szorul, a termelésnek
                arányban kell állania a növe­kedő szükséglettel ezen a téren is.</p>
             <p>«Csak oly monopóliumoknak van jogosultságuk, a melyek nem sértik egyesek érdekeit; az
-               állam, polgárai rovására, nem üzérkedhetik; legföljebb az <hi
-                  >érdekükben</hi> szerepelhet, mint köz­vetítő. A buzát például az államnak kell a
+               állam, polgárai rovására, nem üzérkedhetik; legföljebb az <hi>érdekükben</hi> szerepelhet, mint köz­vetítő. A buzát például az államnak kell a
                termelőtől megvennie, mert az jobban értékesítheti azt, a maga hitelével és
                tekintélyével kedvezőbb piaczot teremthet számára, mint jobb minő­ségű terménynek,
                emelheti az árát s kikoplalhatja a szűkmarkú keresletet. Semmi értelme nincs annak,

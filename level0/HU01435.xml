@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU01435" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU01435" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Az Isten háta mögött : ELTeC edition</title>
-            <author> Móricz Zsigmond (1878-1942)<idno type="VIAF">22179627</idno>    
-            </author>
+            <author ref="viaf:22179627">Móricz, Zsigmond  (1878-1942)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -2318,8 +2315,7 @@
             <p>A fiatalember nevetett, s felvont homlokkal emlékezett a csúnya, de kedves kis
                cigány­leányokra; roppant kedvesek voltak a piros ruhában... nagyon ügyesen
                teniszeznek...</p>
-            <p>- Persze, magának a szívét hasogatom, hogy az ideáljait <hi
-                  >lesimfelem</hi>.</p>
+            <p>- Persze, magának a szívét hasogatom, hogy az ideáljait <hi>lesimfelem</hi>.</p>
             <p>- Dehogy, nekem nem ideálom egy sem...</p>
             <p>- Na, azért nem szeretné, ha a doktor-kisasszonyt, az Arankácskát emlegetném.</p>
             <p>A fiatalember kissé elpirult.</p>

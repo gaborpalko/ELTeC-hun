@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00731" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00731" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Szerelem és hiúság : ELTeC edition</title>
-            <author ref="viaf:54141095">Kemény Zsigmond (1814-1875)</author>
+            <author ref="viaf:54141095">Kemény, Zsigmond  (1814-1875)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -128,8 +126,7 @@
             <p>- Megint új vállalat - suttogták örömmel még az olvasószobában is.</p>
             <p>- S ki áll élén? - kérdé egy tudós táblabíró, ki jurátuskora óta lóra sem ült.</p>
             <p>- Gróf Széchenyi István - mondák.</p>
-            <p>- Sietek, hogy az aláírással el ne késsem - szólt tudósunk a <hi
-                  >Jelenkor</hi>-t kezéből letevén, s szemüvegét, mielőtt tokjába dugná, tarka
+            <p>- Sietek, hogy az aláírással el ne késsem - szólt tudósunk a <hi>Jelenkor</hi>-t kezéből letevén, s szemüvegét, mielőtt tokjába dugná, tarka
                zsebkendőjével gondosan törölgetve.</p>
             <p>Hagyjuk táblabíránkat az aláírási ívhez kíséretünk nélkül közelítni, mert
                figyelmünket a Széchenyi körétől nem messze egy más csoportozat is, mely
@@ -189,8 +186,7 @@
             <p>Ki a legszebb virágszála e koszorúnak, nehéz elhatározni, mint általában sok más
                kérdést, mely a kíváncsiságot ingerleni szokta; de csakugyan a lányok közt Gévay
                Sarolta kisasszonynak van legnagyobb udvara..., igen, ő annyi imádót számlál, hogy ha
-               közülük mindeniknek - Turandot hercegnőként - megoldásul egy talányt adna föl, a <hi
-                 >Regélő</hi> egész évi folyamát érdekessé tehetné.</p>
+               közülük mindeniknek - Turandot hercegnőként - megoldásul egy talányt adna föl, a <hi>Regélő</hi> egész évi folyamát érdekessé tehetné.</p>
             <p>Azonban az idén mégis szerencsecsillaga körül ködök és árnyak lebegnek, bár puszta
                szemmel alig sejthetők.</p>
             <p>Sarolta szuverén joga a férfiszívek felett - ah, ezen annyi keccsel gyakorolt jog,
@@ -766,8 +762,7 @@
             <p>Mert a haszonbérlő, ki előre értesítve volt, egész nap sürgött-forgott, s rendkívüli
                tevékenysége okát büszkén beszélte el előbb a <hi>Regélő
                </hi>levelezőjének és a megyei orvosnak, ki a s...i ásványvíz példátlan gyógyerejéről
-               - minden személyes érdek nélküli - figyelmeztetéseket szokott a <hi
-                  >Nemzeti Újság </hi>tárcájában közleni; később a kedveltebb divathősöktől sem
+               - minden személyes érdek nélküli - figyelmeztetéseket szokott a <hi>Nemzeti Újság </hi>tárcájában közleni; később a kedveltebb divathősöktől sem
                titkolhatta többé ezen örömhírt, s kik a kútra legelőbb jelentek meg, szintén kiváló
                bizodalmára tarthattak számot; végre pedig, hogy a be nem avatottak időpazarló
                faggatásait elkerülhesse, részelteté a nagy újdonságban azokat is, kiknek jó reggelt,

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU05620" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU05620" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Zord idő : ELTeC edition</title>
-            <author ref="viaf:54141095">Kemény Zsigmond (1814-1875)</author>
+            <author ref="viaf:54141095">Kemény, Zsigmond  (1814-1875)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -138,8 +136,7 @@
                   kong. Pista bácsi ezt néha észreveszi s mondja: Dani öcsém, szegényedünk! Látom,
                   Pista bácsi, feleli ekkor Dani, de csak egyszer élünk a világon s ha szakadni
                   találna, majd segít rajtunk Werbőczi urambátyám. Igaz, Dani öcsém, jegyzi meg erre
-                  Pista, a mi urunkbátyánk nagy úr. Temérdek nagy úr! egészíti ki Dani. A frater<hi
-                     xml:id="_ftnref1">*</hi> után legnagyobb úr: vitatja az öregebb testvér.
+                  Pista, a mi urunkbátyánk nagy úr. Temérdek nagy úr! egészíti ki Dani. A frater<hi xml:id="_ftnref1">*</hi> után legnagyobb úr: vitatja az öregebb testvér.
                   Legföllebb Petrovics, a temesi gróf versenyezhet vele: figyelmezteti Pista bácsit
                   az öcs. Török Bálintot nincs is miért említsük, szól most fitymálva Pista bácsi.
                   Az a Török Bálint, végzi a dicsekvést Dani, a mi urunkbátyánknak, a híres Werbőczy
@@ -5518,13 +5515,11 @@
                <p>Fájdalom, a példás összhangzást megzavarta a vendéglő elnevezése fölötti kora
                   vita.</p>
                <p>A németek <hi>Vörösbegyü pinty</hi>nek, <hi>Tüskés
-                     disznó</hi>nak, <hi>Liliomos kert</hi>nek, <hi
-                     >Fiait vérével tápláló pelikán</hi>nak, vagy <hi>Hét sváb</hi>nak
+                     disznó</hi>nak, <hi>Liliomos kert</hi>nek, <hi>Fiait vérével tápláló pelikán</hi>nak, vagy <hi>Hét sváb</hi>nak
                   akarták nevezni,</p>
                <p>A <hi>Pelikán</hi>, mint eretnekségre célzó eszme, általok is hamar
                   elvettetett. Hasonló sorsban részesült a <hi>Tüskés disznó</hi> is;
-                  de a <hi>Pinty</hi>et kedvelték az idősebb német polgárok, a <hi
-                    >Liliomos kert</hi>et fiatal feleségeik, a <hi>Hét
+                  de a <hi>Pinty</hi>et kedvelték az idősebb német polgárok, a <hi>Liliomos kert</hi>et fiatal feleségeik, a <hi>Hét
                      sváb</hi>nak pedig hatalmas felekezete volt a vegyes közönségben.</p>
                <p>Ellenben a magyar polgárok egyértelműleg nyilatkoztak a <hi>Hét
                      vezér</hi> mellett; mi a másik pártot hosszas vita után szintén egyértelműségre
@@ -6181,8 +6176,7 @@
                <p>- Kérem azt akkorra halasztani, midőn a tanács együtt lesz, - válaszolá
                   csillapítólag Bornemisza. - Kegyelmeteket pedig - folytatta János diákhoz és a
                   borbélyhoz fordulva - Isten oltal­mába ajánlom! Menjenek haza, feküdjenek le, s ha
-                  egy tapasztalt öreg tanácsát követni akarják, ne menjenek holnap este a <hi
-                    >Hét vezér</hi>be.</p>
+                  egy tapasztalt öreg tanácsát követni akarják, ne menjenek holnap este a <hi>Hét vezér</hi>be.</p>
                <p>- Nem úgy van az, tanácsos uram! - pattogott János diák. - Nemes ember vagyok, s
                   nem tűr­he­tem a nemesi rend lealacsonyítása nélkül, ha annyira nő a polgárok
                   szarva, hogy az alkapi­tány is mer fogsággal fenyegetni, s nyilvános helyen
@@ -9839,8 +9833,7 @@
                   abból kivervén a bitorlót, az egész uradalmat az özvegy és leendő utódja nevében
                   birtokba vevé.</p>
                <p>- Úgy kellett tennie, nénémasszony! - szólt Dániel úr.</p>
-               <p>- Másként nem is történhetett volna. A mi nagy rokonunk Werbőczi a <hi
-                    >Hármas törvénykönyv­</hi>ben szintén ezt rendeli, - tevé hozzá
+               <p>- Másként nem is történhetett volna. A mi nagy rokonunk Werbőczi a <hi>Hármas törvénykönyv­</hi>ben szintén ezt rendeli, - tevé hozzá
                   István úr.</p>
                <p>- De, - folytatá Dorka siránkozó hangon, - éppen e miatt jutottunk tönkre. Mert a
                   zsivány nagybátyának több szomszéd várúrral kölcsönös örökösödési és védelmi
