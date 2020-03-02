@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU13462" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU13462" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Két világ közt : Regény : ELTeC edition</title>
-            <author ref="viaf:121505002">Kövér Ilma (1862-1928)</author>
+            <author>Kövér, Ilma (1862-1928)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -44,7 +42,7 @@
                <relatedItem type="source">
                   <bibl type="firstEdition"> / ;Budapest : , ;(Egyetemes regénytár. XII. ; 15.)
                      <title>Két világ közt : regény</title>
-                     <author>Kövér Ilma</author>
+                     <author>Kövér, Ilma</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Singer-Wolfner</publisher>
                      <date>1897</date>

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17618" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17618" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Enyém? : ELTeC edition</title>
-            <author> Teleki Sándorné (1864-1937) <idno type="VIAF">309595549</idno>
+            <author>, Teleki Sándorné (1864-1937) 309595549
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -37,12 +35,11 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>Enyém? : a Kisfaludy-Társaság Lukács Krisztina díjával jutalmazott regény</title>
-                     <author>Szikra</author>
+                     <author>, </author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Singer és Wolfner</publisher>
                      <date>1906</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/2563492"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/2563492"/>
                   </bibl>
                </relatedItem>
             </bibl>

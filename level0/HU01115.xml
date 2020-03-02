@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU01115" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU01115" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Egy alispán : Magyar korrajz : ELTeC edition</title>
-            <author ref="viaf:na">Vas Gereben (1823-1868)</author>
+            <author>Vas, Gereben (1823-1868)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -36,7 +34,7 @@
                <relatedItem type="source">
                   <bibl type="printSource"> 
                      <title>Egy alispán : Magyar korrajz</title>
-                     <author>Vas Gereben</author>
+                     <author>Vas, Gereben</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Méhner Vilmos</publisher>
                      <date>1886</date>
@@ -45,7 +43,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>Egy alispán : Magyar korrajz</title>
-               <author>Vas Gereben</author>
+               <author>Vas, Gereben</author>
                <date>1858</date>
             </bibl>
          </sourceDesc>
@@ -78,8 +76,7 @@
                anyagot. És mert találok, s azt hiszem, hogy a múltnak emlékezetéből egy ízecskének
                is halálos vétek volna elveszni: folytatom a munkát.</p>
             <p>Érzem, hogy a magyar irodalom terhes felelősséget hordoz magán; a kritika és közönség
-               igen gyakran még terhesebbé teszi e helyzetet. Egyik az <hi
-                  >örökszépnek</hi> elengedhetlen törvényeit kérdi, és méltán, célul csak azt ösmeri
+               igen gyakran még terhesebbé teszi e helyzetet. Egyik az <hi>örökszépnek</hi> elengedhetlen törvényeit kérdi, és méltán, célul csak azt ösmeri
                el; de mihelyest az önkény ezen túl vág, kérlelhetlenségének szigorával áll elő.
                Aztán következik a másik, a közönség, ez is hatalmat gyakorol, - nem csak az életet,
                a hű nemzeti jellegeket: de a múltat is követeli. Azonkívül kéri azt, mi őt
@@ -160,9 +157,7 @@
                korrajzomat.</p>
             <p>Megint azon tényeket hozom föl, melyek maradandó emlékei most már a múltnak. Nem
                lehet azokat eltagadni, és mert saját embereink művei, ne menjünk el mellettük
-               hidegen, kérjük elő az emlékeztető alakokat; valljuk be azok nyomán, hogy ők <hi
-                 >jeleseink</hi> voltak. És mert a mi <hi
-                  >jeleseink:</hi> önmagunkat is becsüljük már többre, mint hogy meglohadni engedjük
+               hidegen, kérjük elő az emlékeztető alakokat; valljuk be azok nyomán, hogy ők <hi>jeleseink</hi> voltak. És mert a mi <hi>jeleseink:</hi> önmagunkat is becsüljük már többre, mint hogy meglohadni engedjük
                lelkesülésünket.</p>
             <p>Tényeket hoztam föl, elvitathatlan tényeket, melyeknek annyi emlékei mai napig
                előttünk állnak.</p>
@@ -176,16 +171,14 @@
             <head>A nótának eleje.</head>
             <p>Hogyan volt?</p>
             <p>...............................................</p>
-            <p>Akarjátok hallani azt a régi nótát, mely úgy kezdődik, hogy mi <hi
-                  >táblabírók voltunk?</hi>
+            <p>Akarjátok hallani azt a régi nótát, mely úgy kezdődik, hogy mi <hi>táblabírók voltunk?</hi>
             </p>
             <p>Igenis, táblabírók voltunk, s minthogy helyettünk senki sem tett meg semmit,
                kénytelenek voltunk a dologhoz nyúlni, és a világ csudájára.</p>
             <p>1-ször is voltunk financiérek, megalapítottuk a takarékpénztárakat, például a pestit,
                melynek első évi forgalma alig volt háromszázezer forint, ha valaki nagyon elnevette
                magát, egy szájjal elnyelhette volna az egész eredményt; de a táblabírók nem
-               csüggedtek és a várakozás megtermé gyümölcseit, az 1857-iki forgalom több volt <hi
-                 >huszonegy millió pengő forintnál.</hi> Most tessék nevetni, most
+               csüggedtek és a várakozás megtermé gyümölcseit, az 1857-iki forgalom több volt <hi>huszonegy millió pengő forintnál.</hi> Most tessék nevetni, most
                kapja el valaki, ha tudja; pedig ezt a táblabírók csinálták.</p>
             <p>2-szor. Még furcsább dologba kaptunk, művészeket teremtettünk, építtetett
                Pestvármegye egy színházat az ország fővárosában, e ház növendékei a pesti koszorúval
@@ -199,8 +192,7 @@
                megjutalmazására sem elosztogatandó javadalmaink, sem érdemjeleink nem voltak: ha
                valamely jeles emberünknek megismerésünket akartuk tudtára adni, megkértük, legyen jó
                barátunk, <hi>legyen táblabíró! </hi>S e cím olyan volt, hogy még a
-               legmagasabb cím mellett is megfért; hisz még a portugalli királynak <hi
-                  >apja is</hi>
+               legmagasabb cím mellett is megfért; hisz még a portugalli királynak <hi>apja is</hi>
                <hi>táblabíró volt.</hi>
             </p>
             <p>Ezt a régi nótát mondom el tinektek, - Földváry Gábor, Fáy András, gróf Keglevich
@@ -269,8 +261,7 @@
                diátristák eljátszották Dugonics András “Báthori Máriáját?” mely abban az időben,
                mint szomorújáték igen alkalmas ríkatódarab volt, s a szegény magyar színész házról
                házra járt az érdemesebbeket <hi>“beinvitálni,”</hi> mert a magyar
-               ember ebben az időben is mindjárt azzal állt elő, hogy minek búsuljon <hi
-                 >pénzért, </hi>mikor itthon <hi>ingyen</hi> is elég
+               ember ebben az időben is mindjárt azzal állt elő, hogy minek búsuljon <hi>pénzért, </hi>mikor itthon <hi>ingyen</hi> is elég
                búsulni valója van.</p>
             <p>- Tekintetes főbíró úr - köszönte be egy magyar színész Földváry Gábor úrhoz a
                vármegyeháznál,... az egész színjátszó társaság nevében van szerencsém a tekintetes
@@ -637,8 +628,7 @@
                Földváry körül mindenki kizajongja magát, és midőn sorban kiörvendezte magát
                mindenki, Földváry legutólján ért a grófhoz.</p>
             <p>- Gábor! mondja a gróf szelíd hangjának egész nyugalmával, - az okoskodóknál, látom,
-               van már elég asszistensed; nekem meg lesz gondom majd a <hi
-                  >bolondokra.</hi>
+               van már elég asszistensed; nekem meg lesz gondom majd a <hi>bolondokra.</hi>
             </p>
          </div>
          <div type="chapter">
@@ -844,8 +834,7 @@
                Szentpálit lecsitíthatná, s íme, jön Bod Pál a nagy ívvel.</p>
             <p>- Pál gazda, mit visz?</p>
             <p>- Tekintetes uram, az <hi>örökbékesség</hi> oklevelét, melyben
-               megfogadjuk, hogy sohasem haragszunk meg egymásra, legalább nem <hi
-                  >ingyen,</hi> - s a ki mégis haragudni akar: tegye, csak az erszénye győzze!</p>
+               megfogadjuk, hogy sohasem haragszunk meg egymásra, legalább nem <hi>ingyen,</hi> - s a ki mégis haragudni akar: tegye, csak az erszénye győzze!</p>
             <p>- Megállj, mondja a gróf, a szerződést kezébe véve, és Bod Pálnak füle mellől kihúzza
                a tollat, mellyel még valamit odaír, s aztán a kelet napját, évszámát, amint illik,
                és a nevét.</p>
@@ -951,8 +940,7 @@
             <p>Idáig elszolgál Káinnak Ábellel való szerencsétlen viszálykodása, mint azt
                eltagadhatlanul bebizonyítani szerencsém is vala. A harag lőn megölő betűje Ábelnek,
                kinek ártatlan vére nemcsak az égbe kiáltott, hanem elszolgált idáig annyi ezer
-               esztendő óta, s én urambátyámtól kapott megbízatásom folytán elkészítettem az <hi
-                 >örök békességi </hi>szerződést, melyben kisded társaságunk tagjai
+               esztendő óta, s én urambátyámtól kapott megbízatásom folytán elkészítettem az <hi>örök békességi </hi>szerződést, melyben kisded társaságunk tagjai
                kötelezik magukat, hogy egymásra sohasem haragusznak meg; ha pedig az emberi
                gyarlóság csakugyan örökös velünk, mint az eredendő bűn, ne cselekedhesse ingyen,
                száz forinttól kezdve fizessen egész harmadfél ezerig, amennyire kisded társaságunk
@@ -1110,8 +1098,7 @@
                itt megint fizetésre kerül a dolog.</p>
             <p>- Magam is kíváncsi vagyok.</p>
             <p>- Mindjárt megtudom a dolgot; tehát látjuk vagy nem látjuk egymást, isten velünk.</p>
-            <p>Elváltak. Keglevich a Hatvani utcának tartott, s az egyetem<hi xml:id="_ftnref1"
-                  >[1]</hi> sarkán mindjárt a sarokról átvágott az “Aranysas”-ba, alig várva, hogy
+            <p>Elváltak. Keglevich a Hatvani utcának tartott, s az egyetem<hi xml:id="_ftnref1">[1]</hi> sarkán mindjárt a sarokról átvágott az “Aranysas”-ba, alig várva, hogy
                Józsa Gyurit lássa a tegnapi kudarc után.</p>
             <p>Persze, a másik nem tudott veszteg maradni, kijött a szobából a folyosóra, honnét a
                félszerbe látott, előre is gyönyörködvén a mulatságon, mi mindössze hat tallérjába
@@ -1280,8 +1267,7 @@
             <p>Beléptekor mindjárt észrevette, hogy a bácsi alszik (nojsz, akkora hortyogásról észre
                is vehette,) de fölkelteni nem merte, hanem lehúzódott egy székre az asztal mellett;
                nézte a temérdek bankót, az iszonyú számokat, melyektől más most úgy megbolondulna,
-               hogy felét legalább zsebre markolná, és az alvónak világos nappal szerencsés <hi
-                 >jó éjszakát</hi> kívánna. - Csak a fiút nem zavarta meg a látvány,
+               hogy felét legalább zsebre markolná, és az alvónak világos nappal szerencsés <hi>jó éjszakát</hi> kívánna. - Csak a fiút nem zavarta meg a látvány,
                szemeit nem csiklandozta a nagy bankó, még arra sem ösztönözte a bírvágy, hogy
                legalább megszámlálja, hány darab van az asztalon, neki kedvesebb volt az a nagy két
                garasos, melyet a bácsi az asztal sarkán feledt, s a jó fiú azzal bolondítá magát,
@@ -1397,8 +1383,7 @@
             <p>- Miska! Meglőlek, ha ilyen bolondokat beszélsz.</p>
             <p>- Látod, hogy már hiszed amit mondok; - mert készpénzed van, - tiszttartódnak idáig
                ugyan nem adtál fizetést, hanem <hi>“szabad lopás”</hi>-ra fogadtad;
-               mert úgyis azt hiszed, meglop; s ha még adsz neki kétszáz bankóforintot: <hi
-                 >megnagyságol.</hi>
+               mert úgyis azt hiszed, meglop; s ha még adsz neki kétszáz bankóforintot: <hi>megnagyságol.</hi>
             </p>
             <p>
                <hi>-</hi> Hát aztán? Kérdi türelmetlenül a másik.</p>
@@ -1920,8 +1905,7 @@
             <p>- Az akkor volt, tekintetes uram, mert először is a vecsei zsidónak ötven forintját
                ki kellett fizetnem; másodszor pedig a tekintetes úr paksi kocsin jött, aztán szintén
                paksinak véltem; hát azt gondoltam, azok az én bőrömet fogják, majd belekapaszkodom
-               én is az egyikébe, legalább nem hiába fogták rám a paksiak, hogy ez a <hi
-                 >“Vendégríkató.”</hi> - Most már érti a tekintetes úr?</p>
+               én is az egyikébe, legalább nem hiába fogták rám a paksiak, hogy ez a <hi>“Vendégríkató.”</hi> - Most már érti a tekintetes úr?</p>
             <p>- Értem, gazduram, - mondja Földváry a sajátszerű történetet megmosolyogva, - na, de
                csak nem kívánhatom, hogy ennyied magammal pusztítsam.</p>
             <p>- Tekintetes uram, mikor az ötven forintot megvettem a tekintetes úron, akkor is
@@ -1941,8 +1925,7 @@
             <p>- Míg a szükség nem kerget, nem megyek, tekintetes uram.</p>
             <p>- Tehát isten velünk, - búcsúzik Földváry.</p>
             <p>- Hasonlóképen kívánom, tekintetes uram, - kívánja a gazda, - s ha valaha még útja
-               lesz erre a tekintetes úrnak: el ne kerülje a <hi
-               >“Vendégríkató”</hi>-t, - ha még addig el nem önti a víz.</p>
+               lesz erre a tekintetes úrnak: el ne kerülje a <hi>“Vendégríkató”</hi>-t, - ha még addig el nem önti a víz.</p>
             <p>- <hi>Még a víz alól is kikaparnám! -</hi> mondja Földváry a kocsiról
                visszaszólva, mintha önkéntelenül érezné, hogy eljő még az idő, mikor itt is lesz még
                dolga.</p>
@@ -1963,8 +1946,7 @@
                tizenkét tagból álló komédiás csapat nem győzné eljátszani, s akkor is megkívánná,
                hogy a néző az első helyen egy ezüsthuszast fizessen, az utolsón pedig legalább öt
                tojást. - Hát Földváry uram miért teszi meg főbíró korában? Midőn mint alispánnak sem
-               lesz több fizetése, mint amennyit az angol hírlap mondott, azaz: hogy <hi
-                 >ötven font!</hi>
+               lesz több fizetése, mint amennyit az angol hírlap mondott, azaz: hogy <hi>ötven font!</hi>
             </p>
             <p>Nem hagyott a főbíró úr magára váratni, hivatalszobájában lévén a járásbeli
                elöljárók, az esküdt úr az ablakfához támaszkodva várta az előkerülő dolgot, az
@@ -2170,8 +2152,7 @@
                   mondtam, megmondtam!</hi>
             </p>
             <p>- Egykor a spektábilis ezt a véleményét megváltoztatja.</p>
-            <p>- Éppen mert azt hiszem, hogy ő hercegségét csak így menthetjük meg: maradok <hi
-                 >Pilátus!</hi>
+            <p>- Éppen mert azt hiszem, hogy ő hercegségét csak így menthetjük meg: maradok <hi>Pilátus!</hi>
             </p>
             <p>Azt tartom, a folytatásra nincsen szükség, megelégedhetünk az eredménnyel, Földváry
                most már elérte célját, hogy nyilatkozatát a herceg is tudja, hogy arra mi szüksége
@@ -2228,8 +2209,7 @@
                a jelentést, mert egy térképcsomót gyűrt ki, melyen a Dunának azon csavarodása volt
                kijelölve, mely néhány ezer holdat aláiszapolt már. Oda volt rajzolva az átvágási
                vonal és egyéb nem volt hátra, mint a hatalmas urak képzelt érdekével szemközt
-               szállni, biztos kilátása lévén, hogy ez ügy eltarthat körülbelül rövid <hi
-                 >nyolcvan esztendeig.</hi>
+               szállni, biztos kilátása lévén, hogy ez ügy eltarthat körülbelül rövid <hi>nyolcvan esztendeig.</hi>
             </p>
             <p>Más ember beelégedett volna azzal, hogy ennyi bolond emberrel végezni tudott egy
                délelőtt, neki esnék a jó ebédnek, nem hogy még ebéd előtt nyolcvan esztendeig
@@ -2479,8 +2459,7 @@
                megszagolás végett. - Mélyen, lehető legmélyebben rejlik a szívben, s ő csöndes, de
                mégis nagy győzelemnek édes boldogságát méltán csak egy asszony élvezheti, - az
                tudja, hogy a nők a győzelmet hányféleképp keresik. Nekik a külszín is elég, -
-               mennyire boldogítható egy váratlan, őszinte meghódolás, nem a hiúságnak, hanem a <hi
-                 >női erénynek!</hi>
+               mennyire boldogítható egy váratlan, őszinte meghódolás, nem a hiúságnak, hanem a <hi>női erénynek!</hi>
             </p>
             <p>A gyertyagyújtás ideje volt, a férficselédnek belépte más irányt adott. Szentpáliné
                egyik gyertyát kezébe vette, pillanatnyi távozásra engedelmet kért, de rövid távollét
@@ -2558,8 +2537,7 @@
                mint Földváry, ki a katonaéletben ugyan elegendő engedelmességet tanult, mikor ezt
                más parancsolta neki, de hogy most a parancsoló is maga legyen, meg az engedelmeskedő
                is: ez már kemény ütközet volt, és e győzelemben csak az a jutalom volt, hogy az első
-               lecsillapodás után fölkelt, az ablakhoz ment, és magában azt mondá: <hi
-                  >ember vagy Földváry.</hi>
+               lecsillapodás után fölkelt, az ablakhoz ment, és magában azt mondá: <hi>ember vagy Földváry.</hi>
             </p>
             <p>Oly nyájas, oly boldog volt a háziasszony, a mennyi boldogság egy özvegyasszony
                házában megférhet. A vacsoránál kínálta vendégeit, kik herkulesi munkát vittek végbe,
@@ -2691,8 +2669,7 @@
                igének hitetlen nép közt, mint aminők mi magyarok vagyunk.</p>
             <p>Az üdvözítőnek nagy csudája volt az öt árpakenyérnek tizenkét kosárnyi morzsája. Hej,
                ha mi asztalunk hulladékát összehordtuk volna, - gondolá Földváry, - ha e morzsákat
-               egy halomba rakni elég gondosak volnánk, ha hazánkat igazán szeretnők; <hi
-                 >a korhelycsapatok tivornyájának fele ugyan meghalna,</hi> de e
+               egy halomba rakni elég gondosak volnánk, ha hazánkat igazán szeretnők; <hi>a korhelycsapatok tivornyájának fele ugyan meghalna,</hi> de e
                józanságból kikerülne mindaz, minek meg kellene lenni, de még egyetlen kődarabja
                sincs meg.</p>
             <p>- Hajts! hajts! Bíztatja megint a kocsist, anélkül, hogy e szóval önmagát is
@@ -2775,8 +2752,7 @@
                megveszi a tetőn, legalább hágy valami írásbeli emléket: a naptárt valami karóban
                erősíti meg a háztetőnek sarkán, azért az írást ekképpen folytatta:</p>
             <p>- Ha valamikor egykori cimboráim kezébe kerülne e papírdarab, vegyenek róla példát,
-               hogy amiért mást meglőttem volna, most magam mondom és írom meg magamról, hogy: <hi
-                 >én haszontalan ember voltam.</hi>
+               hogy amiért mást meglőttem volna, most magam mondom és írom meg magamról, hogy: <hi>én haszontalan ember voltam.</hi>
             </p>
             <p>Kevés reménységem lévén, hogy temetésemen jelen lehessen valaki, magam tartom a
                halottas prédikációt, melynél nem az lesz a nyereség, hogy tisztelendő úr tíz
@@ -2824,8 +2800,7 @@
                <hi>Én haszontalan ember voltam!</hi>
             </p>
             <p>
-               <hi
-                  >..............................................................................</hi>
+               <hi>..............................................................................</hi>
             </p>
             <p>Készen volt az irat, nevét aláírta, és egy póznafélét keresett, melyhez megerősítvén,
                a háztetőn biztosítsa. Egész a nyílásig ment, honnét kitekintvén, látja a négy lovas
@@ -2841,8 +2816,7 @@
                rendelkezése, ha csakugyan egy eltévedt juh olyan kedves, - véli Földváry, ennél
                különb példányt ritkán lehet fogni.</p>
             <p>Aztán mást is gondolt. - Ő magát éppen nem tartá a nemzet prófétájának, de Földváry a
-               hazafiúi szeretetet olyan kötelességnek tartá, mint egy <hi
-                  >“obligatio”</hi>-t, melyet minden becsületes ember megfizet a maga idejében, s ha
+               hazafiúi szeretetet olyan kötelességnek tartá, mint egy <hi>“obligatio”</hi>-t, melyet minden becsületes ember megfizet a maga idejében, s ha
                nem tenné: exequálni nemcsak lehet, de kell is. Ezért, hogy csakugyan arról a
                Földváryról szóljak, kit Pesten és környékén annyian ösmertek, nem tagadom, hogy
                Földváry bizonyos körülmények között a hanyag fizetőket még meg is pálcáztatná. (Én
@@ -2941,8 +2915,7 @@
                jóravaló ember szokásaihoz, - egy rengeteg kastélynak volt ő tölteléke, ki mellől a
                jó bútort és egyéb értékes holmit a cselédek fizetés és gorombaságok fejében régen
                ellopták már. Cselédjeit nem fizette, hanem akár hiszik önök, akár nem, én elmondom,
-               úgy, ahogy hitelt érdemlő embertől hallám: megegyezett tisztjével, cselédjeivel <hi
-                 >szabad lopásra;</hi> hanem jaj volt annak, kit megcsípett, mert
+               úgy, ahogy hitelt érdemlő embertől hallám: megegyezett tisztjével, cselédjeivel <hi>szabad lopásra;</hi> hanem jaj volt annak, kit megcsípett, mert
                szaladhatott előle a rajtavalóval, különben meg is lőtte volna.</p>
             <p>Egy ország beszéli bolondjait, tehát ne kívánják önök, hogy én a szerecsent fehérre
                mosdassam. Bolond volt, bolondságánál csak a gazdagsága volt nagyobb, melyet még ő
@@ -2960,8 +2933,7 @@
                sárkánykígyó, a <hi>“kárbunkulus”</hi> pedig az lett volna, ha valaki
                eltalálná, hogy Józsa Gyuri milyen nevelőt akar, mert erről semmi bizonyosat sem
                tudtak mondani a tisztelt korcsmáros urak.</p>
-            <p>A legelső bemutatván magát, megcsinálván az emberségtudáshoz akkoriban szükséges <hi
-                 >“lábvakarintás”</hi>-okat, nagy büszkeséggel mondja:</p>
+            <p>A legelső bemutatván magát, megcsinálván az emberségtudáshoz akkoriban szükséges <hi>“lábvakarintás”</hi>-okat, nagy büszkeséggel mondja:</p>
             <p>- Mélyen tisztelt uram, én hat nyelven beszélek.</p>
             <p>- Hát azt nem mondaná meg, amice, hány nyelven eszik?</p>
             <p>- Uram, én, ki a múzsákkal foglalkozom egész nap, nagyon keveset áldozom az
@@ -2975,8 +2947,7 @@
             <p>- Mi lenne főbb feladatom, mint bevezetni a tudományok titkába, hogy az élet ösvényén
                el ne tévedjen.</p>
             <p>- Dejsz, amice, elég egyenes föld a Hortobágy, itt el nem téved.</p>
-            <p>- De az <hi>élet,</hi> mélyen tisztelt uram, az <hi
-                  >élet.</hi>
+            <p>- De az <hi>élet,</hi> mélyen tisztelt uram, az <hi>élet.</hi>
             </p>
             <p>
                <hi>-</hi> Már arra volt gondom, hogy a fiú megélhessen, - azon ne
@@ -3010,9 +2981,7 @@
             <p>- Hála istennek! - Mondja magában Józsa Gyuriaztán hangosabban megjegyzi: - Elég lesz
                ide kevesebb prudentia is, amice, tudja, mi az a prudentia?</p>
             <p>- Hogy ne tudnám! - mondja a fiú megörülve, hogy ő is tud valamit, nem is gyanítván,
-               hogy a tekintetes urat éppen ezzel ijeszti meg legjobban: <hi
-                  >Prudentia</hi> diákszó, s magyarul azt teszi, hogy: <hi
-                  >sótartó.</hi>
+               hogy a tekintetes urat éppen ezzel ijeszti meg legjobban: <hi>Prudentia</hi> diákszó, s magyarul azt teszi, hogy: <hi>sótartó.</hi>
             </p>
             <p>
                <hi>-</hi> Hála istennek! - Mondja Józsa megint éledve s újra
@@ -3311,8 +3280,7 @@
                görbe csavarodások közt a napot is majd előttük, majd oldalt, majd utánuk látták, s
                újra, nagyobb emelkedésre jutottak, végre erős meggyőződéssel mondja, hátraszólván
                élete párjához:</p>
-            <p>- Na, asszony, ha ez még így tart egy darabig, - szent, hogy a <hi
-                  >levegőbe</hi> jutunk!</p>
+            <p>- Na, asszony, ha ez még így tart egy darabig, - szent, hogy a <hi>levegőbe</hi> jutunk!</p>
             <p>Harmadnapon délután már Egerből is kimentek, megint északnak fordulván a hegyesebb
                vidékre.</p>
             <p>A legmagasabb hegyen voltak, midőn előttük két gyaloglót láttak, s ami különösebbnek
@@ -3338,8 +3306,7 @@
             <p>- <hi>Pénzért!</hi> ismétlé a csárdás elkomorodva, mintha eszébe jutna
                a csárda, hova minden ember azért szeretett volna bemenni, hogy ott egy pár rossz
                fillérért a csárdást meghajszolja. Hiába, nem tagadja meg természetét, szolgálni még
-               pénzért sem tud; azért nagy megfontolás után elég barátságtalanul mondja: <hi
-                 >“Nem lehet!”</hi>
+               pénzért sem tud; azért nagy megfontolás után elég barátságtalanul mondja: <hi>“Nem lehet!”</hi>
             </p>
             <p>- Nem bírna el az a három ló, attól fél gazduram? kérdi az egyik.</p>
             <p>- <hi>Tündér!</hi> - szólítja a rudast a gazda, megkapva a gyeplőt,
@@ -3557,8 +3524,7 @@
             <p>- Én is itt leszek mindjárt, - mondja a gróf, kihozván egy papírosdarabot, melyre
                ráírta azt a levelet, melyben nemes Pestvármegyét tudósítá, hogy az építendő pesti
                magyar színházhoz megkívántató minden vasat, a gépszerkezettől az utolsó pántig,
-               szilvási vashámorában ingyen megkészítteti, sőt ingyen föl is szállíttatja.<hi
-                  xml:id="_ftnref2">[2]</hi>
+               szilvási vashámorában ingyen megkészítteti, sőt ingyen föl is szállíttatja.<hi xml:id="_ftnref2">[2]</hi>
             </p>
             <p>- Húzd rá cigány! Ordít a búsmagyar, előparancsolva a bandát. Szegény pára sohasem
                volt ilyen boldog, elhitte, hogy az ő indítványa volt a győztes. Persze, Keglevich a
@@ -3596,8 +3562,7 @@
                ösmeri e szilaj, de erőteljes zajt, s mégis mintha öt lovat hajtana, úgy kormányozza
                a kedvet, hogy a barátság is megférjen a kocsin, a hazafiúság pedig illő időben
                beszedi a vámot.</p>
-            <p>Nem tudom, nem verték-e meg a bölcset, mikor azt merte mondani: <hi
-                  >“Kevés bölcsesség kell a világ járásához;”</hi> annál inkább tudom, hogy az
+            <p>Nem tudom, nem verték-e meg a bölcset, mikor azt merte mondani: <hi>“Kevés bölcsesség kell a világ járásához;”</hi> annál inkább tudom, hogy az
                embereket mindenre rá lehet venni jó bánásmóddal, és mi furcsa, mi magyarok e
                gyöngeségünket szóval, írásban és nyomtatásban annyiszor elmondtuk, de hasznunkra
                vagy kárunkra, szomszédaink mind eddig nem tudják.</p>
@@ -3622,8 +3587,7 @@
                gyaloghelyen is megvolt, jól kiszemelvén, hogy láb alatt ne legyen. A gróf először a
                függöny mellől leste, utóbb elhelyezvén úri vendégeit, az első fölvonás alatt egészen
                hátrahúzódott s majdnem közvetlen szomszédságába került a bámuló csárdásnak.</p>
-            <p>Egy hír nélküli darabot adtak, hisz akkor még az egész <hi
-                  >“komédiának”</hi> kevés híre volt, <hi>“Bánk bánt”</hi> adták, a
+            <p>Egy hír nélküli darabot adtak, hisz akkor még az egész <hi>“komédiának”</hi> kevés híre volt, <hi>“Bánk bánt”</hi> adták, a
                bírálók Erdélyben nem tarták jutalomra méltónak. A kritikusoknak akkor is megvolt az
                a szerencsétlenségük, hogy nekik élő ember nem tudott okosat írni, - nálunk
                megvárják, míg valaki halódik, s mikor kiment belőle a lélek, fölturkálják
@@ -3870,8 +3834,7 @@
                írta, mily hatalmas szer a hideglelés ellen a káposzta. Alig várta az alkalmat, hogy
                más betegen is megkísértse az új gyógyszert, s íme, jön egy szebeni szász, hideglelés
                ellen kért orvosságot, tehát mi természetesebb, mint hogy kolozsvári káposztát
-               rendelt neki. Ez a szebeni szász reggelre a káposztától - <hi
-                  >meghalt!</hi> - Az orvos rögtön jegyzőkönyvbe írta, hogy a kolozsvári káposzta
+               rendelt neki. Ez a szebeni szász reggelre a káposztától - <hi>meghalt!</hi> - Az orvos rögtön jegyzőkönyvbe írta, hogy a kolozsvári káposzta
                magyar embernek hideglelésben orvosság, a szebeni szásznak méreg.</p>
             <p>- Gyurka!.. szólítja most a gróf Józsa Gyurit, eszerint te nem vagy magyar ember,
                hanem szebeni szász.</p>
@@ -4320,8 +4283,7 @@
                magának, befolyása untig elég, mi természetesebb, hogy valaki ezt megirigyelte, és
                meg is kérdé tőle:</p>
             <p>- Ugyan, Mózes barátom, mikép gazdagodott meg oly nagyon?</p>
-            <p>- Ne engem kérdezzen ön, hanem honfitársát, N. grófot, ki csak fél esztendő óta <hi
-                 >zsidó,</hi> mégis mennyi kincse van már; hát én, a ki mindig zsidó
+            <p>- Ne engem kérdezzen ön, hanem honfitársát, N. grófot, ki csak fél esztendő óta <hi>zsidó,</hi> mégis mennyi kincse van már; hát én, a ki mindig zsidó
                voltam?</p>
             <p>Első napra elég tárgy volt a sok kaland, éjfélnél is tovább elég volt időtölteléknek,
                tivornyára senki sem gondolt, majd arra másnap, vagy harmadnap kerül a sor, akkor
@@ -4362,8 +4324,7 @@
                neki a dolog nem tetszik, a többi pedig azt vélte, hogy Józsa Gyuri nem tudja olvasni
                a betűt. Még egyet “ümm”-entett, s aztán tovább olvas.)</p>
             <p>“Azt mondod, nem akarsz bemenni; dehogy nem mész, édes barátom, remélem, te csak nem
-               akarsz alábbvaló lenni másoknál, nagy uraink igen jól viselték magukat, mielőtt <hi
-                 >egyetlenegy</hi> zsidónak eszébe jutott volna páholyt venni,
+               akarsz alábbvaló lenni másoknál, nagy uraink igen jól viselték magukat, mielőtt <hi>egyetlenegy</hi> zsidónak eszébe jutott volna páholyt venni,
                elkaptak az orruk elől mindent. Így van jól, édes barátom, a zsidó menjen az öt
                garasos helyre, legalább ha pénzünk nem lesz: a páholyból fölintünk a karzatra, s
                aztán lenyújtják az erszényt.</p>
@@ -4401,8 +4362,7 @@
                kíváncsian a színháztérre jövök, látom a föliratot: <hi>National
                   Theater.</hi>
             </p>
-            <p>Beizentem az igazgató úrhoz, hogy ezt a szívességet <hi
-                  >megköszönöm</hi>, és huszonnégy óra alatt vetesse le a föliratot, mert ha a
+            <p>Beizentem az igazgató úrhoz, hogy ezt a szívességet <hi>megköszönöm</hi>, és huszonnégy óra alatt vetesse le a föliratot, mert ha a
                nemzetnek ajándékoznak ilyest, a nemzet dolga leszen fölirtani, hogy ez a ház a
                nemzeté, nem bízzák azt másra.</p>
             <p>Levették a betűket, hanem ezért semmi harag sem lett; én folytatom a gyűjtögetéseket,
@@ -4411,8 +4371,7 @@
                bőrt lehet húzni.</p>
             <p>Szervusz, magamat ajánlom, és ha véletlenül ott vannak a jó cimborák, mondd meg
                nekik: ne búsuljanak, hanem rivalkodjanak a cigányra, hadd dolgozzék. S ha kedvemért
-               valamit megtesznek, hadd húzza el a cigány azt a nótát, mit már olykor <hi
-                 >elhegedült vala szent Dávid. </hi>Kér:</p>
+               valamit megtesznek, hadd húzza el a cigány azt a nótát, mit már olykor <hi>elhegedült vala szent Dávid. </hi>Kér:</p>
             <p>barátod Földváry Gábor.”</p>
             <p>Az utolsó szónál már megnyikkant a hegedű a folyosón, de Keglevich Miklós nem érzett
                kedvet a mulatsághoz, és a szobában járkáló hajdúnak megparancsolta, hogy a
@@ -4596,8 +4555,7 @@
                bejelentsék neki.</p>
             <p>Az “imsósi” ügyben hatalmas lépést tett, a helytartótanács többszöri vizsgálódás után
                meggyőződött a szükségességről, minden körülmény oda mutatott, hogy az átvágást
-               ellenzeni nem fogja, s akkor azt a földönfutót visszavezetheti a <hi
-                  >“Vendégríkató”</hi>-ba.</p>
+               ellenzeni nem fogja, s akkor azt a földönfutót visszavezetheti a <hi>“Vendégríkató”</hi>-ba.</p>
             <p>- Hol van az a boldogtalan? Kérdi önmagától, talán ezeredszer; de mind hiába, nyom
                nélkül tűnt el a különös ember, egyetlen rokont sem tudósított, s azok régen hiszik,
                hogy a másvilágból néz le a paksiakra, s talán ott is arról gondolkozik, beeressze-e
@@ -4677,8 +4635,7 @@
                te vagy, egyre is megalkuszik. A többit süsd meg nyárson, sovány lesz ugyan a falat,
                de neked így is jó.</p>
             <p>Ne tagadjátok, hogy ostobák vagytok! Az isten véghetetlen kegyelmű! Mily áldott jóság
-               az, midőn azt is beveszi erénynek, midőn az elkövetett vétket töredelmesen <hi
-                 >megvalljátok,</hi> - s ha egykor fölépül a színház, és látni
+               az, midőn azt is beveszi erénynek, midőn az elkövetett vétket töredelmesen <hi>megvalljátok,</hi> - s ha egykor fölépül a színház, és látni
                fogjátok, hogy a színészet nem bukfenchányás, és hogy ha van magyar imádság,
                ugyanazon nyelven nem csak káromkodni de ékesen is lehet szólni, - valljátok meg
                akkor: hogy a magyar színész nem bukfenchányó, s az ő művészete az imádság után
@@ -4738,8 +4695,7 @@
                megint újra kérdik. Így kétségtelen, hogy a felelet nem volt helyes, és az igazi
                felelet nincs még kitalálva.</p>
             <p>- Barátom, - mondja Földváry a felügyelőnek, - e vándorlásnak véget fogunk vetni.</p>
-            <p>- Engem is oda méltóztatik számítani, tekintetes uram, a <hi
-                  >többes</hi> számba? Mondja a felügyelő füle mellé vakarva.</p>
+            <p>- Engem is oda méltóztatik számítani, tekintetes uram, a <hi>többes</hi> számba? Mondja a felügyelő füle mellé vakarva.</p>
             <p>- No hát csak majd magam vetek véget barátom - mondja Földváry, látván, hogy a
                felügyelő minden szereptől fél (nem csuda, könnyen meg lehet unni az örökös
                koldulást). Szégyen, gyalázat, hogy ennyi gyámoltalant itt ki s be löködjenek.
@@ -4763,16 +4719,14 @@
                önnek, hogy ha élek, meg nem halok: fölépítem azt a házat, - egy nagy házat, hallja
                az <hi>úr,</hi> - mondja Földváry még nagyobb tűzzel, - akkorát, hogy
                ne csak egy cigány férjen meg benne, hanem egy egész banda, s akkor se zavarják
-               egymást, ha mind a tizenkettő másik szobában akar hegedülni. - Ezt én mondtam: <hi
-                 >Földváry Gábor,</hi> - most elmehet az úr haza, aztán szállásért se
+               egymást, ha mind a tizenkettő másik szobában akar hegedülni. - Ezt én mondtam: <hi>Földváry Gábor,</hi> - most elmehet az úr haza, aztán szállásért se
                búsuljon. Jó egészséget.</p>
             <p>Olyan örömmel ment el a felügyelő, hogy örömében inkább ugrált, mint ment, - s akárki
                is előbb vélte volna tánctanítónak, mint a vakok intézetebeli felügyelőnek. Úgy
                baktatott az utcán, mintha a zsebében levő kulcs már annak a nagy háznak a kapukulcsa
                is volna, pedig nem azé volt, - hanem a másiké, honnét most akarják őket az utcára
                szórni: hanem csak merjen valaki gorombáskodni, gondolja a felügyelő, majd elhívja
-               Földváryt, kitől ő akkor is félt és remegett, mikor azt mondá: <hi
-                  >hallja az úr! </hi>hát még milyen lehet akkor, mikor valakinek egész haraggal azt
+               Földváryt, kitől ő akkor is félt és remegett, mikor azt mondá: <hi>hallja az úr! </hi>hát még milyen lehet akkor, mikor valakinek egész haraggal azt
                találja mondani: <hi>hallja-e kend!</hi>
             </p>
             <p>Maga maradt az alispán, csak a teendő szaporodott meg eggyel. Se több, se kevesebb,
@@ -4879,8 +4833,7 @@
             <p>- Ostobaság az egész, jer, menjünk a sógorasszonyhoz, nehogy ez a fiú bánatot
                szerezzen neki. Én rendelkeztem úgy, hogy a fiú közel legyen hozzájuk, jer Miska, -
                félre a savanyú képpel!</p>
-            <p>- Ó, véghetetlen jó kedvem van, Gábor, éppen úgy, mintha saját <hi
-                  >esküvőmre mennék.</hi> - Mondja Szentpáli, célzással a különös viszonyra, mit
+            <p>- Ó, véghetetlen jó kedvem van, Gábor, éppen úgy, mintha saját <hi>esküvőmre mennék.</hi> - Mondja Szentpáli, célzással a különös viszonyra, mit
                Földváry nem értett.</p>
             <p>Az ajtón kilépvén, megint jött a felügyelő a vakok intézetéből.</p>
             <p>- Mi baj?</p>
@@ -5357,8 +5310,7 @@
                bottal fogadják.</p>
             <p>- Van ennek a fészeknek érdemes gazdája, uram, - felel a csárdás, - hanem ide már
                csak olyan vendég jön, ki nem kívánkozik ölbe, aztán azt is megköszöni, ha a sót,
-               paprikát eleibe döntöm, mégis a jó nappal nyitja be az ajtót, aztán tudja, hogy <hi
-                 >Istennek hírével </hi>tesszük be utána.</p>
+               paprikát eleibe döntöm, mégis a jó nappal nyitja be az ajtót, aztán tudja, hogy <hi>Istennek hírével </hi>tesszük be utána.</p>
             <p>- Innét talán csak mégsem dob ki kigyelmed? - kérdi a kötekedő vendég a vendégházba
                lépvén, hol a színészek magukban nevették a furcsa párbeszédet.</p>
             <p>- Itt iszen megleszünk, uram, hanem már hiába, én is meg akarok itt benn férni, mert
@@ -5514,8 +5466,7 @@
                inkább diákul mondom el.</p>
             <p>- Sohase vesződjék a tekintetes úr a diákszóval, megértettem én azt magyarul is, és
                még azt teszem hozzá, hogy ezen betegséget sem alleopathice, sem hydropathice, sem
-               diákul, sem franciául, sem németül nem lehet meggyógyítani, hanem csak <hi
-                 >magyarul.</hi>
+               diákul, sem franciául, sem németül nem lehet meggyógyítani, hanem csak <hi>magyarul.</hi>
             </p>
             <p>
                <hi>-</hi> Nem ért engem a tekintetes úr, - mondja Bujanovics elég
@@ -5767,8 +5718,7 @@
             <p>- Nem reméltem, hogy e szerencsétlen pénzviszonyban szükségem legyen e védelemre,
                melyet önöknek köszönhetek.</p>
             <p>- Nekünk nem, hanem törvényeinknek.</p>
-            <p>- <hi>Melyek a magyar embert akkor is védik,</hi> édes Földvárym, - <hi
-                 >mikor nem is “érdemli” meg.</hi>
+            <p>- <hi>Melyek a magyar embert akkor is védik,</hi> édes Földvárym, - <hi>mikor nem is “érdemli” meg.</hi>
             </p>
             <p>- Én nem így mondtam, kegyelmes uram.</p>
             <p>- Az igaz, alispán úr, - de így is mondhatta volna; - teszi hozzá a herceg, -
@@ -6027,8 +5977,7 @@
                hogy emberére talált.</p>
             <p>- Furcsa! gondolá magában Szentpáli, Józsa Gyuri azt mondhatná: Szilváson csakugyan
                kísértetek járnak.</p>
-            <p>Elbocsátja a gróf a csárdást, ki még egyszer visszanézve mondja: <hi
-                  >Nincsen bűnöm, - hisz ez nem kísértet!</hi>
+            <p>Elbocsátja a gróf a csárdást, ki még egyszer visszanézve mondja: <hi>Nincsen bűnöm, - hisz ez nem kísértet!</hi>
             </p>
          </div>
          <div type="chapter">
@@ -6040,8 +5989,7 @@
                lelkesültek nem vetnek ugyan keresztet, mint a szentegyház küszöbén, de e pillanatban
                a kötelességérzet meggyónta a halogatás vétkét, áldozott a lelkesülésnek, és
                megüdvözült a hitben, melyben a remény megígérte a magyar művészet jövendőjét; tehát
-               ne csodálkozzatok, hogy akadt ember, ki meglátta a tömeg közt Földváryt, <hi
-                 >térdrerogyott előtte, és lábát megcsókolá.</hi>
+               ne csodálkozzatok, hogy akadt ember, ki meglátta a tömeg közt Földváryt, <hi>térdrerogyott előtte, és lábát megcsókolá.</hi>
             </p>
             <p>Hagyjuk a többi dolgot a kőmíveseknek, az alispán hazament, hanem erősebb küzdelem
                várja. Széchenyi még egyszer meg akarja vitatni a kérdést, magasan repülő lelkének
@@ -6089,8 +6037,7 @@
             <p>Röstelte a katona, hogy el nem találta a szót, pedig máskor is bátorkodott ő a tűnődő
                alispánnak egy-egy szót a szájába adni, s olyankor a tekintetes alispán úr
                megveregette a vállát; hanem most az aranymívesek után kellett elsétálni, csak már
-               azt tudná, hogy azok mit vétettek, legalább azokra mégis ráijeszthetne: <hi
-                 >különben!</hi>
+               azt tudná, hogy azok mit vétettek, legalább azokra mégis ráijeszthetne: <hi>különben!</hi>
             </p>
             <p>Elment a katona, boltról boltra járt, ahol valami fényeset meglátott, mindenütt
                megkérdezte: <hi>Itt is aranymíves lakik?</hi> Dehogy hagyott volna el
@@ -6098,8 +6045,7 @@
                kényességgel hangoztatván meg a szót, hogy mégis valami kis rezzegetés is legyen az
                izenetben:</p>
             <p>- Hallja az úr, - szavalja a katona, - tekintetes Földváry Gábor alispán úr keményen
-               megparancsolta... (itt egy kis hézagot hagyott, aztán tette hozzá) <hi
-                  >nekem, </hi>hogy az urat okvetlenül színe elé rendeljem, - mert tudja meg az úr,
+               megparancsolta... (itt egy kis hézagot hagyott, aztán tette hozzá) <hi>nekem, </hi>hogy az urat okvetlenül színe elé rendeljem, - mert tudja meg az úr,
                hogy <hi>különben</hi>... (megint hézag) nekem lesz ám akkor bajom.</p>
             <p>Könnyebben esett a lelkének, hogy a békés polgárokat valamelyest is megriaszthatta,
                mert hiába, a vármegyekatona is ember, neki is tetszett a hatalom és tekintély. Aztán
@@ -6118,8 +6064,7 @@
                Egyetlenegyszer történt meg, hogy valaki pénzért akarta tőle megvenni az igazságot,
                de az utolsó szót már a torkába szorította az alispán, s a boldogtalan ember háttal
                ment ki az ajtón, s ebben a kényelmetlen utazásban úgy elfáradt, hogy az ajtón kívül
-               mindjárt hanyatt feküdt. Így mérte Földváry az igazságot, itt nem volt <hi
-                 >ráadás,</hi> itt nem csíptek el a <hi>fontból,
+               mindjárt hanyatt feküdt. Így mérte Földváry az igazságot, itt nem volt <hi>ráadás,</hi> itt nem csíptek el a <hi>fontból,
                </hi>hanem jaj volt annak, ki az igazságot másképp akarta megnyerni, mint a hármas
                könyvből.</p>
             <p>Földváry ritkán ment az utcára, nem igen dörgölőzhetett hozzá minden utcai léhűtő, s
@@ -6280,8 +6225,7 @@
                majd az engedély megjő?</p>
             <p>Ez ügyben már reggel kérette magához N... mérnököt, s az aranymívesek után megjelent
                az alispán szállásán.</p>
-            <p>- Barátom! mutatja Földváry a kiterjesztett térképen az <hi
-                  >“imsósi”</hi> csatornatervet, mennyi idő kellene ennek a csatornának átvágására?
+            <p>- Barátom! mutatja Földváry a kiterjesztett térképen az <hi>“imsósi”</hi> csatornatervet, mennyi idő kellene ennek a csatornának átvágására?
                Hanem pontos adatokat adjon.</p>
             <p>- Itt van a kiszámítás, - mutatja a mérnök, - a közmunkahasználat mellett, ha
                naponként kétszáz ember dolgoznék is, nem tudom, elég lenne-e két esztendő.</p>
@@ -6353,8 +6297,7 @@
             <p>- Hát még?</p>
             <p>- Azt a földönfutót kell megkeresni, - gondolja magában, eleget bűnhődött a
                meggondolatlan tettért, hadd következzék a megvigasztalás is. Mily öröm, mily
-               boldogság lesz e zaklatott embert visszakísérni a <hi
-                  >“Vendégríkató”</hi> helyére, hisz akkor a negyven hold is megnől száz hold
+               boldogság lesz e zaklatott embert visszakísérni a <hi>“Vendégríkató”</hi> helyére, hisz akkor a negyven hold is megnől száz hold
                földnek, mert a kiszárítás után annyi járuléka lesz a negyven holdnak.</p>
             <p>Ez a gondolat is kész már, most meg a gyámleány jut eszébe, valamint Endre, de itt
                már erőt fog Földváryn a küzdelem. E kényes kérdés isten kezében van, s ott az
@@ -6439,8 +6382,7 @@
             <p>- Még ma lesz az?</p>
             <p>- Bele kerül három-négy nap; addig nagysád kegyes leend e levélkét megőrzeni.</p>
             <p>Egyik hölgy sem vélte volna, hogy a bácsi mily rettenetes veszélyben forgott, pedig
-               Szentpáli háromszor huszonnégy óra alatt sem mondta még a sógorasszonynak, hogy: <hi
-                 >csalánba nem vág a mennykő!</hi> Nyelte az orvosságot példás
+               Szentpáli háromszor huszonnégy óra alatt sem mondta még a sógorasszonynak, hogy: <hi>csalánba nem vág a mennykő!</hi> Nyelte az orvosságot példás
                szorgalommal, pedig a daganat még csak negyed nap múlva kezdett lelohadni, s a
                szempillák előbújtak a daganat közül.</p>
             <p>Hatodnap reggelre jó ízű álom után Szentpáli oly könnyen érzé magát, hogy eszébe sem
@@ -6915,8 +6857,7 @@
                ő az ellenkező útnak végéhez, mint hogy ideje lenne egészen visszajőni onnét.</p>
             <p>Fölment vendégeihez, szilaj kedve kerekedett, énekelt, táncolt; sohasem volt
                józanabb, sohasem volt ilyen kedve, pedig ott feküdt a kudarcnak eltagadhatlan jele a
-               sarokban, meg is volt aranyozva, egyéb baja nem is volna, csakhogy <hi
-                  >öt mázsát nyomott.</hi>
+               sarokban, meg is volt aranyozva, egyéb baja nem is volna, csakhogy <hi>öt mázsát nyomott.</hi>
             </p>
             <p>Ugyanannyi nehézségű teher hullott le lelkéről, most már nem kételkedett, hogy
                Szentpálival fogadását okvetlen megnyeri, s ez jobban esik neki, mintha az az öt
@@ -7077,8 +7018,7 @@
                mert magába erőltetni.</p>
             <p>A fiúk látták, hogy ez csak a kényszerűségnek enged; de biztosaknak kell lenniük,
                hogy a többi közé ne keveredhessék. Hirtelen összesúgtak, s el lőn fogadva az
-               indítvány, hogy Endrét le kell itatni, ilyen kezdő ivónak nem kell sok, a <hi
-                 >“Vadászkürt”</hi>-ben szobát nyittatnak neki, hadd aludjék békén,
+               indítvány, hogy Endrét le kell itatni, ilyen kezdő ivónak nem kell sok, a <hi>“Vadászkürt”</hi>-ben szobát nyittatnak neki, hadd aludjék békén,
                míg ők a gyűlésen eldöntik a dolgot.</p>
             <p>Endre nem vigyázott a súgdozásra, az első pohár bor után harsányan kiáltott a
                pincérre, hogy neki ne hozzon ily silány lőrét, hozza el a legjobb borát, ma ő is
@@ -7195,16 +7135,14 @@
             <p>Az eddig hallgatag fiatalság utána mondá a vég-szót: <hi>de
                   mindjárt!</hi> Helmeczy apró tatár szemeivel mindenütt kereste a huszonnégy
                fiatalembert, kik neki ellenkezőt ígértek. Röstelte, hogy a közvéleményt anticipando
-               magáénak hitte, egyetlenegyet sem látott, minden hang a <hi
-                  >“mindjárt”</hi>-ot ismétli. Hasztalan a küzdelem, a közönség ösztönszerűleg érzé,
+               magáénak hitte, egyetlenegyet sem látott, minden hang a <hi>“mindjárt”</hi>-ot ismétli. Hasztalan a küzdelem, a közönség ösztönszerűleg érzé,
                hogy a várakozás elhibáztatná a célt, s ez ösztönt igazolá a következés. Megyeri,
                Bartha, Egressy, Fáncsy, Laborfalvy Róza, László, Lendvay, Lendvaynét, a legjelesebb
                magyar színészeket aligha látta volna együtt a pesti közönség, - tíz évi korszak
                alatt fele elhalt. A kerepesi színháznak első korszaka oly fényes volt, hogy ha ma
                beléphetnénk a duna parti színházba, eszünkbe jutnának ők, kik nem érhették volna meg
                azt a nagy színházat, melynek pompáját csak az ő fényük világíthatná meg méltón. </p>
-            <p>A közönség választott, a kocka el volt vetve, a leghatalmasabb főurak egyike, <hi
-                 >gróf Károlyi György, kardjára támaszkodva szólamlott meg,</hi> hogy
+            <p>A közönség választott, a kocka el volt vetve, a leghatalmasabb főurak egyike, <hi>gróf Károlyi György, kardjára támaszkodva szólamlott meg,</hi> hogy
                ő is a megkezdett alapot akarja folytatni.</p>
             <p>Vége volt a küzdelemnek, egy után indult valamennyi, a megyei közönség a bizonytalan
                jövendőt a mostani lelkesülésnek föláldozta, ki lőn mondva a határozat, hogy az
@@ -7238,8 +7176,7 @@
                visszaemlékezett a múltra, midőn e hegyekre legelőször kapaszkodott föl azon a három
                táltoson, melyek közül most már hihetőleg egyik sem táltos, ha csakugyan nem került
                tímár kézre. - Lenézett a nagy rónára, keblét teleszívta friss hegyi léggel, szemei a
-               délibábban keresték a kun-szent-miklósi és tassi tornyot, meg azokon alól a <hi
-                 >“Vendégríkató”</hi>-i csárdát.</p>
+               délibábban keresték a kun-szent-miklósi és tassi tornyot, meg azokon alól a <hi>“Vendégríkató”</hi>-i csárdát.</p>
             <p>Nem merek vele maradni, bizony még ríva fakad ez a kemény ember. Nagyon fájna nekem,
                ha valami lelketlen hibakutató nem tudná vagy nem akarná megérteni, miért könyezhet a
                legkeményebb ember, mikor eszébe jut vagy meglátja a szülőföldet, hova száz esztendő
@@ -7413,8 +7350,7 @@
             <p>A legnagyobb óvatossággal ment az asszony szobájába, éppen sétálni volt Földváryné
                asszonyság, a férj a rejtett fiókot szépen kivadászta. Talált pénzt; de még az is
                kevés volt, már a konyhapénzhez kelle nyúlni, s annak beleszámításával kikerült a
-               száz forint; csak öt bankó forint maradt a reggeli vásárra az <hi
-                  >alispáni háznál.</hi>
+               száz forint; csak öt bankó forint maradt a reggeli vásárra az <hi>alispáni háznál.</hi>
             </p>
             <p>Ha milliók boldogságát lopta volna el, nem rémülhetett volna meg jobban, mint mikor
                az asszonyságot bejőni látta. Markában volt a pénz, azt kabátja alá fogta, de oly
@@ -7524,8 +7460,7 @@
             <p>- Hány hold földje volt kendnek az “Imsós” mellett?</p>
             <p>- Negyven hold volt, tekintetes úr, sem föle, sem híja nem volt: éppen negyven
                hold.</p>
-            <p>- Most higgyen kend <hi>száz holdat.</hi> Ezt <hi
-                  >parancsolom kendnek.</hi>
+            <p>- Most higgyen kend <hi>száz holdat.</hi> Ezt <hi>parancsolom kendnek.</hi>
             </p>
             <p>Mereven állt az ingyen napszámos, négy-öt öllel magasabban állt a föld fölött, talán
                mivel ennyivel közelebb esik az éghez, a hatalmas úristen könnyebben meghallotta a
@@ -7744,8 +7679,7 @@
             <p>- Ez az én <hi>vakom!</hi>
             </p>
             <p>- Ez az ön áldója! Mondja dr. Lippay, elővezetvén a cigányfiút, szemeiről levette a
-               fekete köteléket, a cigányfiút Endrének ölelő karjaiba vezetve mondja: <hi
-                 >nézd </hi>meg fiam, ez <hi>volt a védő?</hi>
+               fekete köteléket, a cigányfiút Endrének ölelő karjaiba vezetve mondja: <hi>nézd </hi>meg fiam, ez <hi>volt a védő?</hi>
             </p>
             <p>Hasonló jeleneteket nagy élhetetlenség volna magyarázni, a közönség maga gondolja el
                a többit, az én elmondandóm az, hogy a bíróság Endrét az örökségre méltónak
@@ -7942,8 +7876,7 @@
                   Miska!</hi>
             </p>
             <p>
-               <hi
-                  >......................................................................................</hi>
+               <hi>......................................................................................</hi>
             </p>
             <p>A kipontozott sor után Józsának kellett volna valamit mondani; de az megfagyott. Egy
                név ijeszthette meg az életben, Keglevich, ezt a nevet mondá ki, ezért nem tud
@@ -7956,8 +7889,7 @@
                   <hi>megházasodni.</hi>
             </p>
             <p>
-               <hi
-                  >........................................................................................</hi>
+               <hi>........................................................................................</hi>
             </p>
             <p>Itt meg a gróf merevült meg, átlátta, hogy Józsa Gyuri Szentpáli ügyeskedésének
                gondolja a fiúnak viszonyát, és hogy ma hiába beszél a felbőszült embernek, ha
@@ -7966,8 +7898,7 @@
             <p>- Azt, hogy neked igazad van, élj jogoddal, csak arra kérlek, ne ma olvasd fel neki,
                hanem holnap.</p>
             <p>- Jól van, holnapig várok, hadd ázzék addig a lében. Horgon van a hal, még egy
-               éjszaka hadd vergődjék a vízben, holnap aztán én nevetek a vén <hi
-                  >vőlegénynek.</hi>
+               éjszaka hadd vergődjék a vízben, holnap aztán én nevetek a vén <hi>vőlegénynek.</hi>
             </p>
             <p>Bementek a nagyterembe, tartott a társalgás az esteli csöngetésig. Józsa Gyuri
                használta az időt, kiszökött a házból, egy nagy csomó kéngyertyát, s egy nagy darab
@@ -8001,8 +7932,7 @@
                üreg, a hintót oda tolatta be a tiszttartó.</p>
             <p>- <hi>Az én hintómat?</hi> Ordítá Józsa Gyuri, kétségbeesetten ugorva
                föl, mi a többit hallatlan kacagásra indítá.</p>
-            <p>- Mi bajod? - kérdi a gróf a megrémültet, és csillapítani akarván, kérdi: <hi
-                 >haragszol?</hi>
+            <p>- Mi bajod? - kérdi a gróf a megrémültet, és csillapítani akarván, kérdi: <hi>haragszol?</hi>
             </p>
             <p>Ez hozta eszére Józsa Gyurit, a hintóval elégett az okirat is, nem szabad elárulnia
                magát, haragudnia sem szabad, mert még jobban kinevetik. - Nagyot fúj, és kinyögi a
@@ -8436,8 +8366,7 @@
             <p>- Alispán úr, nem elég jutalom, hogy <hi>táblabíróvá tettek?</hi>
             </p>
             <p>***</p>
-            <p>Szegény volt a nemzet, nem adhatott más jutalmat az érdemesnek: <hi
-                  >táblabíróvá</hi> nevezte.</p>
+            <p>Szegény volt a nemzet, nem adhatott más jutalmat az érdemesnek: <hi>táblabíróvá</hi> nevezte.</p>
          </div>
          <div type="chapter">
             <head>Tövises pálya.</head>
@@ -8535,8 +8464,7 @@
                fél Pest meghívja komának, egyetlenegyet se szalasszon el, fogadja el mindenkivel a
                komaságot.</p>
             <p>- Mért nem?... Véli Fáy.</p>
-            <p>- Ó, barátom, én véghetetlen boldog volnék, ha engem Magyarországon a <hi
-                 >táblabíróság</hi> helyett az egész ország meghívna komának, és még
+            <p>- Ó, barátom, én véghetetlen boldog volnék, ha engem Magyarországon a <hi>táblabíróság</hi> helyett az egész ország meghívna komának, és még
                boldogabb lennék, ha mindenhova el is mehetnék a paszitára. Ne nevessen, a Krisztus
                nagy példa, Krisztusnak nem volt kaszinója, tehát elment a kánaáni menyegzőre, s ott
                a vizet borrá változtatta. Mit gondol ön, ha mi ketten elmehetnénk a paszitákba, nem
@@ -8606,14 +8534,12 @@
             <p>- Szent meggyőződésem, hanem alássan könyörgöm, mindent higgyen el nekem, csak ezt
                ne, - mert ennek ön lesz a prófétája, nem én s ha önt azért meg fogják feszíteni:
                bizonyos lehet benne, hogy nagyon meg fogom sajnálni. De hiába, a pasziták és
-               disznótorok nem elemei a takarék-pénztári dicső eszmének, majd ha <hi
-                  >soványabbak</hi> leszünk.</p>
+               disznótorok nem elemei a takarék-pénztári dicső eszmének, majd ha <hi>soványabbak</hi> leszünk.</p>
             <p>- Ekként előadásom nem győzte meg a grófot?</p>
             <p>- Sőt ellenkezőleg, senkit úgy nem, mint engem, az eszme dicső, mindenütt kivihető,
                csak nálunk nem, ámbár kedves Fáy barátomnak igen sok komája van, mint mondja, s
                ennek nagy nyomatéka van előttem, de azért tökéletesen meg vagyok győződve, hogy
-               kedves barátomnak ez indítványa megbukik, minthogy a takarékpénztárnak <hi
-                 >kellékes előzményei nem értek meg Magyarországon, de ön iránti
+               kedves barátomnak ez indítványa megbukik, minthogy a takarékpénztárnak <hi>kellékes előzményei nem értek meg Magyarországon, de ön iránti
                   barátságból</hi> (ugyanezen szavakkal) <hi>mert, amint Fáy barátom
                   mondá, nevemre szüksége van, aláírok egy részvényt; aztán minél több rokon és
                   koma, annál jobb.</hi>
@@ -8625,8 +8551,7 @@
                maga tett volna, mi maradt volna tábornokainak? Széchenyi nagyságát jobban meg nem
                lehet mérni, mintha alulról kezdjük, s azt mondjuk: ez valamit, de ennél többet tett
                a másik; a másiknál többet a harmadik, s midőn így tovább azt mondjuk, ezeknél többet
-               tett egy Földváry és Fáy, végtére azt mondjuk: valamennyinél nagyobb volt a <hi
-                 >gróf,</hi> vagy ha nektek úgy tetszik: gróf Széchenyi István.</p>
+               tett egy Földváry és Fáy, végtére azt mondjuk: valamennyinél nagyobb volt a <hi>gróf,</hi> vagy ha nektek úgy tetszik: gróf Széchenyi István.</p>
             <p>- Széna-e vagy szalma? kérdi Fáyt egyik a jó barátok közül.</p>
             <p>Fölrezzent a merengésből az elszomorodott lelkes ember, hóna alatt volt az iratcsomó,
                az aláírási ívnek legújabb vendége, gróf Széchenyi István. Tehát mi kell több?
@@ -8663,11 +8588,9 @@
                is bírja részvényeit, és keservesen panaszolkodik, hogy akkor többet nem vett, sőt
                Fáy Andrásnak néhány hét előtt azt mondja:</p>
             <p>- Mért nem szidott meg engem, Fáy bácsi, mint egy éretlen gyermeket, hogy többet
-               vettem volna? Mert hisz a remény szépen kivirult, a hatvan forintos részvény most <hi
-                 >már hatszáz forintot ér.</hi>
+               vettem volna? Mert hisz a remény szépen kivirult, a hatvan forintos részvény most <hi>már hatszáz forintot ér.</hi>
             </p>
-            <p>Az első évi forgalom alig volt háromszázezer forint, az idei <hi
-                  >húszmillió pengő forint! </hi>
+            <p>Az első évi forgalom alig volt háromszázezer forint, az idei <hi>húszmillió pengő forint! </hi>
                
             </p>
             <p>Van-e közöttetek olyan ember, ki csak kétszázezer pengő forintot is látott volna?
@@ -8775,8 +8698,7 @@
                előteremteni és forgatni is tudja. E vallomás volt az én adósságom, a többiért legyen
                önnek hálás a nemzet.</p>
             <p>.........................................................................................</p>
-            <p>Jutalma a jobbak megösmerése lőn, egyéb nem jutott, hisz úgyis <hi
-                  >táblabíró</hi> volt már.</p>
+            <p>Jutalma a jobbak megösmerése lőn, egyéb nem jutott, hisz úgyis <hi>táblabíró</hi> volt már.</p>
          </div>
          <div type="chapter">
             <head>Az imsósi átvágás.</head>
@@ -8962,8 +8884,7 @@
                fenekednie nem lehetett.</p>
             <p>Évek lefolyása alatt ízetlen gúny termett a hármas megyének az “imsósi” posványból. A
                szomszéd megyebeli irigy szemmel nézvén Pest, Pilis és Solt megyének büszke
-               szereplését, a gyönge oldalt, a rejtett sebet szívesen megérintette: Paksot és az <hi
-                 >“Imsóst”</hi> emlegette. A pesti szónok megszilajult, ha e
+               szereplését, a gyönge oldalt, a rejtett sebet szívesen megérintette: Paksot és az <hi>“Imsóst”</hi> emlegette. A pesti szónok megszilajult, ha e
                foltocskát érinték, s amit a “vendégríkatói” csárdás kicsinyben szenvedett: a
                bosszantást nagyban kénytelenített szenvedni a megye.</p>
             <p>- E kérdés miatt sokat elnyeltünk már, tekintetes karok és rendek a nagyméltóságú
@@ -9002,8 +8923,7 @@
                a küzdelemben fölizgatott embernek szenvedését, félnek a kitöréstől, de amint
                körülnézett, néhány pillanatig megméri ellenfelét, aztán mély meggyőződéssel
                mondja:</p>
-            <p>- Úgy leszen, mint ön mondá: itt e teremben fogja ön ismételni, amit mondok: <hi
-                 >csodát csinálok.</hi>
+            <p>- Úgy leszen, mint ön mondá: itt e teremben fogja ön ismételni, amit mondok: <hi>csodát csinálok.</hi>
             </p>
             <p>Nem okok, nem a dolog természete győzött, hanem a meglepetés. A szokatlan erélyű
                emberről általános vélemény volt, hogy rendkívüliségekre mer és akar vállalkozni,
@@ -9043,8 +8963,7 @@
             <p>- Maradhatunk tovább? kérdi Endre.</p>
             <p>- Itt kell maradnotok, ti vagytok a hivatalosak, hogy megmutassam azt a napot, mely
                sorsotok bevégződéséhez döntő befolyással vala.</p>
-            <p>A második hét végével megjött a többi is, és láttak csodát, <hi
-                  >húszezer embert</hi> együtt. S e szám megrövidíté az évekre tervezett munkát, két
+            <p>A második hét végével megjött a többi is, és láttak csodát, <hi>húszezer embert</hi> együtt. S e szám megrövidíté az évekre tervezett munkát, két
                hét alatt keresztül volt vágva a posvány.</p>
             <p>Hirtelen leszaladt a víz, Földváry az utolsó nap reggelén Szentpálinénak és
                gyermekeinek elmondá a történet elejét, derekát és végét, s amint a lefutó víznek
@@ -9095,17 +9014,14 @@
                szavaimat és <hi>idézeteimet </hi>bebizonyítani.</p>
             <p>Tetemes fáradsággal összegyűjtött adataimért a felelősséget szívesen elvállalom, el
                is kell vállalnom, mert én nem időtöltésért adom könyveimet a közönség kezébe, hanem
-               hogy a kétségtelen adatok nyomán a múltnak szép példáira hivatkozva, <hi
-                 >meggyőződést</hi> is nyújtsak a közönségnek saját
+               hogy a kétségtelen adatok nyomán a múltnak szép példáira hivatkozva, <hi>meggyőződést</hi> is nyújtsak a közönségnek saját
                életrevalóságunkról.</p>
             <p>Műveim, mint irodalmi termék, alá vannak vetve a megítéltethetésnek.</p>
             <p>Ha nem írtam volna meg minden korrajzomban, hogy adataimra vonatkozólag
                magán-fölvilágosítást is adok, tán menthető volna a gyanúsítás, kivált olyan
                emberektől, kik nem lévén magyarországiak, múltunkat nem ösmerik; de midőn munkáimat
-               felelősséggel bocsátám közkézre: a bírálótól mindenekelőtt <hi
-                  >lelkiismeretességet </hi>követelhetek, s annyi <hi>illedelmet,</hi>
-               hogyha kabátom színe nem tetszik is neki, legalább ne gyanúsítson, hogy azt úgy <hi
-                 >loptam!</hi>
+               felelősséggel bocsátám közkézre: a bírálótól mindenekelőtt <hi>lelkiismeretességet </hi>követelhetek, s annyi <hi>illedelmet,</hi>
+               hogyha kabátom színe nem tetszik is neki, legalább ne gyanúsítson, hogy azt úgy <hi>loptam!</hi>
             </p>
             <p>A bíráló nálunk sok kiváltságot követelt már, - igen természetesen; mert röstel az
                ember minden kicsinységért a közönség előtt pörlekedni; így a bírálók hatalmukat

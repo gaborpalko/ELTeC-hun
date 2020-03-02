@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07264" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07264" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A régi ház: Regény:  ELTeC edition</title>
-            <author>Tormay Cécile(1876-1937)<idno type="VIAF">49267950</idno>
+            <author>Tormay, Cécile(1876-1937)49267950
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -42,18 +40,17 @@
                </relatedItem>
                <relatedItem type="source">
                   <bibl type="printSource"><title>A régi ház : regény</title>
-                     <author>Tormay Cécile</author>
+                     <author>Tormay, Cécile</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Singer és Wolfner</publisher>
                      <date>1917</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/3123563"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/3123563"/>
                   </bibl>
                </relatedItem>
             </bibl>
             <bibl type="firstEdition">
                <title>A régi ház</title>
-               <author>Tormay Cécile</author>
+               <author>Tormay, Cécile</author>
                <date>1814</date>
             </bibl>
          </sourceDesc>

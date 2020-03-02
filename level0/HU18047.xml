@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU18047" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU18047" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A Kráó : Regény : ELTeC edition</title>
-            <author ref="viaf:59084200">Jókai Mór (1825-1904)</author>
+            <author>Jókai, Mór (1825-1904)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -42,7 +40,7 @@
                <relatedItem type="source">
                   <bibl type="printSource"> 
                      <title>A kráó : regény</title>
-                     <author>Jókai Mór</author>
+                     <author>Jókai, Mór</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Révai</publisher>
                      <date>1895</date>
@@ -52,7 +50,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>A Kráó : Regény</title>
-               <author>Jókai Mór
+               <author>Jókai, Mór
                </author>
                <date>1894</date>
             </bibl>

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07751" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07751" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Az urak :  Regény  : ELTeC edition</title>
-            <author>Tolnai Lajos(1837-1902)<idno type="VIAF">6903976</idno>
+            <author>Tolnai, Lajos(1837-1902)6903976
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -44,18 +42,17 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>Az urak : regény</title>
-                     <author>Tolnai Lajos</author>
+                     <author>Tolnai, Lajos</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Franklin-Társulat</publisher>
                      <date>1909</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/3220741"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/3220741"/>
                   </bibl>
                </relatedItem>
             </bibl>
             <bibl type="firstEdition">
                <title>Az urak</title>
-               <author>Tolnai Lajos</author>
+               <author>Tolnai, Lajos</author>
                <date>1872</date>
             </bibl>
          </sourceDesc>

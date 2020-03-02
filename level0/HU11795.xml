@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU11795" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU11795" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Rontó Pál viselt dolgai vizen és szárazon</title>
             <author>
-               Ágai Adolf (1836-1916) <idno type="VIAF">19711540</idno>
+,               Ágai Adolf (1836-1916) 19711540
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -37,12 +35,11 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>Rontó Pál viselt dolgai vízen és szárazon</title>
-                     <author>Forgó bácsi</author>
+                     <author>Forgó, bácsi</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Athenaeum</publisher>
                      <date>1912</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/3075399"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/3075399"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -69,9 +66,8 @@
    </teiHeader>
   <text>
      <front>
-        <div type ="liminal">
-           <p>Bizonyára mindnyájan ismeritek a kópét, aki az ő kebelbarátjával, <hi
-              >Rosszcsont Ferkével</hi>, sok mulatságos órát szerzett nem csupán tinektek; mert
+        <div type="liminal">
+           <p>Bizonyára mindnyájan ismeritek a kópét, aki az ő kebelbarátjával, <hi>Rosszcsont Ferkével</hi>, sok mulatságos órát szerzett nem csupán tinektek; mert
               szüleitek, de tán még nagymamáitok is jókat nevettek már a két pajtás rugaszkodásain,
               midőn még a <hi>Kis Lap </hi>című gyermek-ujságban mutattam be őket. Ferke
               komáról több szó esett akkor, mint Palkórul, mert hogy amaz volt a nagyobbik és
@@ -130,8 +126,7 @@
                előadta, hogy bizony a tekintetes úr drágalátos fia súlyos kárt okozott az ő
                korsóiban, mert azoknak a kilyuggatott edényeknek nemcsak hogy nem veheti semmi
                hasznukat, de még abból is nagy kára származik, mivelhogy a bürgözdi vásárra már nem
-               készíthet nagyobb rakományt, minélfogva arra kéri a tekintetes urat, <hi
-                 >tessen </hi>neki megtéríteni a <hi>dufla
+               készíthet nagyobb rakományt, minélfogva arra kéri a tekintetes urat, <hi>tessen </hi>neki megtéríteni a <hi>dufla
                </hi>veszteséget.</p>
             <p>Pál úr, úgy látszik, tudatára ébredt annak, hogy ez a kártevés nem csupa
                tudatlanságból történt, hanem rátért, hogy itt már a csintalanság ördöge bolygatta a
@@ -212,8 +207,7 @@
             <p>És a következő percben már ott is lógott ég és víz között.</p>
             <p>Nagy jókedvében rikkantott vagy rémültében sikoltott-é?... Csak annyi bizonyos, hogy
                ezekre a szokatlan hangokra a molnárlegény fölérez, az ajtón kitekint... s ott látja
-               Palkó úrfit a forgó kerék tetejében. Ez volt Magyarországon az első <hi
-                  >lift</hi>.</p>
+               Palkó úrfit a forgó kerék tetejében. Ez volt Magyarországon az első <hi>lift</hi>.</p>
             <p>- Tyűh, azt a cigány-miatyánkját! - kiált rá a legény. - Hogy mertél oda fölmászni?
                Valóságos istenkísértés! Meg is mondalak mindjárt a tekintetes úrnak! Lesz hadd el
                hadd! Származol le mindjárt arról a kerékről?...</p>
@@ -798,8 +792,7 @@
                takar­mánnyal nem merte olyan vastagra tömködni tele a gatyáját, jókorát puffant az
                alomra.</p>
             <p>- Jaj!</p>
-            <p>- Hát <hi>ez </hi>az a gyalog röpülés, Pista. Az <hi
-                  >ugrás</hi>!</p>
+            <p>- Hát <hi>ez </hi>az a gyalog röpülés, Pista. Az <hi>ugrás</hi>!</p>
             <p>- No, ha így van, - nyögte Pista - akkor énbelülem aligha lesz madár.</p>
             <p>- Oda se neki! Katonadolog, - nyugtatta őt Pali. - Ha ki valami nagyba kezd, az
                legyen arra elkészülve, hogy elsőre semmi se megy símán - mondá Pali bölcs fölénnyel
@@ -971,8 +964,7 @@
                <hi>Ferke.</hi>
             </p>
             <p>
-               <hi>U. i. </hi>A Svihiről is írhatnál már egy szót. <hi
-                  >F.</hi>
+               <hi>U. i. </hi>A Svihiről is írhatnál már egy szót. <hi>F.</hi>
             </p>
             <p>
                <hi>U. i. </hi>A puskádról se hallok hírt. <hi>F.</hi>
@@ -2075,8 +2067,7 @@
                hogy az ifram keresésére többedmagával megindult, én fogtam magam, Svihit szimatolni
                előre küldtem s Rózsikát kézen vezetve, szerencsésen ide találtunk.</p>
             <p>- De gyerekek - mondá Pali csüggedten - én hozzátok vissza nem mehetek. Hallottam ma
-               napközben, a sátor mögött beszélték a hajósok, hogy a »<hi
-               >Pelikán</hi>«háromárbócos nagy vitorlás, hajóinast keres. Két nap mulva indul. Én
+               napközben, a sátor mögött beszélték a hajósok, hogy a »<hi>Pelikán</hi>«háromárbócos nagy vitorlás, hajóinast keres. Két nap mulva indul. Én
                oda akarok beszegődni még az éjjel. Ott látom silbakolni a födélzeten az őrt. Vele a
                kapitány elé vezettetem magam. De akár sikerül, akár nem: mély hallgatást fogadtok
                nekem!</p>
@@ -2151,8 +2142,7 @@
                az istálló, az alsó udvar, a kert, az ő dolgozó-szobája, Ágnes néni, Nebizdrá bácsi,
                az öreg csősz, a harangozó, az udvar cselédsége, a Pista gyerek meg a Svihi kutya -
                mind valamennyien az ő hívei.</p>
-            <p>S hogy vitorlaszárnyait büszkén kibontva, repülni kezdett a »<hi
-                  >Pelikán</hi>«, Pali végignézett az elmaradó parton. Könnybe boruló szeme előtt
+            <p>S hogy vitorlaszárnyait büszkén kibontva, repülni kezdett a »<hi>Pelikán</hi>«, Pali végignézett az elmaradó parton. Könnybe boruló szeme előtt
                feltűntek a búcsuzó jóbarátok is: Rózsika, Pista, s a fájdalmasan csahintó Svihi, meg
                a komédiás sátor előtti jelenet, midőn apját s Roszcsont Ferkét ismerte föl. És
                szívére keserű megbánás érzete szállott. De már későn.</p>
@@ -2288,8 +2278,7 @@
                puskát, pisztolyt töltöttek meg. Maga a parancsnok is töltött pisztollyal sietett a
                többi után.</p>
             <p>- Rablók? - kérdezte Pali. - Kérek puskát én is!</p>
-            <p>- Nem rablók, csak rabló. De ez az egy aztán tízzel is fölér. A <hi
-                  >cane pesce </hi>az, a <hi>kutyahal</hi>, mint nevezi az olasz nép;
+            <p>- Nem rablók, csak rabló. De ez az egy aztán tízzel is fölér. A <hi>cane pesce </hi>az, a <hi>kutyahal</hi>, mint nevezi az olasz nép;
                a <hi>cápa</hi>.</p>
             <p>- A cápa? - kiáltott fel szinte ujongva Pali.</p>
             <p>- Parancsnok uram, engedelmével a legénység közé állanék. Tán csak kapok fegyvert én
@@ -2299,8 +2288,7 @@
             <p>Palit nagyon izgatta a kiváncsiság, színről-színre látni a hirhedt tengeri
                rablóhalat, melyről már annyit hallott, mióta a hajón van, s régebben sokat is
                olvasott.</p>
-            <p>Alátekintett, s ott látott egy piszkos-szürke nagy testet, versenyt úszni a »<hi
-                 >Pelikán</hi>«-nal, melyet egymásután többször nagysebesen meg is
+            <p>Alátekintett, s ott látott egy piszkos-szürke nagy testet, versenyt úszni a »<hi>Pelikán</hi>«-nal, melyet egymásután többször nagysebesen meg is
                került, de hanyatt úszva, mert ennek a ragadozónak a természet nem adta meg azt a
                tehetséget, hogy prédáját, mint a többi hal, hasmánt úszva ejthesse meg s nyelhesse
                el.</p>
@@ -2434,9 +2422,7 @@
                fülesről. Uj látnivaló vonzotta őket, de különösen Palit, akinek lelkében a
                legizgatóbb érzelmek ébredeztek. Hát még mikor, vállain szivárványszínű szárnyakkal,
                egy fehér ló hátáról piros cédulákat szórt le egy aranyos leányka s kedvesen csengő
-               szóval hirdeté, hogy »<hi>sta sera</hi>« (ma este) lesz a nagyszerű <hi
-                 >rappresentazione, </hi>(művészi előadás) alla <hi
-                  >piazza di fera</hi>, (a vásártéren) - bum, bum!</p>
+               szóval hirdeté, hogy »<hi>sta sera</hi>« (ma este) lesz a nagyszerű <hi>rappresentazione, </hi>(művészi előadás) alla <hi>piazza di fera</hi>, (a vásártéren) - bum, bum!</p>
             <p>De ezt már nem a tündérke, hanem a pojáca mondta, nagyokat puffantva a nyakában lógó
                öreg dobon.</p>
             <p>Hát persze, hogy ő volt, a világhírű Hasdrubáldo társaságának jeles kómikusa, a Beppo
@@ -2455,8 +2441,7 @@
                művészcsapat utcai előadásának egyik jelenete. Várta is, hogy no most mindjárt lesz
                itt holmi tréfás találkozás.</p>
             <p>De biz’ az váratlanul megszakadt s hirtelen félbemaradt. Mert ugyan-ebben a
-               pillanatban a kikötő felől mozsár durrogása jelentette, hogy a »<hi
-                  >Pelikán</hi>«fölszedi a vasmacskáit s indul tovább.</p>
+               pillanatban a kikötő felől mozsár durrogása jelentette, hogy a »<hi>Pelikán</hi>«fölszedi a vasmacskáit s indul tovább.</p>
             <p>Palinak, hogy eldördült a visszahívó szigorú mozsárjel, annyi ideje sem jutott, akár
                csak kezelni is régi barátaival s különösen megölelni Rózsikát, aki evégett lesiklott
                a lováról. Mentül előbb vágyott elérni a testvérként kegyelt hívét, Palit, ő is.</p>
@@ -2482,8 +2467,7 @@
                érdeklő művész­csapatot, amely felől egy-egy trombita-harsonás nyilalt el a hajóig,
                meg a nagy dobnak egy-egy puffanása döngött el.</p>
             <p>A kedvező szél ezalatt mind erősebben nyomta előre a vásznakat, úgy hogy ezek, mint
-               roppant szárnyak, gyorsan röpítették a »<hi>Pelikánt</hi>«<hi
-                 >.</hi>
+               roppant szárnyak, gyorsan röpítették a »<hi>Pelikánt</hi>«<hi>.</hi>
             </p>
             <p>Hovatovább el-elmaradoztak a karcsú világítótornyok, a Traján császár oszlopa s mind
                a kimagasló templomok s keskeny házak.</p>
@@ -2527,9 +2511,7 @@
                hogy segített ő is megejteni a cápát, s hogy Rózsikáékkal találkozott, amely
                találkozást, kevésben múlt, hogy meg nem sinylette. Más parancsnok bizony elverte
                volna rajta a port, de a jólelkű Morlakovics kapitány enyhén vette a dolgot, pedig
-               végzetessé válhatott volna a fiúnak ábrán­dozása, ha a »<hi
-                  >Kormorán</hi>« gőzös jókor nem veszi észre a »<hi
-               >Pelikán</hi>«-t.</p>
+               végzetessé válhatott volna a fiúnak ábrán­dozása, ha a »<hi>Kormorán</hi>« gőzös jókor nem veszi észre a »<hi>Pelikán</hi>«-t.</p>
             <p>Pali valójában nagy, igazi veszedelemre áhítozott. Példának okáért viharra, midőn
                ide-oda dobálja a szélvész ereje a hajót; igazi, kétlábú tengeri rablókra: afféle
                rettentő kalózokra, mint a minőkről olvasott is, idősebb matróz pajtásai beszéltek
@@ -2549,16 +2531,13 @@
                az utolsó lecke óta, mely csak­nem vesztét okozhatá hajójának, eszén járt és mint
                idősebb pajtásai is szívesen elismerték, derék kis tengerész vált belőle, a magyar
                pusztai gyerekből, itt a végtelen vizi rónán.</p>
-            <p>Igy érték el <hi>Kerkyra </hi>szigetét, melynek járatosabb neve <hi
-                 >Korfu</hi>. E név eredete arra a két magas­latra vezethető vissza,
+            <p>Igy érték el <hi>Kerkyra </hi>szigetét, melynek járatosabb neve <hi>Korfu</hi>. E név eredete arra a két magas­latra vezethető vissza,
                melyeket a görög nép kiválóságukért <hi>korifeusok</hi>-nak nevezett
                el. Innen <hi>Korfu</hi>.</p>
             <p>A ki- és berakodás idejéből néhány órát itt is engedett a megengesztelt parancsnok,
                aki e sziget történeti multjából sokat beszélt Palinak. Hogy ott ama váracs alatt
                indult meg a peloponnesusi háború. Hogy itt uralkodott Alkinóosz, a feákok
-               uralkodója, aki barátságosan fogadta királyi lakába a hajótörött, beteg <hi
-                 >Ulyssest</hi>, akit meg <hi>Alkinóosz </hi>leánya, <hi
-                 >Nausikaa </hi>királykisasszony gyöngéden gondozott. S amott lent, a
+               uralkodója, aki barátságosan fogadta királyi lakába a hajótörött, beteg <hi>Ulyssest</hi>, akit meg <hi>Alkinóosz </hi>leánya, <hi>Nausikaa </hi>királykisasszony gyöngéden gondozott. S amott lent, a
                kis apró szigetke körül a nagyobbik a »feákok hajója« nevet viseli, melyet Zeüsz
                haragja változtatott földdé. Ismertetésében a kapitány ekkor áttért a későbbi korra:
                midőn a velencei köztársaság foglalta el, aminek nyomát mutatja a bástyákon és
@@ -2571,8 +2550,7 @@
                is tellett, hogy megmászva a velencei kezektől rakott bástyákat, fölkapaszkodjon az
                egyik korifeusnak világító toronnyal koronázott ormára, ahonnan aztán szétnézett s
                megittasodott a gyönyörű látványtól. Egyszerre két tengeren is héjázott el szeme: az
-               Ádrián, s az Ioniai-tengeren. Amoda meg <hi>Épirusnak, </hi>a mai <hi
-                 >Albániának </hi>hótakart tetői tündököltek feléje s lábainál
+               Ádrián, s az Ioniai-tengeren. Amoda meg <hi>Épirusnak, </hi>a mai <hi>Albániának </hi>hótakart tetői tündököltek feléje s lábainál
                rózsával telehintett bokrok, magnolia, mirtus, rozmarin s aranygyümölcsökkel gazdagon
                megrakott narancsfák virítottak.</p>
             <p>Fáradtan és boldogan tért be aztán egy parti kávéházba, melybe ki-benyüzsgött a tarka
@@ -2618,8 +2596,7 @@
                 XXII. Egy levél.
             </head>
             <p>Korfu szigetétől, melyet rövid ottidőzése alatt nagyon megszeretett, csak nehéz
-               szívvel vált meg Pali. Ki- és berakodás után órányi időt sem vesztegetett a »<hi
-                 >Pelikán</hi>«.Élni kellett a kedvező széllel, s folytatni az utat a
+               szívvel vált meg Pali. Ki- és berakodás után órányi időt sem vesztegetett a »<hi>Pelikán</hi>«.Élni kellett a kedvező széllel, s folytatni az utat a
                görög szigeteken keresztül Patrászig, ez élénk mozgalmú kereskedő-városig, mely az
                immár lehanyatlott Korynthus rovására fejlődött Görögország második legnépesebb
                kikötő-városává.</p>
@@ -2798,8 +2775,7 @@
                túl két nappal toldottuk meg előadásainkat. De nem lehetetlen, hogy Hazdrubaldóék
                szintén errefelé tartanak. Mintha fülheggyel hallottam is volna erről a szándékáról
                az én vetélytársamnak. Talán be is tetszik várni, míg ideérkeznek?</p>
-            <p>- Erről a reménységről le köll tennem. A mi hajónk, a »<hi
-               >Pelikán</hi>«, négy nap mulva fölszedi horgonyait s vitorlázunk innen Korinthusba.
+            <p>- Erről a reménységről le köll tennem. A mi hajónk, a »<hi>Pelikán</hi>«, négy nap mulva fölszedi horgonyait s vitorlázunk innen Korinthusba.
                Nincs kizárva, hogy Patrászban több napot töltenek igazgató úrék s lehet az is, hogy
                a másik művésztársasággal itten találkoznak. Ebben az esetben tegyen, kérem, rólam
                említést Rózsika primadonna s az én artista társam és földim előtt, akit csak Pista
@@ -2832,8 +2808,7 @@
                fáradságos és költséges vállalkozás! Már Nero császár idejében foglalkoztak az
                átmetszés gondolatával, hogy megkíméljék a Peloponnes körülhajózását. Az ezeréves
                gondolatot csak nagykésőre (1889-1893) sikerült valóra váltani.</p>
-            <p>Nekünk magyaroknak elégtételünkre szolgálhat ez a tetemes munka. <hi
-                  >Türr </hi>István, a jeles tábor­nok, volt annak megindítója, és a hatalmas munka
+            <p>Nekünk magyaroknak elégtételünkre szolgálhat ez a tetemes munka. <hi>Türr </hi>István, a jeles tábor­nok, volt annak megindítója, és a hatalmas munka
                egyik vezető mérnöke <hi>Pulszky </hi>Garibaldi, a kitűnő tudós, író és
                politikus, Pulszky Ferenc fia. Ez a csatorna 325 kilométerrel rövidíti meg az utat,
                melyet Paliék roppant fáradságosan és időveszteséggel tettek meg, most pedig
@@ -2841,8 +2816,7 @@
             <p>A »<hi>Pelikán</hi>«derék parancsnoka bő és alapos magyarázataival
                minden alkalommal rajta volt, hogy bővítse Pali ismereteit. Midőn egy hosszú
                hegyoldalt értek, mely balról húzódott el a tenger mellett, Pali nagy meglepetéssel
-               értette meg, hogy ez a hosszúkás hegyoldal az a táj, melyet a görögök <hi
-                 >Helikon</hi>-nak neveztek el és a múzsák tartózkodó helyének véltek.
+               értette meg, hogy ez a hosszúkás hegyoldal az a táj, melyet a görögök <hi>Helikon</hi>-nak neveztek el és a múzsák tartózkodó helyének véltek.
                Pali meg­lepetésébe némi fájdalom vegyült, mert bizony a Helikon hegyén még egy bokor
                sem akadt, mely alatt a múzsa tanyázhatott volna. Vandál kezek kiirtottak onnan
                minden fát lombostul, virágostul, s így már ez okon is hasztalan nézelődött volna
@@ -2857,8 +2831,7 @@
             <head>
                 XXIV. Athénében.
             </head>
-            <p>Romban a kikötő, romban a város, romban a vár: a várossal szemben levő <hi
-                 >Akrokorinthus</hi>.Semmi, ami vonzotta, érdekelte volna. Ismert
+            <p>Romban a kikötő, romban a város, romban a vár: a várossal szemben levő <hi>Akrokorinthus</hi>.Semmi, ami vonzotta, érdekelte volna. Ismert
                utcai képek és jelenetek, melyeket már az eddig látottakban tapasztalt: dologtalan,
                rongyos alakok s dolgos emberek, hasonlókép rongyokban. És rongyos gyerekek sokasága,
                melyek ott hancúroztak az ódon bástyák omladékai között. A gyerekhad tarka
@@ -2890,12 +2863,10 @@
                szemléltető, gyakorlati módon lehetne megtanulni, de pompás volna!«</p>
             <p>Végre a negyedik napon feltűnt előttük a világ csodálatra legméltóbb építészeti
                remekének, az <hi>Akropolisznak </hi>a kelő hajnal aranyos pírjában
-               rezgő ködképe. Közel érték tehát <hi>Piräust</hi>, ami <hi
-                 >Athént </hi>jelenti, mert ennek egyik külvárosa, melyben a kikötő
+               rezgő ködképe. Közel érték tehát <hi>Piräust</hi>, ami <hi>Athént </hi>jelenti, mert ennek egyik külvárosa, melyben a kikötő
                fogadja kőkarjaiba az egész föld tengerei felől ide igyekvő hajókat.</p>
             <p>Érthető, hogy Pali égett a vágytól betenni lábát az emberi művelődés legdúsabban
-               buzgó forrásának színhelyére, a fényes multú Athénébe, a ragyogó <hi
-                  >Periklész </hi>városába, mely nem fegy­verrel, hanem előkelő nemes fiainak
+               buzgó forrásának színhelyére, a fényes multú Athénébe, a ragyogó <hi>Periklész </hi>városába, mely nem fegy­verrel, hanem előkelő nemes fiainak
                tudásával, művészetével, fenkölt lelkével hódította meg a világot.</p>
             <p>Jóságos kapitánya, ha már eddig is, ezentúl még bővebben mérte Palinak a
                szabadságidőt. Alig várta, hogy parancsnoka társaságában bejárhassa a város tereit és
@@ -2922,8 +2893,7 @@
                nem származik ez a füstös atyafiság!</p>
             <p>Egy szabados téren vagy öt kocsi szorult össze táborrá. Rajkók és purdék vígan
                hempergőztek a szekér farában, vagy dulakodtak a gyöpön, persze körülrajongva az arra
-               haladó vagy ott ácsorgó kiváncsi nézőket; kunyorálva tőlük a <hi
-                  >pendarit</hi>, amely pénzdarab egy drachmának 20-ad része. (Mai pénzünk szerint
+               haladó vagy ott ácsorgó kiváncsi nézőket; kunyorálva tőlük a <hi>pendarit</hi>, amely pénzdarab egy drachmának 20-ad része. (Mai pénzünk szerint
                körülbelül 1 korona 1 drachmát ér.) Tehát amolyan görög »krájcsárka« az a
                pendari.</p>
             <p>A férfiak úgy látszik, oda jártak »faluzni«, mert csak a némbere tanyázott a
@@ -3095,8 +3065,7 @@
             <p>Útjuk terjedelmes olajfa-erdő mellett vezetett el. Ügetés közben is alkalmat vett a
                kapitány, felhívni Pali figyelmét az olajfa sűrüségére.</p>
             <p>- Úgy nézd ezt az erdőt, hogy ennek árnyékában gyüjtötte maga köré tanítványait a
-               görög hajdankor egyik nagy bölcselője: <hi>Plato </hi>(v. <hi
-                 >Platon</hi>), aki andalgás közben avatta híveit az ő bölcselésébe,
+               görög hajdankor egyik nagy bölcselője: <hi>Plato </hi>(v. <hi>Platon</hi>), aki andalgás közben avatta híveit az ő bölcselésébe,
                melynek mélységét s nemes lendületét egy görög bölcselői iskola sem multa felül.</p>
             <p>Pali szeretett volna leszállni a lováról, hogy ő is andalogna itt. Hadd léphetett
                volna évezrek után a nagy görög filozófusnak valóságos nyomdokaiba, - de sürgetett az
@@ -3210,8 +3179,7 @@
             <p>Hazulról várt választ, az édesanyja kezevonásai után sóvárgott. De hogy ezekből nem
                jutott, hálás szívvel vette annak a jó rokonnak s hű barátnak sorait is, és mivel már
                letellett az idő, sietett haza a »<hi>Pelikán</hi>«födélzetére.</p>
-            <p>Még egy pillantást vetett a görög hajdan csodaművére: az <hi
-                  >Akropoliszra</hi>, a <hi>Jupiter-temploma </hi>romjának magas
+            <p>Még egy pillantást vetett a görög hajdan csodaművére: az <hi>Akropoliszra</hi>, a <hi>Jupiter-temploma </hi>romjának magas
                oszlopaira, a <hi>Heródes </hi>színházi csarnokára s a bástya falába
                vájt tömlöcbe, melyben <hi>Szokratészt</hi>, e fennkölt bölcselőt
                üldözte a bírák halálos ítélete elé Athénnek s egész Görögországnak háládatlan népe.
@@ -3270,8 +3238,7 @@
                pusztába, s azon merengett, hogy mennyi minden változott meg azóta. Maga is a gyereki
                korból legénysorba lépett. A tizenhetedik esztendőt járta s már a bajusza is
                ütögetett.</p>
-            <p>Igy futottak be a <hi>szaloniki </hi>öbölbe, az <hi
-                  >Egei-tengernek </hi>e nevezetes kikötőjébe. Most már, hogy ismeretei
+            <p>Igy futottak be a <hi>szaloniki </hi>öbölbe, az <hi>Egei-tengernek </hi>e nevezetes kikötőjébe. Most már, hogy ismeretei
                meggyarapodtak, Pali a maga emberségéből tudta, hol jár. Az ősi Makedónia és Thrákia
                kormány-kerületének (vilajetjének) központjában, mely ez idő szerint török
                fenn­hatóság alatt áll, ahonnan viszen az út Dyrrhachium felé, amely város nem más,
@@ -3298,8 +3265,7 @@
                százait; az égnek meredő árbocok sűrü erdejét; az ide s tova iramló apróbb járművek,
                csolnakok és <hi>kaik</hi>-ok (ladik) nyüzsgését; az ágyúkkal
                fegyverzett vértes hadihajók óriásait; a környező magaslatok gerincén a távol Kelet
-               felé egymás mögött cammogó meg­rakodott tevék hosszú vonalát; a <hi
-                  >Pera </hi>és <hi>Sztambul</hi>, az újabb és régi városrész között a
+               felé egymás mögött cammogó meg­rakodott tevék hosszú vonalát; a <hi>Pera </hi>és <hi>Sztambul</hi>, az újabb és régi városrész között a
                tengerszoroson átvezető, Európát Ázsiával összekapcsoló roppant hajóhidon hullámzó
                tarka tömeget; a szultánoknak a víz partján tündöklő fehérmárvány palotáit; szóval:
                minden festői pompáját s káprázatos színességét, elevenségét Napkelet e legzajosabb,
@@ -3308,8 +3274,7 @@
                még tapasztalt kalauzt is, az öreg Níkót, aki már többször járt Konstantinápolyban s
                annak kiválóbb pontjait rendre ismerte.</p>
             <p>Első útja a <hi>Jedikuléh</hi>, <hi>a hét torony
-               </hi>várába vezérelte, annyi magyar jelesnek börtöne felé. Itt sínylődött <hi
-                 >Szilágyi </hi>Mihály, <hi>Hunyady </hi>Mátyás
+               </hi>várába vezérelte, annyi magyar jelesnek börtöne felé. Itt sínylődött <hi>Szilágyi </hi>Mihály, <hi>Hunyady </hi>Mátyás
                nagybátyja; itt <hi>Majláth </hi>János, <hi>Béldy
                </hi>Pál és többen. Megállapodtak az <hi>Ejub </hi>nevű külvárosban is,
                és áldoztak az itteni katolikus templom temetőudvarának egyik dús olajfája alatt
@@ -3334,9 +3299,7 @@
                akik áruikat kelletik.</p>
             <p>De hiszen a leíró toll végét nem lelné, ha mind azt el akarná sorolni, amit a szem
                itten meglát.</p>
-            <p>Mind között azonban, amit tapasztalnia jutott, legmélyebben vésődött emlékébe a <hi
-                 >forgó </hi>és <hi>üvöltő dervisek </hi>(barátok) <hi
-                 >dzsámijában </hi>(templomában) tett látogatása s rémes, vérengző
+            <p>Mind között azonban, amit tapasztalnia jutott, legmélyebben vésődött emlékébe a <hi>forgó </hi>és <hi>üvöltő dervisek </hi>(barátok) <hi>dzsámijában </hi>(templomában) tett látogatása s rémes, vérengző
                jeleneteivel a <hi>perzsa rajongók Husszein-ünnepe.</hi>
             </p>
             <p>Amazoknak csak a lába mozog a kábító forgásban, míg a többi test mozdulatlan.
@@ -3353,9 +3316,7 @@
                élesre fent karddal vagdaló, már inkább mészárló hithű <hi>siita
                </hi>(a muzulmánok egyik felekezete) fanatizmusnak ha végét nem is vethették, de
                határt szabtak.</p>
-            <p>És hogy is mulasztotta volna el Pali bemutatni kegyeletes hódolatát <hi
-                  >Zrinyi </hi>Ilona sírján, ott a francia benediktinusok templomában, a <hi
-                 >Pera </hi>városrészben. Virággal szórta el a sírirat meg­fakult
+            <p>És hogy is mulasztotta volna el Pali bemutatni kegyeletes hódolatát <hi>Zrinyi </hi>Ilona sírján, ott a francia benediktinusok templomában, a <hi>Pera </hi>városrészben. Virággal szórta el a sírirat meg­fakult
                aranybetüit s fenkölt érzetekkel szívében tért hajójára, melyet ott ringatott az esti
                szellő a kikötőben.</p>
             
@@ -3364,15 +3325,13 @@
             <head>
                 XXIX. Az Édes-vizek mellett.
             </head>
-            <p>A jóságos parancsnok a szokottnál is koraibb kelésre intette Palit, mert holnap <hi
-                 >péntek </hi>lesz, a török <hi>vasárnap</hi>. Nagy
+            <p>A jóságos parancsnok a szokottnál is koraibb kelésre intette Palit, mert holnap <hi>péntek </hi>lesz, a török <hi>vasárnap</hi>. Nagy
                katonai parádé, a szerecsen testőrök felvonulása, az ünneplő tömeg nyüzsgése, a
                janicsár banda harsogó kürtzenéje, a katonai és egyéb főtisztek, az udvari
                méltó­ságok s végül a <hi>padisah </hi>(a szultán) megjelenése lóháton
                vagy ragyogó hintón - mind ez várta a szemlélőt.</p>
             <p>Ez a <hi>szelámlik</hi>. Oly ünnep, mely közepet foglal a vallási és
-               világi szertartás között. Amelyet követ a majális-forma népmulatság az <hi
-                 >Édes-vizek </hi>partjain, virágzó erdő árnyán, hímes gyöpön.</p>
+               világi szertartás között. Amelyet követ a majális-forma népmulatság az <hi>Édes-vizek </hi>partjain, virágzó erdő árnyán, hímes gyöpön.</p>
             <p>Természetes, hogy Pali már hajnalban talpra ugrott; de már akkor teljes díszben állt
                előtte az ő szeretett kapitánya.</p>
             <p>- Azért előztelek meg az öltözködésben, hogy figyelmeztesselek: szedjed elő az
@@ -3388,8 +3347,7 @@
                a nyúlós, piros trikó engedett. A derekára kék övét kötötte, matróz-sapkáját
                magyarszínű piros-fehér-zöld szalaggal ékesítette fel. Magatartása, nyúlánk alakja
                olyan előkelő volt, hogy csakugyan kellemesen tűnt fel a közönségnek. Mindenki
-               valamely nagyhatalom tengerész-küldöttsé­géhez tartozó csatlósnak (<hi
-                  >attaché</hi>) nézte, amiben a kapitány mód felett nagy örömét lelte.</p>
+               valamely nagyhatalom tengerész-küldöttsé­géhez tartozó csatlósnak (<hi>attaché</hi>) nézte, amiben a kapitány mód felett nagy örömét lelte.</p>
             <p>Csakugyan: a diplomácia részére fönntartott, szőnyegekkel gazdagon bevont külön
                páholyba vezették őket. A paszomántos udvari cselédek pedig frissítőket: fekete kávét
                apró arany­csészékben, rózsaillatú mézgás kockákat, hideg narancs-szörpöt s egyéb
@@ -3400,8 +3358,7 @@
                fajlovak vontattak a mecset előtt elterülő puszta térre. A metszett, nagy
                tükörablakokból azok a díszbe öltözött, aranyhímzéssel teleszórt s rendjelekkel bőven
                elhintett pici basák fogadták a tömeg üdvözlését. Az apró princek nem viselnek a
-               korukhoz mért gyermeki öltözetet, hanem épp olyat, mint a felnőtt urak: <hi
-                 >vezirek</hi>, miniszterek, magasrangú tisztek, ami elég furcsán hat.
+               korukhoz mért gyermeki öltözetet, hanem épp olyat, mint a felnőtt urak: <hi>vezirek</hi>, miniszterek, magasrangú tisztek, ami elég furcsán hat.
                (A nép is minden nemzetnél ugyanezt cselekszi: gyermekeit korukra való tekintet
                nélkül ugyan-úgy öltözteti a felnőtt, mint magát.)</p>
             <p>Ezután érkeztek hasonlókép tündöklő fogatokon a <hi>padisah </hi>(az
@@ -3413,8 +3370,7 @@
                Szulejmánok és Murádok egyenes leszármazója. Körülötte az ország előkelői ragyogó
                rendi ruhában gyalog környezték az uralkodót, egy szelidarcú, nyájas férfiút, aki
                alatt a nép boldog volt.</p>
-            <p>Ugyan-ebben a percben szólalt meg a fehér márványból épült mecset karcsú <hi
-                 >mináret</hi>-jéből a <hi>müezzin </hi>(pap) éneklő
+            <p>Ugyan-ebben a percben szólalt meg a fehér márványból épült mecset karcsú <hi>mináret</hi>-jéből a <hi>müezzin </hi>(pap) éneklő
                imája. Rá mély csönd következett, mert ezalatt a szultán az ő híveivel a mecset
                belsejébe vonult, ahol kegyes imádsággal váltakozó birodalmi tanácskozás folyt.</p>
             <p>Midőn ismét riadoztak a trombiták, ez a <hi>szelámlik </hi>befejezését
@@ -3444,8 +3400,7 @@
             <p>És mégis tud vigadni. Járnak itt körül cigány táncos leányok, kártyavető cigány
                jósasszonyok, kóklerek és pojácák.</p>
             <p>Nagy kacagás és vidám tapsolás hangzik amonnan a tölgyes alól, de amelyhez közeledni
-               nem szabad, mert ott mulatoznak a szultán feleségei és apró gyermekei. A <hi
-                 >kizlár aga </hi>(a <hi>hárem </hi>- a női lakosztály -
+               nem szabad, mert ott mulatoznak a szultán feleségei és apró gyermekei. A <hi>kizlár aga </hi>(a <hi>hárem </hi>- a női lakosztály -
                őre) és alárendeltjei távol tartanak onnan minden idegent.</p>
             <p>Amint messziről meg lehet különböztetni, egy komédiás-csapat gerjeszt ez előkelő
                hölgy- és gyermekvilág védett körében nagy tetszést és derültséget. Különösen a
@@ -3505,8 +3460,7 @@
             </head>
             <p>Közben az útszéli komédiások befejezték mutatványaikat. A pojáca füttyére a kutya
                vissza­vágtatott. A csapat kezdett szedelőzködni.</p>
-            <p>Illő távolságban az udvari társaságtól Morlakovics Dusán, a »<hi
-                  >Pelikán</hi>«parancsnoka s Rontó Pál, a hajó ellenőrtisztje, bevárták, hogy a
+            <p>Illő távolságban az udvari társaságtól Morlakovics Dusán, a »<hi>Pelikán</hi>«parancsnoka s Rontó Pál, a hajó ellenőrtisztje, bevárták, hogy a
                művész-csapat elhaladjon mellettök.</p>
             <p>A lovarnő pórázon vezette paripáját.</p>
             <p>Midőn megpillantotta Palit, a kantárt kiejtette kezéből s lova sörényébe
@@ -3542,8 +3496,7 @@
                tanácskozást! - vette föl a szót a kapitány. - Hogy miről?... tán fölösleges külön
                kiemelnem. Hanem előbb csitítsuk le erősen jelentkező étvágyunkat.</p>
             <p>Az estebéd gyorsan fejeződött be. S mivel nyugati szokás szerint bort a serlegbe nem
-               tölthet­tek, tilalmas lévén a <hi>Korán </hi>(az <hi
-                  >Izlám </hi>szent írásának) törvényeihez híven a szeszes ital: málnás vízzel
+               tölthet­tek, tilalmas lévén a <hi>Korán </hi>(az <hi>Izlám </hi>szent írásának) törvényeihez híven a szeszes ital: málnás vízzel
                koccintottak. Hiszen amilyen emelkedett hangulatban voltak mindannyian, hevítő italra
                nem is volt szükség.</p>
             <p>- Én úgy vélekedem, - kezdé a kapitány - hogy elsősorban a művészcsapat igazgatójára
@@ -3560,8 +3513,7 @@
                vezetni fog minket: Palit és engem. Rózsika kisasszonyt addig is az én hű Níko
                matrózomra bízzuk.</p>
             <p>Közel érték a kikötőt, ahol Rózsikát az öreg tengerész őrizetébe ajánlották, s ezzel
-               a pojáca után neki az Arany-Szarvnak tengerszoroson túl fekvő városrészbe, <hi
-                 >Szkutariba</hi>.</p>
+               a pojáca után neki az Arany-Szarvnak tengerszoroson túl fekvő városrészbe, <hi>Szkutariba</hi>.</p>
             <p>Az <hi>Eszmeralda </hi>nevű, kissé megvénhedt paripát, kantáron vezette
                az emberséges komédiás.</p>
             <p>A ló, melyet negyedéve maga Pali is idomított, mintha szintén ráismert volna az ő
@@ -3683,8 +3635,7 @@
                mutatta be művészetét és tudom, hogy dicséretet aratott. Ha előkerül, maga is fogja
                bizonyítani.</p>
             <p>- Csakhogy, - felelé Pali - nem igen hiszem, hogy előkerüljön, legalább az önök
-               társaságában nem. Most pedig az ügy teljes tisztázása végett, gyerünk a <hi
-                 >kádi</hi>, a bíró elé!</p>
+               társaságában nem. Most pedig az ügy teljes tisztázása végett, gyerünk a <hi>kádi</hi>, a bíró elé!</p>
             <p>Ekkor ügetett a csoport felé a pojáca.</p>
             <p>Csuklások között rákezdé Mambrilla asszony:</p>
             <p>- Hiszen itt van a Beppo pojáca! Tegyen tanuságot ő, hogy mi mindig emberségesen
@@ -3731,8 +3682,7 @@
                hogy a mi komédiás gazdánk valami bajba keveredett a Rózsika miatt s hogy hirtelen
                hagyták oda a <hi>hánt</hi>, ahol megszálltunk. Mikor aztán a szürkét
                parádésan szerszámoztam fel, fülheggyel meg­hallottam azt is, hogy az egész
-               művész-társaság ki van rendelve <hi>szelámlik </hi>után az <hi
-                 >Édes-vizek </hi>mellé: mulattatni a kis princeket és apró
+               művész-társaság ki van rendelve <hi>szelámlik </hi>után az <hi>Édes-vizek </hi>mellé: mulattatni a kis princeket és apró
                herceg-asszonykákat. De előbbre nem mehettem, mert nem eresztettek az őrök. Hát
                elcsavarogtam a füzes part felé, ahol cigányok muzsikáltak.</p>
             <p>- Cigányok? És miféle cigányok? - tudakolá meglepetve Pali.</p>
@@ -3831,8 +3781,7 @@
                vám- és rendőri hivatal volt az utolsó épülete.</p>
             <p>Tehát ugyanott tanyáztak, ahol signore Hazdrubáldo és a felesége.</p>
             <p>Mire Pali odaért, már éjfélre járt az idő. Az őröket nem volt könnyű vállalkozás
-               igazságos álmukból felkölteni. De végre sikerült egy kis tetézett <hi
-                  >baksis </hi>(borravaló) árán. Ő egy pillanatig sem kételkedett, hogy épp azt a
+               igazságos álmukból felkölteni. De végre sikerült egy kis tetézett <hi>baksis </hi>(borravaló) árán. Ő egy pillanatig sem kételkedett, hogy épp azt a
                cigánybandát terelte elejébe a kedvező sors, akit Rózsika elrablásával lehetett
                vádolni. Fölismerte őket. Ugyanazok, akiket Athén mellett a dafnii romok mellett
                látott a kapitány messzelátó üvegén.</p>
@@ -3941,8 +3890,7 @@
             <p>Előbb a vádlottak jelentek meg: Hazdrubáldo és a felesége; mellettök a vajda és a vén
                cigány­asszony.</p>
             <p>Ekkor belépett a <hi>kádi </hi>(bíró), egy őszbe csavarodott, jóképű
-               öreg úr. Intésére a vádlottakat szembe állította egymással a <hi
-                  >zaptieh.</hi>
+               öreg úr. Intésére a vádlottakat szembe állította egymással a <hi>zaptieh.</hi>
             </p>
             <p>Az érdekelteken kívül csak néhány dologtalan ember s apró naplopó gyermek volt még
                jelen. Ezek guggon ülve helyezkedtek el a földön, az öregje csibukra gyújtva pöfékelt
@@ -4109,8 +4057,7 @@
                el attól az élemedett paripától, mely hátát éveken át hűségesen és türelmesen bocsátá
                a kis művésznő talpai alá. Ott helyben, a piacbíró hozzájárulásával mindjárt magához
                is váltotta egy <hi>szuvadzsi </hi>(vízkeres­kedő) a vén paripát s
-               nyomban rá is akasztotta duzzadó tömlőit, melyek foglalatát a szomjas <hi
-                 >hamálok </hi>(teherhordók) bőven kezdték fogyasztani.</p>
+               nyomban rá is akasztotta duzzadó tömlőit, melyek foglalatát a szomjas <hi>hamálok </hi>(teherhordók) bőven kezdték fogyasztani.</p>
             <p>* * *</p>
             <p>Kedvező szél dagasztotta a »<hi>Pelikán</hi>«vásznait, midőn ez a
                kalmárhajó, kifeszítve vitorla-szárnyait, lassan és kecsesen, mint valami nagy

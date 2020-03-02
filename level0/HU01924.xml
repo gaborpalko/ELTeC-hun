@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU01924" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU01924" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Jurátusélet :  Korrajz  : ELTeC edition</title>
-            <author>Vas Gereben (1823-1868)<idno type="VIAF">36952007</idno> 
+            <author>Vas, Gereben (1823-1868)36952007 
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -44,7 +42,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>Jurátusélet : Korrajz</title>
-                     <author>Vas Gereben</author>
+                     <author>Vas, Gereben</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher> Méhner Vilmos</publisher>
                      <date>1887</date>
@@ -53,7 +51,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>Jurátusélet</title>
-               <author>Vas Gereben</author>
+               <author>Vas, Gereben</author>
                <date>1866</date>
             </bibl>
          </sourceDesc>
@@ -157,8 +155,7 @@
                még agyam tele volt a diákéletnek aranyhegyeket igérő képeivel, csak hogy a képzelt
                hegynek épen azon részénél voltam, mely még nem hegy, hanem völgy; és most kezdém
                gyanitani, hogy föl kell előbb másznom a nagy hegyre, mely bizony lehetett olyan
-               magas, mint a melyről a czigány azt mondá, hogy olyan magas, hogy az ember <hi>egyszerre </hi>meg sem látja a végét, hanem <hi
-                  >kétszer </hi>kell fölnézni!</p>
+               magas, mint a melyről a czigány azt mondá, hogy olyan magas, hogy az ember <hi>egyszerre </hi>meg sem látja a végét, hanem <hi>kétszer </hi>kell fölnézni!</p>
             <p>Tessék elhinni, megdöbbentő érzés, ha az ember kénytelen észrevenni, hogy bizonyos
                körben ő a - <hi>leg­utolsó!</hi>
             </p>
@@ -187,8 +184,7 @@
                figyelmeztetni:</p>
             <p>- Barátom! Az uriszéknek rendes elnöke az öreg <hi>Juhász</hi>,
                herczegi levéltárnok, ki egy­szersmind a fraknói kincstárnak őre. El nem kerülheti,
-               hogy az öreg urral ne találkozzék, már pedig az öreg ur nem az <hi
-                  >Aurorákból </hi>szedi a czifra szólásmódot, azért ajánlom, hogy ébren legyen, ha
+               hogy az öreg urral ne találkozzék, már pedig az öreg ur nem az <hi>Aurorákból </hi>szedi a czifra szólásmódot, azért ajánlom, hogy ébren legyen, ha
                megszólitja. Ha egy uton találnak menni, s az öreg megszólitja, tisztes távolságban
                menjen mellette; mert nádpálczájával azonnal visszatolja. Szükség nélkül ne kérdezze,
                és csak akkor feleljen, ha kérdi; mert az öregnek csudálatosan sikerül bebizonyitani,
@@ -201,8 +197,7 @@
                Juhász; elhiheti ön, hogy a leghatalmasabb herczeg nem bizta lótófutóra a családi
                okmánytárt.</p>
             <p>Végig hallgattam főnökömnek figyelmeztetését, a <hi>nádpálcza</hi>, a
-                  <hi>tisztes távolság </hi>és ráadásul az, mi a <hi
-                  >Aurorák­ban nincs meg</hi>,végig járta idegeimet. Az is meglepett, hogy a győri
+                  <hi>tisztes távolság </hi>és ráadásul az, mi a <hi>Aurorák­ban nincs meg</hi>,végig járta idegeimet. Az is meglepett, hogy a győri
                   <hi>eminentiák </hi>daczára még azon nevet kaphatom, melynek hires
                tulajdonosa azon jámbor állat, mely <hi>“amott a hegytetőn”
                </hi>szokott <hi>szavalni</hi>; de kibékitett, hogy a kérges ur annyi
@@ -211,16 +206,14 @@
             <p>Mivel <hi>ez a pohár nem mulhatott el tőlem</hi>,mint főnököm
                határozottan mondá, föltámadt bennem az amugy is jókora mértékben meglevő
                ellenmondási viszketeg. Nagy kedvet kaptam, hogy az öreg urral mégis szembeszálljak,
-               s ha már egy vármegyének osztogattam az <hi
-               >“éljenek”-</hi>nekkegyelemfalatjait, s némely dicsőségéhes szónok ugy mere­gette rám
+               s ha már egy vármegyének osztogattam az <hi>“éljenek”-</hi>nekkegyelemfalatjait, s némely dicsőségéhes szónok ugy mere­gette rám
                esdő szemeit, mint az utszéli koldus: elhittem, hogy még a rimaszombati hires
                csutorát is kiesztergálnám, ámbár sohasem próbáltam.</p>
             <p>Kismartonban az <hi>“Angyal”-</hi>banmegmutatták azt a nagy szobát,
                melyben uriszékek alkal­mával rendesen öt ágy volt elhelyezve, mégis maradt akkora
                tér, hogy ott hat lóval bizvást nyomtathattam volna. Ez volt az uradalmi és egyéb
                idegyülekező patvaristák tanyája. A szobába léptemkor már négy ágyon láttam egy-egy
-               példányt azon fajta népből, mely csiz­mástól is rá mer heveredni a <hi
-                  >tiszta lepedőre. </hi>Az igaz, hogy egy hét mulva a kémény­seprő­legény nem
+               példányt azon fajta népből, mely csiz­mástól is rá mer heveredni a <hi>tiszta lepedőre. </hi>Az igaz, hogy egy hét mulva a kémény­seprő­legény nem
                feketithetné be jobban a megmosni valót, mint később tapasztalám; de ez áldott
                otthonosságból találtam ki, hogy czéhbeli társaimra akadtam.</p>
             <p>- Maga az uj söprő? - kérdi az ajtóhoz legközelebb heverésző.</p>
@@ -235,8 +228,7 @@
             <p>- Miféle Isten csudája az az öreg <hi>Juhász?</hi> kér­dém őket.</p>
             <p>- Ki az a Juhász? - viszonkérdi a megszólitott, s ekkép magyarázott: Az a Juhász
                olyan <hi>juhász</hi>, ki mellett ezer más ember, ha irgalmasan
-               szólunk: <hi>birka</hi>,jó rész pedig <hi
-               >csacsi</hi>;mert az öreg téns urat bizvást kemény táblába lehetne köttetni, s ha
+               szólunk: <hi>birka</hi>,jó rész pedig <hi>csacsi</hi>;mert az öreg téns urat bizvást kemény táblába lehetne köttetni, s ha
                beállitják egy könyvtárba, a többi könyvet ki lehet dobni, az öreg egymaga meg­felel
                mindenre.</p>
             <p>- Beszéltél vele?</p>
@@ -364,8 +356,7 @@
                uradalmi vadá­szok által el­mondott tény­állást, mint mondá, nem tagadhatja, és
                majdnem elhitette velem, hogy egy nyulért nem volt érdemes az uriszék elé czipelni. A
                vallatási jegyzőkönyvet aláirva az irományok közé helyeztem. Másnap el is itéltettek
-               a bünösök, még pedig az öreg Juhász­nak vitatása folytán a buzalopó kapott <hi>hat </hi>botot, a nyulászó pedig kerekszámban <hi
-                  >negyvenet.</hi>
+               a bünösök, még pedig az öreg Juhász­nak vitatása folytán a buzalopó kapott <hi>hat </hi>botot, a nyulászó pedig kerekszámban <hi>negyvenet.</hi>
             </p>
             <p>Az elitélésen nem valék jelen, az előttevaló napnak hosszu jegyzőkönyvét kellett
                tisztáznom; de midőn az általam vallatottaknak jegyzőkönyve délután kezembe került,
@@ -425,8 +416,7 @@
                lelohad.</p>
             <p>A szólásszabadságról kezdett egyik tekintetes ur beszélni, keményen kárhoztatván azt
                a veszedelmes sza­badságot, mely kiméletet nem ismer. Nem mondom el a támadásnak
-               érveit, elég ebből az, hogy valaki veszedelmesnek tartja: mert <hi
-                  >kellemetlent </hi>is lehet mondani. Az öreg ur vastag, leálló bajuszát egyenesre
+               érveit, elég ebből az, hogy valaki veszedelmesnek tartja: mert <hi>kellemetlent </hi>is lehet mondani. Az öreg ur vastag, leálló bajuszát egyenesre
                huzta az egyik oldalon, s a támadónak ekképen felelt:</p>
             <p>- Magyarországban semmit sem tartok oly nevet­ségesnek, mint a titkos rendőrséget;
                nálunk az a legna­gyobb hazafi, ki nyiltan és nyesetlen őszinteséggel mer beszélni.
@@ -448,8 +438,7 @@
                tekintetben már azért is kétségtelen hasznos, mert ezer meg ezer ember van, kit csak
                az emberek nyelve tartóztat vissza a hibának látszatától is, holott ha maga javára
                eltilthatná a beszédet, még a közönséges bűnöket is elkövetné. És mi félni való van a
-               szabad szótól? Nagyon ösmeretes előttünk azon ügyesség, midőn <hi
-                  >hegedű­szóban szép mesét mondanak</hi>, s ha nem mondhatta ki Aesopus a
+               szabad szótól? Nagyon ösmeretes előttünk azon ügyesség, midőn <hi>hegedű­szóban szép mesét mondanak</hi>, s ha nem mondhatta ki Aesopus a
                leplezetlen igazságot, mesét faragott, s a tetszetős mesét oly szivesen hallgatták,
                hogy mai napig is élünk e régi találmánynyal.</p>
             <p>Az öreg még hosszabban is vitázott; de én már megadtam magamat; mert az öreg olyan
@@ -538,8 +527,7 @@
                hogy kénytelen lopni? S az osztó igazság nevében nem elég annak az a hat
                pálczaütés?</p>
             <p>- Ezt én is igy magyaráztam; hanem a nyulért negyven bot.</p>
-            <p>- Épen annyi, mert az a gazember jómódu gazda, s a torkosság kergette ki, hogy <hi>pecsenyét lopjon! </hi>Min­dennapi kenyér és <hi
-                  >pecsenye</hi>:ez a különbség, te, gyámoltalan!</p>
+            <p>- Épen annyi, mert az a gazember jómódu gazda, s a torkosság kergette ki, hogy <hi>pecsenyét lopjon! </hi>Min­dennapi kenyér és <hi>pecsenye</hi>:ez a különbség, te, gyámoltalan!</p>
             <p>- Már most szamarazzon le a tekintetes ur; mert ezt a magam eszével is fölérhettem
                volna.</p>
             <p>Rám nézett, zavaromat eléggé láthatta; de hosszabb hallgatás után mondja:</p>
@@ -624,8 +612,7 @@
             <p>És mégis betört hozzánk a minden nemü tudás. Eljött gyalog, egy szál kabátban,
                rongyos csizmában, soványan, mint az agár; aztán lett belőle pénzkereső, pénztaláló,
                házépitő, aranyokat gyüjtő, ráadásul két mázsáig hizott kövérség, melynek jó dolgát
-               megirigylettük, de még jó hosszan szemébe kiáltottuk, hogy: <hi
-                  >jött-ment!</hi>
+               megirigylettük, de még jó hosszan szemébe kiáltottuk, hogy: <hi>jött-ment!</hi>
             </p>
             <p>Ó, de szép volt az a másik mult, egy szerencsés kardvágásért kapott a markos legény
                egy jószágot, ráadásul pecsétnyomót, abba rajzoltak egy medvét, mikor a kalpagos
@@ -758,8 +745,7 @@
                mindegy volt az urnak, - ingyen kapta, nem tudta, hogy jobban is lehetne: apjának is
                igy szántottak. Némelyik ur észrevette, ha a robotos paraszt mélyebben eresztené az
                ekét, a termőréteg többet adna; de hát régi dolog, a paraszt mind hunczfut, a
-               huszonötöt is kiállja, még sem használ, maradunk, a kik voltunk: <hi
-                  >született ellenségek. </hi>Mikor forspontban von­tatja a hintót, a parasztnak
+               huszonötöt is kiállja, még sem használ, maradunk, a kik voltunk: <hi>született ellenségek. </hi>Mikor forspontban von­tatja a hintót, a parasztnak
                füle hátra van hegyezve, mit beszélnek az urak? No csak azt lesd, paraszt, hogy
                meg­értsd a mit mi beszélünk. - <hi>Amice! loquamur latine!</hi>
             </p>
@@ -822,8 +808,7 @@
                </hi>A maradók azt hitték, az alkotmányból elvett kő gyengitendi az ős épületet; a
                haladók meggyőződéssel és okokkal vitatták, hogy tulaj­donunkon tetszésünk szerint
                javithatunk tulajdon javunkra.</p>
-            <p>Ha Bécsből támadtak egykor: elég volt a védelemre a hazafiui <hi
-                  >bátorság</hi>,- hogy haladhassunk is, arra <hi>tudo­mány
+            <p>Ha Bécsből támadtak egykor: elég volt a védelemre a hazafiui <hi>bátorság</hi>,- hogy haladhassunk is, arra <hi>tudo­mány
                </hi>kellett, meritve a világ haladásának könyvéből. Nyolczszáz esztendő után a
                nemzetnek jobbjai uj tőkéhez nyultak, a kimüvelt <hi>észhez</hi>,mely a
                jót fölismeri és addig bizonyitja, hogy a nemességnek többsége elhiszi, és tulaj­don
@@ -889,8 +874,7 @@
                kész törvény, mely józan haladást képes előmozditani.</p>
             <p>Figyelmeztetlek, - mondja Juhász, hogy a pártok nem mindig maradnak ellenfelek, néha
                   <hi>ellenségekké </hi>lesznek, s akkor a szenvedély könnyen kimondja
-               a nagy szót, melynek értelmét meg akarom magyarázni, ez a nagy szó: <hi
-                  >a hazaárulás.</hi>
+               a nagy szót, melynek értelmét meg akarom magyarázni, ez a nagy szó: <hi>a hazaárulás.</hi>
             </p>
             <p>Ösmerek egy várost, melyben a pletyka általános nyavalya, hanem e városban három
                ember tultesz vala­mennyin, még pedig a következő sorozatban: a városiak megszólnak
@@ -900,8 +884,7 @@
                szabó, lakatos és talán borbély is; - egyenkint véve mondom, hol van meg a
                csizmadiában, szabóban, lakatos- és borbélyban az a nagy képes­ség, hogy elárulhasson
                egy hazát? Az Istenre kérlek, a <hi>hazaárulásnak </hi>nagy jelentőségü
-               szavát ne pazaroljátok minden fajankóra. Ne hitessétek el a <hi
-                  >semmivel</hi>,hogy ő <hi>valami</hi>;mert ha az árulási képességet
+               szavát ne pazaroljátok minden fajankóra. Ne hitessétek el a <hi>semmivel</hi>,hogy ő <hi>valami</hi>;mert ha az árulási képességet
                mindenkire alkalmazhatónak vélitek, nem érdemlitek meg a szabad­ságot, ha köznapi
                lelkek ellenében megvédeni nem tudjátok. Nagy polgári bünre is csak nagy tehetsé­gek
                képesek, s azok is csak kivételes esetben, ha a hatalmat kezükbe tettük, s azzal
@@ -919,9 +902,7 @@
                biztosabban hódit az ész, mint az erőszak karddal. Ezt a hóditást tanuljátok meg,
                kevésbbé veszélyes, mint a másik, szintoly dicsőséges és sokkal jutalmazóbb.</p>
             <p>Óvakodjatok az olcsó dicsőség-, és olcsó dicsőitéstől. A lapokban elszomorodva látom,
-               hogy a garasos adomá­nyokért hazafiui czimeket osztogatnak. Hát a <hi
-                  >hazafiság </hi>is olyan könnyen kiszalad szánkon, mint a <hi
-                  >hazaárulás</hi>?Szükében vagyunk még a nagy adományoknak, mikor a fillérekért a
+               hogy a garasos adomá­nyokért hazafiui czimeket osztogatnak. Hát a <hi>hazafiság </hi>is olyan könnyen kiszalad szánkon, mint a <hi>hazaárulás</hi>?Szükében vagyunk még a nagy adományoknak, mikor a fillérekért a
                leghálásabb polgári jutalommal fizetünk. Egy pár fejelés csizmát ne tegyünk a nemzet
                oltárára, külön­ben bevalljuk szegénységünket, hogy mezetlen lábbal megyünk
                áldozni.</p>
@@ -938,8 +919,7 @@
                le a hiu dicsekedés.</p>
             <p>Hiába mondjuk, hogy lejárt a tekintélyek kora. A tudás mindig tekintély marad. - Az
                egyszeregyet miért nem merik megvetni az emberek? mert anélkül a három­szor hármat
-               ujjainkon kellene előbb összeadnunk, hogy bizonyosan kimondhassuk: <hi
-                  >kilencz!</hi>
+               ujjainkon kellene előbb összeadnunk, hogy bizonyosan kimondhassuk: <hi>kilencz!</hi>
             </p>
             <p>Meglehet, a régi tekintélyeket a mogorvaság állitá gyülöletes szinbe; s a nagy
                bátorság, mely a vakmerőtől sem irtózik, gyakran vereséget szenvedett a <hi>tudástól</hi>,mely a <hi>nem tudást </hi>azonnal <hi>megalázta</hi>,sőt érzékenyen <hi>megszégyenitette.
@@ -983,8 +963,7 @@
                felejtse el leczkéjét. Kikérdezett az belőle minden magyar szót, mit ő a diák nyelv
                mellett ugy szólván a tüdője fenekére nyelt el, s időnek folytával az asszony
                Ciceronak országából haza rángatta az öreget Magyarországba. Házasságuk olyan volt,
-               minőt az öreg urak szoktak összeboronálni, hogy majd <hi
-                  >összetörődnek</hi>,- mert ha nem határozott is a fiataloknak előleges vonzalma,
+               minőt az öreg urak szoktak összeboronálni, hogy majd <hi>összetörődnek</hi>,- mert ha nem határozott is a fiataloknak előleges vonzalma,
                megvolt az a nagy nyereség, hogy előljáróban tele nem hazudta a fiatal ember a
                kisasszonynak fülét, mint most, s a galambom kis menyecske nem eshetett kétségbe
                azon, mit meg nem igért az ifiur, hogy egy mosolyáért föl­mászik a toronyba, a
@@ -1036,8 +1015,7 @@
                   hogy az Isten a mézet csak ostobák szá­mára teremtette? </hi>- Nem, kedves
                feleségem, én jókor beismertem, hogy szükséges az életben a gyöngéd női kéz, mely
                sima és könnyü kézzel ápolja azon nagy sebe­ket, melyeket a kornak durva keze üt
-               rajtunk, - azért kerestem meg páromat, mely kiegésziti világomat. <hi
-                  >Mily szomoru lenne a nappal nap, az éjszaka csillagok nélkül! </hi>Mondja
+               rajtunk, - azért kerestem meg páromat, mely kiegésziti világomat. <hi>Mily szomoru lenne a nappal nap, az éjszaka csillagok nélkül! </hi>Mondja
                Ovenalis. Én nem féltem a küzdelemtől, kedves asszonykám, sőt vágytam erre, hogy
                boldogságomnak magam is lehessek oka, ha majd életpáromat erről is, amarról is meg
                kell győznöm; hisz előre tudtam, hogy a győzelemnek jutalma jó részben tulajdonommá
@@ -1140,8 +1118,7 @@
                nevezték őt korának daczára is mindig <hi>öregnek</hi>;mert folyvást a
                multra nézett vissza. Tudom, nem hasonlit ő a mostani fajhoz. Ha madárrá változnánk,
                ő csak túzok lenne, nehéz szárnyai­val nem röppenne föl oly könnyen, mint a minden
-               eresz alatt csiripelő veréb; de messzebb röpülne, és sokkal <hi
-                  >magasabban. </hi>A példabeszédeknek benső értékük ódonságukban található, - azaz:
+               eresz alatt csiripelő veréb; de messzebb röpülne, és sokkal <hi>magasabban. </hi>A példabeszédeknek benső értékük ódonságukban található, - azaz:
                hogy a hosszu idő a bennük rejlő igazságot nem volt képes meghazudtolni.</p>
             <p>Ódon példányt akarok Faragónak személyében bemu­tatni, egy megtestesült multat, -
                mely elért azon korba, melynek küszöbén a haladás hirtelen megforditá az irányt, s
@@ -1164,8 +1141,7 @@
             <p>Urnak elég gazdag, embernek igaz példány, lelke azon pohárból iszik, mely Róma
                jeleseinek adott enyhitő italt, ki kényszeritheti őt többre?</p>
             <p>Az idő, ez a nagy mester, mely a mit télen megölt, tavaszszal föltámasztja. Ezredekig
-               nyugodott az ész, a <hi>szépet </hi>már rég kitalálta, - most az <hi>általános jólétet </hi>ösz­tönzi az emberszám s a <hi
-                  >megélhetés föltétele</hi>,mert a jövendő csak ügyes munkáért ad valamit, s kedves
+               nyugodott az ész, a <hi>szépet </hi>már rég kitalálta, - most az <hi>általános jólétet </hi>ösz­tönzi az emberszám s a <hi>megélhetés föltétele</hi>,mert a jövendő csak ügyes munkáért ad valamit, s kedves
                Faragóm, ez időnek jelszava leend; <hi>a ki marad, az nem halad. </hi>E
                békés indulatu öreget fogjuk a hazai átalakulásnak zajos árjába vonni, s a korrajznak
                folyamában megmutatjuk a pondusokat, melyek e csendes gépezetet előre
@@ -1448,8 +1424,7 @@
                meg­várom, hogy a holnapi gyülé­sen becsületére válsz Cicero nyelvének, s olyan <hi>protokollumot </hi>irsz...</p>
             <p>- Én nem, barátom.</p>
             <p>- Jól értetted, a mit mondtam?</p>
-            <p>- A diákot és magyart egyaránt értettem: nem irok többet <hi
-                  >protokollumot!</hi>
+            <p>- A diákot és magyart egyaránt értettem: nem irok többet <hi>protokollumot!</hi>
             </p>
             <p>
                <hi>- </hi>Miért?</p>
@@ -1464,8 +1439,7 @@
                előjogot védelmezni kell, Bécsben pedig németül beszél: - ez védelmezze meg?</p>
             <p>- A diák nyelv a tudományok nyelve.</p>
             <p>- Következőleg igen kevés emberé. Maradjon a doktorok és patikáriusok nyelve, a beteg
-               nem kérdi mitől gyógyul meg, neki a keserü vagy édes egyiránt <hi
-                  >mediczina</hi>;hanem a <hi>Miatyánk</hi>-atmagyarul mondjuk, hogy a
+               nem kérdi mitől gyógyul meg, neki a keserü vagy édes egyiránt <hi>mediczina</hi>;hanem a <hi>Miatyánk</hi>-atmagyarul mondjuk, hogy a
                magyarok Istene is megértse.</p>
             <p>- Haragos vagy, Pali.</p>
             <p>- Apád haragosabb volt, mikor József császár a vármegyére parancsolta a német
@@ -1575,8 +1549,7 @@
                   megteremtjük.</hi>
             </p>
             <p>- Kérdezd meg a nemességet sorban, kiván nagyobb ur lenni, mint most?</p>
-            <p>- Rád bizom a kérdést, szólitsd meg a nagy urakat sorban, de <hi
-                  >magyarul</hi>,hány érti meg, hogy mit kérdez­tél tőle?</p>
+            <p>- Rád bizom a kérdést, szólitsd meg a nagy urakat sorban, de <hi>magyarul</hi>,hány érti meg, hogy mit kérdez­tél tőle?</p>
             <p>- Vajmi kevés lesz.</p>
             <p>- Hányszor védtük meg számukra ez alkotmányt, hogy a váron belül jó dolguk
                legyen?</p>
@@ -1964,18 +1937,15 @@
             <p>Csillag Pálnak inditványa fölzavarta a szomszéd­megyéket. A kiváncsiak első hallásra
                meg­értették, hogy tanulásról is beszél, s hogy a nagy világgal akar haladni, melyről
                erősen állitá, hogy valamicskével többet tud mint uri magunk. Néhány gyülésre
-               eljöttek a szomszéd megyebeliek, s mint a főjegyző kimondá a <hi
-                  >reform-</hi>szót,rögtön megmagyarázta, hogy ez szónak rövidebb, mint ha a <hi>református </hi>atyafiakat kivánná érteni, - s jóval több, mint az
+               eljöttek a szomszéd megyebeliek, s mint a főjegyző kimondá a <hi>reform-</hi>szót,rögtön megmagyarázta, hogy ez szónak rövidebb, mint ha a <hi>református </hi>atyafiakat kivánná érteni, - s jóval több, mint az
                eddigi handabanda, mely egyedül a kormányt szidta. Csillag békét hagyott Bécsnek, az
                atyafiaknak mondá el az igazságokat, s ez már azért is igen kapós volt, mert kevesebb
                veszélylyel járt, mint a kormányt szidni.</p>
             <p>Aztán kecsegtette a gyengébb legényeket, hogy most már magyarul beszélgettek az
                ülésekben, a szó könnyebben engedelmeskedett, igy mindenki elmondhatta nézetét, s
                tetszett az <hi>éljen. </hi>A méltóságos urak sokat elengedtek a
-               rátartósdiból, kezet fogtak a megyebeli közép nemes­séggel, itt-ott <hi
-                  >barátomnak </hi>is mondtak egyeseket, - ez az éhes hiuságnak nyalánksága lett.
-               Hajdan legkövé­rebb tárgya volt a nagygyülésnek a <hi
-                  >huslimitáczió</hi>,- az anyjuk bekergette a gyülésre az apjukot, hogy üssön a
+               rátartósdiból, kezet fogtak a megyebeli közép nemes­séggel, itt-ott <hi>barátomnak </hi>is mondtak egyeseket, - ez az éhes hiuságnak nyalánksága lett.
+               Hajdan legkövé­rebb tárgya volt a nagygyülésnek a <hi>huslimitáczió</hi>,- az anyjuk bekergette a gyülésre az apjukot, hogy üssön a
                mészárosok körmére, hadd adják olcsóbbért a hust. Ezen házi baj minden mozdulható
                tekintetes urat behajtott a megyegyülésre, s ez alkalommal voltak népesebbek a
                gyülések.</p>
@@ -2072,8 +2042,7 @@
             <p>Most figyeljen kegyed!</p>
             <p>A küzdő felek közől azt gyámolitsuk, mely a támaszt bennünk keresi, és önkénytelen
                szövetsé­ge­sünknek ajánl­kozik, hogy a kormányzási érdekeket is védelmezni fogja. Én
-               megelégszem <hi>erély helyett </hi>a biztos, az <hi
-                  >érdekből származott szövetségessel</hi>,s ha bár az adózási kérdésben nem
+               megelégszem <hi>erély helyett </hi>a biztos, az <hi>érdekből származott szövetségessel</hi>,s ha bár az adózási kérdésben nem
                egyeznek is érdekeink, de az együttességnek is adjuk meg a magáét, az adózás
                kérdésében gyámolitsuk a mérsékelt részt, hogy legyen oka, miért védje
                érdekeinket.</p>
@@ -2718,8 +2687,7 @@
                Eltávozni bajosabb, hogy utána nézzen, s igy szemletárgy legyen, s azt gondolja róla,
                hogy: <hi>gyermek.</hi>
             </p>
-            <p>Szorosan apjának karjába kapaszkodott, s mivel az <hi
-               >megtürte</hi>:egyszerre <hi>magasabbnak </hi>érzé magát, ki a
+            <p>Szorosan apjának karjába kapaszkodott, s mivel az <hi>megtürte</hi>:egyszerre <hi>magasabbnak </hi>érzé magát, ki a
                gyermekszobának falai közül most már kiszabadult. Csillag jól érezte a lánynak
                odasimulását, - értette az indulatot, mely a kornak beösmerését kivánta, azért
                visszaszoritá a gyermeknek karját, miből az megértette, hogy apja mától fogva a <hi>hajadonok </hi>sorába emeli.</p>
@@ -3037,8 +3005,7 @@
             <p>Ha én ezen fejezetet azon nyelven irnám, melyen nagyrészt végig beszélgették, csak a
                professzorok értenék meg; mert 1828 körül az uri fajta hirtelenében akarva sem talált
                a magyar szóra, ugy megszokta a diák­beszédet.</p>
-            <p>Furcsaság kedveért megemlitem, hogy még 1840-ben a magyar nyelvtant <hi
-                  >diákul </hi>tanitották, és bevett szólásmód szerint Hungaricának nevezték;
+            <p>Furcsaság kedveért megemlitem, hogy még 1840-ben a magyar nyelvtant <hi>diákul </hi>tanitották, és bevett szólásmód szerint Hungaricának nevezték;
                áldassék az Urnak neve, ki sok mindent megéretett velünk, még azt is, hogy a magyar
                akadémiai titkárnak szállása megér kétezer forintot, egész évi fizetése pedig csak
                ezerkétszáz forint.</p>
@@ -3105,8 +3072,7 @@
                szűrre, vagy a szűrt a foltra?</p>
             <p>- Igen jó kedvem van, urambátyám; mert ha a Bábel tornyához visszakerülünk, mi
                legtöbb keveréket megértünk, sőt, ha Isten életünknek kedvez, valamennyit. Lakásunk a
-               német <hi>Hauzból </hi>származott, diák <hi
-                  >fundamen­tumra </hi>épitettük, a tót <hi>oblákon </hi>nézünk ki az
+               német <hi>Hauzból </hi>származott, diák <hi>fundamen­tumra </hi>épitettük, a tót <hi>oblákon </hi>nézünk ki az
                utczára, - nótánkat a <hi>czigány </hi>huzza, - minden ránk ragad, csak
                tulajdon nyelvünk foszlik le.</p>
             <p>- No, te sohasem vénülsz meg, hogy igy ráérsz a hibákra nyulászni.</p>
@@ -3189,8 +3155,7 @@
             <p>- Éhesen nem fogunk maradni, ha szalonnát kellene is ennünk.</p>
             <p>- Nem az étel határoz, hanem az <hi>étvágy.</hi>
             </p>
-            <p>- Másodszor hallom ezt a szót, Pali barátom, - emliti Faragó, - <hi
-                  >appetitust </hi>akarsz vele mondani.</p>
+            <p>- Másodszor hallom ezt a szót, Pali barátom, - emliti Faragó, - <hi>appetitust </hi>akarsz vele mondani.</p>
             <p>- Ételre való vágy! - Magyarázza Csillag. Nem rossz szó.</p>
             <p>- Tehát jó <hi>étvágyat </hi>kivánok! - Mondja Faragó kedélyesen,
                mintegy helybenhagyásul.</p>
@@ -3299,8 +3264,7 @@
                javitást akadályozza, ujabb törvényt ohajtunk csinálni, mely a javitást előmoz­ditsa,
                röviden: magunknak akarunk parancsolni; magunk­nak, kik engedelmeskedni éppen nem
                szeretünk.</p>
-            <p>Ki ne feledjük az emberi természetet a számitásból. Nem lehetünk <hi
-                  >ellenségek</hi>;hanem csak <hi>ellenfelek. </hi>A legyőzött
+            <p>Ki ne feledjük az emberi természetet a számitásból. Nem lehetünk <hi>ellenségek</hi>;hanem csak <hi>ellenfelek. </hi>A legyőzött
                ellenséget kipusztithatjuk, mert életünkre tört az is; de ellenfelünket ha legyőzzük
                e harczban: diadalunkat ugy bizonyithatjuk be, hogy beteljesedik a jó, hogy Kánaánnak
                földe jobb Egyiptomnak vörös hagymáinál, s velünk együtt osztozik a jobb jövendőben.
@@ -3352,8 +3316,7 @@
                nem adunk kontóra semmit, követeljük, hogy a nagy közönség dicsérjen és vállain
                hordozzon, s nem igen ösmerek olyan bátor ficzkót, ki egy napra hirtelen meg merné
                forditani köpenyegét a pisszegés árán. Ne tagadjuk meg a bátorságot ellenfeleink­től;
-               ha nagyon gyenge legények volnának, nem állnának szembe - <hi
-                  >velünk.</hi>
+               ha nagyon gyenge legények volnának, nem állnának szembe - <hi>velünk.</hi>
             </p>
             <p>- A vesékbe kellene látnunk.</p>
             <p>- Hogy igaz itéletet mondhassunk, barátom! - hangoztatja Csillag.</p>
@@ -3533,8 +3496,7 @@
                meg­állhatott a kapuk előtt anélkül, hogy a botra szorult volna. Már negyedszer áll
                meg, visszagondol Csillagnak szavaira: <hi>nem tudunk hitványak lenni!
                </hi>Ön­magát kémli az öreg, egyéniségének vegyületét fontol­gatja, s először kérdi
-               önmagától, hogy ösmeri-e azon lelki állapotot, mely a feketeségben <hi
-                  >ördögöt </hi>rajzol le, s arra biztatja magát, hogy attól féljen? Tovább firtatja
+               önmagától, hogy ösmeri-e azon lelki állapotot, mely a feketeségben <hi>ördögöt </hi>rajzol le, s arra biztatja magát, hogy attól féljen? Tovább firtatja
                magát, hogy eltagadná-e az igazságot, ha annak kimondása miatt fenyegetni fognák?
                Mindkétszer azt felelte magá­nak: <hi>nem!</hi>
             </p>
@@ -3619,8 +3581,7 @@
                fidibusznak.</p>
             <p>- <hi>Fidibusznak?</hi>
             </p>
-            <p>- Ne tetesd magadat, tudom, hogy meg nem álltad a pipázást; milyen <hi
-                  >magyar ember </hi>válnék belőled, ha nem pipáznál?</p>
+            <p>- Ne tetesd magadat, tudom, hogy meg nem álltad a pipázást; milyen <hi>magyar ember </hi>válnék belőled, ha nem pipáznál?</p>
             <p>De most már kimereszté szemeit a fiu, az öreg nem beszél diákul, bizonyitványait
                fidibusznak praescribálja s pipázásra bujtogatja. Ezen háznál uj szakácsné van, s más
                ételeket főz, s a káposztát többször meg nem mele­gítik az öregnek, különben régi
@@ -3832,9 +3793,7 @@
             <p>- A közönség (publicum) méltó lelkesüléssel <hi>(exaltatió) </hi>fogja
                olvasni legujabb hirünket, melynek az a tárgya <hi>(objectum)</hi>,hogy
                egy ötezer forintos alapitvány <hi>(fundátió) </hi>érkezett a MAGYAR
-               AKADÉMIA (egytől-egyig nagybetüvel) javára. Az alapitónak <hi
-                  >(fundator) </hi>neve még titok, és csak későbbi rendelkezés <hi
-                  >(dispositió) </hi>után lehet a levelet közzétenni <hi>(publicálni).
+               AKADÉMIA (egytől-egyig nagybetüvel) javára. Az alapitónak <hi>(fundator) </hi>neve még titok, és csak későbbi rendelkezés <hi>(dispositió) </hi>után lehet a levelet közzétenni <hi>(publicálni).
                </hi>Pestre egy dunán­tuli postáról expediáltatott. (Ezt már szegény Kulcsár sem
                tudta magyarabban kifejezni.)</p>
             <p>A tekintetes karok sajnálták, hogy ülve nem hallgat­ták a tudósitást, hogy most
@@ -4233,8 +4192,7 @@
             <p>- Édes férjem, <hi>meglátnak a gyermekek!</hi>
             </p>
             <p>Oly igazság volt a nőnek arczában, hogy a férj jobban megijedt, mint mikor nőtlen
-               korában akará meg­ölelni, s attól kelle félni, hogy meglátja az <hi
-                  >“öreg teinsasszony.” </hi>Hirtelen leereszté karjait, megelégedett, hogy nejének
+               korában akará meg­ölelni, s attól kelle félni, hogy meglátja az <hi>“öreg teinsasszony.” </hi>Hirtelen leereszté karjait, megelégedett, hogy nejének
                kezét megcsókolá, de ezt oly hosszan és oly szeretettel, mely a nőt is meglepte.</p>
             <p>- Véletlen jöttél a kertbe?</p>
             <p>- Téged kerestelek, kedves feleségem, - vallja a férj, - tudod, mikor igen boldog
@@ -4469,8 +4427,7 @@
                erőt, - igy hajol le a nemességnek eszmélő része, s a rég szenvedőben testvé­rére
                találván, nem rosszul gondolja: <hi>többen többet birnánk el! </hi>-
                Vállaljunk uj munkát, segélgessük egymást. Mit tanult a nép a rég henyélő
-               nemességtől? <hi>Gyalázatos munkát</hi>,melyre hajduk hajtják, - <hi>hazugságot</hi>, melyaz ütlegtől meg­menti, - <hi
-                  >alattomosságot</hi>,mely a tehertől menekülést igér. </p>
+               nemességtől? <hi>Gyalázatos munkát</hi>,melyre hajduk hajtják, - <hi>hazugságot</hi>, melyaz ütlegtől meg­menti, - <hi>alattomosságot</hi>,mely a tehertől menekülést igér. </p>
             <p>Kifordul e nép régi erkölcséből, s midőn a nemesség a szörnyü tétlenségben elpuhul,
                midőn inai a heverésben elgyengültek: dudva lesz a nép, melyet nem érdemes
                lekaszál­ni, hogy buzakéveként csomóba kössék, - elég neki egy csira égő szalma, mely
@@ -5014,13 +4971,11 @@
                sebet.</p>
             <p>Csillag aggódott, hogy a seregesen haza tóduló főnemességet a fiuk könnyelmüen
                megsértik. Hasztalan számit a fiatal meggondolatlanság az egyesek megdöbbentésére;
-               mert a nagy világban élő csak egytől fél, - az <hi
-                  >elszegényedéstől</hi>,- más meg nem ijeszti. Gróf Vadassy megkapván ügyvédjének
+               mert a nagy világban élő csak egytől fél, - az <hi>elszegényedéstől</hi>,- más meg nem ijeszti. Gróf Vadassy megkapván ügyvédjének
                levelét, a nagy gyülés előtti napon bement a megyei székvárosba, a legelső
                ismerősétől pontosan kikérdezte, kik a pártvezetők?</p>
             <p>Mig a gróf megösmerkedett a helyzettel, a közönség nagy csoportokban járkált a
-               városban, s a ki­ugrasztott hirnek valósulását várta, hogy a <hi
-                  >“bolondkompánia” </hi>némelyeket irgalmatlan macs­ka­zenével fog megrezzenteni.
+               városban, s a ki­ugrasztott hirnek valósulását várta, hogy a <hi>“bolondkompánia” </hi>némelyeket irgalmatlan macs­ka­zenével fog megrezzenteni.
                Nevet senki sem tudott emliteni, mert a <hi>bolond­kompániá­nak
                </hi>vezére meg akarta lepni a közönséget, - igy a tömegek összekószálták a várost,
                hogy mégis tanui lehessenek a szokatlan bomlásnak. Csillag, mint tudjuk, már
@@ -5058,8 +5013,7 @@
                mindenemet védelmezzem; de mivel csak annyit kérnek, hogy én azért még ur maradhatok,
                - könnyü a számitás. - Elengedek egy részt; mert olyan országból jövök, hol a
                szükmarkuságért az arisztokráczia keményen meglakolt, s a bünhödést azért érdemlette
-               meg ez osztály, mert szeretett, de nem tudott a maga idejében <hi
-                  >valódi ur </hi>lenni, - a ki nemesen ad.</p>
+               meg ez osztály, mert szeretett, de nem tudott a maga idejében <hi>valódi ur </hi>lenni, - a ki nemesen ad.</p>
             <p>- Méltóságod a legjobb okokat szolgáltatja nekem, - s ekkép én tanulok
                méltóságodtól.</p>
             <p>- Köszönöm a bókot, főjegyző ur; hanem már készen vagyok, - egyetlenegy töltényemet
@@ -5677,8 +5631,7 @@
                magasra ereszthessetek, mint a hol ti jártok.</p>
             <p>- Keserüséggel mondod ezt, öreg?</p>
             <p>- Teljes meggyőződéssel; mert én az uj korban olyan vagyok, mint a kit az uj hitre
-                  <hi>ugy kell megtéri­teni. </hi>Én sokat el fogok <hi
-                  >hinni</hi>,barátom, hanem mindent erős okokért; de hogy én legyek a példány,
+                  <hi>ugy kell megtéri­teni. </hi>Én sokat el fogok <hi>hinni</hi>,barátom, hanem mindent erős okokért; de hogy én legyek a példány,
                melyet, mint az orvosságos üveget, minduntalan fölráznak: erre nem vállalkozom.
                Sohasem fogatom össze pejlovamat a szür­kével, mindjárt föltünik, hogy nem
                összevalók. Igy lennénk mi ketten az országgyülésen, s hihetőleg én rajtam
@@ -5959,8 +5912,7 @@
                kiméletlen piszkolódása, s merem mondani, hogy a Hollinger-kávéház méltóképen
                folytatása a tizenkét iskolának, még pedig azért, mert a fiatal embert legérzékenyebb
                oldalán, <hi>zsebén </hi>találja, először beszél vele az élet, mely az
-               ostoba hánykolódásnak árát készpénzzel fizetteti meg! azért mondom: <hi
-                  >ne bántsátok a Hollingert!</hi>
+               ostoba hánykolódásnak árát készpénzzel fizetteti meg! azért mondom: <hi>ne bántsátok a Hollingert!</hi>
             </p>
             <p>- Fiuk! - mondja egy bőbeszédü jurátus a többi­nek, - van pénz, hol iszunk ma?</p>
             <p>- <hi>Otthon! - </hi>hangzik a negyedik asztaltól, de azillető nem
@@ -6234,15 +6186,12 @@
                1830-ban még nem lopták el; <hi>mert ingyen</hi>
                <hi>sem kellett.</hi>
             </p>
-            <p>Kapus közel egy óráig beszélgetett a gróffal, az alatt a <hi
-                  >bolondkompánia </hi>előleges összebeszélés szerint összegyülekezett a nagy
+            <p>Kapus közel egy óráig beszélgetett a gróffal, az alatt a <hi>bolondkompánia </hi>előleges összebeszélés szerint összegyülekezett a nagy
                asztalnál. Zajlott a fiatal erő, az országgyülési <hi>bátor beszédek
                </hi>fölmelegiték az ifju vért, s a láng gyujtani kivánt, hogy jelenlétét
                észrevegyék. Né­melyek egy névsorozatot készitének az országgyülés tag­jaiból, s
                eddigi nyilatkozataik szerint sorolván őket, a fiatalság biráskodni kivánt. Mit adhat
-               a fiatal ember az érdemnek? mivel büntethet? A mije van: <hi
-                  >szóval</hi>,- s mivel csak <hi>dicsérhet </hi>és <hi
-                  >gyalázhat</hi>,e két szélsőségben igy vagy amugy tulságoskodott, s itélete még
+               a fiatal ember az érdemnek? mivel büntethet? A mije van: <hi>szóval</hi>,- s mivel csak <hi>dicsérhet </hi>és <hi>gyalázhat</hi>,e két szélsőségben igy vagy amugy tulságoskodott, s itélete még
                mindig gyer­mekes, mint az ölbeli kisdedé, azaz: szeretet helyett csók­jával
                benyálaz, - vagy ha nem szeret, ellenszenvét csak öklének ütésével jelezheti.</p>
             <p>Arról akartak tanácskozni, hogy ne elégedjenek meg a karzati szereppel: az ő hatalmuk
@@ -6330,8 +6279,7 @@
          </div>
          <div type="chapter">
             <head>A tanulás.</head>
-            <p>Az ostoba <hi>reméli</hi>,a kiképzett pedig <hi
-                  >tudja</hi>,hogy megél. Az első a vaksorsban bizik, mely kétségtelen gond­jait is
+            <p>Az ostoba <hi>reméli</hi>,a kiképzett pedig <hi>tudja</hi>,hogy megél. Az első a vaksorsban bizik, mely kétségtelen gond­jait is
                viseli az együgyünek, a másik ismeri a munkásság­nak hatalmát, s a körülményekből
                kiparancsolja a maga részét. Ilyen az egyéni életnek elrendezése, a ki nem hiszi,
                gondolkozzék, alkalmazza ismerőseire, s a tapasztalat igazolandja állitásomat.</p>
@@ -6426,8 +6374,7 @@
                mert csak <hi>goromba tud lenni! </hi>Az első évben hatalommá nőtt a
                karzat: ki ne félt volna egy rakonczátlan fiatalságtól, mely a czigánytól is azt
                követeli, hogy az ő nótáját huzza, másét soha!</p>
-            <p> A bolondkompánia egyik juratériában jött össze, s hallgatta a <hi
-                  >“Törvények szelleme” </hi>czimü munkának feje­zeteit.</p>
+            <p> A bolondkompánia egyik juratériában jött össze, s hallgatta a <hi>“Törvények szelleme” </hi>czimü munkának feje­zeteit.</p>
             <p>A <hi>Beleznayban </hi>és <hi>Komlóban </hi>a
                népénekeseket élén­ken megtapsolja a mostani legénység a hires verset:</p>
             <p>A magyarnak már szokása,</p>
@@ -6579,8 +6526,7 @@
                öntudatosságra törekedjünk, s a népszerüség­nek koszorúját megfonjuk azoknak számára,
                kik azt való­ban megérdemlik. A karzatokon kiabál­tunk: itt vitatkoz­zunk, mint
                azokhoz illik, kikre egykor a haza teendői várnak. Ha mi vagyunk a közvélemény, s az
-               a rosta, melyen át tisztitják a hazafiui erkölcsöt: ez legyen a <hi
-                  >közvélemény asztala</hi>,melyről leszállok azon szent hiedelemmel, hogy nem csak
+               a rosta, melyen át tisztitják a hazafiui erkölcsöt: ez legyen a <hi>közvélemény asztala</hi>,melyről leszállok azon szent hiedelemmel, hogy nem csak
                bátorságunk, hanem értelmünknek is tanuja leend.</p>
             <p>
                <hi>- Éljen</hi>
@@ -6849,8 +6795,7 @@
                gyanakodó tömeg elvesztette a gyülölet fonalát.</p>
             <p>Most már kellett volna valamit mondani. <hi>Kend </hi>ur hallgatott,
                végre a sok unszolásra azt mondja:</p>
-            <p>- Nem mondom, hogy bizonyosan fütyülünk; de azt sem mondom, hogy <hi
-                  >nem fütyülünk!</hi>
+            <p>- Nem mondom, hogy bizonyosan fütyülünk; de azt sem mondom, hogy <hi>nem fütyülünk!</hi>
             </p>
             <p>Az ifju Faragó a magyar nyelv kérdésének előkerü­lésekor meg akarta lepni az
                országgyülést. Ugyanazt akarták tenni a <hi>“lutris”</hi>-ok,kik a
@@ -6949,8 +6894,7 @@
                szükséges ismerni, hogy a megállapitható elveket helyesen alkalmazhassák. Az idő
                mutatta erősen, hogy más nemzetek minden irány­ban haladnak, az eszmék átcsaptak a
                Kárpátokon innen, - s a nemzet kettőre mutatott erős akaratot: valóban haladni és
-               nemzeti öntudatra emelkedni, s mindkettőnek egy utja volt: az <hi
-                  >önképzés!</hi>
+               nemzeti öntudatra emelkedni, s mindkettőnek egy utja volt: az <hi>önképzés!</hi>
             </p>
             <p>- <hi>Hála Istennek, összevesztünk! </hi>- Mondja Faragó pajtásaira
                gondolva.</p>
@@ -6970,8 +6914,7 @@
             </p>
             <p>Harag ez? vagy másnak fillére bőszité föl benne a birvágyat?</p>
             <p>Egyik sem: különb ember akar lenni a maga módja szerint, - s mikor birokra kel, - azt
-               próbálgatja, minek egy bölcsebb intéző hasznát is veheti: az <hi
-                  >erőt.</hi>
+               próbálgatja, minek egy bölcsebb intéző hasznát is veheti: az <hi>erőt.</hi>
             </p>
             <p>Ilyenekről gondolkozik a magános utas, - és egy­magát megkettőzteti: kérdez és felel,
                ugy, mintha más kérdezné, s annak felelne. Benn van a cselekvésben, - épen a
@@ -7110,8 +7053,7 @@
                kérelmét is megtoldá, azért is kivánta a keresést, <hi>mert ő
                   kéri!</hi>
             </p>
-            <p>Ez olyan világos beszéd, mint mikor ő azt mondá, hogy Idáért a <hi
-                  >tüzbe is kész lenne beugrani.</hi>
+            <p>Ez olyan világos beszéd, mint mikor ő azt mondá, hogy Idáért a <hi>tüzbe is kész lenne beugrani.</hi>
             </p>
             <p>- Boldog ifju, kiért ily esengve könyörgenek! - véli Kapus, tovább-tovább fonván
                okosko­dását.</p>
@@ -7236,8 +7178,7 @@
                mely huszonöt évig oly min­dennapi volt, mint a jó nap: <hi>rosszul
                   beszél magyarul; de jó hazafi.</hi>
             </p>
-            <p>A történelmet nem szabad meghamisitani, - egykor a főrendeknél csak <hi
-                  >két szó </hi>emelkedett a magyar nyelv mellett, a többi mind ellene volt, - ez
+            <p>A történelmet nem szabad meghamisitani, - egykor a főrendeknél csak <hi>két szó </hi>emelkedett a magyar nyelv mellett, a többi mind ellene volt, - ez
                szomoru igazság; hanem mégis ezek voltak, kik gyermekeiket nyakrafőre taníttatták a
                magyar nyelvre, - tehát legyen irgalmas az utókor, vagy igaztalan lesz.</p>
             <p> A nemzetiség hitágazat (dogma), abból hajszálnyit sem engedhetett el a
@@ -7256,15 +7197,13 @@
                könyvkelendőséget, igy terjedtek el a jobb versek, s a <hi>“kis lányok”
                </hi>első ajándékul ilyen <hi>“Dalkönyvecskét” </hi>vártak az ifiurtól.
                A derekabb legények az első lapra egy <hi>legyet </hi>rajzoltak, utána
-               következett e szó: <hi>boldog</hi>,megint egy rajz, <hi
-                  >nefelejtset </hi>ábrázolva, s az egész értelem együtt: <hi>Légy
+               következett e szó: <hi>boldog</hi>,megint egy rajz, <hi>nefelejtset </hi>ábrázolva, s az egész értelem együtt: <hi>Légy
                   boldog és nefelejts.</hi>
             </p>
             <p>Ne mosolyogjatok e bölcsőbeli gyermetegségen, nyolczszáz esztendő után ez nagy
                esemény; mert <hi>elkezdő­dött a nemzeti élet.</hi>
             </p>
-            <p>Vörösmarty sokszor elbeszélte, mint sugdozták a mellette elmenők: <hi
-                  >ez ám az a versiró! </hi>Ez azt jelentette, hogy Magyarországban a verscsinálást
+            <p>Vörösmarty sokszor elbeszélte, mint sugdozták a mellette elmenők: <hi>ez ám az a versiró! </hi>Ez azt jelentette, hogy Magyarországban a verscsinálást
                az óriások küzdel­mével egynek számitották. Mikor lett a versirásból <hi>köl­tészet</hi>,mikor tudtuk meg ezt mi magunk, mikor hitte el a
                világ, hogy ez magyarul lehetséges, mikor födözött fel bennünket a külföld? nem irom
                le, elég tudnom, hogy a külföldi szorgalomnak méhe már sokszor átcsap a mi
@@ -7547,8 +7486,7 @@
                Kegyetek házánál hálát érezek szivemben, lefizetem apródonkint, a mint alkalmam
                kerül, s a tárgynál maradva mondom, hogy következtetések nyomán ösmertem föl a
                modort, melyekkel korbelieim hóditásokra indulnak. Én e naptól fogva nem fogom
-               elfeledni, hogy a magyar viszonyok között élve nő irányában én <hi
-                  >követelőnek </hi>látszhatnám, a hol más csak <hi>kérő, s vakmerő
+               elfeledni, hogy a magyar viszonyok között élve nő irányában én <hi>követelőnek </hi>látszhatnám, a hol más csak <hi>kérő, s vakmerő
                </hi>lennék ott, a hol más legfölebb is meggondolatlan.</p>
             <p>- Igy már megértem önt, miért nem lehet boldog.</p>
             <p>- Igy nem leszek tehát egészen boldogtalan.</p>
@@ -7953,8 +7891,7 @@
                fiának egy betüt sem irt. Csillagot tudósította, elküldvén neki Imrének levelét, azon
                kivül ezer forintot, olyan kéréssel, hogy fiának körülményeit tudja ki, ő fizesse ki
                a fizetendőket, s ha a fiu könnyelmü, személyesen megyen föl Pozsonyba.</p>
-            <p>Csillag mindent tudott; mert a szinigazgató megkö­szönvén az egyes <hi
-                  >“pártfogók” </hi>nagylelküségét, örömmel mondá, hogy vesztesége nem volt; mert
+            <p>Csillag mindent tudott; mert a szinigazgató megkö­szönvén az egyes <hi>“pártfogók” </hi>nagylelküségét, örömmel mondá, hogy vesztesége nem volt; mert
                Faragó ur előre biztositotta. Csillag gyengéden kitapogatta a részleteket, és előre
                sajnálta a fiut, hogy apjával meggyülik a baja. Gyanitása beteljesült: megérkezett az
                öreg ur levele.</p>
@@ -8215,8 +8152,7 @@
                és veszedelmes, mert elválasztja őket. Néha nagy ünnepélyen látja urát fényes magyar
                ruhájában, ekkor elfeledi fájdalmát, és büszke urára, mert magyarnak látja, s örömest
                beszéli a szomszéd falubelinek, hogy az ő ura különb a szomszéd uránál, s végre a
-               vitában az a nyertes, ki azt mondhatja, hogy az ő ura <hi
-               >magyar</hi>,svele szóba állt.</p>
+               vitában az a nyertes, ki azt mondhatja, hogy az ő ura <hi>magyar</hi>,svele szóba állt.</p>
             <p>Nem azt felelem méltóságod kérdésére, hogy gyülöli a jobbágy az urat; ösmeri a nép a
                szomszédos urakat, azokból kiválogatja a hir a jót; hanem azt mondom, hogy e nép
                vágyik ura után, óhajtja, hogy vele egy földön lakjék, nyelvét értse, és panaszát
@@ -8609,8 +8545,7 @@
             <p>- Ugy én beleegyezem.</p>
             <p>- Még egy szavazatot kell kérnem, - mondja Kapus Csillagné kezét megcsókolva, -
                mondja ki, asszonyom, hogy vakmerő vagyok.</p>
-            <p>- Emlékszik ön, midőn grófjáról azt mondá, ő nem gróf, hanem <hi
-                  >ember</hi>!</p>
+            <p>- Emlékszik ön, midőn grófjáról azt mondá, ő nem gróf, hanem <hi>ember</hi>!</p>
             <p>- Ezt mondtam.</p>
             <p>- Higyen el rólunk is ennyit, ön szereti lányomat, az szereti önt: ez emberi dolog,
                az anya lányával még áldását is adja.</p>
@@ -8736,8 +8671,7 @@
             <p>Néhány éve áthatólag hangoztatják, hogy az átala­kulás korszakába értünk. Tudom, hogy
                mit értenek átalakulás alatt; mégis bátorkodom az eddigi értelmet valamivel
                megtoldani, s ez: a polgári életben jelentkező <hi>erkölcsi
-               erő</hi>,melynek hiányával az igazságot valósitani sohasem fogjuk. <hi
-                  >Nem bánom: üss, csak hallgasd meg szavaimat! </hi>mondá ama görög, ki készebb
+               erő</hi>,melynek hiányával az igazságot valósitani sohasem fogjuk. <hi>Nem bánom: üss, csak hallgasd meg szavaimat! </hi>mondá ama görög, ki készebb
                volt a haza javára eltűrni ellenfelének öklét, csak az igazat hallgassa meg. Mivé
                lennénk, uraim, a vitatásnak általános korszakában, midőn a jót a jobbtól is meg kell
                különböztetnünk, mondom, mivé lennénk, ha a rosszat a jótól meg nem
@@ -8763,8 +8697,7 @@
                   gyakorlatilag is többet ér száz elrejtett igazságnál; mert a megczáfolt hazugság
                   meghal, az elrejtett igazság pedig meg sem születik.</hi>
             </p>
-            <p>Minden embernek véleménye szükséges most, látnunk kell a túlságokat, a <hi>rohanást</hi>,hova elérni nem akarhatunk, a <hi
-                  >tespedést</hi>,a hol nem maradhatunk. Nem parancsolhatjuk meg a beszédet,
+            <p>Minden embernek véleménye szükséges most, látnunk kell a túlságokat, a <hi>rohanást</hi>,hova elérni nem akarhatunk, a <hi>tespedést</hi>,a hol nem maradhatunk. Nem parancsolhatjuk meg a beszédet,
                legalább engedjük meg; ez hatalmunk­ban van.</p>
             <p>Az ember nem lehet tökéletes, ebben nyugodjunk meg. Az emberi nyilatkozás
                kivéte­lesen átlépheti a kor­látokat, ezt megengedem; de mivel tudom és látom, hova
@@ -9006,8 +8939,7 @@
                mellett százszorta érzékenyebb most, mint lett volna alant? mert ha majd párját
                keresi, kikerülnek előle.</p>
             <p>Ő, az apa, mélyen elmerül s egyszerüségében is kitalálja, hogy fiát fölemelvén, nem
-               tette boldoggá, s hátha a fiu okozni fogja az apát, hogy nem hagyta <hi
-                  >lenn</hi>,a boldog egyszerüségben.</p>
+               tette boldoggá, s hátha a fiu okozni fogja az apát, hogy nem hagyta <hi>lenn</hi>,a boldog egyszerüségben.</p>
             <p>- Biróuram! - szólitja megint az ellenkező - nagy öröm ám az, mikor az ember életében
                látja, kik következnek utána.</p>
             <p>- Ha az Isten méltónak tart ezen kegyelemre, nekem is meg fogja adni.</p>
@@ -9030,8 +8962,7 @@
             <p>- De ha már ez a világ sora, hogy...</p>
             <p>- Igen is, kap a szóba Imre,... az a világ sora, hogy egymástól féljünk, aztán okunk
                legyen egymásra haragudni! Igy volt eddig, ezután máskép lesz!</p>
-            <p>- Megöregszik, a ki ezt megéri! - Mondja kétkedve a másik. Majd még <hi
-                  >fiskárius</hi>...uramöcsém (ezt már ugy toldá hozzá) kiismeri a világot.</p>
+            <p>- Megöregszik, a ki ezt megéri! - Mondja kétkedve a másik. Majd még <hi>fiskárius</hi>...uramöcsém (ezt már ugy toldá hozzá) kiismeri a világot.</p>
             <p>- Nagyon ösmerem, bátyám, én is féltem a világtól; de a jobbak bizodalmat öntöttek
                belém. Ki hitte volna, hogy én még a megye főjegyzőjének veje leszek.</p>
             <p>- <hi>Mi az? </hi>- Kérdé az öreg Kapus majdnem resz­ketve.</p>

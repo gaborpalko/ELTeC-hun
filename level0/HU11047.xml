@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU11047" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU11047" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A világjáró angol :  Kalandos regény  : ELTeC edition</title>
-            <author> Gárdonyi Géza (1863-1922) <idno type="VIAF">24643507 </idno>
+            <author>, Gárdonyi Géza (1863-1922) 24643507 
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -36,12 +34,11 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>A világjáró angol : kalandos regény</title>
-                     <author>Mummery Róbert</author>
+                     <author>Mummery, Róbert</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Heckenast</publisher>
                      <date>1894</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/3069700"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/3069700"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -1259,8 +1256,7 @@
             <p>A harmadik héten Pombó bement hozzájuk és a szokott adagoknál több eledelt vitt be
                magá­val. Az elefántok örömmel vették örül és bizalmasan kotorásztak a kötényében.
                Évának annyira tetszett ez a jelenet, hogy nevekkel jutalmazta meg őket:</p>
-            <p>A legöregebbet <hi>Kundinak</hi>, a feleségét <hi
-                  >Pundinak</hi>, a gyermek-elefántot pedig <hi>Pukundinak</hi>
+            <p>A legöregebbet <hi>Kundinak</hi>, a feleségét <hi>Pundinak</hi>, a gyermek-elefántot pedig <hi>Pukundinak</hi>
                nevez­te el.</p>
             <p>Az elefántok jókedvű ormánylóbálással fogadták ezt a kegyet.</p>
             <p>Azonban egyszer csak megváltozott a hangulat. Kundi körülkapta az ormányával Pombót s
@@ -3260,8 +3256,7 @@
             <p>A másik sürgöny:</p>
             <p>„<hi>Smitt Johnnak, New York:</hi>
             </p>
-            <p>Készítsen egy tuczat divatos pepita ruhát régi kundsaftjának, <hi
-                  >Mummery Róbertnek</hi>, a ki epedve várja sorait Alexandriában, közönséges
+            <p>Készítsen egy tuczat divatos pepita ruhát régi kundsaftjának, <hi>Mummery Róbertnek</hi>, a ki epedve várja sorait Alexandriában, közönséges
                kukoriczanadrágban, - tisztelettel.”</p>
             
          </div>

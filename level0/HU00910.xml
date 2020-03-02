@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00910" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00910" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A fekete város : ELTeC edition</title>
-            <author>Mikszáth Kálmán (1847-1910) <idno type="VIAF">46774986</idno>
+            <author>Mikszáth, Kálmán (1847-1910) 46774986
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -54,7 +52,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>Regények és nagyobb elbeszélések 22–23, 1908–1910, A fekete város</title>
-                     <author>Mikszáth Kálmán</author>
+                     <author>Mikszáth, Kálmán</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Akadémiai Kiadó</publisher>
                      <date>1961</date>
@@ -63,7 +61,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title> A fekete város</title>
-               <author>Mikszáth Kálmán</author>
+               <author>Mikszáth, Kálmán</author>
                <date>1911</date>
             </bibl>
          </sourceDesc>
@@ -389,8 +387,7 @@
                   menyasszonnyal s úgy belemámorosodott, hogy egyszer-kétszer meg is ölelte, amiért
                   láthatólag megneheztelt a vőlegény.</p>
                <p>- Ej no, mi az? Mit morogsz, Görgey? - mondá a fejedelem mosolyogva az ünnepi
-                  lakomán. - Jobban az enyim ő, mint a tied. Ha én vagyok a <hi
-                     >felvidék királya</hi> (akkoriban kapta a szultántól ezt a címet), kié akkor a
+                  lakomán. - Jobban az enyim ő, mint a tied. Ha én vagyok a <hi>felvidék királya</hi> (akkoriban kapta a szultántól ezt a címet), kié akkor a
                      <hi>felvidék királynéja?</hi>
                </p>
                <p>Tréfa mezbe volt bújtatva a szó, de lehetett annak komoly magja is. Még a
@@ -414,8 +411,7 @@
                <p>A napsugár, mely most sütött pályáján a legfényesebben, csakhamar lehanyatlott.
                   Mert rossz napsugár volt. Nem az égről sütött rá, hanem a szultán szemeiből. S a
                   szultán sokszor behuny­ta a szemeit, mikor nem kellett volna, vagy pedig a harag
-                  árnyéka jelent meg azokban. Szóval a dicsőséges harcoknak <hi
-                     >vége</hi> szakadt. Thököly csendes ember lett, aki valahol Törökországban
+                  árnyéka jelent meg azokban. Szóval a dicsőséges harcoknak <hi>vége</hi> szakadt. Thököly csendes ember lett, aki valahol Törökországban
                   mereng az emlékein. Itthon minden a régi rossz kerékvágásba fordult. Egypár
                   unalmas, szomorú esztendő következett. Csak a görgői kúrián uralkodott boldogság
                   és megelégedés. Karolinból bájos, megennivaló menyecske lett. Görgey Pálnak nem
@@ -1271,8 +1267,7 @@
                   ezt nem lehet tovább tűrni, ennek végét kell vetni, a szegény János becsülete
                   kedvéért.</p>
                <p>Alighogy megjött Preszton mindenféle bögrékkel, üvegekkel, zsírokkal, füvekkel és
-                  azokhoz való utasításokkal, legott felhívatta a két legügyesebb <hi
-                     >lándzsást</hi>, Göbölyő Andrást, valamint Szabó
+                  azokhoz való utasításokkal, legott felhívatta a két legügyesebb <hi>lándzsást</hi>, Göbölyő Andrást, valamint Szabó
                   Gergelyt s megparancsolta, hogy nyomban útra kelvén, a legnagyobb titoktartással
                   környékezzék meg éjjel Toporcon a Görgey János kastélyát, ahol a toporci molnárnak
                   valami újonnan szegődött legénye szokott gonosz szándékból megjelenni, fogják meg
@@ -1477,8 +1472,7 @@
                   hát nem mondott igazat. De ha igazat mondott is, azt senki nem vehette annak,
                   lehetetlen lévén kihámozni az ezer meg ezer keringő s egymásnak ellentmondó tábori
                   hírekből, melyik verzió felel meg a valóságnak. Hogy tart-e még a háború, vagy nem
-                  tart, legfeljebb a zab- és lóárakból lehetett kombinálni. A <hi
-                     >veres égalj</hi> csak a közelségből jel, egy-két meggyújtott erdélyi falu nem
+                  tart, legfeljebb a zab- és lóárakból lehetett kombinálni. A <hi>veres égalj</hi> csak a közelségből jel, egy-két meggyújtott erdélyi falu nem
                   fest ki olyan messzire kiabáló pirosságot.</p>
                <p>Görgeyt most még ez a leverő hír se érdekelte, csak úgy gépiesen tett néhány
                   kérdést: »Mit? Hát le van már verve Thököly? Megint az a bizonyos szalmaláng volt.
@@ -2348,8 +2342,7 @@
                   segítségükre voltak, valamint más tanúk is, még figyelmeztették a bírót, hogy
                   vérzik, aminthogy valóban vértócsa volt alatta a Marovka-dűlő kezdeténél stb.</p>
                <p>Őfelsége, úgy látszik, kegyesen fogadta a lőcsei deputációt s elolvasván alázatos
-                  szuppliká­ciójukat, mintegy utasításul saját kezűleg írta rá: <hi
-                     >»Effusio sangvinis judicis Lewchoviae terrae acquisitiones vigorem
+                  szuppliká­ciójukat, mintegy utasításul saját kezűleg írta rá: <hi>»Effusio sangvinis judicis Lewchoviae terrae acquisitiones vigorem
                      obtineat.«</hi> (A lőcsei főbíró vérének <hi>földszerző erő</hi>
                   adassék.)</p>
                <p>Most már megvolt a határnagyobbítás, de a király széljegyzete is ki tudja mire
@@ -3290,8 +3283,7 @@
                   duellumnak és a legyőzött lovag káromkodott egy kicsit és azontúl is megmaradt
                   bátor gentlemannak.</p>
                <p>Különben a szász metódusnak is megvoltak a maga hibái. A hosszú kezek előnye
-                  szembe­szökő, azonfelül mindenféle szabálytalan vágás jogosult a <hi
-                     >Coup de Jarnac</hi> (a szúrás) kivételével, az »üsd, vágd, nem apád« legősibb
+                  szembe­szökő, azonfelül mindenféle szabálytalan vágás jogosult a <hi>Coup de Jarnac</hi> (a szúrás) kivételével, az »üsd, vágd, nem apád« legősibb
                   tantétele érvényesült - vágd, ahol éred. Csel, finta, ravaszság nemcsak
                   megengedhető, sőt hasznos.</p>
                <p>Egy, kettő, három! Összecsaptak. A két kard megvillant, összeért, csattant,
@@ -5030,10 +5022,8 @@
                   Görgőn. Az alispánnak három szőlő jutott az osztálynál a Hegyalján, kártya meg
                   iszen minden nemesi háznál akad. De minthogy nem volt elegendő, külön küldöncöt
                   menesztettek Lőcsére, hogy egy pár »Teufels Gebetbuch«-ot küldjön ki a Gyuri
-                  gyerek. A ferbli még akkor nem volt kitalálva, hanem a <hi
-                     >pharao</hi> és a <hi>baccarat</hi> már ismeretes. Szolidabb öreg
-                  urak a <hi>biribit</hi> játszották vagy a <hi
-                     >passedixet.</hi> A szepesi nemesség kiváltképpen a »trente et une«-t és a
+                  gyerek. A ferbli még akkor nem volt kitalálva, hanem a <hi>pharao</hi> és a <hi>baccarat</hi> már ismeretes. Szolidabb öreg
+                  urak a <hi>biribit</hi> játszották vagy a <hi>passedixet.</hi> A szepesi nemesség kiváltképpen a »trente et une«-t és a
                   »crep«-et kedvelte. Sváby, a javíthatatlan »spieler«, nyaranta Olaszországba
                   utazott, egy csomó tallért hozott haza, mint nyereséget, meg egy-egy új játékot.
                   De hol lehet most?</p>
@@ -5535,8 +5525,7 @@
                <p>- Nos, mégse mondják meg a nevüket?</p>
                <p>- Barátai vagyunk a gazdának - felelte az előbbi, feltűnően játszogatva a
                   fegyverrel.</p>
-               <p>- Jelentse meg az úrnak - szólt a nagybajuszú -, hogy megjött az <hi
-                     >esze.</hi>
+               <p>- Jelentse meg az úrnak - szólt a nagybajuszú -, hogy megjött az <hi>esze.</hi>
                </p>
                <p>- Ne mókázzanak velem - pattant fel Bibók szigorún -, mert azt én nem szeretem,
                   vagy mondják meg a nevüket, ha jó járatban vannak, vagy pedig menjenek isten
@@ -8628,8 +8617,7 @@
                   történt. Ördög-e vagy csak ember, és valami eltanult fogással élt? Igaz úton nem
                   lehetett.</p>
                <p>Váltig kötözködött ezentúl a rézöntőlegénybe.</p>
-               <p>- Ha ember vagy a talpadon, rézöntőlegény, gyere velem bort <hi
-                     >enni.</hi>
+               <p>- Ha ember vagy a talpadon, rézöntőlegény, gyere velem bort <hi>enni.</hi>
                </p>
                <p>- Hát itt vagyok - legénykedett a legény. - Nem félek én semmitől.</p>
                <p>Erre aztán megtöltetett Gyurgyik uram két tálat borral s az egyik kanalat
@@ -9266,8 +9254,7 @@
                   nemesi élet legfölségesebb fűszerét képezték.</p>
                <p>Csoda-e, ha Bibók a maga kalandor természetével, nyugtalan, forró vérével
                   elolthatatlan szenvedéllyel vágyott oda, hol pöffeszkedni, zsákmányolni és
-                  erőszakoskodni lehetett? De hogy menjen? A császáriak, ahol <hi
-                     >igazi</hi> katonai rangot vélt kapni a följelentésért, cudarul bántak vele.
+                  erőszakoskodni lehetett? De hogy menjen? A császáriak, ahol <hi>igazi</hi> katonai rangot vélt kapni a följelentésért, cudarul bántak vele.
                   Most is a fogát csikorgatta, ha a palatinus eljárása jutott eszébe, különösen a
                   kályha­fűtőség. Azt annyira szégyenlette, hogy Ljubomirskynak se panaszolta el. A
                   császáriakhoz tehát nem mehet. A kurucokhoz még kevésbé. A labancokkal legalább
@@ -10172,8 +10159,7 @@
                   kőpadok csak a nagy, árnyékos hársak, vadgesztenyék és platánok alá jutottak,
                   különböző német feliratokkal, melyekben egy kis szellem, egy kis bölcsesség vagy
                   ötletszikra csillogott. E padok nem ritkán híresek voltak. Volt például diákpad a
-                  tó tájékán: »Nyisd ki könyvecskédet, Itt tanuld a leckéket«. Az <hi
-                     >aggastyánoknak</hi> szánt pihenőhelyen ez volt bevésve: »Ez itten a fáradt
+                  tó tájékán: »Nyisd ki könyvecskédet, Itt tanuld a leckéket«. Az <hi>aggastyánoknak</hi> szánt pihenőhelyen ez volt bevésve: »Ez itten a fáradt
                   aggastyánok padja, Kinek sok pénze van, a városra hagyja«. (Ez alighanem gyöngéd
                   célzás akart lenni.) Volt azután <hi>szerelmesek padja</hi> is,
                   ezzel a lehűtő mondattal: »Az isten mindent lát, A mama mindent megtud.«</p>
@@ -10457,8 +10443,7 @@
                   szobájába, leheveredett a lócára, mely két bőrpárnával ellátva, egészíté ki az
                   akkori vendégszobák legszükségesebb bútorzatát, pipára gyújtott és a füstmacskák
                   gomolygása mellett ábrándozott - ámbátor a sötétben való pipázás nem élvezet
-                  szakértők szerint, akik ilyen meggondolatlan véleménnyel <hi
-                     >látványnak</hi> hitetik el a dohányzást.</p>
+                  szakértők szerint, akik ilyen meggondolatlan véleménnyel <hi>látványnak</hi> hitetik el a dohányzást.</p>
                <p>Hogy meddig ábrándozott így az öreg kalandor, maga se tudta. Egyszer csak arra
                   neszelt fel, hogy a szomszéd szoba ajtajában kulcs csikordul, s valaki belép.
                   Azontúl ott is marad, súlyos léptekkel méri a szobát fel és le, melyek bizonyos
@@ -11368,8 +11353,7 @@
                   eldugdostak előle. Mert bizony maga a Belzebub ördög bújt őbele. Ki kell azt onnan
                   űzni, aminthogy meg is próbálta bíróné asszonyom, a »matyerina duska« (anyai
                   lelkecske) nevű fű paraján megfüstölte, s hogy az
-                  innenső világon való maradáshoz fogyatékos kedvét élesztgesse, <hi
-                     >emberszívekből</hi>
+                  innenső világon való maradáshoz fogyatékos kedvét élesztgesse, <hi>emberszívekből</hi>
                    főzött számára teát.</p>
                <p>Úgy látszik csakugyan visszatért az életkedve a teától és az »anyai lelkecske«
                   füstjétől, mert bíró uram valósággal útra kezdett szedkelőzni, de nem olyanra,
@@ -12342,8 +12326,7 @@
                   Joachimmal, a városi hóhérral, nem volna-e szíves jó diurnum fejében átjönni egy
                   délután Görgőre és ellátni az utolsó szükségesekkel egy delikvenst?</p>
                <p>Fleck Joachim azonban lőcsei érzésű ember lévén, azt üzente sértődve, hogy mit
-                  gondolnak őróla? Nincs a világnak az a schmuckja, amelyért ő egy <hi
-                     >megyei </hi>rabot kivégezzen s ezáltal egy gonosztevőtől a vármegyét
+                  gondolnak őróla? Nincs a világnak az a schmuckja, amelyért ő egy <hi>megyei </hi>rabot kivégezzen s ezáltal egy gonosztevőtől a vármegyét
                   megszabadítsa.</p>
                <p>Amely hazafias üzenet folytán Fleck bácsi népszerűsége még nagyobbat emelkedett a
                   városban, s Görgey alispán, egyéb sürgősebb teendők is közbe jövén, a Bibók-ügyet

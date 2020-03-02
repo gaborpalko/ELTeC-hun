@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU13726" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU13726" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A vér: Regény: ELTeC edition</title>
-            <author> Beniczkyné Bajza Lenke (1839-1905) <idno type="VIAF">20466121</idno>
+            <author>, Beniczkyné Bajza Lenke (1839-1905) 20466121
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -38,18 +36,17 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>A vér : regény</title>
-                     <author>Beniczkyné Bajza Lenke</author>
+                     <author>Beniczkyné, Bajza Lenke</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Singer-Wolfner</publisher>
                      <date>1903</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/3238864"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/3238864"/>
                   </bibl>
                </relatedItem>
             </bibl>
             <bibl type="firstEdition">
                <title>A vér </title>
-               <author>Beniczkyné Bajza Lenke</author>
+               <author>Beniczkyné, Bajza Lenke</author>
                <date>1892</date>
             </bibl>
          </sourceDesc>
@@ -188,8 +185,7 @@
                majdnem függni látszott a hegyoldalban, mely kupolaszerüen borult a zöld repkénynyel
                boritott épület fölé.</p>
             <p>A villa maga nem nagy kiterjedésü volt, de erkélye és tornyai impozáns épületté
-               tették. Homlokzatán arany betükkel csillogott neve: <hi
-               >Capriciosa</hi>. Évek előtt egy angol lord épitteté, kitől Ábray Leóna grófné vette
+               tették. Homlokzatán arany betükkel csillogott neve: <hi>Capriciosa</hi>. Évek előtt egy angol lord épitteté, kitől Ábray Leóna grófné vette
                meg s leányával, Desirée-vel, már a második telet tölté Nizzában.</p>
             <p>Az erkélyen ülők az utolsó szavak után pár pillanatig hallgattak. A gyönyörü tájkép
                vette igénybe figyelmöket. Leóna kihajolt az erkélyről s a ködben uszó Villa-Franca
@@ -2114,8 +2110,7 @@
             <p>Tisztességes! Hiszen erről neki akkor sem volt fogalma, midőn jólétben volt, a
                legjobb oktatásban részesült s előtte volt e tekintetben a legeszményibb példakép -
                anyja, kitől nem hallott mást, mint jót, helyest, igazat és szépet... Ah, de tehetett
-               ő erről. Hisz a helyest a helytelentől megkülönböztetni nem tudá, ez <hi
-                 >vérében</hi> volt.</p>
+               ő erről. Hisz a helyest a helytelentől megkülönböztetni nem tudá, ez <hi>vérében</hi> volt.</p>
             <p>De hát vérében lehettek anyja tulajdonságai is. Miért nem örökölte azokat, vagy
                legalább azoknak egy részét? Mert a dudva mindig gazdagabban burjánzik, mert a föld
                inkább el van lepve katángkoróval, durva lapuval és mérges dudvával, holott a rózsát,
@@ -2412,8 +2407,7 @@
             <p>A két férfi, egyedül maradva, melegen kezet szoritott egymással, bár mindakettő
                észrevette a másikon, hogy e közeledésből hiányzik a régi őszinteség. Egy
                megnevezhetetlen valami állt közöttük. Talán ők maguk sem akarták elhinni, hogy ennek
-               a valaminek az igazi neve, ha megvizsgálták volna szivüket, a <hi
-                  >gyanú</hi>, mely Herney keblébe rég befészkelte magát.</p>
+               a valaminek az igazi neve, ha megvizsgálták volna szivüket, a <hi>gyanú</hi>, mely Herney keblébe rég befészkelte magát.</p>
             
          </div>
          <div type="chapter">

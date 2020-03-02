@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU13387" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU13387" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Egri csillagok: Bornemissza Gergely élete: ELTeC edition</title>
-            <author> Gárdonyi Géza (1863-1922) <idno type="VIAF">24643507 </idno>
+            <author>, Gárdonyi Géza (1863-1922) 24643507 
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -37,18 +35,17 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>Egri csillagok : Bornemissza Gergely élete : regény</title>
-                     <author>Gárdonyi Géza</author>
+                     <author>Gárdonyi, Géza</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher> Singer : Wolfner</publisher>
                      <date>1909</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/1579766"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/1579766"/>
                   </bibl>
                </relatedItem>
             </bibl>
             <bibl type="firstEdition">
                <title>Egri csillagok</title>
-               <author>Gárdonyi Géza</author>
+               <author>Gárdonyi, Géza</author>
                <date>1901</date>
             </bibl>
          </sourceDesc>
@@ -832,8 +829,7 @@
                      látszottak azon. Valami rab följegyzései voltak: egy hosszú út szenvedései húsz
                      szóban.</p>
                   <p>A pap olvasta a szavakat:</p>
-                  <p>- Nándorfejérvártól <hi>Hizarlik </hi>egy nap. Aztán <hi
-                       >Baratina</hi>.</p>
+                  <p>- Nándorfejérvártól <hi>Hizarlik </hi>egy nap. Aztán <hi>Baratina</hi>.</p>
                   <p>- Nem, - felelte a paraszt, - öt állomás is van addig.</p>
                   <p>- Esszerint ez az öt kereszt öt állomást jelent. Tehát öt állomás. Aztán
                      következik <hi>Alopnica.</hi>
@@ -2612,19 +2608,16 @@
                   <p>Gergely alánézett. Egy csukafejü, hosszúbajuszu méltóságos törököt látott,
                      amint a kurta paripán begyesen ülve haladt a katonák között.</p>
                   <p>Aztán a <hi>defterdár </hi>következett, egy ősz meggörnyedt arab,
-                     a törökök pénzügyi minisztere. Utána másik katonacsoportban a <hi
-                        >kázi aszker </hi>hosszu sárga köntösben, magas, tornyos fehér süvegben. Az
+                     a törökök pénzügyi minisztere. Utána másik katonacsoportban a <hi>kázi aszker </hi>hosszu sárga köntösben, magas, tornyos fehér süvegben. Az
                      volt a főhadbiró. A <hi>csaznegírek</hi>, vagyis főtálalók és
                      egyéb ételfogók követték s az udvari testőrség csapata. Azokon már csillogott a
                      sok arany.</p>
                   <p>És szóltak már a török zenekarok. Trombiták harsogása és csincsák csattogása
-                     között tüntek elő és haladtak tova a tarka-barka hadtestek: az <hi
-                       >udvari vadászok</hi>, akiknek a lova sörénye pirosra volt
+                     között tüntek elő és haladtak tova a tarka-barka hadtestek: az <hi>udvari vadászok</hi>, akiknek a lova sörénye pirosra volt
                      festve s ők maguk a karjukon sólymokat tartottak.</p>
                   <p>A vadászok után a császári ménes következett. Táncoló, tüzes paripák;
                      némelyiken rajta a nyereg is. Szolakok és janicsárok vezették a lovakat.</p>
-                  <p>A lovászok után magas lófarkas zászlók lengettek elő az úton. Háromszáz <hi
-                       >kapudsi </hi>jött, valamennyi egyforma aranyhimzéses fehér
+                  <p>A lovászok után magas lófarkas zászlók lengettek elő az úton. Háromszáz <hi>kapudsi </hi>jött, valamennyi egyforma aranyhimzéses fehér
                      sapkában. Azok otthon a szultán házőrzői.</p>
                   <p>A porfelhőkön át a <hi>janicsárok </hi>hosszú sora fehérlik fel
                      az úton. Fehér süvegük csakhamar összetarkállik a piros tisztisüvegekkel, s a
@@ -2847,8 +2840,7 @@
                      bugyogó van rajta. A turbánja zöld. Az arca sovány és beesett. Hosszu vékony,
                      szinte lecsüngő orra alatt keskeny ősz bajúsz. Az állán rövidre nyirt göndör
                      ősz szakáll. A szemei kiülő gurgulaszemek.</p>
-                  <p>Ahogy Gergely még jobban meg akarja szemlélni, egyszercsak <hi
-                        >bumm! </hi>eget földet rázó dördülés. A szikla megremeg alattok.</p>
+                  <p>Ahogy Gergely még jobban meg akarja szemlélni, egyszercsak <hi>bumm! </hi>eget földet rázó dördülés. A szikla megremeg alattok.</p>
                   <p>A lovak visszatorpannak. A szultán a visszaugrott ló nyakába zökken. A zene
                      eláll. Őrült kavargás. Por és kődarabok, testtagok, fegyverek és vércseppek
                      essőként hullnak az égből. Zavarodás és orditás a völgy felé a seregben.</p>
@@ -3536,8 +3528,7 @@
                      csak magát tudná a teremben, s magának énekelne.</p>
                   <p>De az ő együgyü versei, mint Gábor pap egyszer megjegyezte, ha olvasva darabos
                      és minden művészet nélkül valók is, az ő ajkán szivet inditóan szépnek
-                     hangzottak. A szavaknak más értelme kelt az ő ajkán. Ha ő azt mondta: <hi
-                       >gyász</hi>, akkor elsötétült minden a hallgatók szeme előtt.
+                     hangzottak. A szavaknak más értelme kelt az ő ajkán. Ha ő azt mondta: <hi>gyász</hi>, akkor elsötétült minden a hallgatók szeme előtt.
                      Ha azt mondta: <hi>harc</hi>, látták az öldöklő dulakodást. Ha
                      azt mondta: <hi>Isten</hi>, a fején érezte mindenki az Isten
                      fényességét.</p>
@@ -4338,8 +4329,7 @@
                   <p>- Ha akarod, beszélhetsz vele. Igen jó asszony. Magyarul nem ért.</p>
                   <p>- Hát?</p>
                   <p>- Lengyelül, németül, diákul, olaszul, franciául, szóval mindenféle nyelven,
-                     csak magyarul nem. A te nevedet is úgy mondja ki, hogy: <hi
-                        >Kerkő</hi>.</p>
+                     csak magyarul nem. A te nevedet is úgy mondja ki, hogy: <hi>Kerkő</hi>.</p>
                   <p>- Nem akarok vele beszélni, - mondotta húzódozva Gergely. Ámbátor egypár szót
                      én is tudok németül. Hanem azt mondd meg, Vicuska, hogy ha máskor is eljövök
                      Budára, hogyan beszélhetek veled?</p>
@@ -4499,8 +4489,7 @@
                   <p>A bikafejü ránézett félvállról:</p>
                   <p>- Mi közöm veled öcsém? Apródnak <hi>hallgass </hi>a neve.</p>
                   <p>Gergely elpirult. A szeme rávillant a gőgös ifjúra.</p>
-                  <p>- Nem a te apródod vagyok! Akié pedig vagyok, az nem úgy hí engem, hogy <hi
-                       >hallgass</hi>,hanem úgy, hogy <hi>ne türj
+                  <p>- Nem a te apródod vagyok! Akié pedig vagyok, az nem úgy hí engem, hogy <hi>hallgass</hi>,hanem úgy, hogy <hi>ne türj
                         bántást</hi>!</p>
                   <p>A bikafejü végignézett rajta.</p>
                   <p>- No majd, ha kint leszünk az udvaron, megmondom neked a nevemet.</p>
@@ -5834,8 +5823,7 @@
                      felrajzolta a kardigét.</p>
                   <p>Még egy kard volt ottan iratlan. A Dobóénak a párja. Azt Gergelynek adta
                      Mekcsey.</p>
-                  <p>- Hát erre mit irjunk? - kérdezte Tinódy. Jó lesz-e ez, hogy: <hi
-                        >Bornemissza Gergely, szapo­ráb­ban nyergelj!</hi>
+                  <p>- Hát erre mit irjunk? - kérdezte Tinódy. Jó lesz-e ez, hogy: <hi>Bornemissza Gergely, szapo­ráb­ban nyergelj!</hi>
                   </p>
                   <p>- Nem, - felelte Gergely a fejét rázva. Nekem nem kell vers, csak egy szó.
                      Abban az egy szóban benne van minden vers és minden gondolat. Ezt irja rá Sebők
@@ -6516,8 +6504,7 @@
                   <p>Egy májusi estén két fiatal lovas török érkezett a drinápolyi karaván-szerájba.
                      Magyaros ruha volt rajtok: szük kék nadrág, kék attila, sárga kendőöv, az
                      övükben handsár; vállukon bő rozsdaszinü teveszőr-köpönyeg, amelynek csuklyája
-                     a fejükre volt húzva. Első szempillan­tásra is látszott, hogy <hi
-                        >delik</hi>, akik csak háboruban szolgálják az igaz hit zászlaját, azontúl
+                     a fejükre volt húzva. Első szempillan­tásra is látszott, hogy <hi>delik</hi>, akik csak háboruban szolgálják az igaz hit zászlaját, azontúl
                      pedig rablásból élnek. A magyaros ruha voltaképpen török ruha: keleti nép mind
                      a kettő. A delik mind törökök.</p>
                   <p>A karaván-szerájban nem törődik velök senki. Legfeljebb a kocsijok érdemes a
@@ -6979,8 +6966,7 @@
                   <p>- Szülői engedelem nélkül?</p>
                   <p>- Annélkül is. Elvégre a bibliában nincsen benne, hogy szülői engedelem kell a
                      házasságra.</p>
-                  <p>- Hát akkor, - mondotta Gergely, - tegyük meg Éva a <hi
-                        >bizonyitványért</hi>.</p>
+                  <p>- Hát akkor, - mondotta Gergely, - tegyük meg Éva a <hi>bizonyitványért</hi>.</p>
                   <p>Átmentek a kápolnába, s egynéhány perc alatt megtörtént az esküvő. A pap beirta
                      a nevöket az egyházi könyvbe. Tanuknak odairatta a Török János meg a Mekcsey
                      nevét.</p>
@@ -7025,12 +7011,9 @@
                   <p>- Jól beszél, - szólt Jancsi. Én is tanítom, meg aztán nem is olyan nehéz
                      az.</p>
                   <p>- Mondjon egypár szót, - szólt az egyórás menyecske.</p>
-                  <p>- Hát például: <hi>elma </hi>annyit tesz, hogy <hi
-                        >alma</hi>; <hi>benim </hi>= <hi>enyim</hi>;<hi
-                       > baba </hi>=<hi> papa</hi>;<hi>
+                  <p>- Hát például: <hi>elma </hi>annyit tesz, hogy <hi>alma</hi>; <hi>benim </hi>= <hi>enyim</hi>;<hi> baba </hi>=<hi> papa</hi>;<hi>
                         pabucs </hi>=<hi> papucs</hi>; <hi>sarampo
-                     </hi>= <hi>sorompó</hi>; <hi>daduk </hi>= <hi
-                       >duda</hi>; <hi>cságána </hi>=<hi>
+                     </hi>= <hi>sorompó</hi>; <hi>daduk </hi>= <hi>duda</hi>; <hi>cságána </hi>=<hi>
                         .</hi>..</p>
                   <p>- Csákány! - kiáltotta Éva tapsolva. - Nem is gondoltam, hogy én tudok törökül
                      is!</p>
@@ -7361,8 +7344,7 @@
                      mellütés után léptek kettőt-hármat.</p>
                   <p>Közöttük különféle szinü háromszögletes zászlók, többnyire zöldek, de van
                      köztük fekete, sárga és vörös is.</p>
-                  <p>A zászlók nyelén és itt-ott a perzsa gyermekek süvegén egy-egy ezüstkéz. Az <hi
-                       >Abbas </hi>nevü török martir kezét ábrázolja az. Levágták
+                  <p>A zászlók nyelén és itt-ott a perzsa gyermekek süvegén egy-egy ezüstkéz. Az <hi>Abbas </hi>nevü török martir kezét ábrázolja az. Levágták
                      Abbas kezét, mert innia nyujtott Husszeinnak, mikor a kerbelai csata után
                      elfogták.</p>
                   <p>S növekvő erővel zúg az ének:</p>
@@ -7437,8 +7419,7 @@
                      az ágyamban fekszem is, mindig tudom ki megy el az ajtóm előtt.</p>
                   <p>- Én is.</p>
                   <p>- Reggel új lánccsörgést hallottam. De nem egy ember jött. Kettő, három, talán
-                     négy is. Végig­csörögtek az udvaron. De talán csak nem a <hi
-                        >Tas-csukuruba </hi>vezették őket!</p>
+                     négy is. Végig­csörögtek az udvaron. De talán csak nem a <hi>Tas-csukuruba </hi>vezették őket!</p>
                   <p>A <hi>Tas-csukuru </hi>barlangféle börtön volt a Héttoronyban. Az
                      volt a siralomház a vértorony alján. Aki odakerült, hamar megismerkedett a
                      csillagos ég felső titkaival.</p>
@@ -8807,8 +8788,7 @@
                   <p>- És ezek a négyszögletü szobafélék?</p>
                   <p>- Földalatti termek. Ez itten viz-tartó. Emez meg temető.</p>
                   <p>- Temető? A földalatti utak között?</p>
-                  <p>- Annak kell lennie, mert lám’ ide erre a földalatti útra ez van irva: <hi
-                       >Halottak útja</hi>.</p>
+                  <p>- Annak kell lennie, mert lám’ ide erre a földalatti útra ez van irva: <hi>Halottak útja</hi>.</p>
                   <p>Az asszony megborzongott.</p>
                   <p>- Furcsa, - mondotta, - hogy a halottakat ide temetik.</p>
                   <p>- Csak kolera idején, - felelte a diák. Most már jut eszembe, hogy hallottam
@@ -9415,16 +9395,13 @@
                      szakálas ágyú ásított a domb felé.</p>
                   <p>Az ágyúk mellett egy göndörhaju szőke német pattantyús oktatta a
                      parasztokat.</p>
-                  <p>- Mikor én mondok <hi>bor</hi>!akkor adjál <hi
-                        >bor</hi>!Mikor én mondok <hi>düssz</hi>!akkor adjál <hi
-                       >düssz</hi>!</p>
+                  <p>- Mikor én mondok <hi>bor</hi>!akkor adjál <hi>bor</hi>!Mikor én mondok <hi>düssz</hi>!akkor adjál <hi>düssz</hi>!</p>
                   <p>A parasztok komoly arccal hallgatták a tűzmestert. Dobó elmosolyodott:</p>
                   <p>- Venn szi szangz <hi>bor</hi>, dann bekommen szi keine pulver,
                      veil das <hi>bor </hi>keine pulver iszt szondern vein.</p>
                   <p>Épp oly rosszul beszélt németül, mint a pattantyús magyarul, de azért
                      megértették egymást. S a tűzmester újra kezdte:</p>
-                  <p>- Mikor én mondok <hi>par</hi>, akkor nekem ne hozz <hi
-                       >bar</hi>, hanem pulver, krucifiksz donnervetter!</p>
+                  <p>- Mikor én mondok <hi>par</hi>, akkor nekem ne hozz <hi>bar</hi>, hanem pulver, krucifiksz donnervetter!</p>
                   <p>Végre is a parasztoknak kellett megmagyarázni, hogy mikor József mester bort
                      kér, akkor puskaporos zacskót kell nyitni neki, mikorpedig port kér, bort
                      adjanak.</p>
@@ -10129,21 +10106,16 @@
                   <head>V.</head>
                   <p>Azon az estén Dobó vendégül látta mindazokat, akik vele délelőtt a teremben
                      megesküdtek.</p>
-                  <p>Az asztal egyik végén Dobó ült, másik végén Mekcsey. Dobó mellett jobbfelől <hi
-                       >Bálint pap </hi>ült, balfelől <hi>Cecey</hi>. A
+                  <p>Az asztal egyik végén Dobó ült, másik végén Mekcsey. Dobó mellett jobbfelől <hi>Bálint pap </hi>ült, balfelől <hi>Cecey</hi>. A
                      pap mellett <hi>Pető</hi>. Petőt különben is meg kellett becsülni
                      azzal a helylyel. A bátyja, Pető János udvari méltóság volt: a király
                      főpoharasa. Annak a révén kapták a puskaport meg az öt tűzmestert Bécsből. Csak
                      aztán következett vagy kor vagy rang szerint részint Mekcseytől, részint
-                     Dobótól számítva a sort: <hi>Zoltay</hi>, <hi
-                        >Bornemissza</hi>, <hi>Fügedy</hi>. Aztán <hi
-                        >Koron Farkas</hi>, az abaujmegyei gyalogosok hadnagya; <hi
-                        >Kendy Bálint </hi>és <hi>Hegedüs István, </hi>a Serédy György
+                     Dobótól számítva a sort: <hi>Zoltay</hi>, <hi>Bornemissza</hi>, <hi>Fügedy</hi>. Aztán <hi>Koron Farkas</hi>, az abaujmegyei gyalogosok hadnagya; <hi>Kendy Bálint </hi>és <hi>Hegedüs István, </hi>a Serédy György
                      hadnagyai, akik ötven drabantot hoztak; <hi>Fekete Lőrinc</hi>,
                      aki Regécből jött tizenötöd magával; <hi>Lőkös Mihály</hi>, akit
                      száz gyaloggal küldtek a szabad városok; <hi>Nagy Pál</hi>,
-                     Bátori György harminc drabantjának hadnagya, bikaerejü merész ember; <hi
-                       >Jászay Márton</hi>, a jászói prépost negyven drabantjának a
+                     Bátori György harminc drabantjának hadnagya, bikaerejü merész ember; <hi>Jászay Márton</hi>, a jászói prépost negyven drabantjának a
                      hadnagya, <hi>Szency Márton</hi>, szepesi hadnagy, - aki negyven
                      gyalogost hozott; <hi>Bor Mihály</hi>, kitünő puskás, Sárosmegye
                      küldte hetvenhat gyalog­gal; Ugocsából ott volt <hi>Szalacsky
@@ -10151,13 +10123,11 @@
                      küldte tizennyolc gyaloggal. Eperjesről <hi>Blaskó Antal
                      </hi>jött el.</p>
                   <p>A nevezettek mind hadnagyok. Az utánok való rendben ült <hi>Paksy
-                        Jób</hi>, a legszálasabb tiszt a király seregéből, s <hi
-                        >Bolyky Tamás</hi>, a borsodi ötven puskás hadnagya. Ezek később jöttek, hát
+                        Jób</hi>, a legszálasabb tiszt a király seregéből, s <hi>Bolyky Tamás</hi>, a borsodi ötven puskás hadnagya. Ezek később jöttek, hát
                      oda ültették a vártisztek közé, akik voltak: <hi>Sukán
                      János</hi>, az öreg számtartó; <hi>Imre deák </hi>kulcsár, a
                      boros pince felügyelője; <hi>Mihály deák </hi>élelmezőtiszt, vagy
-                     amint akkor mondták: <hi>cipóosztó</hi>; <hi
-                        >Gyöngyösy Mátyás deák</hi>, a püspök deákja, (a vár a püspök földbirtoka
+                     amint akkor mondták: <hi>cipóosztó</hi>; <hi>Gyöngyösy Mátyás deák</hi>, a püspök deákja, (a vár a püspök földbirtoka
                      volt;) <hi>Boldizsár deák </hi>irnok s még egynehányan. Mert Dobó
                      nemcsak a tiszteket hivta meg, hanem hogy az egész vár képviselve legyen a
                      vacsorán, egy tizedest, egy közembert, egy egri nemest és egy egri parasztot is
@@ -10222,8 +10192,7 @@
                      aki a csatát vezetni tudja. Nem vezetett, nem rendezett ott senki. A csapatok
                      nem az ellenség állása szerint bontakoztak széjjel, hanem csak úgy gondolom
                      formán. Tomory szegény, dicső emlékü nagy hős volt, de nem vezérnek való. Azt
-                     gondolta, hogy a vezérség tudománya csak ez az egy szó: <hi
-                        >Utánam! </hi>Hát egyet imádkozott, aztán meg egyet káromkodott, és azt
+                     gondolta, hogy a vezérség tudománya csak ez az egy szó: <hi>Utánam! </hi>Hát egyet imádkozott, aztán meg egyet káromkodott, és azt
                      mondta: <hi>Utánam! </hi>Azzal megindult a seregünk, mint őszszel
                      a fecskék tábora, neki a török közepének. A török úgy széledt előttünk, mint a
                      lúd-falka. Mink meg rohantunk vakon, neki az ágyúsornak. Persze az ágyúk, a
@@ -10275,8 +10244,7 @@
                   <p>Elnyomta az éljenzés, a kardcsörgés és kacagás a szavát, de ő megint csak
                      sodort egyet a bajuszán, egyet nézett oldalt, és így fejezte be:</p>
                   <p>- Eger eddig csak derék város volt, a hevesi magyarság városa. Adja az Isten,
-                     hogy ezentul a magyar dicsőség városa legyen! Pogányvérrel irjuk a falra: <hi
-                       >Ne bántsd a magyart! </hi>S ha majdan századok mulva az örök
+                     hogy ezentul a magyar dicsőség városa legyen! Pogányvérrel irjuk a falra: <hi>Ne bántsd a magyart! </hi>S ha majdan századok mulva az örök
                      földi béke mohája zöldellik e vár maradványain, levett kalappal járhasson majd
                      itt az utánunk jövő századok fia, s büszke érzéssel mondhassa: a mi apáink
                      küzdöttek itten, áldott legyen a poruk is!</p>
@@ -10608,8 +10576,7 @@
                      mázsa, ha nem több.</p>
                   <p>- Hogy mondtad a nevét?</p>
                   <p>- Manda. Azt nem fogja a golyó. Nem régi bég. Csak most a nyáron kapta a
-                     bégséget a temesvári csata után. A katonák különben csak úgy hívják, hogy <hi
-                       >Hajván</hi>.</p>
+                     bégséget a temesvári csata után. A katonák különben csak úgy hívják, hogy <hi>Hajván</hi>.</p>
                   <p>Gergely elmosolyodott.</p>
                   <p>- Ez az, - mondotta a két kapitánynak, - akiről a minap este beszéltem. No majd
                      fogja itt a golyó!</p>
@@ -10763,14 +10730,11 @@
                      piros; itt a dolmánya, ez is piros! Ki látott már ilyen bugyogót? Madzag van az
                      alján; össze lehet huzni, mint a zacskót szokás.</p>
                   <p>S ledobálta a gyermeknek a ruháit.</p>
-                  <p>- <hi>Annem,</hi> - szólalt meg a gyermek, - <hi
-                        >nerede?</hi>
+                  <p>- <hi>Annem,</hi> - szólalt meg a gyermek, - <hi>nerede?</hi>
                   </p>
-                  <p>- No úgy-e hogy magyar! - kiáltott az asszony diadalmasan. Azt mondja: <hi
-                       >anyám gyer ide!</hi>
+                  <p>- No úgy-e hogy magyar! - kiáltott az asszony diadalmasan. Azt mondja: <hi>anyám gyer ide!</hi>
                   </p>
-                  <p>- Dehogy magyar az Vasné, - szólt Pető nevetve. Nem azt mondja az, hogy <hi
-                       >jer ide</hi>, hanem azt, hogy <hi>nerede.
+                  <p>- Dehogy magyar az Vasné, - szólt Pető nevetve. Nem azt mondja az, hogy <hi>jer ide</hi>, hanem azt, hogy <hi>nerede.
                      </hi>Azt kérdezi, hol az anyja?</p>
                   <p>És a gyermekhez fordult:</p>
                   <p>- <hi>Jok burda anang! </hi>(Nincs itt az anyád.)</p>
@@ -10796,8 +10760,7 @@
                   <p>Gergely az éjszakai harc után leugratott a Melegvizre. Megfürdött. Azután
                      gyorsan visszatért.</p>
                   <p>A palota előtt egy kéklajbis, vastagdereku legénynyel találkozott.</p>
-                  <p>A legény ágyútömő vaspálcát, vagy mint akkor mondták: <hi
-                        >döröklőt </hi>vitt a vállán. Apálca végén kormos csöpü feketéllett. Köszönt
+                  <p>A legény ágyútömő vaspálcát, vagy mint akkor mondták: <hi>döröklőt </hi>vitt a vállán. Apálca végén kormos csöpü feketéllett. Köszönt
                      Gergelynek.</p>
                   <p>Amint igy odafordul arccal, Gergely megdöbbenve áll meg.</p>
                   <p>- Ez a kéklajbis szőke legény, ez a gyerekes kis orr, a két merész szem
@@ -10985,8 +10948,7 @@
                   <p>- Nem igaz az, hogy jön a török. Minden esztendőben rémitik vele az embert,
                      aztán meg is vénülünk, meg is halunk, de a törökkel annyi bajunk sincs, mint a
                      cserebogárral.</p>
-                  <p>Az ilyeneket önti el az árviz, pusztitja legjobban a haboru. A <hi
-                       >Ráérünk</hi>-család soha ki nem haló ivadékai ők.</p>
+                  <p>Az ilyeneket önti el az árviz, pusztitja legjobban a haboru. A <hi>Ráérünk</hi>-család soha ki nem haló ivadékai ők.</p>
                   <p>Dobó nem bánta, hogy jönnek. Minél több az ember annál jobb. Az asszony és a
                      gyermek ugyan nem szivesen látott vendég a várban, dehát nem lehet őket
                      elzavarni. Meghát ennyi katonára kell is az asszonykéz.</p>
@@ -11182,8 +11144,7 @@
                   <p>A topcsik már mind a három ágyúba belenyomták a golyót. A három pattantyúsuk
                      lángoló kanócot tartott a kezében. Egy topcsi mögötte megköpködte a tenyerét, s
                      a tarkóját fölfelé simogatva nézett a vár felé.</p>
-                  <p>A puskapor lobbot vetett, az ágyu füstöt és lángot, s földet rázó kilenc <hi
-                       >bum-bum </hi>hangzott el egymásután.</p>
+                  <p>A puskapor lobbot vetett, az ágyu füstöt és lángot, s földet rázó kilenc <hi>bum-bum </hi>hangzott el egymásután.</p>
                   <p>A vár megreszketett a dördüléstől. Aztán csend következett utána.</p>
                   <p>- Semmi, - szólalt meg Dobó, mosolyogva.</p>
                   <p>És akkor lekergette a legényt.</p>
@@ -11320,8 +11281,7 @@
                      kárba veszett, de amelyik talált, rontott.</p>
                   <p>Azon a napon a városbeli templomok tornyáról leszedte a török a keresztet, s
                      holdat tett a helyére. Az oltárokat kiszórták. A képeket elégették. S délben
-                     már a tornyok ablakából énekelték a müezzinek hosszu vontatott üvöltéssel: <hi
-                       >Alláhu ákbár! Ashádu anna la ilaha ill Alláh! Áshádu anna
+                     már a tornyok ablakából énekelték a müezzinek hosszu vontatott üvöltéssel: <hi>Alláhu ákbár! Ashádu anna la ilaha ill Alláh! Áshádu anna
                         Mahammed arrászulu Allah! Heija alassaláh! Heija alalfaláh! Allahu akbár! La
                         ilaha ill Alláh! </hi>(Isten a legmagasztosabb! Bizony nincs isten az
                      Istenen kivül! Bizony Mohamed az ő prófétája! Jertek imádkozásra! Jertek Isten
@@ -11476,8 +11436,7 @@
                      kurdot a lajtos taligák közt. A többi meg dárdát tart a vizbe ugráló pogányok
                      felé.</p>
                   <p>A kurd ordit. Rángatódzik. De erős markok tartják. Szakad róla dolmány, gomb és
-                     zsinór. A turbánja lefordul a fejéről. Az orra vérzik. <hi
-                        >Jetisint </hi>kiabál és leveti magát a földre. A segitség nem jön. Huzzák a
+                     zsinór. A turbánja lefordul a fejéről. Az orra vérzik. <hi>Jetisint </hi>kiabál és leveti magát a földre. A segitség nem jön. Huzzák a
                      lábánál fogva oly sebesen, hogy föl se kelhet, mig csak be nem szánkázott a
                      várkapun.</p>
                   <p>Állitják Dobó elé.</p>
@@ -11718,11 +11677,9 @@
                      fél bajsza felfelé, a másik lefelé.</p>
                   <p>- Hát először is, - mondja Dobó az őrnek a dárdát visszaadva, - ha te katona
                      vagy, ne mondd a tizedesnek, hogy <hi>Mihály bá</hi>!se pedig
-                     hogy: <hi>gyüjjék üstöllést</hi>; hanem ezt mondd: <hi
-                       >Tizedes uram a kapitány úr hivja. </hi>Igy illik. De ostrom
+                     hogy: <hi>gyüjjék üstöllést</hi>; hanem ezt mondd: <hi>Tizedes uram a kapitány úr hivja. </hi>Igy illik. De ostrom
                      idején mindegy. Nagyobb baj az, hogy igaz a szavad. Aki ingre gatyára
-                     vetkezetten alszik, az nem <hi>tizedes úr</hi>, hanem csak <hi
-                       >Mihály bá</hi>. Azt a hetvenhét fontos ágyúgolyó alá való
+                     vetkezetten alszik, az nem <hi>tizedes úr</hi>, hanem csak <hi>Mihály bá</hi>. Azt a hetvenhét fontos ágyúgolyó alá való
                      heverő irgalmát az ilyen kapuőrző tizedesnek! hát lehet a megszállott várban
                      levetkőzötten is aludni?!</p>
                   <p>Minthogy erre a kérdésre Mihálynak még a felfelé álló bajusza is lekonyult, de
@@ -14355,8 +14312,7 @@
                   <p>Átadta a gyertyát Évának, s ráhasalt a halomra. Éva benyújtotta a gyertyát.</p>
                   <p>Varsányi állt már odabent. Fogta a gyertyát és hümmögött. Majd Évának segitett,
                      hogy a halmon átcsúszhasson, s megálljon.</p>
-                  <p>Egy tág és fehérlő üregben voltak. Felülről gyászének hangzott: az <hi
-                       >In paradisum deducant te angeli</hi>,s a magasból nappali
+                  <p>Egy tág és fehérlő üregben voltak. Felülről gyászének hangzott: az <hi>In paradisum deducant te angeli</hi>,s a magasból nappali
                      világosság szürődött alá.</p>
                   <p>Az üreg telve volt egymáson keresztül-kasul álló fehér koporsóval, s
                      körös-körül hig mész­szel. A koporsók szélén rojtokba száradt a mész. Oldalt a
@@ -15118,8 +15074,7 @@
                      keményen.</p>
                   <p>- No ez az ágyú se hitte, hogy még egyszer lőni fog! - mondotta a cigány.</p>
                   <p>- Régi ágyúból lesz az új, - felelte az egyik katona.</p>
-                  <p>- Hát ha új, adjunk neki nevet is, - szólt a cigány. Legyen az egyik <hi
-                       >Rajkó</hi>, a másik <hi>Galamb</hi>.</p>
+                  <p>- Hát ha új, adjunk neki nevet is, - szólt a cigány. Legyen az egyik <hi>Rajkó</hi>, a másik <hi>Galamb</hi>.</p>
                   <p>Mert minden ágyúnak megvolt a maga neve.</p>
                   <p>Gergely ólomgolyót vett ki a zsebéből és ráirta a kisebbik ágyúra:</p>
                   <p>
@@ -15551,8 +15506,7 @@
                   <p>Érces mély hangon beszél hol itt, hol ott a népnek:</p>
                   <p>- Harminckét napja van itt a török! De bár itt lenne, mig az utolsót is a
                      pokolba röpitjük! A király hada késik, de nem marad el! A mi bátorságunkról
-                     beszél az egész világ! Még száz esztendő mulva is azt fogják mondani a <hi
-                       >bátor </hi>szó helyett, hogy <hi>egri</hi>.</p>
+                     beszél az egész világ! Még száz esztendő mulva is azt fogják mondani a <hi>bátor </hi>szó helyett, hogy <hi>egri</hi>.</p>
                   <p>Hogy nagy a csoportosulás a szónokló vitéz körül, Dobó is megáll egy percre,
                      hogy hallgassa, mi az?</p>
                   <p>Az utolsó mondatra elmosolyodik, azt mondja elgondolkozva a mellette álló
@@ -15684,8 +15638,7 @@
                      csapatokat.</p>
                   <p>Éjfélkor meglobbantak a vár körül a török ágyúk, s öt percig tartó dörgés
                      között okádták a várra a golyót. Azután fölhangzott köröskörül a százezernyi
-                     torokból a <hi>Biszmillah </hi>és az <hi
-                     >Allah</hi>-üvöltés, és a lófarkas zászlók szinte röpültek a falakra.</p>
+                     torokból a <hi>Biszmillah </hi>és az <hi>Allah</hi>-üvöltés, és a lófarkas zászlók szinte röpültek a falakra.</p>
                   <p>Az ókapu előtt, s a fal tetején harminc helyen égett a tűz. A bombák, kalácsok
                      és koszoruk sercegve fogtak lángot. Nagy szikrázó ivekben száz meg száz tüzes
                      szivárvány.</p>
@@ -15818,8 +15771,7 @@
                      földdel.</p>
                   <p>Mikor rátaposott a földre, a hordó szétdurrant, s azégbe vetette a janicsárt a
                      földdel együtt, s a körülállókból még valami húsz embert elcsapott.</p>
-                  <p>Ez meghőköltette a feltörekvő hadat. De hátul hangzott a jaszaulok <hi
-                       >iléri! </hi>és <hi>szavul </hi>kiáltása, s a
+                  <p>Ez meghőköltette a feltörekvő hadat. De hátul hangzott a jaszaulok <hi>iléri! </hi>és <hi>szavul </hi>kiáltása, s a
                      vizes tömlők sustorgása, amelyek a széthulló tüzet nagy gőzzel oltották.</p>
                   <p>- Most csak követ rájok! - kiáltotta Gergely.</p>
                   <p>Meg akarta várni, míg sűrűn lepik az útat s a falakat.</p>
@@ -15843,8 +15795,7 @@
                   <p>Alkonyatig tartott a nagyküzdelmü ostrom. Akkor a török minden oldalon fáradtan
                      vonult el a falak alól.</p>
                   <p>A vár körül ezrével hevert a török holttest és török sebesült. A csontjaikban
-                     törött vonaglók <hi>ej vá! jetisin! </hi>és <hi
-                        >meded Allah! </hi>(jaj Istenem) kiáltozása, nyöszörgése hallatszott
+                     törött vonaglók <hi>ej vá! jetisin! </hi>és <hi>meded Allah! </hi>(jaj Istenem) kiáltozása, nyöszörgése hallatszott
                      mindenfelől.</p>
                   <p>De a vár is halottakkal és sebesültekkel volt tele, s a falak és állványok
                      belől is pirosak voltak a vértől.</p>
@@ -15940,8 +15891,7 @@
                      nyárson. A kenyeret kihordták a piacra, ahova a várakozók és pihenők szoktak
                      összegyűlni. Össze rakták halmokba. Mihály a cipós deák nem bánta már, akárki
                      akármennyit falatoz belőle. Szép barna dolmányba, sárga csizmába öltözve jelent
-                     meg a piacon a sütőknél, s csak ennyit jegyzett be a papirosába: <hi
-                       >Okt. 14. Hétszáz tzipó</hi>.</p>
+                     meg a piacon a sütőknél, s csak ennyit jegyzett be a papirosába: <hi>Okt. 14. Hétszáz tzipó</hi>.</p>
                   <p>Ezalatt pedig gyültőn gyült a török. A hegyekről és dombokról ragyogó tarka
                      népáradat ereszkedett lefelé.</p>
                   <p>Tiz órakor a vár-piac trombitása összehivót fujt. A vár népe egybegyülekezett.
@@ -16505,8 +16455,7 @@
                      Kevés fojtást rá!</p>
                   <p>A falról akkor zuditották le a forró vizet!</p>
                   <p>Ahova a kő nem tudott eljutni, a forró viz eljutott. A tárgyak egyszerre
-                     meginogtak, és szét­lazultak. Alólok <hi>ej vá! </hi>és <hi
-                       >meded! </hi>vonitással ugráltak ki a törökök.</p>
+                     meginogtak, és szét­lazultak. Alólok <hi>ej vá! </hi>és <hi>meded! </hi>vonitással ugráltak ki a törökök.</p>
                   <p>A bodobácsok a falon maradtak. Azokra Gergely rálő egy mozsár-ágyúval. De még
                      mindig maradnak a falon. Gergely feléjök rohan az ágyu-döröklővel.</p>
                   <p>- Gergely! - hangzik a Pető szava.</p>

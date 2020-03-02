@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU08358" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU08358" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Édes anyaföldem! :  Egy nép s egy ember története  : ELTeC edition</title>
-            <author> Benedek Elek (1813-1893) <idno type="VIAF">120201932</idno>
+            <author>, Benedek Elek (1813-1893) 120201932
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -45,12 +43,11 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>Édes anyaföldem! : egy nép s egy ember története</title>
-                     <author>Benedek Elek</author>
+                     <author>Benedek, Elek</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Pantheon</publisher>
                      <date>1920</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/1555707"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/1555707"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -212,8 +209,7 @@
                   mi házunkban. Anyókának hivta, emlegette sokáig az egész falu: ennél jobbat,
                   szebbet őróla jegyezhetek-e föl? Utolsó <hi>anyókaságát</hi> az én
                   ébredező életemnek szentelé. Kisdiák bátyám, néhány héttel az én születésem után,
-                  szörnyü halálnak halálával halt meg, s édesanyám az ő halálának <hi
-                     >búsbetegje</hi> lett. Egy hónapig szoptam a búsbeteg tejet, s most már értitek
+                  szörnyü halálnak halálával halt meg, s édesanyám az ő halálának <hi>búsbetegje</hi> lett. Egy hónapig szoptam a búsbeteg tejet, s most már értitek
                   ugy-e, kevésszavu, mélázó ember mért levék? Anyóka gyönge, reszkető keze
                   leszakitott édesanyám kebeléről, megmentvén ezzel anya és gyermek életét.</p>
                <p>Amint nyilt, nyiladozott az elmém, sokat háborgott lelkem a nagy, a kegyetlen
@@ -305,11 +301,9 @@
                   neve. Csak a neve, nem a lelke. Az egyik rend nem gyülölte a másikat, mint ahogy
                   gyülöli, feneketlenül gyülöli a proletár a burzsujt s a burzsuj a proletárt.
                   “Omnes gentes siculorum nobiles sunt” (Minden székely nemes), de ennek a székely
-                  nemességnek három rendje volt. Az első rend volt a <hi
-                  >“primor”</hi>. Ehhez a rendhez tartoztak azok, akik legalább 3-4 vitézzel s
+                  nemességnek három rendje volt. Az első rend volt a <hi>“primor”</hi>. Ehhez a rendhez tartoztak azok, akik legalább 3-4 vitézzel s
                   ugyanannyi lóval kerekedtek fel, a véres kardot ha körülhordozák. A második
-                  rendnek <hi>primipillus</hi>, népiesen <hi
-                     >lófőszékely</hi> volt a neve. A lófőszékely közepes módu familia fia volt, s
+                  rendnek <hi>primipillus</hi>, népiesen <hi>lófőszékely</hi> volt a neve. A lófőszékely közepes módu familia fia volt, s
                   lett-légyen tiz fia egy lófőszékely apának, ezek közül csak egy ült lóra, melynek
                   árát az egész család fizette. A harmadik rendnek <hi>pixidárius</hi>
                   volt a neve. Ebbe a rendbe tartoztak azok a családok, melyek nem tudtak lovat
@@ -606,8 +600,7 @@
                   amely meg édesgyermeke annak az István nagyapó ültette francia juharnak...</p>
                <p>Uram, teremtőm, micsoda szabályellenes kitérések! Ilyet ma már nem követnek el
                   azok a hosszuhaju gyerekek, akik éppen most üvöltik: le a tőkéseknek udvarló öreg
-                  irókkal! Haljanak éhen! Ne engedjük irni őket! Mi vagyunk a <hi
-                     >Ma</hi>, a <hi>Holnap</hi>, a <hi>Holnapután</hi>!
+                  irókkal! Haljanak éhen! Ne engedjük irni őket! Mi vagyunk a <hi>Ma</hi>, a <hi>Holnap</hi>, a <hi>Holnapután</hi>!
                   S igazuk van a gyerekeknek. Én már jóval az októberi forradalom kitörése előtt
                   kiolvastam az ujságok sorai közül, hogy már irják a mi halálos itéletünket, melyet
                   meg is szövegeztem ebben az egy mondatocskában: Agyon kell verni minden öreg
@@ -1636,8 +1629,7 @@
                   ömlik a tréfás, dévajkodó beszéd, s foly, folydogál csendesen történet történet
                   után. Meg-megpihen, fel-felsóhajt, tovább üzi-füzi a történetet, s ha könyvből
                   olvasott szomoru történetet mesél, végezetül arca, szeme mosolyra derül,
-                  megnyugtatván szóval is a hallgatót: de hiszen ez csak - <hi
-                     >rege</hi>. Igy mondja: rege. Igy, és nem: mese. Sohasem mondja regénynek a
+                  megnyugtatván szóval is a hallgatót: de hiszen ez csak - <hi>rege</hi>. Igy mondja: rege. Igy, és nem: mese. Sohasem mondja regénynek a
                   regényt, hiába olvasta igy a regények cimlapján: ő neki minden történet - rege. S
                   mivelhogy rege és nem igaz valóság, bár olvasás közben könny gyül szemébe, hamar
                   megvigasztalódik s megvigasztal minket is.</p>
@@ -1796,9 +1788,7 @@
                   Nagykunság fában szegény földjén folytatván e könyvnek irását.</p>
                <p>Kicsi falum felső vége nagy hegyoldalba ütközik. Az egész oldal szántóföld,
                   mindössze egy nagy terebélyes vadkörtefa az ormán, több fa nincs: nyilván arra
-                  született ez a fa, hogy szem­mel tartsa, őrizze a falut. <hi
-                     >Csikoldal</hi> a neve a szántóföldnek s a szélén meredeken kikanyar­gó ut: <hi>Csikorra</hi>. Ebből sejthető, hogy ez az ut <hi
-                     >Csikország</hi> felé vezet. Mert Csikországnak hivják nálunk felé Csik
+                  született ez a fa, hogy szem­mel tartsa, őrizze a falut. <hi>Csikoldal</hi> a neve a szántóföldnek s a szélén meredeken kikanyar­gó ut: <hi>Csikorra</hi>. Ebből sejthető, hogy ez az ut <hi>Csikország</hi> felé vezet. Mert Csikországnak hivják nálunk felé Csik
                   vármegyét: ma tréfásan, de vannak, akik komolyan állitják, hogy valaha régen a
                   Székelyföld e része - ország volt. (No, lám, mondaná Clemenceau ur - ha nektek egy
                   vármegye is ország volt, nem elég nagy ország nektek tiz vármegye?)</p>
@@ -1843,8 +1833,7 @@
                   Édesapámnak kedves komája volt csikszentsimoni Kerekes András s ez a komaság
                   átöröklődött: Kerekes András keresztapámuram András nevü fia tartotta keresztviz
                   alá Gábor bácsi egyik gyerme­két. Pápista, kálomista, unitárius székely a más-más
-                  hit mellett vallott s vall egy közös, egybe­forrasztó hitet is: <hi
-                     >Atilla volt az ősapánk</hi>.</p>
+                  hit mellett vallott s vall egy közös, egybe­forrasztó hitet is: <hi>Atilla volt az ősapánk</hi>.</p>
                <p>Ó, Atilla, szegény népe, hová jutottál! - kivánkozik tollamra a bus sóhajtás, de
                   elfojtom, mert köt az igéretem: az iró feleleveniteni próbálja az erdei életet. Ne
                   hidd, hogy a mi ötezer holdas erdőnk - erdő és semmi egyéb. Vannak az erdőben
@@ -1919,8 +1908,7 @@
                   hegyen kanyarognak föl, még egy kanyarodás a bükkfaszegte uton: itt vagyunk <hi>Györkovácsban</hi>. Ez a neve annak az erdőrésznek, ahol nekünk
                   is, másnak is a legtöbb erdei kaszálója van. Györkovács mellett van Bodvaj nevü
                   vasbánya, mely sokszáz esz­tendővel ezelőtt egy György nevü kovácsé volt: az ő
-                  nevét örökité meg egy többszáz holdas terület. Van azonban Györkovácsnak <hi>ága</hi> is, <hi>feje</hi> is, <hi
-                     >loka</hi> is: ez utóbbi mélyebben fekszik, a patak mentén, ezért a neve
+                  nevét örökité meg egy többszáz holdas terület. Van azonban Györkovácsnak <hi>ága</hi> is, <hi>feje</hi> is, <hi>loka</hi> is: ez utóbbi mélyebben fekszik, a patak mentén, ezért a neve
                   lok.</p>
                <p>Édesapám Györkovács ágában vert szállást. Ennek a kaszálónak kert képe volt:
                   köröskörül fák meg bokrok szegték a lankásan emelkedő kaszálót, a határán, domb
@@ -4122,8 +4110,7 @@
                   emez első matematikusa.</p>
                <p>Bölcs Antal az ifjusági könyvtáros. Egyedül lakik a könyvtárszobában, mellette az
                   olvasó-szoba, abban egy hosszu asztal: itt olvassák az ujságokat a nagyobb diákok.
-                  Nekem még nem szabad ujságot olvasnom, de ki tiltja meg, hogy <hi
-                     >Bölcs Antalnál</hi> ne tanyázzak? Ő sorba adogatja ki a Jósika- meg a
+                  Nekem még nem szabad ujságot olvasnom, de ki tiltja meg, hogy <hi>Bölcs Antalnál</hi> ne tanyázzak? Ő sorba adogatja ki a Jósika- meg a
                   Jókai-regényeket, én meg az ő szobájában falom nagy mohón. Vakációra az ötödik
                   osztálytól kezdődően minden diák kap olvasnivalót. Sorsot huznak a könyvekben s
                   annak rendje szerint válogatnak. De bölcs Antal sorshuzás nélkül is juttat nekem,
@@ -4162,8 +4149,7 @@
                   kötött kender, s domborodik, domborodik az orsó. Ádám olvas. Oly szépen olvassa
                   Petőfi verseit, hogy meg-megáll az orsó, s a gyönyörüségtől fel-felsóhajtnak az
                   asszonyok: Oh, Istenem! Nem ezt sóhajtják: ó de szép! Ezt sóhajtják: Óh, Istenem!
-                  Különösen tetszik az anyai szivnek a <hi>Fekete kenyér</hi>, a <hi>Kis lak áll a nagy Duna mentében</hi>, meg az <hi
-                     >István öcsémhez</hi>. De tetszik az <hi>Anyám tyukja</hi> is,
+                  Különösen tetszik az anyai szivnek a <hi>Fekete kenyér</hi>, a <hi>Kis lak áll a nagy Duna mentében</hi>, meg az <hi>István öcsémhez</hi>. De tetszik az <hi>Anyám tyukja</hi> is,
                   meg a <hi>Szeget szeggel</hi>: hangos nevetés kiséri ezt. Minden
                   tetszik, ami ennek a gyermekembernek a lelkéből lelkedzett, mert minden szavát
                   megértik, mintha csak az ő lelkükből lelkedzett volna s nem a Petőfiéből. Látom
@@ -5414,8 +5400,7 @@
                   Brassó­ból, ahol van valami különös nevü magánleányintézet: itt tanulnak meg a
                   környékbeli kis­asszo­nyok zongorán klimpirozni s innét hozták azt a tudományt is:
                   Wie viel Uhr ist es? Bennem egy egész sereg Schiller-költemény van elraktározva,
-                  rettenetes kiejtéssel, de lelkes arccal szavalom a <hi
-                  >Glocke</hi>-t; forditani próbálom Moliére vigjátékait, sikerül is a Les
+                  rettenetes kiejtéssel, de lelkes arccal szavalom a <hi>Glocke</hi>-t; forditani próbálom Moliére vigjátékait, sikerül is a Les
                   précieuses ridicules-t Nevetséges kedvesek-re magyaritanom, de hát ez <hi>akkor</hi> éppen jól volt igy, ugy-e? Az a fontos, ugyebár, hogy
                   én <hi>ezek</hi> közt most az utolsó vagyok s majd valamikor első
                   leszek?...</p>
@@ -5706,11 +5691,9 @@
                <p>Ez igen szomoru vasárnap volt. Könnyezve nevetek ma is, ha rágondolok.</p>
                <p>Hiszen ez csak tragikomédia, de ki gondolná, hogy a diáki csizmából szinte
                   tragédia lett?</p>
-               <p>Telik, mulik az idő, a diáki csizma lakkcipővé kényesedik, s im <hi
-                     >Diák ur</hi>, bármerre lép. <hi>Vas­kalapba</hi> ütközik. Diák
+               <p>Telik, mulik az idő, a diáki csizma lakkcipővé kényesedik, s im <hi>Diák ur</hi>, bármerre lép. <hi>Vas­kalapba</hi> ütközik. Diák
                   urnak nyilik, nyiladozik a szeme, nőttön-nő az önérzete, napról-napra nagyobbnak
-                  látja magát, kicsinyeskedőnek Vaskalapot. Ez alatt a <hi
-                     >Vaskalap</hi> alatt a vén kollégium hagyományos szellemét kell értened; azt a
+                  látja magát, kicsinyeskedőnek Vaskalapot. Ez alatt a <hi>Vaskalap</hi> alatt a vén kollégium hagyományos szellemét kell értened; azt a
                   szellemet, mely a legszelidebb lélekből is kiváltja az eb ura fakó-t, a “csak
                   azért is dongó”-t. Hol egyik, hol másik, hol valamennyi professzor viseli ezt a
                   vaskalapot, s Vaskalap hol érthetetlenül hosszura ereszti a gyeplőt, hol
@@ -6026,8 +6009,7 @@
                <p>Oh, Istenem, mi történt ezzel a házzal! Tiz év előtt ebben aludtam-álmodtam át az
                   első éjszakát. Itt mesélt édesapámnak egy öreg csizmadiamester az ő Angliában
                   tanuló fiáról. Hová lett ez az öreg ember? Meghalt? Hová, merre oszlott-foszlott
-                  szét népe ennek a háznak, melynek födele alatt született a <hi
-                     >Nemzeti nevelés</hi> irója?</p>
+                  szét népe ennek a háznak, melynek födele alatt született a <hi>Nemzeti nevelés</hi> irója?</p>
                <p>Nem, nem, nekem e háznak küszöbét átlépnem nem szabad!</p>
                <p>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
                   - - - - - - - - - - - - - - - - - - - - - - - -</p>
@@ -7229,8 +7211,7 @@
                   magát átkozza: az ő búsbeteg teje lett fia halálának okozója.</p>
                <p>- Holnap kevesen mennek Istennek házába, az egész falu idecsődül. Nagy lesz a
                   meghábo­rodás. Az az, nem felháborodás.</p>
-               <p>- Holnap Benkő Dániel keresztapám uram legyinteni fog a kezével: <hi
-                     >Tudtam, hogy igy lesz</hi>. És diadalmaskodni fog Balandi Józsiné: <hi>Ugy-e, megmondtam, hogy sohasem lesz pap belőle!</hi>
+               <p>- Holnap Benkő Dániel keresztapám uram legyinteni fog a kezével: <hi>Tudtam, hogy igy lesz</hi>. És diadalmaskodni fog Balandi Józsiné: <hi>Ugy-e, megmondtam, hogy sohasem lesz pap belőle!</hi>
                </p>
                <p>- Vizbevető hétfőn nem temetnek, mert akkor még nem telik le a 48 óra. Ünnep
                   harmadnapján temetnek, talán délelőtt, talán délután.</p>
@@ -7385,8 +7366,7 @@
                   egy “kis lap”, munkatársai csupa fiatal legények. Két “nagy lepedős” ujság: a Hon
                   és az Ellenőr össze­olvad, lesz belőlük a <hi>Nemzet</hi>, ennek a
                   szerkesztője “kis lapolja” le a - <hi>Budapesti Hirlap</hi>-ot. A
-                     <hi>Nemzet</hi> szerkesztője - Visy Imre, a <hi
-                     >Budapesti Hirlap</hi> főszerkesztője - Rákosi Jenő. Visy Imre a néhai <hi>Reform</hi>-nál kezdte pályáját korrektori minőségben, ama
+                     <hi>Nemzet</hi> szerkesztője - Visy Imre, a <hi>Budapesti Hirlap</hi> főszerkesztője - Rákosi Jenő. Visy Imre a néhai <hi>Reform</hi>-nál kezdte pályáját korrektori minőségben, ama
                   Reform-nál, amelynek Rákosi Jenő volt a szerkesztője, de ime, - gondolná az
                   avatatlan ember, - minő kegyetlen tréfákat enged meg magának a Sors: a korrektor
                   nagy lepedős ujság élére emelkedik, Aesopus költője “kis lap” szerkesztőjévé
@@ -7584,8 +7564,7 @@
                   kiadóhivatalnak még mindig elég egy kis szoba. Itt huzódik meg a később oly
                   hatalmas Zilahi Simon. Itt ollózza ki más lapokból a hirdetést - csalogatónak. Itt
                   forditja le a Spottpreis-t gúnyár-ra, megcsinálván ezzel a “kis lap” első
-                  Leiterjakabját, de Sipulusz hamar tullicitálja: <hi
-                  >diszinas</hi>-nak forditván a <hi>gála diner</hi>-t. Ott, a
+                  Leiterjakabját, de Sipulusz hamar tullicitálja: <hi>diszinas</hi>-nak forditván a <hi>gála diner</hi>-t. Ott, a
                   Kalap-utcában lesz az eddigi lógós munkatársból valóságos belső munkatárs - 25
                   pengő forint kezdőfizetéssel. Itt dicséri meg Rákosi Jenő egy akadémiai
                   tudósitásomat s emeli fel a fizetésemet 35 pengő forintra. Jókor, mert föld után
@@ -7615,8 +7594,7 @@
                   Zilahi bácsi elé - előlegért. Mert mióta az ujságirást feltalálták, mindig volt
                   előleg és lesz minden időkben.</p>
                <p>Vezető ujsággá emelkedik a Budapesti Hirlap, a magyar vezető osztály ujságja lesz,
-                  pedig csak egy kis gárda irja, de ennek a kis gárdának a vezére <hi
-                     >Rákosi</hi> Jenő. Csaknem minden haza­fias, nemes akciónak ő a kezdője, ország
+                  pedig csak egy kis gárda irja, de ennek a kis gárdának a vezére <hi>Rákosi</hi> Jenő. Csaknem minden haza­fias, nemes akciónak ő a kezdője, ország
                   elé teregetője, a szunnyadó magyarság ébresztgetője. A vezér az ő csudálatos
                   hangszerén a maga lelkességét belemuzsikálja a szivekbe s a nehezen mozduló magyar
                   zsebéből aranyat, ezüstöt muzsikál ki, ma a védekező erdélyi magyarságnak, holnap
@@ -7837,8 +7815,7 @@
                   meséről, ezzel kapcsolatosan a fészekrakásról.</head>
                <p>A Ferencrendiek bazárában van egy vendéglő: annak különszobájában vacsorázik
                   minden hétfő estéjén egy héttagu társaság. Csupa ifju óriások, a legidősebb köztük
-                  harminc év körül jár: <hi>Keszler</hi> József, a <hi
-                     >Nemzet</hi> szellemes, éles tollu szinikritikusa, aki röviden Keszi-nek
+                  harminc év körül jár: <hi>Keszler</hi> József, a <hi>Nemzet</hi> szellemes, éles tollu szinikritikusa, aki röviden Keszi-nek
                   neveztetik. Fekete haja, szakálla göndör; ha Székelyországban találkozom vele,
                   örménynek nézem, nem zsidónak. De a Csalányi-vendéglő különszobájában, a
                   Kammon-kávéház külön­asztalánál látom őt és élvezem estéről-estére elméjének
@@ -7863,8 +7840,7 @@
                   tudomást. Nincs köztünk ok az irigykedésre: voltaképpen mind más-más területen
                   szántunk. Rákosi Viktorról azt hisszük, egész életére Sipulusz marad, aki még a
                   halálos ágyán is kacagtatja majd a nyájas olvasót. A pufók, gyermekarcu Kozma
-                  Andor, akit az öreg Keszi “majdnem Bandi”-nak keresztelt el, a <hi
-                     >Borsszem Jankó</hi> vezérverseit irja, s annyira kötött formában nyilatkozik
+                  Andor, akit az öreg Keszi “majdnem Bandi”-nak keresztelt el, a <hi>Borsszem Jankó</hi> vezérverseit irja, s annyira kötött formában nyilatkozik
                   meg a talentuma, hogy nincs benne kétség: mint versköltő szerez kevés pénzt és sok
                   babért. Ambrus Zoltán 17 éves korában lép föl, mint a Fővárosi Lapok kritikusa,
                   csak később mutatja meg, hogy nagy ő szépirónak is, kritikusnak is: tán máig sem
@@ -7964,8 +7940,7 @@
                <p>Hát csak szálljatok tengerre, ifju párok, etessétek a velencei Márkus-tér
                   galambjait, minket az édes anyaföld felé röpit a gyorsvonat. Három esztendeje
                   várakozik, epekedik ott két öreg ember, a tékozló fiunak csak leveleit látják,
-                  olvassák, őt magát nem látják. Talán mégis jobb lesz, ha <hi
-                     >akkor</hi> itthon marasztjuk, - keseregnek szegények. Oly üres a ház! De már
+                  olvassák, őt magát nem látják. Talán mégis jobb lesz, ha <hi>akkor</hi> itthon marasztjuk, - keseregnek szegények. Oly üres a ház! De már
                   vágtat a gyorsvonat, oly sebesen vágtat, mintha lelke volna. Mintha tudná, hogy
                   ezt a két gyermeket éjjel-nappal várja, sóhajtozza két öreg ember. Már Olt vize
                   partján vágtat a gőzparipa, lombos erdő szegi kanyargó partját az Oltnak, még egy
@@ -9044,8 +9019,7 @@
                   betüjéhez. Hitvány magyar nyelv a törvény­­javaslat nyelve, magyartalan szolgai
                   forditása az osztráknak, s amikor azt javaslom, hogy ha már nincs magyar lelke a
                   törvényjavaslatnak, legalább a nyelve legyen az - mereven elutasit javaslataimmal.
-                     <hi>Belső rendet</hi> akarok az idegenül hangzó <hi
-                     >belrend</hi> helyett, - vissza vele! Sőt akad egy hüséges mameluk, aki
+                     <hi>Belső rendet</hi> akarok az idegenül hangzó <hi>belrend</hi> helyett, - vissza vele! Sőt akad egy hüséges mameluk, aki
                   segitségére siet Fejérvárynak, s bizonygatja, hogy a belrend nem egyhangu, mert a
                   rend-ben az e közép e, tehát igy kell mondani: belrend. Be kell látnom, hogy itt
                   “fel kell hagyni minden reménnyel”.</p>
@@ -9530,8 +9504,7 @@
                   érdekel. Aztán a tüzhelyhez tipeg, felszitja a tüzet, pillanat mulva sistereg a
                   kolbász, ide megy, oda megy, tesz, vesz, nézi a téli kabátomat, teli bunda
                   szőrével, kefét keres elő, tisztogatja, kefélgeti... Vacsora közben torkomban
-                  ólálkodik a szó: - Lám, lám, mégis jobb lett volna, ha <hi
-                     >akkor</hi> itthon maradok! De szépen gazdálkodnánk együtt! Vacsora után
+                  ólálkodik a szó: - Lám, lám, mégis jobb lett volna, ha <hi>akkor</hi> itthon maradok! De szépen gazdálkodnánk együtt! Vacsora után
                   felolvasnék egy vidám történetet, nevetnénk mindahárman - ó de szép volna! De
                   visszafojtom a szót, nem búsitom a jó öregeket. Inkább a gyerekekről beszélek,
                   akiket, csak nőjjenek még egy kicsit, hazahozom, bizonyosan haza.</p>
@@ -9569,8 +9542,7 @@
                   vidám tárca ama bus jelenetre fordult, amelynek fentebb tanuja valál, nyájas
                   olvasó. S amelynek a csattanója a pesti pályaudvaron csattant el, amint véletlenül
                   benyultam télikabátom zsebébe s onnan egy horgolt zacskót huztam ki. Tele volt a
-                  zacskó ezüst forintosokkal. - Ó, édes jó anyám! Hát nem <hi
-                     >bele­lopta</hi> zsebembe megtakaritott pénzecskéjét?! Abba a zsebbe, amelyből
+                  zacskó ezüst forintosokkal. - Ó, édes jó anyám! Hát nem <hi>bele­lopta</hi> zsebembe megtakaritott pénzecskéjét?! Abba a zsebbe, amelyből
                   annyi pénzt <hi>loptak ki</hi>!</p>
                <p>...Szeretném látni azt az embert, akinek a politikai pályája szebben, meghatóbban
                   fejeződött volna be, mint az enyém.</p>
@@ -10750,8 +10722,7 @@
                   Mondhatom, szépen festett.</p>
                <p>És mi nevetve állapittuk meg, hogy a magyar embernek mily gyorsan vált az
                   esze...</p>
-               <p>Ha Surányi Józsefé a kert s ez a két fa, ő bizonyosan vagy <hi
-                     >mindjárt</hi> lefürészeltette volna a vendégének alkalmatlan ágakat, vagy
+               <p>Ha Surányi Józsefé a kert s ez a két fa, ő bizonyosan vagy <hi>mindjárt</hi> lefürészeltette volna a vendégének alkalmatlan ágakat, vagy
                   mindjárt feltámasztotta volna.</p>
                <p>...Mostanában sokat foglalkoztatja (és izgatja) a zsidókérdés a lelkeket. Azt
                   gondolom, ennek a kérdésnek csak egy becsületes megoldása lehet: a fajkeveredés..
@@ -11094,8 +11065,7 @@
                   még két esztendő van az ötvenig. Kaszálgatok, szántogatok, közbe-közbe irogatok,
                   most éppen a <hi>Nagy magyarok életét</hi> irom, azzal a
                   gondolattal, hogy ez lesz az utolsó müvem. Öt nagy kötetre van tervezve a könyv,
-                  összesen százötven ivben, már a századik iv körül járok: a <hi
-                     >Szózat</hi> költőjének életét irom.</p>
+                  összesen százötven ivben, már a századik iv körül járok: a <hi>Szózat</hi> költőjének életét irom.</p>
                <p>Akkor levelet kapok: Apponyi Albert irja. Apponyi, aki <hi>már</hi>
                   egy esztendeje kultuszminiszter. Jóval túl a hatvanon ül miniszteri székbe a
                   legnagyobb magyar államférfi, akiben már 25 év előtt a <hi>közel
@@ -11122,8 +11092,7 @@
                   köszönheté a felszabadulást.</p>
                <p>Arra kért Apponyi, hogy csináljam meg nagy vonásokban az Olvasmányok tervezetét s
                   vigyem föl Pestre. Egy-két napi munka volt ez nekem, hisz akkoriban sokat
-                  foglalkoztam a magyar nemzet történetével. Esztendők munkája volt <hi>A magyar nép multja és jelene</hi>, követte a <hi
-                     >Hazánk története</hi>: a serdülő ifjuságnak irtam ezt. Most meg éppen, Apponyi
+                  foglalkoztam a magyar nemzet történetével. Esztendők munkája volt <hi>A magyar nép multja és jelene</hi>, követte a <hi>Hazánk története</hi>: a serdülő ifjuságnak irtam ezt. Most meg éppen, Apponyi
                   levelének vétele­kor, a <hi>Nagy magyarok életét</hi> irom. Egy hét
                   sem telt belé, Pesten vagyok, a titkár bejelent Apponyinak, ő kiüzen, hogy
                   valakivel fontos beszélgetése van, menjek föl Tóth Jánoshoz, beszélgessek vele,
@@ -11154,8 +11123,7 @@
                   Olyan ujságot szeretne csinálni a Néptanitók Lapjából, amelyet örömmel olvasnának
                   tanitók és tanárok egyaránt. Megküldené a középiskoláknak is. Hadd ismerje egymás
                   dolgát tanitó és tanár. Vállalod-e?</p>
-               <p>Még szájamban volt a keserü ize két ujságnak. Az egyik a <hi
-                     >Magyarság</hi> volt, a székelyek ujságja, melyért még mindig fizetem a székely
+               <p>Még szájamban volt a keserü ize két ujságnak. Az egyik a <hi>Magyarság</hi> volt, a székelyek ujságja, melyért még mindig fizetem a székely
                   hadisarcot. Alig bucsuztam el ettől, tanitók és tanárok kivánatára vállalom a <hi>Magyar Világ</hi> szerkesztését. Ezek is belém beszélték, hogy
                   ezt <hi>csak én</hi> szerkeszthetem. Összehoznak a szegény tanitók
                   és tanárok vagy kétezer forintot, jó nagy fizetést szavaznak meg nekem, összegyül
@@ -11416,8 +11384,7 @@
                   magyar.</p>
                <p>*</p>
                <p>Itt vége is volna ennek az igen szomoru fejezetnek, de ma oly búskedvü a magyar,
-                  hogy egy kis vidámságot nem szabad irigyelni tőle. Amikor a <hi
-                     >Néptanitók Lapja</hi> szerkesztését vállaltam, gondoltam: végre egy ujság,
+                  hogy egy kis vidámságot nem szabad irigyelni tőle. Amikor a <hi>Néptanitók Lapja</hi> szerkesztését vállaltam, gondoltam: végre egy ujság,
                   melyre nem fogok ráfizetni, hiszen, ennek az Állam a gazdája. Ám az öreg
                   szerkesztőségi szolgát, akit én fogadtam föl, az uj szerkesztőség nem vette át.
                   Folyamodott szegény öreg a miniszterhez, hogy legalább három hónapi fizetését
@@ -11661,8 +11628,7 @@
                <p>- Az egyik csapat közel jár hozzá, de oda már aligha mennek.</p>
                <p>- Ugyan bizony? Hiszen ott a temérdek arany! Hogyne jőnének oda!?</p>
                <p>- Próbálja meg, öreg, hátha valamelyik az urak közül oda is elmegy?</p>
-               <p>Elővettem az utazás sorrendjét, s kitünt nagy örömünkre, hogy az egyik csapat <hi>ma</hi> jár Érces puszta tájékán, a másik <hi
-                     >holnap</hi> halad el Sugópatak mellett s igy, ha jól rakja lábát az öreg,
+               <p>Elővettem az utazás sorrendjét, s kitünt nagy örömünkre, hogy az egyik csapat <hi>ma</hi> jár Érces puszta tájékán, a másik <hi>holnap</hi> halad el Sugópatak mellett s igy, ha jól rakja lábát az öreg,
                   mindkét csapatot elfoghatja: egyik nap odakalauzolja az urakat, ahol az arany
                   terem, másik nap meg oda, ahol már a föld szine is feketéllik a széntől.</p>
                <p>Láttatok-e boldog embert? Nem láttatok, mert nem láttátok a vén Bedő Áront. Hogy
@@ -11773,8 +11739,7 @@
                   Körösi Csorna Sándornak; Zágoni Mikes Kelemennek, a nagy fejedelem leghivebb
                   hivének, az örökéletü levelek irójának; Gábor Áronnak, az ágyuöntő hősnek; Orbán
                   Balázsnak, a <hi>Székelyföld</hi> irójának; Bolyai Farkasnak, a
-                  világhirü székely matematikusnak; Kriza Jánosnak, a <hi
-                     >Vadrózsák</hi> lelkes gyüjtőjének; Barabás Miklósnak, a magyar festőmüvészet
+                  világhirü székely matematikusnak; Kriza Jánosnak, a <hi>Vadrózsák</hi> lelkes gyüjtőjének; Barabás Miklósnak, a magyar festőmüvészet
                   egyik uttörőjének; Pál Lászlónak, a világhires tájkép­festő­nek; Bedő Albertnek,
                   az erdők édesapjának, aki 1891-ben szemem láttára állitotta meg az erdőpusztitó
                   apácapillék ijesztő seregét, több milliárd értékü erdőt mentve meg a nemzeti
@@ -12351,8 +12316,7 @@
                   végtelen fájdal­mas, szivet hasogató, elmeháboritó hangok, megrenditő melódiák
                   zugtak, hömpölyögtek a levegőégben. Lángostorok verdesték testemet, s minden
                   ostorcsapásnak egy szava, egy értel­me volt: Ez a föld már nem a tied! Ezeket a
-                  fákat <hi>nekem</hi> ültetted! Ez a paradicsom az <hi
-                     >enyém</hi>!</p>
+                  fákat <hi>nekem</hi> ültetted! Ez a paradicsom az <hi>enyém</hi>!</p>
                <p>Ki az a <hi>Nekem</hi>?! Ki az az <hi>Enyém</hi>?!
                   hallom lelkem felhördülését. Bódultan támolyogva indulok a házam felé s im
                   jobbra-balra dülöngél, mint a részeg ember. Egy élő lelket sem látok magam körül,
@@ -13485,8 +13449,7 @@
                   Otthon körben megalakitotta a maga irói tanácsát, melynek feladata a közeljövőben
                   az lesz, hogy a tanácsköztársaság irodalmi vezetőségével tárgyaljon a könyvek
                   kiadása, terjesztése ügyében. A kommunista állam tudvalevően <hi>a
-                     müveltséget közügynek tekinti</hi> és éppen ezért a <hi
-                     >magántulajdonban levő kiadócégeket is kommunizálja</hi>, s csak az a könyv, az
+                     müveltséget közügynek tekinti</hi> és éppen ezért a <hi>magántulajdonban levő kiadócégeket is kommunizálja</hi>, s csak az a könyv, az
                   a nyomtatvány jelenhet meg, melyhez a beleegyezését megadta. Nincs többé helye a
                   haszonra s a közönség megrontására és félrevezetésére épitett ravasz számitásnak.
                   Minden könyv kell, hogy <hi>a kultura új eseménye legyen</hi>”.</p>
@@ -13574,8 +13537,7 @@
                   az örömem, a boldogságom, mert minden egy esetben a szegény magyar irodalom
                   gazdagodását, dicsőségét ünnepeltem. Nem tagadom, de sőt igaz örömmel hirdetem,
                   hogy az ünneplésre a világháboru fergetegében is nyilt alka­lom, ha ritka is.
-                  Magyar szivemnek ugyan teljesebb lesz vala öröme, ha Barbusse <hi
-                     >Tűz</hi>-emagyar iró nevét teszi világhirüvé. Hiába, a vér vizzé nem válik, s
+                  Magyar szivemnek ugyan teljesebb lesz vala öröme, ha Barbusse <hi>Tűz</hi>-emagyar iró nevét teszi világhirüvé. Hiába, a vér vizzé nem válik, s
                   akasztófa ide, akasztófa oda, vérem a Proletárdiktatura Istent, hazát, nemzetet
                   nem ismerő napjaiban is inkább huzott a kivert magyar bikához, mint a füstölgő
                   romjainkon kukorékoló gall kakashoz. Igen, a világháboru fergetegében is született
@@ -14155,8 +14117,7 @@
                <p>
                   <hi>December 18.</hi>
                </p>
-               <p>Ma jelent meg a Jó Pajtás karácsonyi száma. Ebben van Jankó <hi
-                     >Nehéz órák</hi> cimü története is, amelyet a proletárdiktatura feszitett
+               <p>Ma jelent meg a Jó Pajtás karácsonyi száma. Ebben van Jankó <hi>Nehéz órák</hi> cimü története is, amelyet a proletárdiktatura feszitett
                   keresztre, de, lám, nem kellett husvétig várnia: feltáma­dott Karácsony ünnepére.
                   Igazat irtál-e, Mária, november elején kelt leveledben, hogy fiunk állapota javul?
                   Te csak egyet gyülöltél mindig: a hazugságot, de félek, igen félek, hogy nem irtál
@@ -14203,8 +14164,7 @@
                   egész család. Most hárman. Tegnap este mind eljöttek hozzám a gyermekek. <hi>Vacsora után</hi> jöttek. Hallod, Mária, hallod? Az ünnepi
                   vacsora elmaradt. «Hajdan» minden vasárnap az öregeknél a vacsora. Most az ünnepi
                   vacsora is elmaradt. Egy kis ünnepi kalács - ennyi az egész. De legalább együtt
-                  voltunk, akik itt ragadtunk... Hát ti együtt voltatok-e, akik <hi
-                     >ott</hi> ragadtatok?</p>
+                  voltunk, akik itt ragadtunk... Hát ti együtt voltatok-e, akik <hi>ott</hi> ragadtatok?</p>
                <p>Mostanában minden éjjel meglátogatsz. Nyilván érzed, ugy-e, hogy várlak, erősen
                   várlak, sziv­szakadva várlak? Jere, jere, amint jöhetsz. Ugyis előbb-utóbb
                   számüznek onnan minket. Bár találkoznék ebben is a gondolatunk. Mert semmi remény,
@@ -14303,8 +14263,7 @@
                <p>
                   <hi>Február 3.</hi>
                </p>
-               <p>Ma éjjel azt álmodtam, hogy levelező-lapot kaptam tőled - <hi
-                     >Oláhfaluból</hi>. Nem tudtam el­olvasni, ugy összezavarodtak a szavak. Minden
+               <p>Ma éjjel azt álmodtam, hogy levelező-lapot kaptam tőled - <hi>Oláhfaluból</hi>. Nem tudtam el­olvasni, ugy összezavarodtak a szavak. Minden
                   éjjel látlak, de csak futólag. Meg-megvillan az arcod, aztán eltünik, egyszer már
                   megállhatnál, hogy egy kicsit kibeszélgesssük magunkat. Ó, Mária, Mária, miért
                   futsz előlem? Félek, igen félek, a fiunk ismét ágyba dőlt, s te azért szaladsz
@@ -14590,8 +14549,7 @@
                   reménységnek egy vékony, igen vékony szálát hoztam Párisból. Azt hittem, nagy
                   kiábrándulás fogad s im, megható szeretettel, bizalommal találkozom mindenütt.
                   Mely felséges szép volt a beszéde! Künn a tanya udvarán. Isten szabad ege alatt.
-                  Mely áhitattal csüngöttek szózatos ajkán! És meg­teltek a szivek <hi
-                     >hittel</hi>, szebb jövendő hitével. Csodát müvelt a nagy ember. A legnagyobb
+                  Mely áhitattal csüngöttek szózatos ajkán! És meg­teltek a szivek <hi>hittel</hi>, szebb jövendő hitével. Csodát müvelt a nagy ember. A legnagyobb
                   magyar.</p>
                <p>Ma reggel utazott el. Én kisértem a vasuthoz. Korán kiröpültünk a kisujszállási
                   állomásra. Kedves ligetecske a pályaház átellenében. Ott sétáltuk el a várakozás

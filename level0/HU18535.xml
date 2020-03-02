@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU18535" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU18535" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Köd :  Regény  : ELTeC edition</title>
-            <author>Gozsdu Elek (1849-1919)<idno type="VIAF">52610012</idno>
+            <author>Gozsdu, Elek (1849-1919)52610012
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -37,12 +35,11 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>Köd : regény</title>
-                     <author>Gozsdu Elek</author>
+                     <author>Gozsdu, Elek</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Aigner</publisher>
                      <date>[1882]</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/3023866"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/3023866"/>
                   </bibl>
                </relatedItem>
             </bibl>

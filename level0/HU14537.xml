@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU14537" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU14537" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Szeptember: Regény: ELTeC edition</title>
-            <author> Ambrus Zoltán (1861-1932) <idno type="VIAF">49239294</idno>
+            <author>, Ambrus Zoltán (1861-1932) 49239294
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -37,12 +35,11 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>Szeptember : regény</title>
-                     <author>Ambrus Zoltán</author>
+                     <author>Ambrus, Zoltán</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Athenaeum</publisher>
                      <date>1897</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/3346328"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/3346328"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -203,8 +200,7 @@
                legyenek s nehogy a Hódy Balázs végtelen diskrécziójánál fogva egy irodalomtörténeti
                adalék esetleg örökre elveszszen: ezennel elárulom, hogy Hódy Balázsnak a Beatricéja
                a szép Sárváryné, Sárváry Bélának, a jeles rajzolónak esküdt felesége volt.</p>
-            <p>Bár, meglehet, maga se tudott róla, a szép Sárváryné sugalmazta <hi
-                  >Hódy Balázs összes költe­ményeit</hi> három testes kötetben s hat kisebb
+            <p>Bár, meglehet, maga se tudott róla, a szép Sárváryné sugalmazta <hi>Hódy Balázs összes költe­ményeit</hi> három testes kötetben s hat kisebb
                füzetben, 1872-től 1893-ig. Ő volt a hősnője a Hódy Balázs könyvdrámáinak és ismét
                csak ő volt, akit Hódy Balázs megénekelt époszban, költői regényben, allegóriában,
                bökversekben, rondeaukban s vegyesekben. Ő volt, akiért a Ginevra-cziklus epedett, a
@@ -228,9 +224,7 @@
                régi, boldogabb idők leányai; szép és nyomatékos, mint egy gyönyörüen metszett arany
                billikom.</p>
             <p>Amiből ne tessék azt következtetni, hogy valami érett szépségről beszélek, vagy
-               legalább is egyikéről ama végiglen kivirágzott alakoknak, a melyeket <hi
-                 >Nyár</hi> czime alatt látni festők és kártya-gyárosok munkáin. A <hi
-                 >Spleen</hi> czimü kötet megjelenése idején a szép Sárváryné
+               legalább is egyikéről ama végiglen kivirágzott alakoknak, a melyeket <hi>Nyár</hi> czime alatt látni festők és kártya-gyárosok munkáin. A <hi>Spleen</hi> czimü kötet megjelenése idején a szép Sárváryné
                husz-huszonegy esztendős lehetett. Igaz, hogy a <hi>Spleen</hi> czimü
                kötet után még egy <hi>De profundis</hi> is következett... de ne
                siessünk. Ugyis hamarább érkezünk e románcz végéhez, mint képzelni tetszik.</p>
@@ -241,8 +235,7 @@
                néven megénekelt szép Borcsát, mikor ez a rózsa még csak rózsabimbó volt.</p>
             <p>A dolog ugy történt, hogy: volt a rózsabimbónak egy nagy kamasz öcscse, aki sehogy se
                akart szimpatizálni a velünk barátságos lábon élő Görögországgal. Valamely rejtelmes
-               idioszünkra­ziánál fogva: gyülölte a görög nyelvet átalában s a <hi
-                  >mi</hi> végzetü igéket különösen. A <hi>mi</hi> végzetü igék szivük
+               idioszünkra­ziánál fogva: gyülölte a görög nyelvet átalában s a <hi>mi</hi> végzetü igéket különösen. A <hi>mi</hi> végzetü igék szivük
                mélyéből viszonozták ezeket az érzelmeket s hogy e sajnos ellentét, legalább a
                nagyvilág előtt, valamiképp kiegyenlithető legyen: Hódy Balázs, egy régi
                professzorának ajánlatára, meghivást kapott az aggódó apától, hogy havonkint tizenöt
@@ -334,8 +327,7 @@
             <p>Nem tudom, adnak-e önök valamit egy regényiró becsületszavára. Ha igen, ugy
                határozottan állithatom, hogy a <hi>Spleen</hi> e strófájában Hódy
                Balázs igen-igen igazságtalan volt. Azt mond­hat­nám, hogy a világtörténelem csak
-               kevés oly égbekiáltó igazságtalanságot emlit, mint a minő a <hi
-                  >Spleen</hi> czimü kötet eme gyöngyében foglaltatik. Mert ha egyáltalán létezett
+               kevés oly égbekiáltó igazságtalanságot emlit, mint a minő a <hi>Spleen</hi> czimü kötet eme gyöngyében foglaltatik. Mert ha egyáltalán létezett
                valaha asszony, aki a kaczérság eredendő büne nélkül született, ugy ez az egyetlen
                egy asszony a szép Sárváryné volt; és ha volt valaha uj nemzedék, melynek a világra
                jövetele (szakrilégium nélkül gondolván) a szeplőtelen fogantatásra emlékeztetett,
@@ -422,8 +414,7 @@
                mind a hány, ilyen valamennyi, ilyen.</p>
             <p>És mégse tudott másként gondolni rá, mint végtelen szerelemmel.</p>
             <p>A rózsabimbó, házasságának tizenegyedik hónapjában, egy egészséges fiu-gyermeket
-               hozott a világra, aki akkora volt, mint egy pápai zuáv. Ez a pápai zuáv és a <hi
-                 >Spleen</hi> első darabjai egy időből valók. Kevéssel utóbb azt
+               hozott a világra, aki akkora volt, mint egy pápai zuáv. Ez a pápai zuáv és a <hi>Spleen</hi> első darabjai egy időből valók. Kevéssel utóbb azt
                kezdték beszélni, hogy az asszony nem boldog, mert a férje megint éjszakázik. Ez a
                hir megillette a Hódy Balázs szivét. Talán egy csepp káröröm is vegyült a
                sajnálkozásába; ha igen, megbünhödött érte. Mert bár szeretettel csiszolgatta a
@@ -433,14 +424,12 @@
             <p>A harmadik se váratott magára két esztendeig; s mindegyiknek akkora feje volt, mint
                egy-egy görög dinnye.</p>
             <p>Ebben az időben hősünk nagyon neki adta magát a borongásnak. Megirta a komor hangu
-                  <hi>Végtelenség</hi>-et és a száztiz oldalra terjedő <hi
-                 >Rejtelmek</hi>-et (azokat a verseit, a melyekből a jövő esztétikusai
+                  <hi>Végtelenség</hi>-et és a száztiz oldalra terjedő <hi>Rejtelmek</hi>-et (azokat a verseit, a melyekből a jövő esztétikusai
                konstatálni fogják, hogy Hódy Balázs és a világrend nem igen kedvelték egymást s néha
                rendkivül feszült viszonyban voltak), sokat járt ki a zugligetbe, hozzá szokott a
                borital­hoz s ha az utczán ismerős jött vele szembe, ijedten kapta félre a fejét,
                mint a skót ballada grófja, hogyha szürke barátot látott.</p>
-            <p>Aztán, elcsitultak szivének hullámai. Egyre kevesebbet hallott a <hi
-                  >donna angelicata</hi>-ról; végre elveszitette szeme elől egészen. Bandi, az alatt
+            <p>Aztán, elcsitultak szivének hullámai. Egyre kevesebbet hallott a <hi>donna angelicata</hi>-ról; végre elveszitette szeme elől egészen. Bandi, az alatt
                az ürügy alatt, hogy immár tökéletesen meg van érve a felsőbb tudományokra, elvált
                Xenofontól örökre; viszont, a temetkezési vállalat, melylyel hősünk utóbb életfogytig
                tartó szövetséget kötött, már ekkor javában kaczérkodott vele. Szóval, mulván az
@@ -758,8 +747,7 @@
                eposz­ban, madrigálban, rondeaukban s vegyesekben.</p>
             <p>Erről a szerelemről a jövő irodalom történetirása bizonyára részletesen fog
                megemlékezni s én éppen csak az adatgyüjtés érdekében kivántam e helyütt némi
-               kommentárral szolgálni a Ginevra-cziklus, a <hi>Spleen</hi> és a <hi
-                 >De Profundis</hi> egyes darabjaihoz.</p>
+               kommentárral szolgálni a Ginevra-cziklus, a <hi>Spleen</hi> és a <hi>De Profundis</hi> egyes darabjaihoz.</p>
             <p>De volt Hódy Balázsnak egy másik szerelmi regénye is, s félő, hogy erről a második
                szerelmi regényről már nem lesz az irodalomtörténet-irásnak egyetlen szava sem.</p>
             <p>Mert a Hódy Balázs költeményeiben csak egy női név van: a Ginevra neve. S arról a
@@ -1163,16 +1151,14 @@
             <p>Különben sokkal inkább el volt foglalva a teóriájával, sem hogy ez a kellemetlen mult
                valami sűrűn kisérthette volna. A társadalmi egyensuly törvénye annyira izgatta, hogy
                utoljára kiszoritott a fejéből minden más, vidám vagy nem vidám gondolatot.</p>
-            <p>- Az éj és a nap váltakozása - magyarázta Balázsnak - ez a <hi
-                  >természeti</hi> egyensuly. Mit gondol, ha egyszer a nap nem akarna lemenni?!...
+            <p>- Az éj és a nap váltakozása - magyarázta Balázsnak - ez a <hi>természeti</hi> egyensuly. Mit gondol, ha egyszer a nap nem akarna lemenni?!...
                Megbomlanék az egész világ; a Siriustól kezdve le egészen az utolsó ázalagig, egy
                roppant csődbe jutna az egész világ-egyetem. A jó és a rossz váltakozása, a morális
                erők és az állati ösztönök örök küzdelme pedig: az <hi>erkölcsi</hi>
                egyensuly. Mondja, kérem, mi lenne akkor, ha csupa angyalokból állna a világ?!
                Képzelje el, hogy a hordár angyal, a fináncz angyal, a végrehajtó angyal. Elküldene
                ön egy angyalt a zálog­házba?! No, ugy-e? A természeti és az erkölcsi egyensulylyal
-               tehát tisztában volnánk. Komp­li­káljuk e kettőt: s megkapjuk a <hi
-                  >társadalmi</hi> egyensúlyt. Ez a világ a nagy tömegek erőinek és rossz
+               tehát tisztában volnánk. Komp­li­káljuk e kettőt: s megkapjuk a <hi>társadalmi</hi> egyensúlyt. Ez a világ a nagy tömegek erőinek és rossz
                ösztöneinek folytonos, pihenés nélkül való, általános küzdelme; ameddig e küzdelem
                tart, addig áll a világ. Mi a társadalmi élet? Szüntelen váltakozása az ideális
                eszmék és a reális eszmék egymást követő uralmának. Hol az ideál van felül, hol a
@@ -1429,15 +1415,13 @@
             <p>- Hol volt, hol nem volt, volt egyszer egy molnár. Annak volt három fia, és egy
                malma, és egy szamara, és egy kandúr-macskája. És meghalt. És azt mondta a három
                fiunak: »Nektek hagyom a malmot, a szamarat és a kandúrt.«</p>
-            <p>Az elbeszélés tulajdonképpen alig állott egyébből, mint az <hi
-               >és</hi>nek, ennek a barátságos kötőszócskának, fölötte gyakori ismétléséből.
+            <p>Az elbeszélés tulajdonképpen alig állott egyébből, mint az <hi>és</hi>nek, ennek a barátságos kötőszócskának, fölötte gyakori ismétléséből.
                Kénytelen vagyok megvallani, hogy a logika a sötét középkor óta csak igen ritkán
                szenvedett nagyobb rövidséget, mint regényem hősnő­jének szóban forgó debut-je
                alkalmával.</p>
             <p>Balázs nem tudott utána ugrálni a kis lány szárnyas fantáziájának. Olyanformán volt,
                mint a Hamupipőke, akinek a lencse-szemektől külön kellett választania a
-               borsó-szemeket; nagy erőfeszitéseket tett, hogy a temérdek <hi
-               >és</hi>ből kiböngészsze magát a mesét.</p>
+               borsó-szemeket; nagy erőfeszitéseket tett, hogy a temérdek <hi>és</hi>ből kiböngészsze magát a mesét.</p>
             <p>De ez a feladat tulságosan nagy munka volt az ő szegény fejének. Belezavarodott a
                váratlan »azután«-okba s eltévedt a közbevetett mondatok rengetegében.</p>
             <p>Azt még sikerült megértenie, hogy a molnár legkisebbik fia, akit örökség fejében a
@@ -1665,8 +1649,7 @@
                ha a darabját nem adják elő, az szamárság és alávalóság, ami különben természetes,
                mert hisz a szindarabok előadása tekintetében, igen oktalanul, nem az asszonyok
                rendel­keznek. Ha véletlenül Fodornétól függ, az erkölcstelen bohózatok és
-               operette-ek bizonyára már régóta kipusztultak volna a világból s helyettük ma is <hi
-                 >Vercingetorix</hi>-ot adnák, okulására az ifjaknak s gyönyörüségére
+               operette-ek bizonyára már régóta kipusztultak volna a világból s helyettük ma is <hi>Vercingetorix</hi>-ot adnák, okulására az ifjaknak s gyönyörüségére
                az idősebbeknek.</p>
             <p>Ezen a hatalmas gyámolon kivül Vercingetorixnak még egy patronája volt: Ella
                kisasszony.</p>
@@ -1691,8 +1674,7 @@
                megnyugtatta a lelkiisme­retét. Aztán megjutalmazta a költőt olyanféle
                kijelentésekkel, hogy:</p>
             <p>- Most már ez a jelenet tökéletes.</p>
-            <p>Balázs ugy találta, hogy e nyomatékos itéletekkel szemben nincsen apelláta s <hi
-                 >Vercingetorix</hi>ot illetőleg az irodalom-történetnek nem lehet
+            <p>Balázs ugy találta, hogy e nyomatékos itéletekkel szemben nincsen apelláta s <hi>Vercingetorix</hi>ot illetőleg az irodalom-történetnek nem lehet
                egyéb dolga, mint hogy egyszerüen helyben hagyja az Ella kisasszony kritikáját. Végre
                is, a drámairó számára nincs magasabb areopág, mint a női sziv. Azért irunk, hogy
                varázsvesszőnkkel még a kősziklából is kifakaszszuk a megindulás forrását s hol van a
@@ -1948,8 +1930,7 @@
             <p>- Azt gondolom, hogy nem is számit rosszul. Annyi bizonyos, hogy az esküvőn a
                tábornokné lesz a nászasszony, s a tábornok a násznagy.</p>
             <p>- S ezek mellett a kitünőségek mellett én legyek a vőfély?</p>
-            <p>- Gondolja meg, Hódy bácsi, micsoda pompás mulatság lesz! A lakzit a <hi
-                 >Vidám Targonczás</hi>nál fogják megtartani, mert a vidám targonczás
+            <p>- Gondolja meg, Hódy bácsi, micsoda pompás mulatság lesz! A lakzit a <hi>Vidám Targonczás</hi>nál fogják megtartani, mert a vidám targonczás
                rokona a bárónak, s igy kevesebb lesz a költség.</p>
             <p>- Maga a mulatság nem csábit éppen, kedves Czilla, de...</p>
             <p>- De a mi kedvünkért, édes, kedves Hódy bácsi!...</p>
@@ -1973,8 +1954,7 @@
             <p>- Akkor hát el fogunk menni - szólt Fodorné.</p>
             <p>Balázs tudta, hogy amit Fodorné egyszer megmondott, az készpénz. Olyan bizonyosság
                volt ez, mint a milyennel a greenwich-i csillagvizsgáló számitja ki, hogy
-               ötszáztizenhét év mulva, november 25-én, déli 1 óra 20 perczkor a <hi
-                  >Biela</hi> nevü üstökös ismét el fog haladni portánk előtt. Azaz hogy ennél is
+               ötszáztizenhét év mulva, november 25-én, déli 1 óra 20 perczkor a <hi>Biela</hi> nevü üstökös ismét el fog haladni portánk előtt. Azaz hogy ennél is
                nagyobb bizonyosság volt. Mert meglehet, a <hi>Biela </hi>nevü üstökös
                utközben meggondolja magát, s ki tudja, talán eltér eredeti szándékától; ellenben
                arra, hogy Fodorné is meggondolja magát, nem lehetett soha semmi reménység. Fodorné
@@ -2052,8 +2032,7 @@
                nyilvánosság elé! Vajon csodának mondható-e, ha nem vetette meg az első kinálkozó
                alkalmat?!</p>
             <p>Bizonyára, nem éppen a <hi>Vidám Targonczás </hi>nyilvánossága elé
-               kivánkozott oly hosszu időn át, a szegény hadviselő. De eget kérni a <hi
-                 >Vidám Targonczás</hi>-ban mindig többet ér, mint az idők
+               kivánkozott oly hosszu időn át, a szegény hadviselő. De eget kérni a <hi>Vidám Targonczás</hi>-ban mindig többet ér, mint az idők
                végtelenségéig senyvedni a Tartarusban egy sziklához lánczoltan.</p>
             <p>Balázs tehát nem tudta kiverni a fejéből, hogy: ime, jobb idők kezdenek járni a
                hadviselést tárgyazó drámákra, s nem védekezett kellő erélylyel a vasparipán járó
@@ -2172,8 +2151,7 @@
                hű Shamylját, s kocsiba ült immáron élete párjával.</p>
             <p>A második kocsin a tábornok és felesége helyezkedtek el, aztán a nyoszolyóleányok
                következtek kisérőikkel, majd a másod rangu előkelőség, s végül a népség és
-               katonaság, a tánczosok meg a szegény rokonok, s megkezdődött a kivonulás a <hi
-                 >Vidám Targonczás</hi>-hoz.</p>
+               katonaság, a tánczosok meg a szegény rokonok, s megkezdődött a kivonulás a <hi>Vidám Targonczás</hi>-hoz.</p>
             <p>A<hi> Vidám Targonczás</hi>, a fővárosi epikúrok e kedvelt nyári
                helyisége, voltaképpen egy csatakos kis udvar volt, melyben a természetet két
                hektikás, porlepte galagonya-bokor képviselte. De az udvart határoló kőfalra svájczi
@@ -2305,8 +2283,7 @@
                szindarabnak!</p>
             <p>Megveregette Balázsnak a vállát, kiválasztotta számára a legjobb szivarját, s nagy
                érdeklő­déssel kérdezősködött a költő magán viszonyai és irodalmi működése felől.</p>
-            <p>Mikor meghallotta, hogy a szinházak makacsul vonakodnak előadni <hi
-                  >Vercingetorix-</hi>ot, fel­hábo­rodott.</p>
+            <p>Mikor meghallotta, hogy a szinházak makacsul vonakodnak előadni <hi>Vercingetorix-</hi>ot, fel­hábo­rodott.</p>
             <p>- Nem adni elő ilyen szindarabot! - tombolt a haragtól - de hisz ez őrültség,
                ostobaság, gyalázat!... Ne féljen semmit, ez a szindarab szabályszerü, és én elő
                fogom adatni.</p>
@@ -2343,8 +2320,7 @@
             <p>Hogy erénye annyira áhitozta a reklámot, ne itéljük meg érte. Mindez Durczás
                Attiláért történt.</p>
             <p>A szép asszony azzal lépett be Balázshoz, hogy őt a tábornok küldte. Biztositani
-               akarja a szerencsét, hogy ő játszhassa Pompéját, ha ugyan <hi
-                  >Vercingetorix</hi> nem lesz a másik szinház zsákmánya.</p>
+               akarja a szerencsét, hogy ő játszhassa Pompéját, ha ugyan <hi>Vercingetorix</hi> nem lesz a másik szinház zsákmánya.</p>
             <p>Megvallotta őszintén, hogy az utóbbi esetben ő igen-igen boldogtalannak érezné magát.
                Ha a vetélytársa diadalmaskodnék ebben a szerepben!</p>
             <p>A mi magát a szerepet illeti, csak két óhajtása volna. Elsőbb az, hogy igen szeretné
@@ -2605,8 +2581,7 @@
             <p>Ella nem felelt. Maga is eltünődött rajta egy kicsit, honnan van, hogy ő ezt a sok
                érdemet nem tudja kellőképpen méltányolni?!</p>
             <p>A hinduknak a szerelemről szóló szent könyve hetvenhét mesterséget sorol fel, s azt
-               állitja, hogy ezek bármelyikével meg lehet nyerni a lányok szerelmét. De a <hi
-                 >tudomány</hi> nincsen közöttük.</p>
+               állitja, hogy ezek bármelyikével meg lehet nyerni a lányok szerelmét. De a <hi>tudomány</hi> nincsen közöttük.</p>
             <p>S Ella gondolatai egy betü-iszonyban szenvedő gentleman-nél kalandoztak, a ki
                háromszor bukott meg minden alap-vizsgálaton, s a kiről a sors könyvébe azt irták,
                hogy: sohase fogja le­tenni a szigorlatokat...</p>
@@ -2789,8 +2764,7 @@
                megverni. Most kitudódik, hogy ő számtalan hoszszal első, én pedig letörtem. Ez
                szomoru, kétségbeejtő, de igy van. Maga azt mondja, hogy küzdjem tovább. Én még abban
                se vagyok bizonyos, hogy ez egyátalán lehetséges-e? Az az érzésem, hogy ő mindig le
-               fog engem galoppozni. Hiába, nem vagyok <hi
-               >tip-top</hi>-kondiczióban.</p>
+               fog engem galoppozni. Hiába, nem vagyok <hi>tip-top</hi>-kondiczióban.</p>
             <p>- Bánatot jelent? - kérdezte Czilla, aki értette ezt a lóverseny-nyelvet.</p>
             <p>- Nem, hanem azt kérdem, hogy: mit csináljak?</p>
             <p>- Tanácsot kér tőlem?</p>
@@ -2964,8 +2938,7 @@
                szükség most már a repülő gépre?! De a katonák oly nehéz­kesek, mintha mind csupa
                apró trójai falovakon ülnének!... És a bankok! Megannyi krajzler! Magában az angol
                bankban sincs több vállalkozó szellem, mint a sarki füszerkereskedőben. De hát,
-               kérdem, mire akkor a bankok, ha ugy tesznek, mint a <hi
-               >Fa-kutyá</hi>hoz czimzett füszeres bolt, s nem dolgoznak másban, csak malagában és
+               kérdem, mire akkor a bankok, ha ugy tesznek, mint a <hi>Fa-kutyá</hi>hoz czimzett füszeres bolt, s nem dolgoznak másban, csak malagában és
                indigóban, mintha Marco Polo óta egy jottát se változott volna a világ?! Ha nekem egy
                kis kapitálisom van, ma a nagyhatalmak kormányai az utczán verekednek, hogy melyikük
                vásárolhassa meg előbb a találmányomat. Mig igy! Egész nap dolgozom, futok, fáradok,
@@ -3079,8 +3052,7 @@
                láttamozták, s egészben véve meg volt elégedve a »nagy jelenet«-ével, de öröme nem
                tartott sokáig. A hatás nagyobb volt, mint remélte, s e váratlan siker kissé
                megdöbbentette. Balázs, ahogy Czilla előre látta a döntő szczénát, nem kiáltozott a
-               fájdalomtól, nem ágált, nem ugrott fel a helyéről, s nem tombolt, mint a <hi
-                 >Vercingetorix</hi> Pompejá-ja egy teljesen hasonló drámai
+               fájdalomtól, nem ágált, nem ugrott fel a helyéről, s nem tombolt, mint a <hi>Vercingetorix</hi> Pompejá-ja egy teljesen hasonló drámai
                helyzetben, tovább is csöndesen beszélgetett vele, sőt folyvást mosolygott, mint
                minden félszeg ember, aki leplezni akarja, hogy a szive csordultig van; de a
                változás, mely ezen a mosolygó arczon egy pár percz alatt végbement, még a Czilla
@@ -3101,8 +3073,7 @@
                Lehorgasztott fejjel ment ki a szobából, s egy pillanatig arra gondolt, hogy ha anyja
                rajta érné a perfidián, talán nem terhelné annyira a felelősség azért, a mit, hiába,
                meg kellett tennie. Mért is, hogy nem szóltak inkább a mamának?!...</p>
-            <p>Odaát, a nagy szobában, egyedül találta magát, s ugy tett, mint <hi
-                  >Stuart Mária</hi> utolsó felvonásá­ban Leicester Lord, a ki tudvalevőleg nagy
+            <p>Odaát, a nagy szobában, egyedül találta magát, s ugy tett, mint <hi>Stuart Mária</hi> utolsó felvonásá­ban Leicester Lord, a ki tudvalevőleg nagy
                felindulások közepette hallgatja a magánosságban, hogyan ácsolják a közelben Máriának
                a vérpadot. Fülelni kezdett, s minden nesz, mely a másik szobából áthallatszott,
                halálos rémületekbe ejtette.</p>

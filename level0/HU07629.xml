@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07629" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07629" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Az alföldi vadászok tanyája : Regény : ELTeC edition</title>
-            <author ref="viaf:25795116">Podmaniczky Frigyes (1824-1907)</author>
+            <author>Podmaniczky, Frigyes (1824-1907)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -44,7 +42,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>Az alföldi vadászok tanyája : regény</title>
-                     <author>báró Podmaniczky Frigyes </author>
+                     <author>báró, Podmaniczky Frigyes </author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Franklin-Társ.</publisher>
                      <date>1906</date>
@@ -53,7 +51,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>Az alföldi vadászok tanyája : Regény</title>
-               <author>Podmaniczky Frigyes</author>
+               <author>Podmaniczky, Frigyes</author>
                <date>1854</date>
             </bibl>
          </sourceDesc>

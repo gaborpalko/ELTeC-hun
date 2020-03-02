@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU10176" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU10176" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Polgárháború ; Egy falusi Hamlet : ELTeC edition</title>
-            <author ref="viaf:58030320">Rákosi Viktor (1860-1923)</author>
+            <author>Rákosi, Viktor (1860-1923)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -42,7 +40,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>Polgárháború</title>
-                     <author>Rákosi Viktor</author>
+                     <author>Rákosi, Viktor</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Révai</publisher>
                      <date>1903</date>
@@ -52,7 +50,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>Polgárháború ; Egy falusi Hamlet</title>
-               <author>Rákosi Viktor</author>
+               <author>Rákosi, Viktor</author>
                <date>1897</date>
             </bibl>
          </sourceDesc>
@@ -1252,8 +1250,7 @@
                   primadonna rosszul lett, néhány békétlen csizmadialegénynek egy-egy koronát adott,
                   s egy félóra mulva Kámfor négyesfogata vágtatva távozott a városból. A
                   főszolgabiróval szemben ült a szép Arabella s mellette egy öreg asszony, a kit a
-                  művésznő nyilvánosan <hi>édes mamának</hi>, négyszemközt pedig <hi
-                    >hallja Slezáknénak</hi> szokott szólitani.</p>
+                  művésznő nyilvánosan <hi>édes mamának</hi>, négyszemközt pedig <hi>hallja Slezáknénak</hi> szokott szólitani.</p>
                <p>Bánkay sóhajtva nézett utánuk, aztán hazament s <hi>“A ripők”</hi>
                   cim alatt hozzáfogott a vasárnapi szám vezércikkéhez.</p>
                <p>A ripők: Tukoray Kázmér volt.</p>
@@ -1288,8 +1285,7 @@
                <p>Esteledett. Hőseink elbucsuztak a parasztoktól, a vonat eltávozott. A két ember az
                      <hi>adóelengedések</hi> könyvével megindult a falu felé,
                   szivükben nemes elhatározás, zsebükben öt korona, kezükben egy-egy vékony
-                  sétapálca, vállukon egy könnyü nyári felöltő - nem, ne tulozzunk, mondjuk <hi
-                    >vállán</hi>, mert Tukoraynak nem volt nyári felöltője.</p>
+                  sétapálca, vállukon egy könnyü nyári felöltő - nem, ne tulozzunk, mondjuk <hi>vállán</hi>, mert Tukoraynak nem volt nyári felöltője.</p>
                <p>Az állomáson tul óriási sár várt rájuk, Tukoray megdöbbenve nézett végig rajta.
                   Kivágott lakkcipője, ha szemei lettek volna, még jobban megdöbbenve nézett volna
                   végig rajta. Mert a dolog őt érdekelte közelebbről.</p>
@@ -1696,8 +1692,7 @@
                   elhagyni a szobát) és kifutott. A következő pillanatban egy szinpadi eleganciával
                   felöltözködött, hatalmas kalapu, erőteljes hölgygyel tért vissza.</p>
                <p>- A mama, - mutatta be Bella a két fiunak.</p>
-               <p>Slezákné abban a korban volt, melyet a szinházi terminológia <hi
-                     >kedélyes anyá</hi>-nak szokott nevezni. Rokonszenves, sőt csinos, kissé
+               <p>Slezákné abban a korban volt, melyet a szinházi terminológia <hi>kedélyes anyá</hi>-nak szokott nevezni. Rokonszenves, sőt csinos, kissé
                   vihardult vonásai voltak, de már nem titkolhatta, hogy ötvenedik tavasza felé
                   közeledik.</p>
                <p>A fiuk tisztelettel fogadták Slezáknét, a ki cseppet se bosszankodva a hosszas
@@ -1722,8 +1717,7 @@
                <p>- Matyi! Te mindig azt mondtad rólam, hogy jó lány vagyok. Te csak megérezted ezt,
                   de bizonyitékaid nem voltak. Most egy nagy bizonyitékot fogok a kezedbe
                   szolgáltatni. Mennyi pénz kell?</p>
-               <p>Barátaink tágra nyilt szemekkel néztek Bellára. Ez a kérdés: <hi
-                     >mennyi pénz kell</hi>, csodálatosan hangzott füleikbe. Mintha a mesebeli
+               <p>Barátaink tágra nyilt szemekkel néztek Bellára. Ez a kérdés: <hi>mennyi pénz kell</hi>, csodálatosan hangzott füleikbe. Mintha a mesebeli
                   tündér jelent volna meg, kezében a bőség szarujával.</p>
                <p>- Kedves nagysád, - szólt Tukoray, a ki hamarabb magához tért, - a mi engem illet,
                   én nem fogadhatom el ezt a nagylelkü ajánlatot...</p>
@@ -2572,8 +2566,7 @@
                   távirattal.</p>
                <p>- De nem lesznek ennek kínos következményei?</p>
                <p>- De lesznek. Nem éppen kínosak, de következmények. A prágai központi
-                  táviróhivatal nagy előcsarnokában van egy tábla, mely ezt a föliratot viseli: <hi
-                    >kézbesithetetlen táviratok.</hi> Oda fogják kiakasztani.</p>
+                  táviróhivatal nagy előcsarnokában van egy tábla, mely ezt a föliratot viseli: <hi>kézbesithetetlen táviratok.</hi> Oda fogják kiakasztani.</p>
                <p>- Ez a Nornenstein hercegnő tehát nem létezik.</p>
                <p>- De igen, Jókai egyik regényében... Ugy, tedd legfölül a kegyelmes nagynénédet és
                   aztán előre, a főnök urhoz.</p>
@@ -2707,8 +2700,7 @@
                   Tukoray.</p>
                <p>- Meglesz, méltóságos uram... Mari! Hamar vacsorát, tálaljatok! - kiáltott a főnök
                   vigan és átrohant a lakásába.</p>
-               <p>Félóra mulva barátaink egy vasuti kocsiban robogtak, melyre ez volt fölirva: <hi
-                    >Hat ló, huszonnégy ember.</hi>
+               <p>Félóra mulva barátaink egy vasuti kocsiban robogtak, melyre ez volt fölirva: <hi>Hat ló, huszonnégy ember.</hi>
                </p>
                <p>Sokáig hallgattak és gondolkoztak a történtekről, végre Tukoray egyszerre
                   fölkiáltott:</p>
@@ -3251,8 +3243,7 @@
                   meg. Zeneszót hall. Erről nem is tudott semmit. Bizonyosan fáklyás-zene a jobbpárt
                   jelöltjének.</p>
                <p>No, ezt megvárja és még beleszoritja a lapba. A nép arra hömpölyög. Mi az ördög?
-                  Tüntetés ő ellene? Hamar bezárta az utcai ajtót. Száz meg száz ember kiáltja: <hi
-                    >“Éljen Bánkay István!”</hi> No, ez mégis szép, a fáklyás-zenéből
+                  Tüntetés ő ellene? Hamar bezárta az utcai ajtót. Száz meg száz ember kiáltja: <hi>“Éljen Bánkay István!”</hi> No, ez mégis szép, a fáklyás-zenéből
                   neki is jut, a főispán végre elismeri, hogy neki is nagy része van a közhangulat
                   megcsinálásában. Erre nem is számitott. Magában azonnal elkezdte csinálni a
                   beszédet, melylyel az üdvözletre felel, éltetvén a főispánt és öcscsét, a

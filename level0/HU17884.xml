@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17884" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17884" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Egyenes úton - egyedül :  Regény  : ELTeC edition </title>
-            <author>Ritoók Emma (1868-1945)<idno type="VIAF">121446803</idno>
+            <author>Ritoók, Emma (1868-1945)121446803
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -39,12 +37,11 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>gyenes úton - egyedül : regény</title>
-                     <author>Ritoók Emma</author>
+                     <author>Ritoók, Emma</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Singer - Wolfner</publisher>
                      <date>1905</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/3252924"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/3252924"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -1710,8 +1707,7 @@
                   becsület, - boldogság, - mind hazugság volt, csak jőjj vissza! El fogunk költözni
                   innen, senki sem fog tudni a szégyenedről.</p>
                <p>- Ágnes! úgy beszélsz, mintha valami szolgáló volnék, akit a tüzoltója
-                  elcsábított! <hi>Én</hi> akartam vele menni, mert <hi
-                     >én</hi> is a saját életemet akartam élni, a saját boldogságomat keresni és ha
+                  elcsábított! <hi>Én</hi> akartam vele menni, mert <hi>én</hi> is a saját életemet akartam élni, a saját boldogságomat keresni és ha
                   a társadalmi korlátokon belül nem lehetett, hát azokon kivül...</p>
                <p>- De miért nem lehetett a korlátokon belül? Mert a férfinak így kényelmesebb, mert
                   igy akkor dobhat el, amikor akar!</p>

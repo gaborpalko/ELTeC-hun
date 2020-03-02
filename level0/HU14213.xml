@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU14213" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU14213" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A hegység tündére: Regény: ELTeC edition</title>
-            <author> Beniczkyné Bajza Lenke (1839-1905) <idno type="VIAF">20466121</idno>
+            <author>, Beniczkyné Bajza Lenke (1839-1905) 20466121
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -37,12 +35,11 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>A hegység tündére : regény</title>
-                     <author>Beniczkyné Bajza Lenke</author>
+                     <author>Beniczkyné, Bajza Lenke</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Singer-Wolfner</publisher>
                      <date>1890</date>
-                     <ref
-                        target="http://nektar.oszk.hu/hu/manifestation/3230637"/>
+                     <ref target="http://nektar.oszk.hu/hu/manifestation/3230637"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -252,8 +249,7 @@
                   rejtekhelyeinek minden zegét-zugát. És ha kissé tovább maradt a rendesnél,
                   Leticzia reszketett, hogy nem jön többé vissza. De mindig visszajött.</p>
                <p>Csodálatosan ragaszkodott az öreg asszonyhoz. Valami ösztönszerű hála kötötte
-                  hozzá, s ha egyébért nem tért volna vissza a szegényes kunyhóba Leticziához, a <hi
-                    >bárka</hi> hozzákötötte volna. Lelke, szíve vonzalma e
+                  hozzá, s ha egyébért nem tért volna vissza a szegényes kunyhóba Leticziához, a <hi>bárka</hi> hozzákötötte volna. Lelke, szíve vonzalma e
                   halászbárkához volt kötve, mert azon bemehetett messze-messze a tengerbe, s ez
                   volt eleme, mulatsága, élvezete, hányattatni a hullámok által, dobáltatni a tenger
                   árjainak zúgásában.</p>
@@ -2633,8 +2629,7 @@
                <p>- Nem, - viszonzá szárazan a grófné. - De képzelem, minő lehet. Ismerem az ilyféle
                   olasz Esmeraldákat, kikért a férfiak rajonganak, kiknek az az egyedüli érdemük,
                   hogy könnyen meghódolnak.</p>
-               <p>- Nos, hát csalódni fogsz-e hitedben, mert olyat, mint ez a leány, még <hi
-                    >sohasem láttál</hi>.</p>
+               <p>- Nos, hát csalódni fogsz-e hitedben, mert olyat, mint ez a leány, még <hi>sohasem láttál</hi>.</p>
                <p>Olympia megütközve pillantott férjére, ki se könnyen lelkesülő természet nem volt,
                   sem pedig soha olyat nem mondott, a mi nem úgy volt.</p>
                <p>- Te is el vagy bűvölve általa.</p>
@@ -3929,8 +3924,7 @@
                <p>Dolgom volt vele. Nappal távol lévén, nem volt időm elvégezni s tudja, hogy
                   két-három óráig sohasem tudok elaludni.</p>
                <p>- Ez nem felelet, a valót akarom tudni, különben Májához megyek s tőle kérdem meg
-                  beszédük titkát és ez, beláthatja, különös színben tünteti föl a <hi
-                     >cseléd</hi> előtt házaséletünket.</p>
+                  beszédük titkát és ez, beláthatja, különös színben tünteti föl a <hi>cseléd</hi> előtt házaséletünket.</p>
                <p>Olympia semmi esetre sem óhajtá e fenyegetés végrehajtását.</p>
                <p>- Ha éppen kivánja tudni, Róbert... A mit igen különösnek találok. Ithaka
                   hollétéről tudako­zód­tam nála.</p>
@@ -5075,8 +5069,7 @@
                   felelhettem, sőt ma is csak egy kérdéssel válaszolhatok és ez: akarja-e nőül venni
                   Ithakát?</p>
                <p>Fulvió a meglepetéstől fölugrott.</p>
-               <p>Mily boldog lett volna csak pár nap előtt is e kérdésre felelhetni. <hi
-                    >Ma</hi> nem tudott arra válaszolni. Ajkai zárva voltak.</p>
+               <p>Mily boldog lett volna csak pár nap előtt is e kérdésre felelhetni. <hi>Ma</hi> nem tudott arra válaszolni. Ajkai zárva voltak.</p>
                <p>Marcassiné meglepetve szemlélte.</p>
                <p>- Nos? - kérdé türelmetlenűl, megrovó hangon.</p>
                <p>- A nem várt kérdés annyira meglepő... - dadogá a herczeg, - hogy...</p>
@@ -5132,8 +5125,7 @@
                <p>- Látta Egéria Itha grófnőt?</p>
                <p>- Beszéltem vele, - viszonzá szívének lázas dobogását elfojtani igyekezve
                   Fulvió.</p>
-               <p>- Elmondta ő herczegségednek, hogy jutott Rómába, a Quirinálba, a <hi
-                    >király közelébe</hi>?</p>
+               <p>- Elmondta ő herczegségednek, hogy jutott Rómába, a Quirinálba, a <hi>király közelébe</hi>?</p>
                <p>- Az már oly régen volt, hogy nem is beszéltünk róla.</p>
                <p>- Igaz. Régen volt, de mindig érdekes és csodálatos marad. Elmondjam
                   herczegségednek?</p>
@@ -6314,8 +6306,7 @@
                <p>Napok teltek bele, míg a titkár szétküldözte a herczeg házasságának megtörténtét
                   Egéria Itha grófnővel, és ismét napok, mialatt özönlött a számtalan szerencse- és
                   üdvkivánat e frigyhez.</p>
-               <p>Senkisem beszélt arról nyilvánosan, de mindenki tudta Ithaka történetét és <hi
-                    >bizonyos okok miatt</hi>, mindenki sietett Fragóni herczegné
+               <p>Senkisem beszélt arról nyilvánosan, de mindenki tudta Ithaka történetét és <hi>bizonyos okok miatt</hi>, mindenki sietett Fragóni herczegné
                   kedvében járni...</p>
                <p>Egy napon Ossimó Olympia grófné érkezett Jónára.</p>
                <p>A herczegi pár a kastély nagy társalgó termében fogadta s mindketten feltünő
@@ -6422,8 +6413,7 @@
                <p>- A kulcs nálam van, de míg le nem csendesülsz, nem nyitom ki.</p>
                <p>- Ne ingerelj!</p>
                <p>- Igérd meg, hogy nem bántod Olympiát.</p>
-               <p>- Nyisd ki az ajtót, Fulvió, - szólalt meg Itha. - Én megvédem <hi
-                     >anyámat</hi>!</p>
+               <p>- Nyisd ki az ajtót, Fulvió, - szólalt meg Itha. - Én megvédem <hi>anyámat</hi>!</p>
                <p>Ossimó végig pillantott a remek szépségű alakon, ki az életben először mondta ki
                   ezt a szót. De annyi érzéssel, annyi melegséggel s oly erős elhatározással és
                   annyira bízva erejében, hogy Ossimó elfordult és arczára szorítá kezeit.</p>

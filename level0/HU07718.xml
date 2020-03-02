@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07718" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07718" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Kálozdy Béla : Regény : ELTeC edition</title>
-            <author ref="viaf:73093732">Beöthy Zsolt (1848-1922)</author>
+            <author>Beöthy, Zsolt (1848-1922)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -47,7 +45,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>Kálozdy Béla : regény</title>
-                     <author> Beöthy Zsolt</author>
+                     <author>, Beöthy Zsolt</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Franklin-Társ.</publisher>
                      <date>1908</date>
@@ -56,7 +54,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>Kálozdy Béla : Regény</title>
-               <author>Beöthy Zsolt</author>
+               <author>Beöthy, Zsolt</author>
                <date>1875</date>
             </bibl>
          </sourceDesc>
@@ -137,8 +135,7 @@
                         hogy elérkezett az idő, melyben ki kell sietnie az elméletek homályából a
                         gyakorlat verőfényére, mert a házban bölcső, a bölcsőben pedig egy nyikorgó
                         kis jószág van, ki bölcs vezetőre várakozik. A professzor úr, a mint első
-                        ámulatából a nagy ujságra magához tért, (nem feledvén el a <hi
-                           >Didactica magná</hi>-nak azt a lapját szamárfüllel jegyezni meg, mely
+                        ámulatából a nagy ujságra magához tért, (nem feledvén el a <hi>Didactica magná</hi>-nak azt a lapját szamárfüllel jegyezni meg, mely
                         mellett a rárontó szolgáló meglepte), azzal az örömmel indult felesége
                         szobája felé, melyet a szegény szobrász érezhet, mikor hosszas és
                         reménytelen várakozás után végre hozzájut a drága anyaghoz, melybe művészete
@@ -1990,8 +1987,7 @@
                         emléklapokat. Íme a régi, szellemes ötletek: az egyiken girbe-gurba írás
                         magyarázza, hogy milyen az élet; valamelyik udvarlója a hitet, reményt és
                         szeretetet óhajtotta nyújtani neki ismert jelképeikben; volt olyan is, ki
-                        egy csinos versszakkal adta bizonyságát, hogy ismeri Himfy <hi
-                           >Szerelmei</hi>-t. A mint Biró Eufrozina kisasszony hamiskás szeme a
+                        egy csinos versszakkal adta bizonyságát, hogy ismeri Himfy <hi>Szerelmei</hi>-t. A mint Biró Eufrozina kisasszony hamiskás szeme a
                         névre esett, a mely az olvadozó sorok és lágy rímek alatt állt, megdöbbenve
                         kapta föl a fejét és egy önkénytelen, gyönge szemrehányás tört ki
                         kebléből:</p>

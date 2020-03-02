@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16046" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16046" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Mindhiába : Regény : ELTeC edition</title>
-            <author ref="viaf:121504813">Vértesi Arnold (1836-1911)</author>
+            <author>Vértesi, Arnold (1836-1911)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -44,7 +42,7 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>Mindhiába : regény</title>
-                     <author>Vértesi Arnold</author>
+                     <author>Vértesi, Arnold</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Athenaeum</publisher>
                      <date>1895</date>

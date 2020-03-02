@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU12692" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU12692" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Páratlan szerdák :  Regény  : ELTeC edition
             </title>
-            <author>Szomaházy István(1864-1927)<idno type="VIAF">73382097</idno></author>
+            <author>Szomaházy, István(1864-1927)73382097</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -43,7 +41,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>Páratlan szerdák : regény</title>
-                     <author>Szomaházy István</author>
+                     <author>Szomaházy, István</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Singer-Wolfner</publisher>
                      <date>1911</date>
@@ -53,7 +51,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>Páratlan szerdák</title>
-               <author>Szomaházy István</author>
+               <author>Szomaházy, István</author>
                <date>1900</date>
             </bibl>
          </sourceDesc>
@@ -382,8 +380,7 @@
             <p>- Férj vagyok!</p>
             <p>Megcsípte a karját: fájt. Tehát komolyan ébren volt. Fejér jóízűen elnevette magát;
                oly külö­nösnek tetszett előtte, hogy ő immár a rendes adófizetők, a haza komoly
-               polgárai közt foglal helyet s a társaságban így szólhat az emberekhez: a <hi>feleségem </hi>ma odabenn járt a belváros­ban... a <hi
-                  >feleségem </hi>figyelmeztetett rá... a <hi>feleségem </hi>meglepett
+               polgárai közt foglal helyet s a társaságban így szólhat az emberekhez: a <hi>feleségem </hi>ma odabenn járt a belváros­ban... a <hi>feleségem </hi>figyelmeztetett rá... a <hi>feleségem </hi>meglepett
                egy szivaros tárcával... És végig­néz­vén a vörös pongyolán, mely szolgálatkészen
                várta a parancsait, Fejér lomhán azt gon­dolta:</p>
             <p>- Mégis csak szép dolog a házasélet, melyben a komoly férfiut ily előzékenyen
@@ -690,8 +687,7 @@
                elégültséggel gondolta:</p>
             <p>- Azt hiszem, irigylik tőlem egy kicsit az aranyszőke cukorbabát...</p>
             <p>- Nagyságos asszonyom, - mondta Szerdahelyi doktor (az a cigarettázó nápolyi siheder,
-               aki a trumeau márványlapján ült, gúnyosan elfintorította a száját a <hi
-                  >nagyságos asszonyom </hi>hallatára) - a rágalmazást általában nem igen számítják
+               aki a trumeau márványlapján ült, gúnyosan elfintorította a száját a <hi>nagyságos asszonyom </hi>hallatára) - a rágalmazást általában nem igen számítják
                a legkiválóbb erények közé, de én azt tartom, hogy csak a becstelen férfiak mondanak
                jókat a barátaik felől... Én - ha ugyan jól emlékszem - az elemi iskola második <hi>b) </hi>osztályában beszéltem utoljára jót a barátaimról s így most
                bizo­nyos lelki nyugalommal állíthatom, hogy tisztelt férje, aki mellesleg szólva a
@@ -1916,8 +1912,7 @@
             <p>Szerdahelyi doktornak jutott eszébe az az ötlet, hogy május elsejét, vidéki szokás
                szerint, kirándulással kellene megünnepelni a hajnali órákban... Nagy társaság gyűlt
                egybe, a Kádárné unokahugai nyáriasan kiöltözködtek, az aranyifjúság ébren töltötte
-               az éjet, hogy hajnalban pontosan fölébredjen és az öreg <hi
-               >Hattyu</hi>-t, a dunai propellert, lármás sokaság özönlötte el...</p>
+               az éjet, hogy hajnalban pontosan fölébredjen és az öreg <hi>Hattyu</hi>-t, a dunai propellert, lármás sokaság özönlötte el...</p>
             <p>Vámos doktorné szintén ott volt a kirándulók között és Fejér is élénken
                sürgött-forgott a férfiak sorában, fonott konyakos üvegét kínálgatva.</p>
             <p>A sziget reggeli pompájában úszott, a harmatos füvet pipázó kertészek rendezgették,
@@ -2572,8 +2567,7 @@
                míg Vámos doktor a férjek szombat délutáni vonatával boldogan leutazhatott a Balaton
                mellé, ő szombaton és vasárnap is ott görnyedt az elhagyott irodában. Úgy volt, hogy
                hétfő hajnalig sürgősen dolgozni fognak a szindikátus ügyében, de a jó Isten
-               váratlanul megkönyörült rajta: a vezérigazgatót a bécsi <hi
-                  >Creditanstalt </hi>elnöke vasárnap délben táviratilag arról értesítette, hogy
+               váratlanul megkönyörült rajta: a vezérigazgatót a bécsi <hi>Creditanstalt </hi>elnöke vasárnap délben táviratilag arról értesítette, hogy
                vacsorára az <hi>Imperial</hi>-ban várakozik rá. A vezérigazgató tehát
                félretétette a szindikátus ügyeit, s míg a gérokkját sietve magára öltötte, így
                szólott a bánatos Fejérhez:</p>
@@ -2610,8 +2604,7 @@
                nézte: Ischl arról volt nevezetes előtte, hogy ott egy ülőhelyében négyszáz forintot
                veszített, a semmeringi hegyi pálya ama feledhetetlen délutánt idézte föl
                emlékezetében, mikor a kupéban kvart király atout-ra vesztette el a bemondott
-               bélakasszát, velencei emlékei között pedig kétségtelenül az a <hi
-                  >vannak</hi>-os kontra volt a legerősebb, mikor négy felsőt és négy királyt
+               bélakasszát, velencei emlékei között pedig kétségtelenül az a <hi>vannak</hi>-os kontra volt a legerősebb, mikor négy felsőt és négy királyt
                mondott be a fölvevő kvintje ellen... Vámos doktor lelkesült és elérzékenyedett,
                elcsüggedt és gyerek módjára izgatott lett, mikor a kalábriász viszontagságait szóba
                hozta. És bizonyos, hogy ha a jó Vámos véletlenül I. Napoleonnak születik, öreg
@@ -3203,8 +3196,7 @@
             <p>- Tudja, hogy ki írta?... Klára... Vámos doktorné... a legjobb barátnőm...</p>
             <p>Kaufmann bá’ helyeslőleg bólintott:</p>
             <p>- Persze, hogy ő, az írás kétségtelenül az övé... De ami a fogalmazást illeti, már
-               csak legyünk igazságosak és ne fosszuk meg a szegény <hi
-                  >Peyrebrunne</hi>-t attól, ami jog szerint megilleti. Vámos doktorné nem szerzője,
+               csak legyünk igazságosak és ne fosszuk meg a szegény <hi>Peyrebrunne</hi>-t attól, ami jog szerint megilleti. Vámos doktorné nem szerzője,
                hanem csak fordítója a <hi>Peyrebrunne </hi>regényének...</p>
             <p>Katácska csodálkozva nézett föl könnyei közül, de Kaufmann bá’ nevetve folytatta:</p>
             <p>- Hát nem tudja? Vámos doktorné nagy titokban regényt fordított egy elterjedt

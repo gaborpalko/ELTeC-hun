@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU14548" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU14548" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Régi és uj nemesek : Eredeti regény : ELTeC edition</title>
-            <author ref="viaf:57808720">Ábrányi Kornél (1822-1903)</author>
+            <author>Ábrányi, Kornél (1822-1903)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -43,7 +41,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">Régi és új nemesek : regény / Ábrányi Kornél;Budapest : Athenaeum, 1896;(Az Athenaeun olvasótára. IV. ; 5-6.)<ref target="http://nektar.oszk.hu/hu/manifestation/3349237"/>
                      <title>Régi és új nemesek : regény </title>
-                     <author>Ábrányi Kornél</author>
+                     <author>Ábrányi, Kornél</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Athenaeum</publisher>
                      <date>1896</date>
@@ -53,7 +51,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>Régi és uj nemesek : Eredeti regény</title>
-               <author>Ábrányi Kornél</author>
+               <author>Ábrányi, Kornél</author>
                <date>1881</date>
             </bibl>
          </sourceDesc>

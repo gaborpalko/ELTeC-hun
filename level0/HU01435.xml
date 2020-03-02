@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU01435" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU01435" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Az Isten háta mögött : ELTeC edition</title>
-            <author> Móricz Zsigmond (1878-1942)<idno type="VIAF">22179627</idno>    
+            <author>, Móricz Zsigmond (1878-1942)22179627    
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -43,7 +41,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>Az Isten háta mögött ; A fáklya : Két regény</title>
-                     <author>Móricz Zsigmond</author>
+                     <author>Móricz, Zsigmond</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Szépirod. Kvk.</publisher>
                      <date>1984</date>
@@ -53,7 +51,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>Az Isten háta mögött</title>
-               <author>Móricz Zsigmond</author>
+               <author>Móricz, Zsigmond</author>
                <date>1911</date>
             </bibl>
          </sourceDesc>
@@ -2318,8 +2316,7 @@
             <p>A fiatalember nevetett, s felvont homlokkal emlékezett a csúnya, de kedves kis
                cigány­leányokra; roppant kedvesek voltak a piros ruhában... nagyon ügyesen
                teniszeznek...</p>
-            <p>- Persze, magának a szívét hasogatom, hogy az ideáljait <hi
-                  >lesimfelem</hi>.</p>
+            <p>- Persze, magának a szívét hasogatom, hogy az ideáljait <hi>lesimfelem</hi>.</p>
             <p>- Dehogy, nekem nem ideálom egy sem...</p>
             <p>- Na, azért nem szeretné, ha a doktor-kisasszonyt, az Arankácskát emlegetném.</p>
             <p>A fiatalember kissé elpirult.</p>
