@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="eltec-0.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HUN19090" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="eltec-0.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HUN19090" xml:lang="hu" >
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Végzetes tévedés : ELTeC edition</title>
-                <author>Beniczkyné, Bajza Lenke (1839-1905)</author>
+                <author>Beniczkyné Bajza Lenke (1839-1905)</author>
                 <respStmt>
                     <resp>encoded by</resp>
                     <name>Rózsa Katinka</name>
@@ -17,7 +20,7 @@
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="printSource"><author>Beniczkyné, Bajza Lenke</author><title level="s" n="48">MAGYAR REGÉNYIRÓK KÉPES KIADÁSA</title>
+                <bibl type="printSource"><author>Beniczkyné Bajza Lenke</author><title level="s" n="48">MAGYAR REGÉNYIRÓK KÉPES KIADÁSA</title>
                     <title>Végzetes tévedés</title><publisher>BUDAPEST FRANKLIN-TÁRSULAT magyar irod. intézet és könyvnyomda</publisher><date>1909</date><respStmt><resp>editor</resp><name>Mikszáth Kálmán</name></respStmt></bibl>
             </sourceDesc>
         </fileDesc>
@@ -90,7 +93,8 @@
                     szeretem.</p>
                 <p>- Azt nem mondtam s nem is úgy értettem,
                     de mire való ez az álruha? Grófné, ki ezreket költ öltözékére, s a legelegánsabb
-                    dáma a legmagasabb társaságban, nem röstel így menni az utczára, gyalog... <hi rend="italic">Titkos útra!</hi></p>
+                    dáma a legmagasabb társaságban, nem röstel így menni az utczára, gyalog... <hi
+                        rend="italic">Titkos útra!</hi></p>
                 <p>- Csak nem ülhetek ily öltözékben
                     fogatomra? - viszonzá Hermance. - De mind a mellett ne hidd, hogy oly helyre
                     megyek, mi ellen bárkinek kifogása lehetne.</p>
@@ -594,7 +598,8 @@
                     bizonyítványát birnád annak, hogy én házasságunk ideje alatt másba voltam
                     szerelmes, mit tennél akkor?</p>
                 <p>- Ne beszéljünk ily szomorú
-                    lehetetlenségekről. Én tudom, hogy szeretsz s a ki egyet <hi rend="italic">szeret</hi>, az nem hevülhet <hi rend="italic">másért</hi>!</p>
+                    lehetetlenségekről. Én tudom, hogy szeretsz s a ki egyet <hi rend="italic"
+                        >szeret</hi>, az nem hevülhet <hi rend="italic">másért</hi>!</p>
                 <p>Hermance ajkain elnyomott sóhaj röppent
                     el s miután az ebédnek vége volt, gyorsan emelkedett föl helyéről és férje
                     dohányzójába mentek.</p>
@@ -683,7 +688,8 @@
                     szükségét, hogy bizalommal légy hozzám? - kérdé meghatott hangon Hermance és
                     megölelve őt, a pamlaghoz vezette, s leült és maga mellé vonta.</p>
                 <p>- Nem tudom, mit akar tudni, grófné.</p>
-                <p>- Miért hívsz grófnénak, eddig <hi rend="italic">mamának</hi> neveztél. Mi változott azóta?</p>
+                <p>- Miért hívsz grófnénak, eddig <hi
+                        rend="italic">mamának</hi> neveztél. Mi változott azóta?</p>
                 <p>- Nem tudtam czímét, rangját, míg most
                     tudom, kivel beszélek.</p>
                 <p>- Az nem változtatja meg viszonyunkat. Én
@@ -835,7 +841,8 @@
                     Klára oly kecsegtetően írta le a jövőt, midőn függetlenek leszünk, tetszésünk
                     szerint élhetünk. Ő gazdag s én örökre vele s nála maradok, a mi, azt hittem,
                     nagy előny rám nézve, mert sejtettem, hogy szegény vagyok, sőt Obrenné burkolt
-                    szavakban többször meg is mondá azt nekem, hálára, szorgalomra intve <hi rend="italic">annak</hi> kedvéért, ki gondoskodik rólam, mert nélküle nem
+                    szavakban többször meg is mondá azt nekem, hálára, szorgalomra intve <hi
+                        rend="italic">annak</hi> kedvéért, ki gondoskodik rólam, mert nélküle nem
                     élvezhetném az ő <hi rend="italic">nagyszerű</hi> intézetét.</p>
                 <p>Hermance elmosolyodott a «nagyszerű» szó
                     gúnyos kiejtésére, magához szorítá a leány fejecskéjét, de azután komolyan
@@ -1022,7 +1029,8 @@
                 <p>Mit koczkáztatok? - gondolta bizonyos
                     daczczal, - ha rajtakapnak a szökésen, a grófné és a komorna tudják, hogy nem
                     vagyok tolvaj s legföljebb dorgálást nyerek és visszavezetnek szobámba.</p>
-                <p>A ház úrnője hozott ide <hi rend="italic">titokban</hi>, nem akarja, hogy tudják a palotában kilétemet és ha tudatják
+                <p>A ház úrnője hozott ide <hi rend="italic"
+                        >titokban</hi>, nem akarja, hogy tudják a palotában kilétemet és ha tudatják
                     vele, hogy el akartam menni, ő nem fog lármát csinálni! Hogy tolvaj nem vagyok,
                     azt belátják, s ha kivánják, ezt a kis táskát itt hagyom zálogba, s el fognak
                     engedni menni... Azért legjobb, ha a főkapu felé fordulok, hol még ébren lesz
@@ -1619,7 +1627,8 @@
                 <p>- Nos, majd meglátjuk... - viszonzá az
                     órára pillantva Eszthey, ki nem tudott hosszasan egy tárgynál maradni. -
                     Veronika még oly fiatal, hogy évekig várhat erre az újkori Hamletre, ki tünődik,
-                    okoskodik, álmodozik, de talán nem fogja azt mondani Veronikának: <hi rend="italic">menj kolostorba Ofélia!</hi></p>
+                    okoskodik, álmodozik, de talán nem fogja azt mondani Veronikának: <hi
+                        rend="italic">menj kolostorba Ofélia!</hi></p>
                 <p>Mindketten elnevették magukat ezekre a
                     tréfás pátoszszal kiejtett szavakra, s a gróf megölelve és megcsókolva nejét,
                     elhagyta a szobát, míg Hermance lakosztályát kereste föl s ismét az eltünt
@@ -2472,7 +2481,8 @@
                <p>Mélyen tisztelt grófné!</p>
                <p>Tudva, hogy haraggal, talán megvetéssel gondol reám, félve intézem
                     méltóságodhoz e sorokat, hogy bocsánatát kérjem, s tudassam, mi volt az oka,
-                    hogy oly háládatlanul hagytam el házát, hol nekem <hi rend="italic">ideiglenes</hi> maradást lett volna kegyes nyujtani.</p>
+                    hogy oly háládatlanul hagytam el házát, hol nekem <hi rend="italic"
+                        >ideiglenes</hi> maradást lett volna kegyes nyujtani.</p>
                <p>Talán látta rajtam, hogy örömmel maradtam volna közelében; de azt
                     mondta, <hi rend="italic">az lehetetlen</hi>, e szerint gyanítám, hogy újra egy
                     Obrenné-féle intézethez hasonló helyre kell mennem, hol újra kezdődik mindaz, mi
@@ -2491,7 +2501,7 @@
                     melyet elkövettem, s melyet reménylem, nem fogok megbánni soha!</p>
                <p>Felejtse el a szegény kis Dóziát, ki mindig hálásan fog gondolni
                     méltóságodra, mint nemesszívü jóltevőjére, s örökre hálás híve marad</p>
-               <p><hi rend="italic">Dózia</hi>.</p>
+               <p ><hi rend="italic">Dózia</hi>.</p>
                 <p>- Ez szép, okos és következetes levél, -
                     mondá Oroszlay gróf.</p>
                 <p>- Azt találja? Én az ellenkezőt hiszem, s
@@ -3198,7 +3208,8 @@
                 <p>- <hi rend="italic">Ha nősülni akar!</hi>
                     De ő éppen úgy viseli magát, mint ha az szándékában sem volna. Sőt nem is
                     gondolna házasságra. Közönyös a fiatal hölgyek iránt, s majdnem kerüli őket.</p>
-                <p>- Talán az éppen azért van, mert <hi rend="italic">egy</hi> kötötte le figyelmét.</p>
+                <p>- Talán az éppen azért van, mert <hi
+                        rend="italic">egy</hi> kötötte le figyelmét.</p>
                 <p>Veronika nem akarta észrevenni a
                     czélzást, sőt arcza mutatta, hogy nem is ad annak hitelt, s elhagyva helyét,
                     végig pillantott ruháján.</p>
@@ -3548,7 +3559,8 @@
                     sejtve, hogy mily tragédia folyik le az ő sorsára nézve. Hogy mit beszéltünk
                     együtt, engedje elhallgatnom, melyből csak azt mondom el, hogy én megigértem
                     neki, miként gyermekéről gondoskodni fogok. Hogy azt soha el nem hagyom, de ő
-                    nem elégedett meg igéretemmel, hanem meg kellett esküdnöm <hi rend="italic">gyermekeim boldogságára</hi>, hogy a mit mondtam, meg is teszem. A nő pár
+                    nem elégedett meg igéretemmel, hanem meg kellett esküdnöm <hi rend="italic"
+                        >gyermekeim boldogságára</hi>, hogy a mit mondtam, meg is teszem. A nő pár
                     nap mulva meghalt, a gyermek Dózia volt, kire én eleinte majdnem gyűlölettel
                     tekintettem, mert léte által nekem oly iszonyatos csalódást és bánatot okozott,
                     mi földúlta boldogságomat, megingatta a jóban hitemet és a tisztességben
@@ -3556,7 +3568,8 @@
                     lett...</p>
                 <p>De később, midőn a kis Dóziát biztos
                     emberekhez elhelyeztem s a gyermek növekedett, szép lett, mint a feslő bimbó és
-                    ha meglátogattam, szeretettel tárta felém apró karjait és <hi rend="italic">mamának</hi> nevezett, megszerettem, s megtartottam szavamat, igéretemet
+                    ha meglátogattam, szeretettel tárta felém apró karjait és <hi rend="italic"
+                        >mamának</hi> nevezett, megszerettem, s megtartottam szavamat, igéretemet
                     mindaddig, mig ő el nem hagyott. Ez a történetünk nekem és Dóziának. Most talán
                     megérti ön, hogy miért nem egyezhetem távozásába, s miért nem bizhatom sorsára
                     én, ki megesküdtem, hogy sohasem hagyom el, még pedig gyermekeim
@@ -3564,7 +3577,8 @@
                 <p>Midőn Hermance bevégzé történetét, a
                     fiatal gróf lehorgasztott fejjel ült helyén, s a föltevések és következtetések
                     után, mik hetek óta lelkében megérlelődtek, azon tünődött: igaz, való-e az, mit
-                    neki Esztheyné beszélt, vagy kigondolt történet egy <hi rend="italic">másnak</hi> a leleplezésére, s midőn annak csodálkozó, kérdő szemét arczára
+                    neki Esztheyné beszélt, vagy kigondolt történet egy <hi rend="italic"
+                        >másnak</hi> a leleplezésére, s midőn annak csodálkozó, kérdő szemét arczára
                     tapadni érzé, bizonytalanul mondá:</p>
                 <p>- Ha így van, grófné, mint a hogy nekem
                     most beszélte, úgy nem próbálok többé tanácsot adni. Tegyen belátása szerint, de
@@ -3812,7 +3826,8 @@
                 <p>- Elment az eszed? - kiáltott föl
                     megriadva az ügyvéd. - Csak nem akarsz olyan társaságban élni, mint Oroszlay
                     gróf és barátai?</p>
-                <p>- Nem akarok, de <hi rend="italic">szeretnék</hi>. És a kinek pénze van, az szívesen látott vendég mindenütt,
+                <p>- Nem akarok, de <hi rend="italic"
+                        >szeretnék</hi>. És a kinek pénze van, az szívesen látott vendég mindenütt,
                     - viszonzá bizonyos hetykeséggel Klára.</p>
                 <p>- Látszik, hogy fogalmad sincs a világi
                     szokásokról, és figyelmeztetlek, hogy ne ábrándozzál oly dolgokról, mik sohasem
@@ -4155,7 +4170,7 @@
                     jövök, hogy magammal vigyem és ha ellenállásra találnék az önök részéről, a
                     rendőrséget veszem igénybe: Készítse elő az utazásra, mert onnét azonnal a
                     vasúti indóházhoz hajtatok <hi rend="italic">vele együtt</hi>.</p>
-               <p>Eszthey Bertalan gróf.</p>
+               <p >Eszthey Bertalan gróf.</p>
                 <p>- Mire való ez a levél? - kérdé
                     megütközve Klára.</p>
                 <p>- Ha Dózia megjön, felolvasom ezt előtte
@@ -4199,7 +4214,8 @@
                 <p>- És hova megyünk? - kérdé azután.</p>
                 <p>- Egyelőre Budapestre, később tovább. Ez
                     a leány, mint tudod, rám nézve <hi rend="italic">vagyont</hi> képvisel és a
-                    jelek után itélve, Oroszlay beavatkozása megfoszthat attól. Azért <hi rend="italic">minden áron</hi> elejét kell vennünk, hogy az ne történhessék.
+                    jelek után itélve, Oroszlay beavatkozása megfoszthat attól. Azért <hi
+                        rend="italic">minden áron</hi> elejét kell vennünk, hogy az ne történhessék.
                     Értsd meg jól, <hi rend="italic">minden áron</hi>!</p>
                 <p>Klára hangokat hallott a kertben s az
                     ablakhoz szaladt.</p>
@@ -4394,7 +4410,8 @@
                 <p>- És gróf úr ismerte ama meggyilkolt
                     nőt?</p>
                 <p>- Ismertem, - mondá komor arczczal,
-                    lesütött szemekkel a kérdett. - Sőt több évig <hi rend="italic">összeköttetésben</hi> álltam vele, de egyszerre ő maga szakítva azt meg,
+                    lesütött szemekkel a kérdett. - Sőt több évig <hi rend="italic"
+                        >összeköttetésben</hi> álltam vele, de egyszerre ő maga szakítva azt meg,
                     többé nem tudtam róla semmit. Egy napon elhagyta lakását, s nem tudatta velem
                     hollétét, és csak akkor hallottam ismét róla, midőn az ujságok hozták
                     meggyilkoltatását és nevét, de fájdalom, akkor már későn volt, hogy valamit
@@ -4900,7 +4917,8 @@
                     ügyvéd gyámleánya, a másiknak ő sem tudja kilétét, holott midőn Jakabbal a
                     birtokot megtekintették. Holcsinál voltak szállva, s együtt reggeliztek
                     velük.</p>
-                <p>Hermance grófnő tudta, hogy ki az a <hi rend="italic">másik</hi> és áldá az Istent, hogy férje és fia meg nem
+                <p>Hermance grófnő tudta, hogy ki az a <hi
+                        rend="italic">másik</hi> és áldá az Istent, hogy férje és fia meg nem
                     ismerkedtek vele...</p>
                 <p>Fordítani akart a beszédtárgyon.</p>
                 <p>- Jakab is megjött a fővárosba? - kérdé
@@ -4982,7 +5000,8 @@
                     mostanig huzódott.</p>
                 <p>Az «akadályok» szót erősen,
                     jelentőségteljesen ejté ki, s Esztheyné kissé zavarba jött és gyorsan kérdé:</p>
-                <p>- És ezek most <hi rend="italic">végleg</hi> el vannak hárítva?</p>
+                <p>- És ezek most <hi rend="italic"
+                        >végleg</hi> el vannak hárítva?</p>
                 <p>- Csak ideiglenesen, mind a mellett
                     remélem, hogy pár nap múlva mi sem áll utam előtt, s nyugodtan távozhatom.</p>
                 <p>- Az egész őszt Angolországban fogja
@@ -5099,7 +5118,8 @@
                 <p>Ki tudja, nem lesz-e ez a meggondolatlan
                     bizalom végzetes Veronikára nézve?</p>
                 <p>Rettegve gondolt arra, hogy ő maga idézte
-                    volna elő szeretett gyermeke csalódását és boldogtalanságát, ama <hi rend="italic">másikért</hi>, kit neki tulajdonképen gyűlölnie kellene...</p>
+                    volna elő szeretett gyermeke csalódását és boldogtalanságát, ama <hi
+                        rend="italic">másikért</hi>, kit neki tulajdonképen gyűlölnie kellene...</p>
             </div>
             <div type="chapter">
                 <head>XIV.</head>
@@ -5119,7 +5139,8 @@
                     kifejezve.</p>
                 <p>Oroszlay elfoglalá a neki mutatott helyet
                     szemben vele s kérdé:</p>
-                <p>- Emlékszik grófné az <hi rend="italic">Obren</hi> névre, ha nem csalódom, említette azt egyszer előttem?</p>
+                <p>- Emlékszik grófné az <hi rend="italic"
+                        >Obren</hi> névre, ha nem csalódom, említette azt egyszer előttem?</p>
                 <p>- Ismerem ezt a nevet és tulajdonosnőjét
                     is, de nem beszéltem önnek soha róla.</p>
                 <p>- Úgy valaki mástól hallottam, mert nem
@@ -5224,7 +5245,8 @@
                     jótékonysági egyesületeknél, gazdagnak tartanak, fölteszik rólam, hogy segítek a
                     szenvedőkön, hisz naponként kapok kérő leveleket, s nem látom oly rendkívülinek,
                     hogy egy haldokló szegény asszony rám akarta bízni gyermeke jövőjét.</p>
-                <p>- Azt az asszonyt <hi rend="italic">meggyilkolták</hi>.</p>
+                <p>- Azt az asszonyt <hi rend="italic"
+                        >meggyilkolták</hi>.</p>
                 <p>Hermance meglepetve, ijedten kapta föl
                     fejét, s rémülettel függeszté szemét vendégére.</p>
                 <p>- Ki mondta ezt önnek? - dadogta
@@ -5653,9 +5675,11 @@
                     föl rólam? - kérdé elhalványodva Obrenné remegő hangon.</p>
                 <p>- A <hi rend="italic">legrosszabbat</hi>,
                     ha föl nem világosit az ellenkezőről! Azt kell hinnem, hogy Dóziával már évek
-                    óta valami titkos czéljuk van. Hogy hárman összebeszéltek, miként helyzetét <hi rend="italic">valamire</hi> kihasználják, hogy mi az, azt nem tudom, de
+                    óta valami titkos czéljuk van. Hogy hárman összebeszéltek, miként helyzetét <hi
+                        rend="italic">valamire</hi> kihasználják, hogy mi az, azt nem tudom, de
                     kifürkészem. Hogy már megkezdődött ez a komédia akkor, midőn ön először hozzám
-                    jött kérni nyitandó intézete végett, s azt mondá, hogy egészen <hi rend="italic">kis gyermekeket</hi> is elfogadna ápolásra, arra számítva, hogy föl fogom
+                    jött kérni nyitandó intézete végett, s azt mondá, hogy egészen <hi rend="italic"
+                        >kis gyermekeket</hi> is elfogadna ápolásra, arra számítva, hogy föl fogom
                     önnek ajánlani Dózia tartását, mert okvetetlen tudta az ő létezését,
                     származását. Fölhasználta szorongatott helyzetemet és terve sikerült; jól
                     számítottak mind a hárman, s úgy engem, mint a leánykát kelepczéjükbe csalták s
@@ -5672,7 +5696,8 @@
                     szavai, hogy pár pillanatig nem tudott felelni.</p>
                 <p>- Akar nekem nyiltan és őszintén
                     beszélni? - kérdé Esztheyné lecsendesülve, s teljesen hidegen és nyugodtan. -
-                    Nem jöttem rossz szándékkal, sőt lehet, hogy bizonyos irányban <hi rend="italic">kezükre járok</hi>, de tudni akarom a valót.</p>
+                    Nem jöttem rossz szándékkal, sőt lehet, hogy bizonyos irányban <hi rend="italic"
+                        >kezükre járok</hi>, de tudni akarom a valót.</p>
                 <p>Most Obrenné még jobban csodálkozott,
                     mint előbb, s nem tudva eltalálni, mit ért a grófné a «kezükre járok»
                     kijelentése alatt, habozva, majdnem halkan mondá:</p>
@@ -5723,7 +5748,8 @@
                     Dózia hollétét, azt sem árulnám el senkinek s miattam maradhat ott, a hova
                     vitték, s a hol, mint ön mondja, szeret és szivesen van... A mi pedig fivérével
                     tett megjegyzésemet illeti, az nem akar gyanusítás lenni, de ha az volna is,
-                    tőlem semmi irányban nincs mit félnie, mert én <hi rend="italic">tökéletesen</hi> szakítottam a multtal s nem törődöm önökkel.</p>
+                    tőlem semmi irányban nincs mit félnie, mert én <hi rend="italic"
+                        >tökéletesen</hi> szakítottam a multtal s nem törődöm önökkel.</p>
                 <p>E szavak után nem várva be Obrenné
                     feleletét, ki álmélkodva hallgatta őt, gyorsan elhagyta a szobát és a lakást, de
                     midőn fogatában ülve hazafelé hajtatott, nem volt megelégedve magával s csupán
@@ -5927,13 +5953,15 @@
                 <p>- És te? - kérdé félre fordítva fejét
                     Eszthey.</p>
                 <p>- Megigértem és megtettem, a mit tőlem
-                    kért. Fölfogadtam a leánykát, kit, nem tagadhatom, abban a perczben <hi rend="italic">gyülöltem</hi>, de neveltettem és később megszerettem. Anyja
+                    kért. Fölfogadtam a leánykát, kit, nem tagadhatom, abban a perczben <hi
+                        rend="italic">gyülöltem</hi>, de neveltettem és később megszerettem. Anyja
                     szomorú sorsa, kit, úgy tudom, meggyilkoltak, meghatott. Azonkívül megesküdtem
                     gyermekeim boldogságára, hogy védője, támasza leszek s Isten látja, meg is
                     tartottam, a míg tehetségemben volt!</p>
                 <p>- És él a gyermek?</p>
                 <p>- Él! Ma tizenhetedik évében van s szép,
-                    mint a viruló rózsa és olyan nevelést kapott, mely a <hi rend="italic">legmagasabb</hi> rangú hölgyet illeti meg...</p>
+                    mint a viruló rózsa és olyan nevelést kapott, mely a <hi rend="italic"
+                        >legmagasabb</hi> rangú hölgyet illeti meg...</p>
                 <p>- És ez a kép? Hogy jött ide...</p>
                 <p>- Azt kell hinnem, hogy az ő sajátja
                     lehet, ő veszítette el, mert pár órát itt töltött a palotában, az Ernesztine
@@ -6098,7 +6126,8 @@
                     indult, de midőn az föltárult, a szobaleány, a ki jelenleg Zsófi helyét tölté be
                     az ügyvéd házánál, levéllel kezében lépett be.</p>
                 <p>- Egy hordár hozta, - mondá, átnyujtva a
-                    levelet, - s azt mondta, hogy az irodából ideküldték őt, mert <hi rend="italic">sürgős</hi> van a boritékra irva.</p>
+                    levelet, - s azt mondta, hogy az irodából ideküldték őt, mert <hi rend="italic"
+                        >sürgős</hi> van a boritékra irva.</p>
                 <p>Holcsi nyugtalanul vette át a nyujtott
                     levelet, mert, mint mondtuk, ő mindig nyugtalan volt, ha valami váratlan dolog
                     érte... És a <hi rend="italic">sürgős</hi> szó izgatottá tette.</p>
@@ -6112,8 +6141,9 @@
                     fiatal leány keresésével megbizva önt, negyvenezer koronát igértem jutalmul, ha
                     azt föltalálja.</p>
                <p>Meggondolva a dolgot, nem sokat törődöm ama leány hollétével s
-                    visszaveszem igéretemet és kérem, hogy együtt lefolyt párbeszédünket <hi rend="italic">meg nem történtnek</hi> tekintse, ki maradtam őszinte hive</p>
-               <p>Eszthey Bertalan gróf.</p>
+                    visszaveszem igéretemet és kérem, hogy együtt lefolyt párbeszédünket <hi
+                        rend="italic">meg nem történtnek</hi> tekintse, ki maradtam őszinte hive</p>
+               <p >Eszthey Bertalan gróf.</p>
                 <p>- Hisz ez majdnem szóról-szóra ugyanaz,
                     miket nekem a grófné ma mondott Dóziáról! - kiáltott föl Obrenné. - Ez igazán
                     különös és megfoghatatlan.</p>
@@ -6500,7 +6530,7 @@
                <p>Mihelyt Kardos hirt hoz nekem önről, azonnal sietek fölkeresni, mit
                     nem kell mondanom, hogy ön nélkül nem kell nekem az élet, s jóban, rosszban
                     örökre híve marad</p>
-               <p>Oroszlay Jakab.</p>
+               <p >Oroszlay Jakab.</p>
                 <p>Dóziának könyek gyültek szemébe e sorok
                     olvasása alatt. Kedves ajka boldogan mosolygott, s miután megcsókolta a levelet,
                     ujra zsebébe rejté és gondolkodott, hogy adhatna hirt Jakabnak, mit eddig
@@ -6577,7 +6607,7 @@
                     eloszlott.</p>
                 <p>Oroszlay átfutotta a levelet, s a
                     következőket olvasta abban:</p>
-               <p>Genf, Hôtel National</p>
+               <p >Genf, Hôtel National</p>
                    <p>9/10. 1901.</p>
                <p>Kedves gyámatyám!</p>
                <p>Minden rendben van. Dóziát egy perczre sem hagyom egyedül s ő nem
@@ -6587,7 +6617,7 @@
                     rajta...</p>
                <p>Írjon, miféle tervei vannak a jövőre és mindenekelőtt küldjön pénzt,
                     mert az élet itt ebben a méregdrága fogadóban igen sokba kerül.</p>
-               <p>Szerető Klárája.</p>
+               <p >Szerető Klárája.</p>
                 <p>Kardos látván, hogy Jakab gróf bevégezte
                     az olvasást, mondá:</p>
                 <p>- A legközelebbi vonattal indultam
@@ -6786,7 +6816,8 @@
                 <p>- Csak tudatni kivántam mert hatalmamban
                     állna meggátolni ezt a házasságot, mi méltóságodnak annyira hihetetlen.</p>
                 <p>- Elég! - kiáltott föl szigorúan Eszthey,
-                    - csak nem tételezi föl rólam, hogy szövetségre lépek <hi rend="italic">önnel</hi> Oroszlay gróf terveinek meggátlásában.</p>
+                    - csak nem tételezi föl rólam, hogy szövetségre lépek <hi rend="italic"
+                        >önnel</hi> Oroszlay gróf terveinek meggátlásában.</p>
                 <p>- Tehát nincs a házasság ellen semmi
                     kifogása gróf úrnak?</p>
                 <p>- Egyszerűen nem hiszem.</p>
@@ -6819,7 +6850,8 @@
                     székbe hanyatlott. - Az lehetetlen. Egy ilyen leány miatt áldozza föl Veronikát?
                     Ezt nem lehet tűrni vagy megengedni, ez ellen gyökeresen tenni kell.</p>
                 <p>- De mit? Jakab szabad, független és
-                    abban a korban van, hol intézheti sorsát tetszése szerint. És éppen <hi rend="italic">néked</hi> nem lehet semmit tenni ellene, Berti, gondold meg
+                    abban a korban van, hol intézheti sorsát tetszése szerint. És éppen <hi
+                        rend="italic">néked</hi> nem lehet semmit tenni ellene, Berti, gondold meg
                     ezt.</p>
                 <p>- De hát honnét ismeri ő Dóziát. Miféle
                     balsors hozta őt vele össze?</p>
@@ -7056,7 +7088,8 @@
                     otthagyni őt, ki tulajdonképen senkije neki.</p>
                 <p>- De ő egyedül áll a világon, s nem tudna
                     hova és kihez fordulni, ha Klárát elhagyná. Mi férfiak nem tudjuk, mily kínos
-                    gondolat az egy oly fiatal, tapasztalatlan leányra nézve, kitaszítva lenni, <hi rend="italic">egyedül</hi> a világban.</p>
+                    gondolat az egy oly fiatal, tapasztalatlan leányra nézve, kitaszítva lenni, <hi
+                        rend="italic">egyedül</hi> a világban.</p>
                 <p>Erre felelhetett volna Oroszlay, de nem
                     akarta nagyon mélyen beavatni titkába a detektivet, s mondá:</p>
                 <p>- Szedje össze, kérem, minden ügyességét
@@ -7198,7 +7231,8 @@
                     gyorsan más irányt adni a beszédnek.</p>
                 <p>- Csetnekre tehát nem szándékozik menni,
                     ha megtalálná is a meghívást?</p>
-                <p>- Sajnálom, hogy <hi rend="italic">nemet</hi> kell mondanom, grófnő, mert tudom, hogy a vesztes fél én
+                <p>- Sajnálom, hogy <hi rend="italic"
+                        >nemet</hi> kell mondanom, grófnő, mert tudom, hogy a vesztes fél én
                     vagyok.</p>
                 <p>E társalgás alatt lassan végighaladtak az
                     Andrássy-úton, s fogatuk lépést kisérte őket, és Veronika ekkor
@@ -8361,7 +8395,8 @@
                 <p>- Elalélt, de nemsokára magához tér, s
                     egyelőre itt kell tartanunk. Jó leszel hozzá?</p>
                 <p>- Oh, mama, mily kérdés? - kiáltott föl
-                    melegen Veronika. - Szeretni fogom, hisz oly bájos arczocskája van, s <hi rend="italic">maga ajánlja</hi>, és el van hagyatva. Nem elég-e ez, hogy
+                    melegen Veronika. - Szeretni fogom, hisz oly bájos arczocskája van, s <hi
+                        rend="italic">maga ajánlja</hi>, és el van hagyatva. Nem elég-e ez, hogy
                     vigasztaljam?</p>
                 <p>- Édes, jó leányom, - mondá meghatva
                     Esztheyné, szeretettel tekintvén rá, ki halk léptekkel közeledett Dózia felé, s
@@ -8831,7 +8866,8 @@
                     hogy az két órakor naponkint kikocsikázik dolgait végezni, s olykor ő is vele
                     ment, de legtöbbnyire otthon maradt, mi most sem lehetett annak feltünő, s a
                     mondott órát határozta Oroszlaynak; Ernesztinének pedig meghagyta, hogy tudassa
-                    a portással, miként fogadni fogja Oroszlay grófot <hi rend="italic">egyedül</hi>, mi fölött a komorna kissé csodálkozott, tudván, hogy az «szabály
+                    a portással, miként fogadni fogja Oroszlay grófot <hi rend="italic"
+                    >egyedül</hi>, mi fölött a komorna kissé csodálkozott, tudván, hogy az «szabály
                     ellen van», de hamisan mosolygott, mert régen kitalálta úrnője titkát, hogy az
                     leánya férjének a grófot szánta.</p>
                 <p>A meghatározott időben Oroszlay
@@ -8854,7 +8890,8 @@
                     fölfogása szerint nem helyes!</p>
                 <p>Itt kissé elcsuklott a hangja, s lesüté
                     szemét a ráfüggesztett csodálkozó tekintet előtt.</p>
-                <p>- Azonban én sohasem voltam <hi rend="italic">egészen</hi> rabja a társadalmi törvényeknek, mert olykor
+                <p>- Azonban én sohasem voltam <hi
+                        rend="italic">egészen</hi> rabja a társadalmi törvényeknek, mert olykor
                     nagyon is szigorú fölfogásuaknak, máskor túlengedékenyeknek láttam azokat.</p>
                 <p>- Nem értem, grófnő, mit akar
                     mondani?</p>
@@ -9267,7 +9304,8 @@
                 <p>A törvényszéki jegyző felolvasta a
                     vádiratot, melyben a vádlott <hi rend="italic">gyilkossággal és
                         gyermekcsempészettel</hi> van vádolva. A biró megkérdezte tőle: bűnösnek
-                    érzi magát? mire ő emelt, bátor, határozott hangon <hi rend="italic">nem</hi>-mel felelt.</p>
+                    érzi magát? mire ő emelt, bátor, határozott hangon <hi rend="italic"
+                    >nem</hi>-mel felelt.</p>
                 <p>Ekkor fölemelkedett helyéről a királyi
                     ügyész, s azt az indítványt tette, hogy miután a rendőrségnek még nem volt elég
                     ideje az adatokat összegyüjteni, s különösen Holcsi nővéreinek bűnrészességét
@@ -9457,7 +9495,7 @@
                 <p>- Dó-zi-á-tól, - rebegte halkan, s
                     olvasni kezdett, mialatt mély csönd honolt a teremben.</p>
                 <p>A levél a következőket tartalmazta:</p>
-               <p><hi rend="italic">Sacré-Coeur</hi>, 12/9.
+               <p ><hi rend="italic">Sacré-Coeur</hi>, 12/9.
                     19....</p>
                <p>Szeretett kedves grófnő!</p>
                <p>Onnét írom e sorokat, hol lenni egyedüli rendeltetésem - a
@@ -9472,7 +9510,7 @@
                <p>Imádkozni fogok mindazok boldogságáért, kiket szeretek, s kik oly
                     jók voltak hozzám, hogy meghálálni nem tudom, s csak arra kérem, felejtsék el a
                     boldogtalan</p>
-               <p><hi rend="italic">Dóziát</hi>.</p>
+               <p ><hi rend="italic">Dóziát</hi>.</p>
                 <p>Veronika könyes szemekkel nyujtá
                     Oroszlaynak a levelet, ki mohón futotta azt keresztül, s azután némán, leverten
                     tekintett maga elé.</p>
@@ -9485,7 +9523,8 @@
                     nem birja titkolni bánatát s idegességét és nem akart a hölgyeknek terhére
                     lenni.</p>
                 <p>- Még mindig mennyire szereti, - gondolta
-                    ajkait harapdálva Hermance. - És ezt az érzést én keltettem föl benne <hi rend="italic">végzetes tévedésemmel</hi>!</p>
+                    ajkait harapdálva Hermance. - És ezt az érzést én keltettem föl benne <hi
+                        rend="italic">végzetes tévedésemmel</hi>!</p>
                 <p>- Nem hagyhatjuk Dóziát a zárdában, -
                     mondá nagy erélylyel Veronika. - Irtóztató meggondolni, hogy oly szép, fiatal
                     leány tizenhét éves korában örökre elbúcsuzzék az élet minden boldogságától!</p>
@@ -9624,7 +9663,8 @@
                     se bocsássunk hozzá.</p>
                 <p>- Én legjobb barátnője vagyok, ő pedig
                     menyasszony. Valamely félreértés következtében határozta rá magát, hogy titkon
-                    elhagyja házunkat és ide jőjjön... Beszélnem kell vele <hi rend="italic">okvetetlen</hi>. Kérem, bocsásson hozzá. Remélem, nem ágyban fekvő
+                    elhagyja házunkat és ide jőjjön... Beszélnem kell vele <hi rend="italic"
+                        >okvetetlen</hi>. Kérem, bocsásson hozzá. Remélem, nem ágyban fekvő
                     beteg.</p>
                 <p>- Az volt, de ma már elhagyta ágyát, s
                     kérem, gyermekem, ne zavarja őt nyugalmában és szándékában, ő zárdaszűz óhajt

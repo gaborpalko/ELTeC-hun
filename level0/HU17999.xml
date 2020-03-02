@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17999" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17999" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Szeretet könyve : ELTeC edition</title>
-            <author>Kánya, Emília (1830-1905)30410778
+            <author>Kánya Emília (1830-1905)<idno type="VIAF">30410778</idno>
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -34,11 +36,12 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>Szeretet könyve</title>
-                     <author>, </author>
+                     <author>Emilia</author>
                      <pubPlace>Pest</pubPlace>
                      <publisher>Emich : Horn : Wein</publisher>
                      <date>1863</date>
-                     <ref target="http://nektar.oszk.hu/hu/manifestation/1583995"/>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/1583995"/>
                   </bibl>
                </relatedItem>
             </bibl>

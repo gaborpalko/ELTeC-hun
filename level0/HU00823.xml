@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00823" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00823" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A varchoniták : ELTeC edition</title>
-            <author>Jókai, Mór (1825-1904)</author>
+            <author ref="viaf:59084200">Jókai Mór (1825-1904)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -42,7 +44,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>A varchoniták/A kalózkirály</title>
-                     <author>Jókai, Mór</author>
+                     <author>Jókai Mór</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Unikornis Kiadó</publisher>
                      <date>1995</date>
@@ -51,7 +53,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>A varchoniták</title>
-               <author>Jókai, Mór</author>
+               <author>Jókai Mór</author>
                <date>1857</date>
             </bibl>
          </sourceDesc>
@@ -2180,7 +2182,8 @@
             <p> A stratagéma teljesen sikerült.</p>
             <p> Az én derék, becsületes Csehallom a következő referádát nyújtá be a
                rendőrtanácsosnak a „Dalma” című drámámról:</p>
-            <p> „Dieses <hi>Spektakelstück</hi> ist ein <hi>Machwerk,</hi> welches geeignet ist, durch exotische Decorationen und kuriose
+            <p> „Dieses <hi>Spektakelstück</hi> ist ein <hi
+                  >Machwerk,</hi> welches geeignet ist, durch exotische Decorationen und kuriose
                Costüme ein zahlreiches Publikum ins Theater anzulocken.”</p>
             <p> Az Isten áldja meg ezért a jó rekomendációért.</p>
             <p> A „Dalma” előadása a nemzeti színházban meg lett engedve. A hatás nem maradt el.

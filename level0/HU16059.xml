@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16059" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16059" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Mézes hetek :  Egy fiatal asszony naplója : Regény  : ELTeC edition</title>
-            <author>Vértesi, Arnold (1836-1911)121504813
+            <author>Vértesi Arnold (1836-1911)<idno type="VIAF">121504813</idno>
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -45,11 +47,12 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>Mézes hetek : egy fiatal asszony naplója : regény</title>
-                     <author>Vértesi, Arnold</author>
+                     <author>Vértesi Arnold</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher> Athenaeum</publisher>
                      <date>1895</date>
-                     <ref target="http://nektar.oszk.hu/hu/manifestation/3345210"/>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/3345210"/>
                   </bibl>
                </relatedItem>
             </bibl>

@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU14564" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU14564" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Kisvárosiak: Regény: ELTeC edition</title>
-            <author>, Herman Ottóné (1856-1916) 53161612
+            <author> Herman Ottóné (1856-1916) <idno type="VIAF">53161612</idno>
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -35,11 +37,12 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>Kisvárosiak : regény</title>
-                     <author>Herman, Ottóné</author>
+                     <author>Herman Ottóné</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Athenaeum</publisher>
                      <date>1897</date>
-                     <ref target="http://nektar.oszk.hu/hu/manifestation/3346904"/>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/3346904"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -206,7 +209,8 @@
                városban senki, aki ugy tudott bánni a hegedüvel - az a helybeli zsidókántor
                másodéves medikus fia. Göndör veres haju, pufók, de korrektül öltözködött, már
                kisvárosi fogalmak szerint.</p>
-            <p>A kisbőgős - nagy nem is volt - csunya fekete vén fiu, apró kék szemekkel - <hi>bivaly-szépség</hi>, mondta rá Ábris ur - az a szegi pusztán
+            <p>A kisbőgős - nagy nem is volt - csunya fekete vén fiu, apró kék szemekkel - <hi
+                 >bivaly-szépség</hi>, mondta rá Ábris ur - az a szegi pusztán
                nevelősködött, a tiszttartó urficskái mellett; ő maga is urfi - olyan félbemaradt
                jogász ember. Az is gálában volt ugy, a maga módja szerint: fekete attilában.</p>
             <p>Ez az attila valamikor szebb napokat látott; jelenleg kissé benzin szagu; a hajdan
@@ -490,7 +494,8 @@
                vegyest.</p>
             <p>Mire az utcza sarkára értek, a hirtelen lirai hangulatba eső Cseténé szükségét
                érezte, hogy egy meglepő fölfedezés közrebocsátásával érzelmei fölöslegének szelepet
-               nyisson, azzal tudni­illik, hogy a holdvilág gyönyörüen - <hi>süt</hi>.</p>
+               nyisson, azzal tudni­illik, hogy a holdvilág gyönyörüen - <hi
+               >süt</hi>.</p>
             <p>Ami egyhangulag konstatáltatván, a vendégraj a vonzás törvényei szerint oszlott
                elemeire s apróbb csoportokba verődve folytatta utját - kiki a maga czélpontjának
                attrakciója szerint.</p>
@@ -603,7 +608,8 @@
             <p>A jó öreg Poótsné - a Poóts Béla özvegy édes anyja - egyedül gyomlálgatott virágos
                kis kertjében.</p>
             <p>A hizásra hajló, könnyen mosolygó, könnyen siró, üde arczu matrona, ezüstös hajával
-               olyan volt, hogy már csupán ránézve is megértheti bárki, miért mondom: <hi>édes anyja</hi> és nem ugy, ahogy manapság divatosan mondogatják: a
+               olyan volt, hogy már csupán ránézve is megértheti bárki, miért mondom: <hi
+                 >édes anyja</hi> és nem ugy, ahogy manapság divatosan mondogatják: a
                   <hi>mamája</hi>.</p>
             <p>Mert nem volt ezen a kedves, jóizű öregen semmi modern.</p>
             <p>Ósdi volt, a simára fésült fehér hajától kezdve le, egészen a czipője
@@ -724,7 +730,8 @@
             <p>- Szerelmes Jézusom, hát ugyan bizony miért?</p>
             <p>- A <hi>kilenczedik</hi> miatt... sugta amaz lesütött szemmel, alig
                hallhatólag. Megmondta már a nyolczadiknál - a kis Juliskámnál: ha még egy lesz,
-               kiverlek a házból... Hát lesz. Tehetek én róla, mondja! tehetek? <hi>Azért</hi> ájultam el akkor este... Nem mondta Béla?</p>
+               kiverlek a házból... Hát lesz. Tehetek én róla, mondja! tehetek? <hi
+                  >Azért</hi> ájultam el akkor este... Nem mondta Béla?</p>
             <p>- Nem, nekem semmit, se Béla, se más. Tudja minden ember, hogy nem szeretem a
                hir­hor­dást. A fiamnak meg, szegénykének, most magának is baja esett - a multkor
                este felé kocsin jött haza, a kocsiablak törött volt s hogy hirtelen kidugá a fejét
@@ -768,7 +775,8 @@
                teszi a tudományt?... Többet tud az már is magánál az öreg Slakta professzornál...
                amiért az a hivatalos darabka rongy nincs még a kezében?</p>
             <p>- Tudni igaz, hogy tud... sokat tud, mondogatja Poótsné, kinek anyai hiuságát
-               szemlátomást hizlalták az elismerés szavai - de hát - tudja, neki azért <hi>addig</hi> még se szabad ám...</p>
+               szemlátomást hizlalták az elismerés szavai - de hát - tudja, neki azért <hi
+                 >addig</hi> még se szabad ám...</p>
             <p>- Meglátogatni - barátságból, ápolni keresztényi indulatból a jó ismerős beteg
                gyermekét, aki külömben is gyerekkori játszótársa, majd hogy nem testvére? Hol az az
                irott törvény, amelyik ezt neki megtilthatná?</p>
@@ -776,7 +784,8 @@
             <p>- Én!... én? oh, Poóts néni...</p>
             <p>Megragadta az öreg asszony kezét és megcsókolta kétszer.</p>
             <p>- Megbiznék a Béla gyerekben?</p>
-            <p>- Mint enmagamban, néni... hiszen a maga fia! Nem mertem kimondani, de <hi>ezért</hi> jöttem... tudtam, hogy az anya ugy is megérti az anyát -
+            <p>- Mint enmagamban, néni... hiszen a maga fia! Nem mertem kimondani, de <hi
+                 >ezért</hi> jöttem... tudtam, hogy az anya ugy is megérti az anyát -
                áldja meg az a jó teremtő, aki fölöttünk él, mert él! hiszem most már, meg is verne,
                ha kételkedném...</p>
             <p>- No hát elküldöm Bélát Magdushoz. Megteszi az én jó fiam, ha kérem.</p>
@@ -908,7 +917,8 @@
                reá és kétszer helybenhagyólag bólint a borzas fejével.</p>
             <p>- Eszti!... förmed rá elképpedve Rózsi néni.</p>
             <p>Eszti sikolt, fölugrik... a könyv puffanva esik a földre - utána kap, késő!... a
-               czimlap kifordul - Rózsi néni hüledezve betüzi az imádságos könyv czimét: <hi>Egy őrült szerelmei.</hi>
+               czimlap kifordul - Rózsi néni hüledezve betüzi az imádságos könyv czimét: <hi
+                 >Egy őrült szerelmei.</hi>
             </p>
             <p>- Mit ijesztget, Rózsi néni... tagolja Eszti pipacsvörösre váltan, - az ember már nem
                is készülhet békével a - konfirmáczióra.</p>
@@ -1374,7 +1384,8 @@
                és nyugtalanitó sejtések zaklatták; félt... egyelőre csak a helyzet nevetséges volta
                aggasztotta, majd egy nyomban fölbukkanó kérdés, t. i. az, hogy:</p>
             <p>Harmadszor és legfőkép: mit fog majd ehhez szólani Ő - a Nuczi!.. hogyan fogja ennek
-               a prepotens kis zsarnoknak hiuságát, szeszélyeit, uralomvágyát a jövőben egy <hi>fél</hi> rabszolga kielégíteni, mikor eddig egy egésznek minden
+               a prepotens kis zsarnoknak hiuságát, szeszélyeit, uralomvágyát a jövőben egy <hi
+                 >fél</hi> rabszolga kielégíteni, mikor eddig egy egésznek minden
                ideje, akarata, készsége alig-alig bizonyult elégségesnek e rendkivül megtisztelő, de
                éppen nem könnyü hatáskör betöltésére.</p>
             <p>Mindezt fontolóra véve, könnyü belátni, hogy nem egészen ok nélkül idegenkedett ettől
@@ -1444,7 +1455,8 @@
                tejet, vagy egy pohár vizet, olykor ostyában csipetnyi sót, vagy lisztet, vagy akár
                apró papirdarabkákat nyeletett vele, azzal a többször és energikusan hangoztatott
                kijelentéssel, hogy amit adott, az egy kipróbált, csalhatatlan hatásu gyógyszer a
-               baja ellen, amelytől <hi>azonnal</hi> és okvetetlen jobban <hi>kell</hi> lennie... Ilyenkor a jelek csakugyan eltünedeztek s az
+               baja ellen, amelytől <hi>azonnal</hi> és okvetetlen jobban <hi
+                 >kell</hi> lennie... Ilyenkor a jelek csakugyan eltünedeztek s az
                öntudat, tiz közül kilenczszer, visszatért anélkül, hogy hosszabb tartamu hypnotikus
                kezelésre került volna a sor.</p>
             <p>S ha ehhez az expedienshez mégis előszeretettel fordult olykor, - mint ő maga
@@ -1690,7 +1702,8 @@
             <p>Magda loppal néz reá a hosszu pillák alól s vontatottan mondja:</p>
             <p>- Igen...</p>
             <p>De ez a rövid szó, erre a mindennapi kérdésre a lány ajkáról ebben a pillanatban -
-               nem tudni miért - olyan jelentőségre emelkedett, mint az az <hi>igen</hi>, a mit valami életbevágó kérdésre adnak.</p>
+               nem tudni miért - olyan jelentőségre emelkedett, mint az az <hi
+                  >igen</hi>, a mit valami életbevágó kérdésre adnak.</p>
             <p>Legalább a férfi olyannak hallotta.</p>
             <p>Egy széket vont Magda mellé; leült... aztán - valami furcsa esett meg rajta: beszélni
                akart, még pedig okosan és hosszan; de ennek a frivol Don Juánkodó »semmirekellőnek«
@@ -1714,7 +1727,8 @@
                aztán csöndesebben tette hozzá: és ma, épen ma!... igaztalan és kegyetlen Magda. Hát
                nem a magáé jó idő óta minden időm, gondolatom?</p>
             <p>- Mint orvosnak... a betegé. Nem máskép! És ahogy voltunk, ugy lehetünk ezután is -
-               ameddig jónak látja, vagy - - rám nem unt. De, ha még egyszer eszébe jut, hogy <hi>ilyen</hi> hangon szóljon hozzám, bezárkózom ugy, hogy ezen a
+               ameddig jónak látja, vagy - - rám nem unt. De, ha még egyszer eszébe jut, hogy <hi
+                 >ilyen</hi> hangon szóljon hozzám, bezárkózom ugy, hogy ezen a
                küszöbön többé át nem lép, mig élek. És ahogy engem ismer, tudom, hogy ezt nekem el
                is hiszi - esküdözés nélkül.</p>
             <p>- Hiszem; elég!... szólt Béla s hangjából kiérzett a szivében és hiuságában is
@@ -1810,7 +1824,8 @@
                bir el­bocsátani - a tulajdonosa se igyekszik elvonni külömben - később kiszakit egy
                czigarett-papirt, azt a nedves betükre nyomja s a képet igy óvatosan egy régi levél
                két lapja közé illesztve, oldalzsebébe csusztatja.</p>
-            <p>Terike pedig ámul-bámul. Nem igen tudja: örüljön-e vagy sirjon, hogy a »babát« <hi>ilyen</hi> áristomba dugták s igy elvonták az ő fenhatósága
+            <p>Terike pedig ámul-bámul. Nem igen tudja: örüljön-e vagy sirjon, hogy a »babát« <hi
+                 >ilyen</hi> áristomba dugták s igy elvonták az ő fenhatósága
                alól.</p>
             <p>Mégis az utóbbira határozza el magát. Pityeregni kezdett, majd erélyesen követelte
                vissza a delikvenst: ő fogja áristomba tenni, a bácsi ne vigye el - -</p>
@@ -2318,7 +2333,8 @@
                járt-kelt, szorgoskodott a konyhán, pinczében, kamarában, mintha világéletében ott
                lett és azt művelte volna.</p>
             <p>Az öreg Poótsné szive pedig repesett a büszkeségtől: hogy a fia tanul, hogy mégis
-               csak »megéri a diplomáját;« a boldogságtól: hogy lesz neki már menye is - és <hi>milyen</hi> menye! tüzről-pattant, dolgos, tiszta: igazi magyar
+               csak »megéri a diplomáját;« a boldogságtól: hogy lesz neki már menye is - és <hi
+                 >milyen</hi> menye! tüzről-pattant, dolgos, tiszta: igazi magyar
                asszony lesz az; azonfelül még szép is és okos, jókedvü és - egészséges! - S ugy
                titkon máris elképzelte magának azt a piros-pozsgás kis unokát, melyet ez az épvérü
                fiatal teremtés majdan az ő öreg két karjára fektet...</p>
@@ -2472,7 +2488,8 @@
                megborzongott, mintha fagyos szél érte volna arczát.</p>
             <p>- Szabad, édeském? kapok audiencziát?</p>
             <p>Magda csak állt dermedten, mint az anakondától megigézett madárka.</p>
-            <p>- Ah, hát még mindég haragos a cziczám? Egy menyasszony! egy <hi>boldog</hi> menyasszony! - aki engesztelhetetlen... Rosszul áll neki,
+            <p>- Ah, hát még mindég haragos a cziczám? Egy menyasszony! egy <hi
+                  >boldog</hi> menyasszony! - aki engesztelhetetlen... Rosszul áll neki,
                mondhatom... Ugy-e, badar beszéd, drágám? - és beugrott az ajtón, egyenest a Magda
                nyakába és megölelte, megcsókolta.</p>
             <p>A leány ujból megrázkódott erre az utált érintésre s szorongva kérdezte:</p>
@@ -2489,10 +2506,12 @@
             <p>- Látlak, Nina!... Azt akarod, hogy ezeket elolvassam. Hanem én meg se nézem. Tudom
                ki irta és kinek irta, azt is tudom, hogy miről. Ha tán van benne olyan, amit még nem
                tudnék, ugy az bizonyosan nem is nekem való s mint a többi, a multra vonatkozik,
-               melyet nincs jogom kutatni és együtt és összevéve meg is bocsátottam már - <hi>neki... </hi>régen.</p>
+               melyet nincs jogom kutatni és együtt és összevéve meg is bocsátottam már - <hi
+                 >neki... </hi>régen.</p>
             <p>Nem tartotta méltónak ezt a teremtést, hogy a Béla drága nevét kiejtse előtte.</p>
             <p>- Ugy?... kérdezte az asszony torz mosolylyal. Igazad van. A férfinak meg van
-               engedve, hogy két asszonyt sőt akárhányat is bolonditson - egyikét a másik <hi>után</hi>; de hogy olyan fejedelmi büszke leány, mint te!... te,
+               engedve, hogy két asszonyt sőt akárhányat is bolonditson - egyikét a másik <hi
+                 >után</hi>; de hogy olyan fejedelmi büszke leány, mint te!... te,
                Zajzon Magda, meg tudod bocsátani a vőlegényednek, hogy <hi>egy
                   azon</hi> időben bolonditott téged s egy másik szerencsétlent - -</p>
             <p>- Hazudsz! vág a szavába Magda elfehérült ajakkal, egész testében remegve.</p>
@@ -2511,7 +2530,8 @@
                amint magában a rettentő levelet olvasta:</p>
             <p>»Tanulok Nuczi! anyám forró vágyát betöltöm. El vagyok erre tökélve, végre igazán és
                komolyan! Rövid időn diplomás ember leszek. Bezárkózom a szobámba, nekidülök a
-               könyveknek s a lábam se teszem ki, mig el nem készültem. - Még <hi>oda</hi> se megyek! Az a szegény teremtés már ma-holnap ugy is ellehet az én
+               könyveknek s a lábam se teszem ki, mig el nem készültem. - Még <hi
+                  >oda</hi> se megyek! Az a szegény teremtés már ma-holnap ugy is ellehet az én
                kezelésem nélkül, - amibe, köztünk mondva - kissé bele is fáradtam.« - - -</p>
             <p>Zokogásszerü mély nyögés tört ki a leány kebléből, keze lehanyatlott egy
                pillanatra... majd óriási erővel legyőzve önmagát, folytatta, amint következett:</p>
@@ -2597,7 +2617,8 @@
             <p>A halódó leány arczán még egyszer lobbot vet a kialvóban levő élet lángja. Szemében a
                vád és itélet, a hangja keményen csengő, előre nyujtott jobbja nem remeg:</p>
             <p>- <hi>Meg akarok halni</hi> - - menj!...</p>
-            <p>Ellenállhatatlan, földöntuli fenség nyilvánult e kijelentésben, mely <hi>parancs</hi> volt. Béla görnyedten, alázatosan, panasz nélkül és
+            <p>Ellenállhatatlan, földöntuli fenség nyilvánult e kijelentésben, mely <hi
+                 >parancs</hi> volt. Béla görnyedten, alázatosan, panasz nélkül és
                csaknem tudtán kivül - engedelmeskedik.</p>
             <p>A küszöbnél megáll. Mint a halálra itélt, ki az utolsó pillanatban is kegyelmet
                remél, le­irhatatlanul esdő, kétségbeesett tekintettel néz a haldokló arczára: Magda!
@@ -2641,7 +2662,8 @@
                megbecsülik, jól kihasználják azokat. A szalkszentjóbiak napokat, heteket töltöttek
                hozzávetésekben, találgatásokban - mindhiába! Nem értette és meg nem fejthette senki
                a maga választotta szörnyü végét ennek a virágzó élete hajnalán, boldogsága küszöbén
-               álló leánynak. Válasz nélkül maradt ez a százszor, ezerszer megujuló kérdés: <hi>Miért?</hi>
+               álló leánynak. Válasz nélkül maradt ez a százszor, ezerszer megujuló kérdés: <hi
+                 >Miért?</hi>
             </p>
             <p>
                <hi>..</hi>.Azt az asszonyt akkor este nem látta bemenni senki
@@ -2675,7 +2697,8 @@
                lethargiában tengő­dött s magába zárkózottan, emlékeinek, tépelődéseinek élt
                csak:</p>
             <p>...Mit vétett ő annak a leánynak?... És vajjon vétett-e, véthetett-e?... Nem! Igaz
-               volt, hű volt, gondolatban sem csalta, mióta megmondta neki, hogy szereti - a <hi>régi</hi> pedig, az meg volt neki bocsátva - önként...</p>
+               volt, hű volt, gondolatban sem csalta, mióta megmondta neki, hogy szereti - a <hi
+                 >régi</hi> pedig, az meg volt neki bocsátva - önként...</p>
             <p>...És mégis! mégis itt hagyta őt, egy szó, egy sor nélkül, egy kézszoritás nélkül! -
                -</p>
             <p>...És elüzte a halálos ágya mellől, mint egy gonosztevőt... Irtóztató!...</p>
@@ -2746,7 +2769,8 @@
             <p>Amaz egyet nyel, mintha valami keserü akadt volna a torkán s csak azután
                mormogja:</p>
             <p>- Férjhez ment.</p>
-            <p>- Mi... micsoda?... férjhez? az?!... Az a megviselt, elnyomorodott portéka<hi>?...</hi> Seregeknek ura, el ne hagyj! - No, de hát ő bizonyosan
+            <p>- Mi... micsoda?... férjhez? az?!... Az a megviselt, elnyomorodott portéka<hi
+                 >?...</hi> Seregeknek ura, el ne hagyj! - No, de hát ő bizonyosan
                tudta, hogy mit cselekszik, meg hogy miért cselekszi... A jó isten kárpótlással is
                tartozott neki - eleget szenvedett.</p>
             <p>- Eleget!? Hát ha az örök tüzre jut, megszenved-e eléggé azért a bünéért, hogy egy
@@ -2791,7 +2815,8 @@
                be az én szürke vén fejem lágya?<hi>...</hi> majd hozzátette: hát aztán
                most <hi>azok</hi> hogy vannak... együtt? hogy élnek?</p>
             <p>- A régiben. Azzal a külömbséggel, hogy azelőtt Benya ur tisztitotta az asszony
-               czipőit, most meg az asszony tisztitja a Benya urét. Ez pedig, köszönet fejében - <hi>veri</hi>.</p>
+               czipőit, most meg az asszony tisztitja a Benya urét. Ez pedig, köszönet fejében - <hi
+                 >veri</hi>.</p>
             <p>Poótsné összecsapta a kezét.</p>
             <p>- Veri... az asszonyt?!</p>
             <p>- Azt. Őtet pedig az isten - vele. Verje is.</p>
@@ -2932,7 +2957,8 @@
                művészi is lehet - egy nem lesz soha: <hi>igaz</hi>.</p>
             <p>Van, aki megelégszik a külső hasonlatossággal, s csak azt adja vissza ridegen,
                lelkiisme­re­te­sen, amennyit a gépe a szük keretében felölelni bir, anélkül, hogy a
-               szinnek, a jellegzetesnek, a benső motivumoknak s az azokban nyilvánuló <hi>örök emberinek</hi> érvényrejuttatásával törődnék.</p>
+               szinnek, a jellegzetesnek, a benső motivumoknak s az azokban nyilvánuló <hi
+                 >örök emberinek</hi> érvényrejuttatásával törődnék.</p>
             <p>Az ilyen már nem fest, hanem - <hi>fotografál</hi>.</p>
             <p>Én festeni akartam.</p>
             <p>Modellem a való, a lüktető élet. Eleven, érző, szenvedő emberek igaz dolga; s mikor

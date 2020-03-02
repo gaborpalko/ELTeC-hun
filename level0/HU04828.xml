@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU04828" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU04828" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A vörös postakocsi : ELTeC edition</title>
-            <author>Krúdy, Gyula (1878-1933)22810
+            <author>Krúdy Gyula (1878-1933)<idno type="VIAF">22810</idno>
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -40,7 +42,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>A vörös postakocsi ; Őszi utazások a vörös postakocsin</title>
-                     <author>Krúdy, Gyula</author>
+                     <author>Krúdy Gyula</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Unikornis</publisher>
                      <date>[1993]</date>
@@ -51,7 +53,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>A vörös postakocsi</title>
-               <author>Krúdy, Gyula</author>
+               <author>Krúdy Gyula</author>
                <date>1913</date>
             </bibl>
          </sourceDesc>
@@ -627,7 +629,8 @@
                   gyönyörű angol naptárakat akasztott ki, amelyeket az egész város megbámult. Piros
                   frakkban kergették a rókát, máshol Dickens úr regényhősei utaztak postakocsin a
                   hónapok címtáblájában, a nagy étvágyú Pickwick urat mindenki felismerhette
-                  szárnyas frakkjában, továbbá Weller urat, s a fogadó a <hi>György</hi>höz volt címezve. Míg az ékszerész kék bársonyba ágyalt gyémántjai
+                  szárnyas frakkjában, továbbá Weller urat, s a fogadó a <hi
+                     >György</hi>höz volt címezve. Míg az ékszerész kék bársonyba ágyalt gyémántjai
                   mellett közömbösen haladtak el színésznőink, s a virágkereskedés virágzó pálmájára
                   is csupán rejtett pillantást vetettek, a könyvkereskedőnél megállottak. A
                   levéldobozokon Mylady ugratott sövényt, vagy egy régi skóciai kastélyon lengette a
@@ -819,7 +822,8 @@
                <p> A telet fölváltotta a nyár és K. C.-t a liget s a budai oldal pacsirtái. A
                   tótfalusi nyár megtizedelte, hatalmasan megritkította a népszínházi falanxot, még
                   Satanello is színt cserélt, pedig már feltette magában, hogy operettet ír a
-                  Népszínháznak. Bródy Sándor fiákere gyakran állongott a <hi>Politikus csizmadia</hi> előtt, a temesvári társulat hölgyei elszántan itták
+                  Népszínháznak. Bródy Sándor fiákere gyakran állongott a <hi
+                     >Politikus csizmadia</hi> előtt, a temesvári társulat hölgyei elszántan itták
                   az ingerlő bólét, hisz a Nemzetiben sem játszott senki. A „szőke csoda” sem. Tímár
                   Szaniszló pepita nadrágban járt, és a világos színű Lavalli?re-nyakkendőt
                   pártfogolta. Schmittely József éjszakánként, lapzárta után arról ábrándozott,
@@ -861,7 +865,8 @@
                   szegezte tábori látcsövét a színpadi csatamezőre. A hírlapírók már elhelyezkedtek,
                   és a középső sorokból alattomos nevetése bugyborékolt felfelé a színészhölgyeknek,
                   akik ez estén nem vesznek részt az előadásban. A parókás karnagy hátat fordított a
-                  színpadnak, amint a felvonásközi zenét elvégezte embereivel (a <hi>Gasparoné</hi>ból játszván), a nagybőgős titkon felhajtott söréből, s egy
+                  színpadnak, amint a felvonásközi zenét elvégezte embereivel (a <hi
+                     >Gasparoné</hi>ból játszván), a nagybőgős titkon felhajtott söréből, s egy
                   szőke, szemüveges fiatal zenész már harmadszor olvasott végig egy gyűrött levelet.
                   Vajon ki küldte a levelet? Örömről volt szó benne vagy boldogtalanságról?</p>
                <p> Urbanovicsné pompázatos ruhájában, teli kebellel dőlt előre páholyában, Szilvia
@@ -1030,7 +1035,8 @@
                <p> – Ferenc József-kabátot hordott.</p>
                <p> – Vidéken úgy szokás szerkeszteni.</p>
                <p> – Délelőtt a korzón megbeszélte a színügyet a polgármesterrel.</p>
-               <p> – Azt, hogy maga milyen nagyszerűen játszott a <hi>Nórá</hi>ban.</p>
+               <p> – Azt, hogy maga milyen nagyszerűen játszott a <hi
+                  >Nórá</hi>ban.</p>
                <p> – Oldalszakálla is volt.</p>
                <p> – Istenem! – sóhajtotta most váratlanul Szilvia, és gyorsan a színpadra
                   nézett.</p>
@@ -1817,7 +1823,8 @@
             <div type="chapter">
                <head> 4. Fejezet A legbarátságosabb pesti ház </head>
                
-               <p> Madame Louise írónő volt. Írt verseket, elbeszéléseket (a <hi>Kökörcsinek</hi>re mindnyájan emlékezhetünk, akik a szalonjában helyet
+               <p> Madame Louise írónő volt. Írt verseket, elbeszéléseket (a <hi
+                     >Kökörcsinek</hi>re mindnyájan emlékezhetünk, akik a szalonjában helyet
                   foglaltunk), Sévigné asszony volt pompás leveleiben, amelyeket írókhoz és
                   művészekhez intézett (olykor, tizenkét oldalon s mindig asszonyi gráciával és
                   költői lendülettel írván), máskor George Sand volt, amint férfias kalapban és
@@ -2741,7 +2748,8 @@
                   a kuglizóban pihen, miután egész nap leveleket írt megyés püspököknek és zsidó
                   nagykereskedőknek, s a kerek pápaszem csodálatosan magas értelmiséggel csillogott.
                   A tollacska minden erejét és fantáziáját összeszedi, az apró betűcskék bibliai
-                  bőséggel omlanak, és nemegyszer bukkannak elő eredeti sorok a <hi>Manfréd</hi>ból vagy az <hi>Anyégin</hi>ből… Stecz öreg hordár
+                  bőséggel omlanak, és nemegyszer bukkannak elő eredeti sorok a <hi
+                     >Manfréd</hi>ból vagy az <hi>Anyégin</hi>ből… Stecz öreg hordár
                   tíz levélnél kevesebbel sohasem indul el a város különböző pontjaira. Mire
                   bealkonyodik a Józsefváros felett, az öreg hordár piros sapkájában titokzatosan
                   tér meg a kuglizóba. Vagy ismerheti a fehér hajú és piros mellényes Erdélyi
@@ -2830,7 +2838,8 @@
                <p> – Jöjjön velünk, s ne hagyjon elpusztulni! – felelték Dideri-Dir leányai. – Itt
                   úgysincs semmi dolga. A csőszkunyhót őrzi.</p>
                <p> Bonifácz Béla elgondolkozott.</p>
-               <p> – Valami dolgom mégiscsak volna… Hetenkint cikket kell írni a <hi>Vendéglősök Lapjá</hi>ba<hi>.</hi> Rettentő méreg az irodalom.
+               <p> – Valami dolgom mégiscsak volna… Hetenkint cikket kell írni a <hi
+                     >Vendéglősök Lapjá</hi>ba<hi>.</hi> Rettentő méreg az irodalom.
                   Vérbajossá teszi a polgárokat és polgárnőket, ha belékóstolnak. Az írók mind
                   szélhámosok. Kinevezik királyi mesterségnek, a legdicsőbb foglakozásnak a maguk
                   dolgát. Holott tulajdonképpen senkinek sincs szüksége az irodalomra. Az emberek
@@ -2891,7 +2900,8 @@
                   Szőkésbarna hajukat feszesen fésülik, és arcszínük pirosas, mintha most öblítették
                   volna hideg vízzel. Kék szemük van és rózsaszínű szájuk. A foguk fehér, és korán
                   meghíznak. Jókedvűek és biztosak a dolgukban. A sportladyk fesztelenül fogadják
-                  minden jól öltözött férfi udvarlását, a szeretőjük markőr a <hi>Habsburg</hi>-kávéházban, és csupán nyerni jönnek Pestre.</p>
+                  minden jól öltözött férfi udvarlását, a szeretőjük markőr a <hi
+                     >Habsburg</hi>-kávéházban, és csupán nyerni jönnek Pestre.</p>
                <p> Amíg a <hi>Kék macska</hi> és a <hi>Flóra</hi>-<hi>terem</hi> volt a legelőkelőbb mulatóhely Budapesten (majd
                   Somossy Károly fölépítette a világ egyik legszebb orfeumát), a bécsi női típus
                   képviselte az igazi artisztikát. A kövér, tejkeblű és a malac rózsaszínű bőréhez
@@ -2920,7 +2930,8 @@
                   pénzügynököket, letört gavallérokat és Rajna Ferencet, ki volt Carola Cecília,
                   midőn a <hi>Hölgyzászlóaj</hi>bana nemzetiszínű zászlót kibontotta!
                   A még félig német pesti éjszaka őrjöngve tapsolt, az orfeum előtt a fiákeresek
-                  éljenezték, és a zene csengve-bongva zengett… Mi volt szebb? A <hi>Hölgyzászlóalj</hi> vagy a manapság divatos <hi>Hulló falevél?
+                  éljenezték, és a zene csengve-bongva zengett… Mi volt szebb? A <hi
+                     >Hölgyzászlóalj</hi> vagy a manapság divatos <hi>Hulló falevél?
                   </hi>Ó, a régi karnagyok szemérmesek voltak. Aki egykor megírja Budapest
                   történetét, Somossy Károly és Carola Cecília alakjáról nagyon sokat írhat. Ők
                   tanították meg lumpolni a várost. Bizonyosan ma is isznak francia pezsgőt
@@ -2933,7 +2944,8 @@
                   Pesten az első elegáns restaurant-t, amelynek konyháján reggelig ég a tűz, és
                   olcsón mulatni lehet – nyomban bele is bukik a vállalkozó szellemű férfiú, bár
                   Brillat-Savarin receptje szerint főzi a tyúklevest; élelmes vendéglősök korcsmákat
-                  alapítottak, amelyeket csupán éjfél után nyitottak ki, a <hi>Temető</hi>ben reggel tíz órakor kiérdemesült aranyifjak mulattak Strasser
+                  alapítottak, amelyeket csupán éjfél után nyitottak ki, a <hi
+                     >Temető</hi>ben reggel tíz órakor kiérdemesült aranyifjak mulattak Strasser
                   csikósbojtár modorban előadott dalain, és a Kauser-társaság hordó sört
                   helyeztetett az asztalra; divat május délben ligeti vendéglőbe hajtatni Móni gyors
                   trapperein (miközben kocsis, ló és szerszám a bécsi Práterről álmodott), a
@@ -3230,7 +3242,8 @@
                   sohasem fog eszembe jutni.</p>
                <p> – Ki volt Medve? – folytatta az érdeklődést az udvarias Rezeda úr.</p>
                <p> – Azt sem tudom – mormogta elkeseredve Szilvia. – Egy kis cukrászda, ahol
-                  tejszínes kávét ittunk, kalitkában feketerigó volt, a <hi>Frou-Frou</hi> című francia lap függött a fogason és Medve… Ennyi, amennyire
+                  tejszínes kávét ittunk, kalitkában feketerigó volt, a <hi
+                     >Frou-Frou</hi> című francia lap függött a fogason és Medve… Ennyi, amennyire
                   bizonyosan emlékezem. Még csak a szeme sincs eszembe. Mintha csak olyan messzire
                   ment volna el tőlem, mint az életemnek a boldogsága. Azt hiszem, ha a vers eszembe
                   jutna, és Medvét megtalálnám: újra boldog lennék, mint tizenöt esztendős koromban
@@ -3623,7 +3636,8 @@
                   – felelt mosolyogva az asszony. – Ó, maga nagyszerű tanítvány. Remélem, még egykor
                   meghalni is kíván majd érettem, mint Musset Alfréd. Tehát estére a könyv helyén
                   lesz, és most ne beszéljünk többet a dologról.</p>
-               <p> A második könyv, amelyet Rezeda úr Berta jóvoltából olvasott, <hi>Dombey és Fia</hi> volt, szerzője az angol mesemondó, Dickens, akinél szebben
+               <p> A második könyv, amelyet Rezeda úr Berta jóvoltából olvasott, <hi
+                     >Dombey és Fia</hi> volt, szerzője az angol mesemondó, Dickens, akinél szebben
                   és meglátóbban Angliát, Londont és a brit ifjúságot és öregséget, a walesi mezők
                   felett fénylő ködöt és az angol nők szívében szálladozó bárányfellegeket senki sem
                   írta meg. Rezeda úr csaknem könnyeivel öntözte a drága úrnő kezét, és az orosi

@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16153" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16153" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Jön a hajnal: ELTeC edition</title>
-            <author>, Abonyi Árpád (1865-1918) 39125767
+            <author> Abonyi Árpád (1865-1918) <idno type="VIAF">39125767</idno>
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -36,11 +38,12 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>Jön a hajnal</title>
-                     <author>Abonyi, Árpád</author>
+                     <author>Abonyi Árpád</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Athenaeum</publisher>
                      <date>1897</date>
-                     <ref target="http://nektar.oszk.hu/hu/manifestation/3346043"/>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/3346043"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -108,7 +111,8 @@
                   hiu embert. A nagyságot más dicsérje, ne ő. Illenék - ez? S még czitált néhány
                   korrekt mondatot szabadon Machiavelli után, a kinek hatásos mondásait arany vágású
                   naplójába raktározta be. Már Náczi korában olvasta ugyanis valahol, hogy a kitünő
-                  emberek egy-egy vastag naplóba szoktak jegyezgetni, melyek haláluk után <hi>Hátrahagyott iratok</hi> czim alatt pompás bőrkötésben kerülnek
+                  emberek egy-egy vastag naplóba szoktak jegyezgetni, melyek haláluk után <hi
+                    >Hátrahagyott iratok</hi> czim alatt pompás bőrkötésben kerülnek
                   ama bizonyos szalónasztalokra, melyeknek létezése állitólag nem csak gálád
                   szájhagyomány.</p>
                <p>A báró ur erősen szivarozott és minden öt perczben óráját nézte. Ezuttal nem a
@@ -179,7 +183,8 @@
                <p>- Azután döntenék.</p>
                <p>- Mit?</p>
                <p>- Válóper utján...</p>
-               <p>- Aj, nem, nem! Válóper, barátom... Hová gondol? Nem érti, - nem <hi>házasságról</hi> van szó -</p>
+               <p>- Aj, nem, nem! Válóper, barátom... Hová gondol? Nem érti, - nem <hi
+                     >házasságról</hi> van szó -</p>
                <p>- Tudom, báró ur! felelte gyorsan a titkár. Szinte megbántva érezve magát. Annyira
                   kopott és régi formája van már, hogy minden divatos, modern erkölcsre képtelennek
                   látszik?</p>
@@ -263,7 +268,8 @@
                   bábot. Meg vagyok róla győződve, hogy te is elütnéd <hi>azt</hi> a
                   bábot, ha neki gurulnál a templom utczai Nro. 28-nak... Próbáld meg!</p>
                <p>- Gondolkoztam rajta...</p>
-               <p>- Nem elég! Ez nem vezet czélra. Egy - hogy is fejezzem ki magamat - egy <hi>ilyen</hi> viszonynak, mint a tied, olyan kell hogy legyen a vége
+               <p>- Nem elég! Ez nem vezet czélra. Egy - hogy is fejezzem ki magamat - egy <hi
+                    >ilyen</hi> viszonynak, mint a tied, olyan kell hogy legyen a vége
                   is, mint a milyen az eleje volt. A start és a finish körülbelül egyformák...
                   Gondolkozás nélkül szédültél bele az elején - gondolkozás nélkül törj ki belőle a
                   végén, punktum, nem tudok okosabb tanácsot adni. Minden szeg a fején találandó el
@@ -1206,7 +1212,8 @@
                   Szellő Ignácz költő nem bátorkodott nyilt véleménynyel alkalmatlankodni a
                   méltóságos urnak, titokban azonban azt gondolta, hogy »az élet álom« (mondá
                   Calderon). Epicur szerint a rózsák az emberekért vannak s Macchiavelli szerint:
-                  alkalmas pillanatban lelegelendők. Mindezek alapján a <hi>Potykák</hi> szerzője korántsem tartotta immorális lénynek a nemes urat, hanem
+                  alkalmas pillanatban lelegelendők. Mindezek alapján a <hi
+                     >Potykák</hi> szerzője korántsem tartotta immorális lénynek a nemes urat, hanem
                   olyan bölcsnek, a kinek az »élet álma« iránt erősen kifejlett érzéke van, s egy
                   egész bibliothéka tudománynál többre becsül egy meleg női nyakat.</p>
                <p>A dolog azonban mégis csak ugy állt, hogy Illésházit semmi kitüntető vonás nem
@@ -1410,7 +1417,8 @@
                   munkások jókedvű dalolgatása, s a széles, hatalmas arányok a természet roppant
                   háztartásában, kiengesztelő erővel hatottak reá. A szineknek és a körvo­na­laknak
                   e tökéletes harmóniája enyhe nyugalomba ringatta el ideig-óráig a lelkét. Addig,
-                  mig künn tartózkodott az isten szabad ege alatt, hajdani <hi>én</hi>-jének vidám temperamentuma lopódzott be ismét a szivébe, s kiüzött onnan
+                  mig künn tartózkodott az isten szabad ege alatt, hajdani <hi
+                  >én</hi>-jének vidám temperamentuma lopódzott be ismét a szivébe, s kiüzött onnan
                   minden fekete pontot, minden önvádat, s a lelki­ismeretnek azt a fel-felsivó
                   hangját, melyet ezuttal nem tudott elhallgattatni a szándék.</p>
                <p>A nemes ur érezte, hogy immorális ember, a ki e mellett még közönséges is. Külső
@@ -1899,7 +1907,8 @@
                   és haraggal emlékezik vissza?</p>
                <p>Illésházi nem tudott olvasni az elháritó mozdulatból. Tovább feszegette a dolgot.
                   Megérezte, hogy a gyermek elégedetlen atyjával... Miért? Az ő felfogása szerint az
-                  igazságtalanság, - s ebben rejlik nyilván az iménti daczos <hi>»Nem!«</hi> magyarázata is. Szükségesnek látja tehát, hogy ezzel az elburkolt
+                  igazságtalanság, - s ebben rejlik nyilván az iménti daczos <hi
+                     >»Nem!«</hi> magyarázata is. Szükségesnek látja tehát, hogy ezzel az elburkolt
                   ponttal tisztába jőjjön.</p>
                <p>- Kérlek, - mondotta élénken, - nem szeretem a ferde helyzeteket, s ez, a mibe
                   megmagya­ráz­hatatlan ellenkezésed engem is belesodort, a lehető legkellemetlenebb
@@ -2339,7 +2348,8 @@
                <p>- Sehogy.</p>
                <p>- Ez hatásos végszó, de semmit sem magyaráz. Ujabb fordulatot kérek.</p>
                <p>Lőrincz nem talál ujabb fordulatot. Ingerli a hölgy csipős hangja, s szeszélyes
-                  csapongása egyik tárgyról a másikra, de nem akar utánamenni <hi>ebben</hi> a hangban. Nem is tudna. Egy benső indulat lefegyverzi, s fél a
+                  csapongása egyik tárgyról a másikra, de nem akar utánamenni <hi
+                     >ebben</hi> a hangban. Nem is tudna. Egy benső indulat lefegyverzi, s fél a
                   rákövetkező percztől is, a melytől (ez az, a mire nincs magyarázat) máskülönben
                   nem remél semmit. De hátha próbát tenne!... Azzal a szándékkal jött ma ide, hogy
                   véget vet a bizonytalanságnak, megtudja, mit várhat, s ha kedvezőtlen választ
@@ -2349,7 +2359,8 @@
                   innen? Menjen, vagy itt maradjon?</p>
                <p>S a midőn összeakadt kihevült tekintete a leány szemeivel, a melyekben e
                   pillanatban egyet­len biztató sugarat sem érzett meg, gyorsan, mint a villám
-                  pattant keresztül egész lényén az elhatározás hogy - <hi>elmegy</hi>. Komédia minden... Atyjának van igaza. Ezek a finom, gyöngéd
+                  pattant keresztül egész lényén az elhatározás hogy - <hi
+                  >elmegy</hi>. Komédia minden... Atyjának van igaza. Ezek a finom, gyöngéd
                   teremtések, ezek a daczos, szabadelvü nagyuri nők soha sem árulják el a szivüket,
                   nem méltók tehát reá, hogy ő kitárja az övét. Illésházi Blanka gunyt üz
                   belőle...</p>
@@ -2397,7 +2408,8 @@
                   osztályában ez a sorsuk. Innen van az is, - fejezte be durván az ifju, - hogy az
                   önök illatos szalónjaiban csak akkor van szerelem, ha a férj elutazik. Most pedig
                   kérem, kergessen el!</p>
-               <p>- De barátom! Hiszen ez, a mit ön mond, mind benne van <hi>Ferreol</hi>-ban. Nem emlékszik reá? Ön utánoz!...</p>
+               <p>- De barátom! Hiszen ez, a mit ön mond, mind benne van <hi
+                     >Ferreol</hi>-ban. Nem emlékszik reá? Ön utánoz!...</p>
                <p>Lőrincz megdöbbenve, egészen fehéren kapta föl erre a metsző hangra a fejét.
                   Megzavarodva, majdnem ijedten bámult a hölgyre, a ki sugárzó szemmel, diadalmasan
                   tekintett reá.</p>
@@ -3195,7 +3207,8 @@
                   van; világosan és élesen lát, ha akar, hogy visszadöbben tőle, - csak nem akar
                   többé észnél lenni és nem akar látni semmit. Az emberek meg szokták bánni a hibát:
                   neki nem adatott a megbánás, minden ize undorodik tőle, mert a hiba megbánása
-                  nyomában ott van a megszokott élet után való természetes vágy is, s ő <hi>erre</hi> az életre nem érez többé vágyat. Utálja az éjjelt.
+                  nyomában ott van a megszokott élet után való természetes vágy is, s ő <hi
+                    >erre</hi> az életre nem érez többé vágyat. Utálja az éjjelt.
                   Legyen hajnal, legyen hajnal! Jőjjön a világosság...</p>
                <p>Esti hat óra felé kocsirobogást hallott az udvaron.</p>
                <p>Felneszelt reá egy pillanatra, de megint csak csak lehunyta szemét, nem bánja, a

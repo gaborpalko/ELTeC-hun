@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00730" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00730" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Özvegy és leánya : ELTeC edition</title>
-            <author>Kemény, Zsigmond (1814-1875)</author>
+            <author ref="viaf:54141095">Kemény Zsigmond (1814-1875)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -43,7 +45,7 @@
                <relatedItem type="source">
                      <bibl type="printSource">
                         <title>Özvegy és leánya</title>
-                        <author>Kemény, Zsigmond</author>
+                        <author>Kemény Zsigmond</author>
                         <pubPlace>Budapest</pubPlace>
                         <publisher>Európa</publisher>
                         <date>2000</date>
@@ -53,7 +55,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>Özvegy és leánya</title>
-               <author>Kemény, Zsigmond</author>
+               <author>Kemény Zsigmond</author>
                <date>1855</date>
             </bibl>
          </sourceDesc>

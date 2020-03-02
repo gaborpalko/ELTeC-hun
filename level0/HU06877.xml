@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU06877" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU06877" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Gróf Benyovszky Móricz életrajza, saját emlékiratai és útleírásai : ELTeC edition</title>
-            <author>Jókai, Mór (1825-1904)</author>
+            <author ref="viaf:59084200">Jókai Mór (1825-1904)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -43,7 +45,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>Gróf Benyovszky Móricz életrajza, saját emlékiratai és útleírásai </title>
-                     <author>Jókai, Mór</author>
+                     <author>Jókai Mór</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Ráth Mór</publisher>
                      <date>1888-1891</date>
@@ -52,7 +54,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>Gróf Benyovszky Móricz életrajza, saját emlékiratai és útleírásai</title>
-               <author>Jókai, Mór</author>
+               <author>Jókai Mór</author>
                <date>1887</date>
             </bibl>
          </sourceDesc>
@@ -4526,7 +4528,8 @@
                   egész árulást Leventiewre, hogy megölesse, s aztán elrabolja tőle a maga számára a
                   kincseit?</p>
                <p>- Hazudsz, mint egy »nyepomnyisti!« üvöltött rá
-                  előugorva a tömeg közűl Kuzneczow. Hát nézz ide, mi ez itt? te, »bradjaga«.<hi xml:id="_ftnref5">[5]</hi>
+                  előugorva a tömeg közűl Kuzneczow. Hát nézz ide, mi ez itt? te, »bradjaga«.<hi
+                     xml:id="_ftnref5">[5]</hi>
                </p>
                <p>S azzal eléje tartotta a Leventiew által írt árulkodó levelet.</p>
                <p>- Ismeritek az írását?</p>
@@ -10635,7 +10638,8 @@
                   mint a kutyák, vidáman játszadoznak, vagy egy közös jelre mindannyian egyszerre
                   álomra hajtják fejüket. Ezek azon szerencsétlenek, melyektől a rendszeresített
                   állomások részére az évi szükséglet kikerűl; e czélból a bennszülöttek lassankint
-                  nagyobb pihenők tartásával az állatokat a sziget belsejébe, a parttól 1-2 <hi>km</hi>-re szorítják, a honnan aztán az egészen fiatalokat és a
+                  nagyobb pihenők tartásával az állatokat a sziget belsejébe, a parttól 1-2 <hi
+                    >km</hi>-re szorítják, a honnan aztán az egészen fiatalokat és a
                   nőstényeket, valamint a hibás bőrűeket elkergetik, a többit pedig a fejre intézett
                   csapásokkal agyon verik és megnyúzzák.</p>
                <p>Benyovszky útazásában van néhány a Behring-szigetre vonatkozó adat, melyek méltán
@@ -10761,7 +10765,8 @@
                   ismételten megtámadták és huszonhat emberét megölték.
                </p>
                <p>»A tizenkettedik útat Boscarew tette meg 1760-ban, ki Alaxa-szigetéig jutott, mely
-                  Amerika közelében fekszik. Hajósnépe legnagyobb részét a szigetlakók ölték meg.<hi xml:id="_ftnref32">[32]</hi>
+                  Amerika közelében fekszik. Hajósnépe legnagyobb részét a szigetlakók ölték meg.<hi
+                     xml:id="_ftnref32">[32]</hi>
                </p>
                <p>»A tizenharmadik expedicziót egy társaság szerelte fel, mely öt hajót azzal a
                   feladattal küldött ki, hogy megismerkedjenek az Aleuti-szigetek kereskedelmével és
@@ -10979,7 +10984,8 @@
                   körűl a félsziget főfolyójának, az Anadirnak medenczéjét. Az északi gerincz
                   1000-1500 <hi>m</hi> magas és két fokban végződik; az egyik Ázsia
                   legészakkeletibb csúcsa a Keleti-fok, mely 707 <hi>m</hi> magas
-                  sziklafalakkal mered a tenger síkjára, a másik a Csukoczkoi-fok, mely 829 <hi>m</hi> magas, s melynek közelében Benyovszky is járt. A déli
+                  sziklafalakkal mered a tenger síkjára, a másik a Csukoczkoi-fok, mely 829 <hi
+                    >m</hi> magas, s melynek közelében Benyovszky is járt. A déli
                   gerincz 600-900 <hi>m</hi> magas és a Navarin-fokkal ér véget. A
                   Navarin és Csukoczkoi közt van az Anadir-öböl; a hegyek, részint a folyó, részint
                   a tenger felé lejtősödnek, s oldalai nyáron a koriákok irámszarvasainak csak
@@ -11098,7 +11104,8 @@
                   partjai mentén vezet. Azt Nordenskiöld tette meg először 1879-ben, emezt M’ Clure
                   1850-ben. E keskeny szorosnak a víz- és légtünemények birodalmában is érdekes
                   szerep jutott: ez látja el a Csendes-oczeánt hideg áramokkal, az egyik a
-                  Jó-Remény-fokáig, a másik a Tűzföldig nyomúl, csaknem 40.000 <hi>km</hi> hosszúságban. Itt küzd meg a dél heve az észak fagyával s a
+                  Jó-Remény-fokáig, a másik a Tűzföldig nyomúl, csaknem 40.000 <hi
+                     >km</hi> hosszúságban. Itt küzd meg a dél heve az észak fagyával s a
                   Behring-szorost ajtóhoz hasonlíthatjuk egy hideg és egy meleg szoba közt.
                   Nordenskiöld megfigyelte, hogy míg a lég alsó rétegeiben hideg északi szelek
                   kemény fagyot hoztak, addig a magasabban fekvő felhők ellenkezőleg észak felé
@@ -11162,7 +11169,8 @@
                   Szitka-kerület, mely Alaszkának délkeleti része, s melyet Benyovszky a
                   Kadiak-szigeten szintén érintett. E fejezetben csak az elsőről szólunk, a másik
                   kettőről a gróf aleuti kóborlásainál emlékezünk meg.</p>
-               <p>A Jukon-kerület felszíne hullámzó, azaz sziklás, alacsony, legfeljebb 500 <hi>m</hi> magasságú; könnyen áthágható dombok, terjedelmes, mocsaras
+               <p>A Jukon-kerület felszíne hullámzó, azaz sziklás, alacsony, legfeljebb 500 <hi
+                    >m</hi> magasságú; könnyen áthágható dombok, terjedelmes, mocsaras
                   lápföldekkel váltakoznak. Itt útak még nincsenek, rejtek ösvényeit csak a kanadai
                   vadász és a vad indián tudja követni. A Jukon és mellékvizei képezik e vidék fő-
                   és majdnem egyetlen közlekedési útját; de e folyón egy méternél mélyebb járatú
@@ -11231,8 +11239,10 @@
                   délnyugati szelek által hajtott hullámok hátán jutottak. Természetesen a hajók is
                   találkoznak az ily úszófával, a mit különben június elsejéről Benyovszky is
                   feljegyez, mondván: »A hajó úszófával körülvéve.«</p>
-               <p>A kerület fái közűl legnagyobb és legbecsesebb a fehér fenyő,<hi xml:id="_ftnref35">[35]</hi> mely az egész területen előfordúl, de folyóvizek
-                  szomszédságában legmagasabbra és legerősebbre nő; nem ritkán 20-30 <hi>m</hi> magas, míg átmérője a törzs alján az egy métert is
+               <p>A kerület fái közűl legnagyobb és legbecsesebb a fehér fenyő,<hi
+                     xml:id="_ftnref35">[35]</hi> mely az egész területen előfordúl, de folyóvizek
+                  szomszédságában legmagasabbra és legerősebbre nő; nem ritkán 20-30 <hi
+                    >m</hi> magas, míg átmérője a törzs alján az egy métert is
                   meghaladja. Fája könnyű, de szívós, jól hasítható, fehér és szilárd; mindenféle
                   czélokra használják a lakosok; a házakat és kunyhókat általában abból építik.
                   Puha, de finom szövetű voltánál fogva az Alsó-Jukon völgyében lakó indiánok téli
@@ -11271,7 +11281,8 @@
                   csukcsok, mikor egyik földrészről a másikra vándorolnak e szigeteken is ki szoktak
                   kötni, és ez valószínűnek tünik fel előttem, mert magam is láttam a két fokot
                   egyszerre, s nem kételkedem abban, hogy a vándorlások folyton tartanak. Amerika
-                  nyugati partjának előfoka az é. sz. 63° 15’ és a bolsai h. 26° alatt fekszik.<hi xml:id="_ftnref36">[36]</hi> A foktól északkeletre, két sziget van, melyeket
+                  nyugati partjának előfoka az é. sz. 63° 15’ és a bolsai h. 26° alatt fekszik.<hi
+                     xml:id="_ftnref36">[36]</hi> A foktól északkeletre, két sziget van, melyeket
                   egykor valószínűleg ember is lakott, minthogy azonban Levasef kapitány 1768-ban
                   tett utolsó útja alkalmával lakatlanoknak találta, mellőzöm őket és az érdekesebb
                   részekre térek át.</p>
@@ -11797,7 +11808,8 @@
                      európaiak is letelepedtek benne; itt találkoznak az ohoczki tenger
                      bálnahalászai; a japáni hadi flotta is meglátogatja kikötőjét évenkint egyszer,
                      de bár a hely maga jelentékeny, kereskedelme külföldi államokkal épen nem nagy,
-                     főkiviteli czikke a kampu, »tengeri káposzta«, a tenger egy 6-12 <hi>m</hi> hosszú moszatnövénye, melyet Japánban és déli Khinában
+                     főkiviteli czikke a kampu, »tengeri káposzta«, a tenger egy 6-12 <hi
+                       >m</hi> hosszú moszatnövénye, melyet Japánban és déli Khinában
                      csemegeként élveznek.</p>
                   <p>Jezó szigetének vulkánikus természetén kívül még egy más nevezetessége is van,
                      és ez az ainok kihaló népe. Maga Benyovszky is ismerte, legalább leírásból, ezt
@@ -12309,8 +12321,10 @@
                   csatorna választja el, melynek legkisebb szélessége 130 <hi>km</hi>,
                   közepes mélysége 60 <hi>m</hi>, míg kelet felől a Csendes-oczeán
                   ezer méternél is mélyebb. A szigetet a khinaiak Taivannak nevezik, a mi azonos a
-                  Benyovszky Tuevé elnevezésével. A sziget északról délfelé nyúlik 400 <hi>km</hi> hosszúságban; közepén ugyanily irányban hegy gerincz
-                  szeli ketté, a Ta-san, melynek legmagasabb csúcsa a Sylvia hegy (3600 <hi>m</hi>). E gerincztől nyugatra a lejtősödés lassú, míg a
+                  Benyovszky Tuevé elnevezésével. A sziget északról délfelé nyúlik 400 <hi
+                    >km</hi> hosszúságban; közepén ugyanily irányban hegy gerincz
+                  szeli ketté, a Ta-san, melynek legmagasabb csúcsa a Sylvia hegy (3600 <hi
+                    >m</hi>). E gerincztől nyugatra a lejtősödés lassú, míg a
                   Csendes-oczeán felé igen hirtelen. A hegység széntartalmú mészből áll, de északi
                   részeiben vulkanikus tömbök is vannak, sőt a Kiai-san, »füstölgő hegy,« nem ritkán
                   gőzökbe burkolja csúcsát, s a földrengések is gyakoriak.</p>
@@ -13585,7 +13599,8 @@
                
             </div>
             <div type="chapter">
-               <head>ÖTVENNEGYEDIK FEJEZET. BENYOVSZKY ELINDULÁSA ELSŐ MADAGASZKÁRI ÚTJÁRA.<hi xml:id="_ftnref40">[40]</hi>
+               <head>ÖTVENNEGYEDIK FEJEZET. BENYOVSZKY ELINDULÁSA ELSŐ MADAGASZKÁRI ÚTJÁRA.<hi
+                     xml:id="_ftnref40">[40]</hi>
                </head>
                <p>Ámbár Pauliat művének azon fejezetével, melyet e sorokban ismertetünk, itt-ott
                   ismétlésbe esünk, mindazonáltal teljes hű fordításban közöljük azt, mert jellemzi
@@ -16053,7 +16068,8 @@
                <p>II. Ferencznek fia II. Pál született 1696-ban Trencsénmegyében, 1714-ben a
                   Jézus-társulatiak közé irata magát. Előbb a bölcsészeti és hittani osztályban
                   tanár, végre a pozsonyi collégium főnöke lőn. Meghalt 1743-ban, szept. 28-án.
-                  1833-ban egy latin munkát adott ki »Jcon amici et adulatoris« czím alatt.<hi xml:id="_ftnref47">[47]</hi>
+                  1833-ban egy latin munkát adott ki »Jcon amici et adulatoris« czím alatt.<hi
+                     xml:id="_ftnref47">[47]</hi>
                </p>
                <p>III. Ferencz szintén jezsuita volt.
                </p>
@@ -16143,7 +16159,8 @@
                   álló csapatát két ágyújával besánczolá, azonban a belföldiek a francziák első
                   tüzelésére megfutottak, maga Benyovszky pedig mellbe lövetvén, elesett és hajánál
                   fogva a sáncz mögűl eléhurczoltatván, nemsokára élni megszünt, 1786-iki május
-                  23-án. Így végzé e különös férfiú eseményteljes életét. Benyovszky Móricz Mária Terézia által gróffá neveztetett.<hi xml:id="_ftnref52">[52]</hi> Özvegye Hönsch Zsuzsanna Magyarországba visszatért
+                  23-án. Így végzé e különös férfiú eseményteljes életét. Benyovszky Móricz Mária Terézia által gróffá neveztetett.<hi
+                     xml:id="_ftnref52">[52]</hi> Özvegye Hönsch Zsuzsanna Magyarországba visszatért
                   és itt halt meg Vieszkán Trencsénmegyében, 1825-ben. Két leánya Róza Szakmáryné,
                   Zsófia pedig Ocskainé lőn.</p>
                <p>Móricznak testvére II. László magtalanúl múlt ki.</p>
@@ -16286,7 +16303,8 @@
                
             </div>
             <div type="liminal">
-               <head>VI. BENYOVSZKY MÓR IGAZI ÉLETRAJZA. OCSKÓI OCSKAY GUSZTÁV KÖZLEMÉNYÉBŐL.<hi xml:id="_ftnref56">[56]</hi>
+               <head>VI. BENYOVSZKY MÓR IGAZI ÉLETRAJZA. OCSKÓI OCSKAY GUSZTÁV KÖZLEMÉNYÉBŐL.<hi
+                     xml:id="_ftnref56">[56]</hi>
                </head>
                <p>Benyovszky életére vonatkozó családi okmányaim átolvasása után, tiszta számokként
                   állanak előttem életének főbb eseményei, az Amerikában elkövetett kettős

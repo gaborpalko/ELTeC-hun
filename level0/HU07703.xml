@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07703" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07703" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A kis tündér : Regény : ELTeC edition</title>
-            <author>Vadnai, Károly (1832-1902)</author>
+            <author ref="viaf:120125275">Vadnai Károly (1832-1902)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -41,7 +43,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>A kis tündér : regény</title>
-                     <author>Vadnai, Károly</author>
+                     <author>Vadnai Károly</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Franklin-Társ.</publisher>
                      <date>1904</date>
@@ -50,7 +52,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>A kis tündér : Regény</title>
-               <author>Vadnai, Károly</author>
+               <author>Vadnai Károly</author>
                <date>1860</date>
             </bibl>
          </sourceDesc>
@@ -3361,7 +3363,8 @@
                   élvezettől fosztja meg magát, ki a költők műveit gondtalanul mellőzi. Ő különösen
                   dicsérte Scott Waltert és Boz-Dickenst. Mondta, hogy az Michel Angelo, ez Hogarth
                   ecsetével ír.</p>
-               <p>- Igaza volt. Nekem vannak tőle műveim, s ha akarja, az <hi>Ivanhoe</hi>-t és a <hi>Bleak-house</hi>-t átadhatom.</p>
+               <p>- Igaza volt. Nekem vannak tőle műveim, s ha akarja, az <hi
+                     >Ivanhoe</hi>-t és a <hi>Bleak-house</hi>-t átadhatom.</p>
                <p>- Jól van, megpróbálkozom velük. Hozza el, a melyik mulatságosabb. Nem szeretnék
                   ok nélkül könnyezni.</p>
                <p>Marion előhozta a <hi>Bleak-house</hi>-t, s mulatságos lett volna
@@ -3467,7 +3470,8 @@
                <p>«Kedves bátyám! Örömest elfogadnám a tisztet, melyet nekem szánt, ha oly sok bohó
                   dolgot nem hallottam volna az önök «kis tündéréről». Nekem úgy látszik, hogy őt a
                   nagy szeretettel igen elkényeztették, s úgy járt, mint a friss virág a nagy hőben:
-                  elveszté igazi szép színeit. Ő - a mint mondják - most gyermek, majd férfi, de <hi>soha sem nő</hi>. Ily lények a költészetet sem tudják kellőleg
+                  elveszté igazi szép színeit. Ő - a mint mondják - most gyermek, majd férfi, de <hi
+                    >soha sem nő</hi>. Ily lények a költészetet sem tudják kellőleg
                   becsülni. Tánczteremnek tartják azt, melyen víg, könnyelmű kedélylyel keringenek
                   át; pedig a költészet templom, mely csöndet és komolyságot követel. Az órák,
                   melyeket e templomban töltünk, legyenek az ájtatosság órái. Az önök kis tündére -
@@ -3826,7 +3830,8 @@
                <p>Az öreg úr már a csarnokban beszélgetett vendégeivel s nagyon örült új
                   ismerősének, noha tulajdonképen maga sem tartott sokat a költőkről, és
                   teljességgel nem is foglalkozott velök, kivéve a régi iskolai éveket, midőn
-                  Horatius ódáit, Virgilius <hi>Aeneisé</hi>t és Ovidius <hi>Metamorphosis</hi>ait - kötelessége szerint - nagyobbára könyv
+                  Horatius ódáit, Virgilius <hi>Aeneisé</hi>t és Ovidius <hi
+                    >Metamorphosis</hi>ait - kötelessége szerint - nagyobbára könyv
                   nélkül tudta, a nélkül, hogy azoknak szépségei szivéhez szóltak, melegítették vagy
                   épen elragadták volna.</p>
                <p>De az igazi vendégszeretet nem sokat törődik azzal, hogy az érkező vendég gyalog
@@ -5067,7 +5072,8 @@
                   Három hó alatt haladtam az angol nyelvben annyit, hogy majd mindent ki tudok
                   fejezni, a mire csak szükségem van, s misterem (liverpooli születés) kiejtésemet
                   is kezdi már dicsérni. Mindez, kedves Olga, a vasszorgalom műve. Egész szobám
-                  angol könyvek, hirlapok és divatközlönyök tára, s tegnap már <hi>Macbeth</hi>-et is olvasni kezdtem, s nem akarom magamat dicsérni, de
+                  angol könyvek, hirlapok és divatközlönyök tára, s tegnap már <hi
+                     >Macbeth</hi>-et is olvasni kezdtem, s nem akarom magamat dicsérni, de
                   mindenütt megértettem. Szóval, nagy gyorsasággal haladok s a hátralevő három hó
                   tökéletesen elég lesz arra, hogy a beszédben folyékonyságot, szóbőséget s a
                   kifejezésben választékos csint nyerjek. De nem lenne-e oly kegyes, szép kis

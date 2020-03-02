@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU05665" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU05665" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A vörös Regina : ELTeC edition</title>
-            <author>Abonyi, Árpád (1865-1918) 39125767 
+            <author>Abonyi Árpád (1865-1918) <idno type="VIAF">39125767</idno> 
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -43,11 +45,12 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>A vörös Regina : regény </title>
-                     <author>Abonyi, Árpád</author>
+                     <author>Abonyi Árpád</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Athenaeum</publisher>
                      <date>1918</date>
-                     <ref target="http://nektar.oszk.hu/hu/manifestation/1589489"/>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/1589489"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -1222,7 +1225,8 @@
                <p>Elfordította tekintetét és megint a tanya felé bámészkodott. Látta-e, nem-e, hogy
                   ott minden korom, hamu és romhalmaz - nem bizonyos.</p>
                <p>- Tudja mit, Regina, - rukkoltam ki egy indítvánnyal, abban a reményben, hogy
-                  hátha vissza­ugrik régebbi helyére a fejéből kihibbant szeg - <hi>menjen haza</hi> oda a tanyára, ahol lakott és nézze meg.</p>
+                  hátha vissza­ugrik régebbi helyére a fejéből kihibbant szeg - <hi
+                     >menjen haza</hi> oda a tanyára, ahol lakott és nézze meg.</p>
                <p>- Menjek oda?</p>
                <p>- Bátran mehet, - nincs ott senki</p>
                <p>- Megyek, de gyere te is... hangzott a gyanakvó válasz.</p>
@@ -2316,7 +2320,8 @@
                   bújkálásra elkerülhetetlen szükség volt, még jól is érezhettem volna magamat ebben
                   a medvebarlangban. Igy azonban folytonosan ott motoszkált fejemben a kétség.</p>
                <p>A kis Regina meg volt magával elégedve. Otthonosan elhelyezkedett és tízszer
-                  egymásután is elmondotta, hogy semmitől sem kell tartanunk. <hi>Azok</hi> nem fognak ily mélyen bejönni az erdőbe és ha be is jönnek, nem
+                  egymásután is elmondotta, hogy semmitől sem kell tartanunk. <hi
+                     >Azok</hi> nem fognak ily mélyen bejönni az erdőbe és ha be is jönnek, nem
                   találnak meg. Egy baj azonban van és ez a víz. Az egész környéken nincs egy
                   aprócska forrás sem. Legfölebb esővizet lehetne felfogni. Esőre pedig nincs
                   kilátás. Tehát mi legyen a vízzel?</p>

@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU18579" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU18579" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Ez az!: Regény: ELTeC edition</title>
-            <author>, Teleki Sándorné (1864-1937) 309595549
+            <author> Teleki Sándorné (1864-1937) <idno type="VIAF">309595549</idno>
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -34,11 +36,12 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>Ez az! : regény</title>
-                     <author>, </author>
+                     <author>Szikra</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Singer - Wolfner</publisher>
                      <date>1915</date>
-                     <ref target="http://nektar.oszk.hu/hu/manifestation/2992760"/>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/2992760"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -490,7 +493,8 @@
             <p>Ejh, mire való minderre gondolni, mikor már úgy is eljárt az idő, s közeledik,
                ijesztő gyorsa­sággal közeledik a nagy pihenés!...</p>
             <p>Egy kötelessége azonban még van az életben, s ezért szeretné, hogy ne teljék oly
-               gyorsan az idő. Ezért szeretne fukarkodni minden percével: Igen, Elinort férjhez <hi>kell,</hi> hogy adja.</p>
+               gyorsan az idő. Ezért szeretne fukarkodni minden percével: Igen, Elinort férjhez <hi
+                 >kell,</hi> hogy adja.</p>
             <p>- Elinor! - szólt be tehát a mellékszobába, - gyere be kérlek. Szeretnék veled
                komolyan beszélni.</p>
             <p>- Mamám, édes drága mamám, haragszol? - jött feléje bátortalan, engesztelő
@@ -940,7 +944,9 @@
             <p>- Persze, hogy olvastam, ha nem olvastam volna, talán már régen férjnél volnék.</p>
             <p>- Nem értelek.</p>
             <p>- Pedig nagyon egyszerű. Lásd az olvasás könnyen kifejleszt egy „circulus
-               viciosust”... <hi>Mert </hi>sokat olvasok, sokat gondolkozom. <hi>Mert</hi> sokat gondolkozom, válogatós lettem. S <hi>mert</hi> válogatós vagyok, engem nem választ senki. Ecco! De azért, - hidd el, -
+               viciosust”... <hi>Mert </hi>sokat olvasok, sokat gondolkozom. <hi
+                 >Mert</hi> sokat gondolkozom, válogatós lettem. S <hi
+                  >mert</hi> válogatós vagyok, engem nem választ senki. Ecco! De azért, - hidd el, -
                cseppet se bánom, hogy úgy történt. Mert százszor inkább választom az örök
                vénleányságot, mint egy olyan házaséletet, amelyben a férj csak feleségnek tekintene
                és nem élettársnak.</p>
@@ -3113,7 +3119,8 @@
                megnyilatkozását is.</p>
             <p>Az a rejtelmes kettős én, mely az emberek lelkivilágának lényege! melynek egyike a
                szárny­szegett, pihenni vágyó, az elmúlás gondolatával megbékéltető, az emberek
-               gondolkozásával törődő, az emberi intézményeket tisztelő, <hi>béklyós</hi> én, és melynek másika ezer szállal köt bennünket a földi léthez, a
+               gondolkozásával törődő, az emberi intézményeket tisztelő, <hi
+                  >béklyós</hi> én, és melynek másika ezer szállal köt bennünket a földi léthez, a
                nap melegéhez, mely imádtatja velünk az életet bárminő meg­nyilatkozásában és
                szemtől-szembe állít... az istenséggel, s megérteti azt velünk; ez az én: a lelkünk
                   <hi>szárnyas énje!</hi>
@@ -3356,7 +3363,8 @@
             <p>- Talán, - felelt elgondolkozva Elinor, majd egyszerre barátnője szemébe nézve,
                lassan, meg­győződéssel jelenté ki: - S ha az embernek nem volt elég bátorsága ahhoz,
                hogy magát megölje, akkor legokosabb amit tehet az, hogy ujjászülessen.</p>
-            <p>- <hi>Ez az!</hi> - kiáltá Berta helyesléssel, lelkesedéssel - <hi>Ez az!</hi> „Ha az embernek nem volt elég bá­tor­sága ahhoz, hogy
+            <p>- <hi>Ez az!</hi> - kiáltá Berta helyesléssel, lelkesedéssel - <hi
+                 >Ez az!</hi> „Ha az embernek nem volt elég bá­tor­sága ahhoz, hogy
                magát megölje, akkor a legokosabb, amit tehet az, hogy ujjá­szülessen!”... Jól mondod
                Elinor. Áldjon meg az Isten érte!... Bár oda kiálthatnám ezt ezer és ezer férfinak,
                asszonynak!... Ez az! - s örömében hálás csókot nyomott az Elinor kezére.</p>
@@ -3410,7 +3418,8 @@
                boldogságot... Annyira hittem ezt, hogy mikor számomra a házasságon belül a
                boldogságnak már semmi, de semmi mondani valója sem volt, megsemmisülve roskadoztam
                és a halált kívántam, kértem mint egyetlen lehető menekülésemet, megváltásomat. De a
-               halál nem jött, mert - most már gyanítom! - mert valószínüleg nem hívtam <hi>egész meggyőződésemmel.</hi>
+               halál nem jött, mert - most már gyanítom! - mert valószínüleg nem hívtam <hi
+                 >egész meggyőződésemmel.</hi>
             </p>
             <p>Ugy kell lenni, hogy az Élet szeretete mindennél erősebb volt a lelkemben. És az
                Élet, ezért az én öntudatlan, de ösztönszerű, de elemi nagy szeretetemért gazdagon

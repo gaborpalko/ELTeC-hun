@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU010019" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU010019" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Eszther</title>
-            <author>Jósika, Miklós (1794-1865)
+            <author>Jósika Miklós (1794-1865)
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -1711,7 +1713,8 @@
                   igen is veszélyes támadókat.</p>
                <p>Mikor már a hölgyek azt hitték, hogy a diadal övék, Bariczka legkevesebbé sem
                   ellenkezvén velök, hatalmas érczteljes hangon felkiáltott:</p>
-               <p>- Bodzanta, a krakkói püspök, a római pápa ő szentségének parancsából, téged - <hi>Kázmér lengyel királyt</hi> - Béliál fiát - egyházi átok alá
+               <p>- Bodzanta, a krakkói püspök, a római pápa ő szentségének parancsából, téged - <hi
+                    >Kázmér lengyel királyt</hi> - Béliál fiát - egyházi átok alá
                   tesz! Légy átkozott! és mindazok, kik lépteidet kisérik, kik veled társalognak,
                   kik egy tálból esznek, egy serlegből isznak veled - légy átkozott!</p>
                <p>Bariczka mindezt oly hatálylyal és méltósággal mondta ki, hogy miként egy szava

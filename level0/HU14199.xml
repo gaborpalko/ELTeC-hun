@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU14199" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU14199" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Faust orvos: Regény: ELTeC edition</title>
-            <author>, Bródy Sándor (1863-1924) 49267921
+            <author> Bródy Sándor (1863-1924) <idno type="VIAF">49267921</idno>
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -35,17 +37,18 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>Faust orvos : regény</title>
-                     <author>Bródy, Sándor</author>
+                     <author>Bródy Sándor</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Singer-Wolfner</publisher>
                      <date>1890</date>
-                     <ref target="http://nektar.oszk.hu/hu/manifestation/3230725"/>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/3230725"/>
                   </bibl>
                </relatedItem>
             </bibl>
             <bibl type="firstEdition">
                <title>Faust orvos</title>
-               <author>Bródy, Sándor</author>
+               <author>Bródy Sándor</author>
                <date>1888</date>
             </bibl>
          </sourceDesc>
@@ -163,7 +166,8 @@
                   tehetetlenül és tudatlanul ereszti le kezeit az orvos: bizva, kétségbeesve,
                   reménykedve és szepegve beszélték el egymásnak bajaikat, melyeknek nehezebb része
                   saját szenvedésükön kivül abból állt: mi lesz a családból, a gyerekekből, az
-                  asszonyból, az eltartott anyából, vagy kis testvérekből, ha ez <hi>még </hi>igy tart sokáig?</p>
+                  asszonyból, az eltartott anyából, vagy kis testvérekből, ha ez <hi
+                     >még </hi>igy tart sokáig?</p>
                <p>Könnyen kötődtek az ismeretségek, de mégis voltak zárkózott urak, hölgyek,
                   könnyebb betegek, a kik nem igen ereszkedtek beszédbe. Egy elegáns ügyvéd, kinek
                   nem volt egyéb baja, csak az, hogy egy idő óta képtelen akár egy egyszerü
@@ -1463,7 +1467,8 @@
                   az emberfiában. Valami villamos szikra-e ez, mely a mint megjelen, hat, gyujt,
                   cselekszik s a másik pillanatban eloszlik a mindenségben. De meglehet, hogy
                   hirtelen megjelenő égi test, valami uj bolygó, mely napja körül forogni meg nem
-                  szün <hi>soha</hi>, hozzá van csatolva <hi>örökre</hi>, vele marad <hi>mindig</hi>!</p>
+                  szün <hi>soha</hi>, hozzá van csatolva <hi
+                  >örökre</hi>, vele marad <hi>mindig</hi>!</p>
                <p>A lány gyönyörrel hallgatta a férfit, a ki egyszerre csak elnevette magát. Nagyon
                   komikusnak tünt fel saját magának a filozóf-poéta szokatlan szerepében. Hirtelen
                   változtatott is a beszédtárgyon:</p>
@@ -1855,7 +1860,8 @@
                   szintigy vágyakoznék arra a lányra, mint ez az ember itt, s a lány nem őt, de ezt
                   szeretné!... Szerencsére a dolog nem igy áll.</p>
                <p>Lengyel Dénest szinte vidámmá tette az a gondolat, hogy a lány nem szereti ezt a
-                  férfit - ezt a beteg kost - hanem őt, s neki mégis hatalmában, <hi>erejében </hi>van összekapcsolni őket.</p>
+                  férfit - ezt a beteg kost - hanem őt, s neki mégis hatalmában, <hi
+                     >erejében </hi>van összekapcsolni őket.</p>
                <p>Férj és feleséggé tenni! Óh, ez mégis kegyetlen egy kissé. Kegyetlen? és miért.
                   Hát ha még boldogok is lesznek? Esett már ilyen. És akkor a lány, ez a páratlan
                   kisérleti objektum, kiesik kezei közül.</p>

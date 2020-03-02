@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16700" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16700" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Uzoni Margit: Regény fiatal leányok számára: ELTeC edition</title>
-            <author>, Benedek Elek (1813-1893) 120201932
+            <author> Benedek Elek (1813-1893) <idno type="VIAF">120201932</idno>
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -36,11 +38,12 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>Uzoni Margit : regény fiatal leányok számára</title>
-                     <author>Benedek, Elek</author>
+                     <author>Benedek Elek</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Singer - Wolfner</publisher>
                      <date>1908</date>
-                     <ref target="http://nektar.oszk.hu/hu/manifestation/3035311"/>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/3035311"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -72,7 +75,8 @@
                 ELSŐ FEJEZET. Margit levele az íróhoz.
             </head>
             <p>Uram! Egy „vén leány” küldi önnek ezt a könyvet. Növendék leány voltam, mikor az első
-               szót leírtam e könyvbe, vén leány vagyok most, hogy könyvem utolsó oldalára írom: <hi>vége</hi>. Igen, vége. A könyv betelt s annak, mit életemből
+               szót leírtam e könyvbe, vén leány vagyok most, hogy könyvem utolsó oldalára írom: <hi
+                 >vége</hi>. Igen, vége. A könyv betelt s annak, mit életemből
                regénynek, vagy legalább regénybe illőnek nevezhetek, folytatása nincs. Érzem, hogy,
                bár nem vagyok még harminc éves, vége az ifju­ság­nak, örökre vége. Az én
                ifjuságomnak, melynek egén többször borongott gyászfekete felleg, mint ahányszor

@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU13418" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU13418" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A negyvenéves férfiú : Regény : ELTeC edition</title>
-            <author>Tábori, Róbert (1855-1906)</author>
+            <author ref="viaf:73060469">Tábori Róbert (1855-1906)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -41,7 +43,7 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">A negyvenéves férfiú : regény / ;Budapest : , ;(Egyetemes regénytár. XIV.)
                      <title>A negyvenéves férfiú : regény</title>
-                     <author>Tábori, Róbert</author>
+                     <author>Tábori Róbert</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Singer és Wolfner</publisher>
                      <date>1898</date>
@@ -194,7 +196,8 @@
                le ne csókolja legalább egyik szempillájáról azt a könyet, a mely titkon, harmatosan
                ott rezgett örökké. Egykor vidám volt az asszonyka, csupa pajzánság, csupa lármás
                élet és jókedv, csicsergő, mint a fiókmadár és pezsdülő a szívében meg nem férő
-               érzelmektől. Akkor még három apró madárka röpködte őt körül, a kik <hi>anyácskának, kis mamának </hi>szólítgatták. De eljött a fagyos halál, elvitte
+               érzelmektől. Akkor még három apró madárka röpködte őt körül, a kik <hi
+                  >anyácskának, kis mamának </hi>szólítgatták. De eljött a fagyos halál, elvitte
                egyszerre a három apróságot, úgy hogy üres és sívár maradt utánuk a fészek. A nagy
                erős férfiú, a rendíthetetlen Borsod Pál úgy összetört a csapás alatt, mint valami
                nádszál, a melyet kettéroppantanak és össze sem tudta volna többé szedni lelkének
@@ -215,7 +218,8 @@
                küldeni a délvidékre, de nélküle nem akaródzott az asszonykának, ő pedig nem
                szabadulhatott egykönnyen, mivel resszortjában éppen akkor fontos, országos érdekek
                voltak elintézendők. És az asszonyka olyan lassan, észrevétlenül fogyott, hogy tán rá
-               sem jöttek volna, ha Borsod rajta nem kapja egy napon, mikor valami <hi>pirosat </hi>rejtegetett előtte keszkenőjében. Mint a kit lövés talál szívén, úgy
+               sem jöttek volna, ha Borsod rajta nem kapja egy napon, mikor valami <hi
+                  >pirosat </hi>rejtegetett előtte keszkenőjében. Mint a kit lövés talál szívén, úgy
                riadozott - és már másnap útban voltak délnek. A miniszter a jól végzett munka
                jutalmául szívesen adott neki három havi szabadságot, de Borsod úgy is elment volna,
                ha a miniszter megtagadja kérését és le kell mondania állásáról. S most naponta
@@ -250,7 +254,8 @@
                ugyanannyi lebegő híddal és kívül, a bejárónál olasz korcsmát építettek, a mely a
                hegy megszólalása idején soha sem fogy ki a látogatókból. Most is, hogy Borsod Pál
                egymaga kapaszkodik fel a lejtős ösvényen, az <hi>osteria
-               </hi>verandáján nagyobb kiránduló társaság ül együtt néhány palack <hi>vino santo </hi>mellett.</p>
+               </hi>verandáján nagyobb kiránduló társaság ül együtt néhány palack <hi
+                  >vino santo </hi>mellett.</p>
             <p>Borsod elmenne mellettük, oda se nézne feléjük, mert idegenek egyáltalában nem
                érdekelték, ha meg nem szólal egyszerre egy üde női hang, még pedig magyarul:</p>
             <p>- Urak! Annak tiszteletére, a ki ezt a sok vizet megteremtette!</p>
@@ -468,7 +473,8 @@
                múlva, ha ránk akadnak, azt fogják mondani: De szép egy szobor!... Ugy-e, hogy ez a
                gondolat nagyon megnyugtató?... Egy szép asszony, a ki tudja, hogy szépsége örökké
                való. Ezért még hálával is tartozik nekem.</p>
-            <p>- Ne beszéljen így, Luigi, - könyörgött a nő, - hisz jól tudja, hogy élni akarok. <hi>Akarok</hi>, hallja-e?</p>
+            <p>- Ne beszéljen így, Luigi, - könyörgött a nő, - hisz jól tudja, hogy élni akarok. <hi
+                 >Akarok</hi>, hallja-e?</p>
             <p>Annyi sóvár vágy volt ebben az egy szóban, annyi mohó megkívánása annak, a mi jó,
                élvezetes és gyönyört nyujtó, hogy Da Fonca szívében újra éledezett a remény. A ki
                ennyire megkívánja az életet, az megadja az árát is...</p>
@@ -749,7 +755,8 @@
                ellenben kerüli Pál társaságát, mint az ördög a szentelt vizet. Nem is sejtette, hogy
                mi lehet ennek az idegenkedésnek az oka, mert Mája még előtte is titkolta a
                vízesésnél lefolyt jelenetet. Borsod pedig nem örült annak, hogy a két asszony
-               annyira összebarátkozott. Mindig bántotta a lelkifurdalás, valahányszor őket <hi>együtt </hi>látta. Keveset volt a társaságukban és naponta szobájába
+               annyira összebarátkozott. Mindig bántotta a lelkifurdalás, valahányszor őket <hi
+                 >együtt </hi>látta. Keveset volt a társaságukban és naponta szobájába
                zárkózott azon ürügy alatt, hogy valami memorandum kidolgozása veszi igénybe idejét.
                Szerencséjére Lili nem volt kíváncsi, mert mégis csak furcsa lett volna, ha meglátja
                azokat a széttépett papirlapokat, a melyeken nem volt egyéb olvasható, mint egy női
@@ -797,7 +804,8 @@
             <p>- Férjem uram.</p>
             <p>- Az én kedves feleségem.</p>
             <p>S mosolyogva, naiv kíváncsisággal nézték a vendégeket. Valamit csicseregtek is, tán
-               olasz nyelven, de Borsod Pálnak úgy tetszett. mintha azon a <hi>madárnyelven </hi>beszélnének, a melyet a gyermekek maguk közt szoktak használni;
+               olasz nyelven, de Borsod Pálnak úgy tetszett. mintha azon a <hi
+                  >madárnyelven </hi>beszélnének, a melyet a gyermekek maguk közt szoktak használni;
                minden szótag közé egy oda nem való másik szótagot ékelve, abban a hiszemben, hogy
                így nem érti meg őket idegen ember.</p>
             <p>De Borsod mégis megértette őket.</p>
@@ -867,7 +875,8 @@
             <p>- Én ismerem ezt a nőt!</p>
             <p>- Látta valahol a színpadon?</p>
             <p>- Nagyon furcsa egy színpad volt az... Tavaly Párisban jártam a férjemmel és mikor
-               hoszszas kérésemre ráállott arra, hogy elvezet egy éjjeli mulatóhelyre, a <hi>Closerie de Lillas</hi>-ba mentünk. Ott volt ez a nő is.</p>
+               hoszszas kérésemre ráállott arra, hogy elvezet egy éjjeli mulatóhelyre, a <hi
+                 >Closerie de Lillas</hi>-ba mentünk. Ott volt ez a nő is.</p>
             <p>- Mint vendég?</p>
             <p>- Ő volt annak a mulatóhelynek a fővonzóereje, a <hi>star </hi>az
                éjjeli lepkék társaságában. Szilaj tánca elkábította a férfiakat.</p>
@@ -996,7 +1005,8 @@
             <p>A nap lenyugvóban volt, a tóra biborszínű sávok rajzolódtak és a hegyek árnyéka már
                nagyon megnőtt. Borsod Pál támolyogva járta be a szűk ösvényt, a melyet kétoldalról
                olajfák szegélyeztek és a hogy ment, kigyult az arca a benső hőségtől, hadonázott a
-               két kezével, mintha mámoros volna s erősen, fenszóval vitatkozott <hi>valakivel</hi>, a ki nem volt jelen látható alakban és mégis szemrehányásokkal
+               két kezével, mintha mámoros volna s erősen, fenszóval vitatkozott <hi
+                  >valakivel</hi>, a ki nem volt jelen látható alakban és mégis szemrehányásokkal
                ostromolta.</p>
             <p>- Mit akarsz tőlem?... Minek ingerelsz még jobban?... Hát tehetek én róla?... Nem így
                akartam, nem az volt a szándékom, becsületemre mondom!... Magától jött, belopta magát
@@ -2209,7 +2219,8 @@
             <p>És rá fog mosolyogni azzal a pajtáskodó bizalommal, a melyről tudja, hogy Albi Géza
                nem tud neki ellenállni. Így aztán majd feltünés és botrány nélkül hozzák rendbe a
                dolgot és kiki elmegy a maga útjára. A világ jóformán észre sem veszi majd, hogyan
-               lett Albi Gézánéból Borsod Pálné. Nem első eset, hogy az emberek ilyformán <hi>reparálták </hi>meg eltévesztett boldogságukat.</p>
+               lett Albi Gézánéból Borsod Pálné. Nem első eset, hogy az emberek ilyformán <hi
+                 >reparálták </hi>meg eltévesztett boldogságukat.</p>
             <p>A mint megcsinálta magában a teljes haditervet, egészen felvidult. S mikor kilenc óra
                tájban megérkezett a férje, mosolyogva fogadta.</p>
             <p>Albi Géza sem volt emberevő kedvében, a mire pedig a történtek feljogosították volna,
@@ -2455,7 +2466,8 @@
             <p>- De tegyük hozzá, hogy egyetlen felem sem halt bele sebeibe.</p>
             <p>- Ez már jobban hangzik!</p>
             <p>Elindultak. A lépcsőn Bólyai Borsod közelébe furakodott és halkan odasúgta neki:</p>
-            <p>- Különben ez egyszer nem egészen a magam jószántából jöttem, hanem <hi>ő </hi>küldött.</p>
+            <p>- Különben ez egyszer nem egészen a magam jószántából jöttem, hanem <hi
+                  >ő </hi>küldött.</p>
             <p>- Kicsoda? - riad föl Borsod.</p>
             <p>- Mája... Fölkeresett tegnap és arra kért, hogy legyek ön mellett, a mikor a nehéz
                útra indul.</p>
@@ -2491,7 +2503,8 @@
                kést, a melyet zsebében rejtegetett.</p>
             <p>- S nem lehet tudni mi volt a tett oka?</p>
             <p>- A gyilkost elfogták ugyan, de nem érti meg senki. Idegen nyelven beszél és azt a
-               benyomást teszi, mintha meg volna háborodva. Folyton kacag és azt kiáltja: <hi>Vendetta! vendetta!</hi>... Vajjon mit akar azzal mondani?</p>
+               benyomást teszi, mintha meg volna háborodva. Folyton kacag és azt kiáltja: <hi
+                 >Vendetta! vendetta!</hi>... Vajjon mit akar azzal mondani?</p>
             <p>- Azt jelenti, hogy bosszuból ölte meg áldozatát, - világosította föl Borsod és
                leszállt a kocsiról. Nagy nehezen utat tört magának a tömegen és egyszerre csak
                szemben állott Albi Gézával.</p>
@@ -2504,7 +2517,8 @@
             <p>Albi nagyon sápadt volt és összeszorult ajkai mintha visszafojtottak volna egy
                kérdést. Alighanem azt gondolta magában:</p>
             <p>- Vajjon nem-e Mája műve ez?</p>
-            <p>Borsod a gyilkost kereste. S most rajta volt a sor csudálkozni. Ráismert az öreg <hi>Philemonra</hi>,a paradicsomi sziget kastélyának gazdájára. Hát ezt
+            <p>Borsod a gyilkost kereste. S most rajta volt a sor csudálkozni. Ráismert az öreg <hi
+                 >Philemonra</hi>,a paradicsomi sziget kastélyának gazdájára. Hát ezt
                mi bírta rá a szörnyü tettre?... Eszébe jutott, hogy mit súgott akkor fülébe Mája és
                mintha érezné meleg leheletét arcán, mintha hallaná suttogó szavát:</p>
             <p>- Tavaly Párisban jártam a férjemmel és mikor hosszas kérésemre ráállott arra, hogy

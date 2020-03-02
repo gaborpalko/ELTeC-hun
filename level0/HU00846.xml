@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00846" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00846" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A jövő század regénye : ELTeC edition</title>
-            <author>Jókai, Mór (1825-1904)</author>
+            <author ref="viaf:59084200">Jókai Mór (1825-1904)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -44,7 +46,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>A jövő század regénye I-III.</title>
-                     <author>Jókai, Mór</author>
+                     <author>Jókai Mór</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Unikornis Kiadó</publisher>
                      <date>1997</date>
@@ -53,7 +55,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>A jövő század regénye</title>
-               <author>Jókai, Mór</author>
+               <author>Jókai Mór</author>
                <date>1872</date>
             </bibl>
          </sourceDesc>
@@ -114,8 +116,11 @@
                titáni harcokat egész fegyverben álló milliók között: <hi>az emberi
                   jogért</hi> Amerikában, – <hi>a lelki szabadságért s</hi> nemzeti
                egységért Itáliában, – a nemzeti <hi>feltámadásért</hi>
-               Lengyelországban, – egy <hi>hitbabonáért</hi> Kelet-Indiában, – <hi>az európai súlyegyenért</hi> a Krímben, – egy <hi>büszkeségért</hi> Franciaországban s egy <hi>absztrakt
-                  állameszméért</hi> Ausztria és Poroszország között és aztán egy <hi>társadalmi</hi> elvért Párizsban. Ezek tenger vért és milliárdokat elnyelő harcok
+               Lengyelországban, – egy <hi>hitbabonáért</hi> Kelet-Indiában, – <hi
+                 >az európai súlyegyenért</hi> a Krímben, – egy <hi
+                  >büszkeségért</hi> Franciaországban s egy <hi>absztrakt
+                  állameszméért</hi> Ausztria és Poroszország között és aztán egy <hi
+                  >társadalmi</hi> elvért Párizsban. Ezek tenger vért és milliárdokat elnyelő harcok
                voltak, s indító eszméik akár győzve, akár legyőzötten folyvást élnek.</p>
             <p> S fel kellett találnom e nagy küzdelmek között az emberi érdekek apróbb
                csoportosulásainak külön küzdelmét is, mely sok apró érdek folytonosan forr,
@@ -144,7 +149,8 @@
             </p>
             <p> S mentül könnyebben halmozódik a pénz a társadalom magaslatain, annál könnyebben
                omlik szét onnan a társadalom lapályaiba. A királyoknak, főpapoknak, minisztereknek,
-               bankároknak, főuraknak, hadvezéreknek, népképviselőknek <hi>parasytjaik</hi> is vannak, nagyon sokan vannak: eladó emberek, patentált csalók,
+               bankároknak, főuraknak, hadvezéreknek, népképviselőknek <hi
+                  >parasytjaik</hi> is vannak, nagyon sokan vannak: eladó emberek, patentált csalók,
                köztolvajok, zsoldosok, hízelkedők, naplopók, bérenc írók, kerítők, alkuszok,
                szálllítók, sinecuristák, sáfárok, engedményesek, kortesek és szomjas, éhes
                néptömegek. Az aranyfolyamot elnyeli a homok, s lesz belőle mocsár. S ha az
@@ -186,10 +192,13 @@
                –, kik hazájukat szeretik, kik az emberiség nagy bajait orvosolni törekesznek, kik a
                nép erkölcsöt nemesítik, kik a felvilágosodást terjesztik, kik a semmiből teremteni,
                az embererőt istenerővé emelni igyekeznek; a „közügy” gárdája még mindig „légió!”, de
-               ezekkel szemben fog állani az a másik óriás, akinek neve a <hi>Nihil,</hi> a <hi>Semmi,</hi> aki nem hisz semmit, se Istent, se
+               ezekkel szemben fog állani az a másik óriás, akinek neve a <hi
+                  >Nihil,</hi> a <hi>Semmi,</hi> aki nem hisz semmit, se Istent, se
                hazát, se nemzetet, se túlvilágot, se államot, se emberi törvényt, se családot, se
                becsületet, se költészetet; aki megtagadja a múltat, nem bánja a jövendőt, akinek
-               nincs más célja, mint a <hi>mai nap,</hi> más ura, mint az <hi>én,</hi> más törvénye, mint azt tenni, ami neki <hi>jólesik.</hi>
+               nincs más célja, mint a <hi>mai nap,</hi> más ura, mint az <hi
+                 >én,</hi> más törvénye, mint azt tenni, ami neki <hi
+                  >jólesik.</hi>
             </p>
             <p> Íme, itt az örök harc „Isten” és az „állat” között – mindkettő emberi alakban.</p>
             <p> Nem így kell-e ennek következni száz év alatt?</p>
@@ -203,55 +212,73 @@
                   mely világot át fogja alakítani.</hi>
             </p>
             <p> Tudom, hogy ezért azt fogják rám mondani, hogy „bolond” vagyok. Hanem hát igen jó
-               társaságban leszek az,<hi> Fultonra</hi> 1805-ben kimondta a <hi>párizsi tudományos akadémia,</hi> hogy „bolond”, mert azt állította,
+               társaságban leszek az,<hi> Fultonra</hi> 1805-ben kimondta a <hi
+                 >párizsi tudományos akadémia,</hi> hogy „bolond”, mert azt állította,
                hogy gőzzel lehet hajókat hajtani. <hi>Greyre</hi> a vasutak eszméjeért
-               1815-ben az <hi>Edinburgh Review</hi> kimondta, hogy „bolond”. S<hi> Stephensont</hi> a gőzmozdonyáért <hi>az angol
+               1815-ben az <hi>Edinburgh Review</hi> kimondta, hogy „bolond”. S<hi
+                 > Stephensont</hi> a gőzmozdonyáért <hi>az angol
                   parlament előkelő tagjai</hi> az őrültek házába akarták csukatni 1825-ben.</p>
-            <p> Én tehát hiszek annak a találmánynak létrejövetelében, amiért <hi>Daedalustól</hi> elkezdve <hi>Coxwellig</hi> és <hi>Lamountainig</hi> annyian keresték az ég rejtélyeinek megoldását, s jártak az
+            <p> Én tehát hiszek annak a találmánynak létrejövetelében, amiért <hi
+                  >Daedalustól</hi> elkezdve <hi>Coxwellig</hi> és <hi
+                  >Lamountainig</hi> annyian keresték az ég rejtélyeinek megoldását, s jártak az
                égben, nem találva, amit kerestek. Egyszer majd megtalálja valaki.</p>
             <p> És az fogja a <hi>határát</hi> kiszabni az örök harcnak.</p>
             <p> Az <hi>lefegyverzésre</hi> kényszerítendi az egymás kiirtására készen
                álló milliókat, ágyút, puskát, visszaküld a kohóba, azokból dolgozó gépeket öntet; a
                lőport elemi csapások elfordítására használja, a katonát lovával együtt hazaküldi
                szántani.</p>
-            <p> Az a<hi> trónkövetelőkből</hi> csinál békés <hi>polgárokat.</hi>
+            <p> Az a<hi> trónkövetelőkből</hi> csinál békés <hi
+                  >polgárokat.</hi>
             </p>
             <p> Az megszünteti az őrült <hi>fajgyűlöletet, s</hi> megismerteti a
                testvért az ellenségben. Az végét veti a<hi> diplomáciai
                   fondorlatoknak.</hi>
             </p>
-            <p> Az feloldja a <hi>rabszolgákat,</hi> s édessé teszi az önkénytes <hi>szolgálatot.</hi>
+            <p> Az feloldja a <hi>rabszolgákat,</hi> s édessé teszi az önkénytes <hi
+                 >szolgálatot.</hi>
             </p>
-            <p> Az a <hi>dicsvágynak</hi> új tért nyit; az a <hi>felvilágosodást</hi> elterjeszti minden világrészbe, a vakhitet minden
+            <p> Az a <hi>dicsvágynak</hi> új tért nyit; az a <hi
+                  >felvilágosodást</hi> elterjeszti minden világrészbe, a vakhitet minden
                álapostolaival együtt legyőzi.</p>
-            <p> Az megszünteti az <hi>államadót,</hi> a <hi>vámokat,</hi> a <hi>monopóliumokat,</hi> és mégis <hi>gazdaggá, hatalmassá</hi> teszi a<hi> kormányokat.</hi>
+            <p> Az megszünteti az <hi>államadót,</hi> a <hi
+                  >vámokat,</hi> a <hi>monopóliumokat,</hi> és mégis <hi
+                  >gazdaggá, hatalmassá</hi> teszi a<hi> kormányokat.</hi>
             </p>
             <p> Az helyes arányokat hoz be a <hi>kereskedelembe, pénzforgalomba, ész
                   és tehetség</hi> szerint osztja fel a <hi>jövedelmet,</hi> kijelöli
                a helyét a tudósnak, a költőnek, a művésznek és a napszámosnak, s elégültté teszi
-               mindegyiket sorsával. Az megszünteti a <hi>szédelgést</hi> és a <hi>korrupciót.</hi>
+               mindegyiket sorsával. Az megszünteti a <hi>szédelgést</hi> és a <hi
+                 >korrupciót.</hi>
             </p>
-            <p> Az szilárd alapra helyezi a <hi>társadalmi erkölcsöket,</hi> s a <hi>családi életnek,</hi> a <hi>szerelemnek,</hi> az <hi>ideálnak</hi> oltárait újra fölszenteli.</p>
-            <p> Az megszünteti a <hi>halálbüntetést</hi> és a <hi>börtönt;</hi> s a civilizált társadalom ellenségei számára talál olyan <hi>büntetést,</hi> mely az egész emberiségre nézve áldás legyen, s
-               amazokat megjavítsa. Az helyreállítja az <hi>egyensúlyt</hi> az <hi>ó- és új-világ</hi> között.</p>
+            <p> Az szilárd alapra helyezi a <hi>társadalmi erkölcsöket,</hi> s a <hi
+                 >családi életnek,</hi> a <hi>szerelemnek,</hi> az <hi
+                 >ideálnak</hi> oltárait újra fölszenteli.</p>
+            <p> Az megszünteti a <hi>halálbüntetést</hi> és a <hi
+                  >börtönt;</hi> s a civilizált társadalom ellenségei számára talál olyan <hi
+                 >büntetést,</hi> mely az egész emberiségre nézve áldás legyen, s
+               amazokat megjavítsa. Az helyreállítja az <hi>egyensúlyt</hi> az <hi
+                 >ó- és új-világ</hi> között.</p>
             <p> A győzelemre segíti az <hi>emberbarátokat,</hi> s megadásra
                kényszeríti az <hi>emberiség ellenségeit,</hi> kik álarcot viselnek,
                vagy nem viselnek.</p>
             <p> Az visszahozza a szibériai száműzötteket újraéledt hazájukba.</p>
             <p> Az befolyást gyakorol az <hi>időjárásra,</hi> és behatol a természet
                titkaiba.</p>
-            <p> Az enyhít uralkodó <hi>járványokat,</hi> és az emberi <hi>életműszereket</hi> ősépségükhöz juttatja vissza.</p>
+            <p> Az enyhít uralkodó <hi>járványokat,</hi> és az emberi <hi
+                 >életműszereket</hi> ősépségükhöz juttatja vissza.</p>
             <p> Az kiszárasztja a Ganges és La Plata posványait, a kolera és sárgaláz két irtóztató
                fészkét, s megszabadít három világrészt pusztító dögvészeitől.</p>
             <p> Az <hi>új anyaggal</hi> gazdagítja a technikát, melynek mindenki
                hasznát veszi, s mely becsesebb lesz az aranynál, és olcsóbb a vasnál.</p>
-            <p> Az kiveszi a<hi> tengervízből</hi> a milliárd mázsányi <hi>ezüstöt,</hi> s forgalomba bocsátja.</p>
+            <p> Az kiveszi a<hi> tengervízből</hi> a milliárd mázsányi <hi
+                 >ezüstöt,</hi> s forgalomba bocsátja.</p>
             <p> Az egyik földrész bőségét kicseréli a másikéval.</p>
             <p> Az kiirtja a pusztító fenevadakat őserdeik, pusztáik közepén.</p>
             <p> Az civilizációt visz a vad népek közé, s világosságot gyújt a más színűek előtt, és
                minden népfajnak alkalmat ad emelkedni fokozatosan; az minden embert emberré
                alakít.</p>
-            <p> Az<hi> a nagy pusztákat benépesíti.</hi> Folyamokat vezet a <hi>Szaharán</hi> keresztül, s megtelepíti Afrika, Ausztrália belsejét,
+            <p> Az<hi> a nagy pusztákat benépesíti.</hi> Folyamokat vezet a <hi
+                 >Szaharán</hi> keresztül, s megtelepíti Afrika, Ausztrália belsejét,
                s az <hi>emberiség hajdani bölcsőjéből,</hi> mely most sivatag, újra
                   <hi>paradicsomot</hi> alkot.</p>
             <p> Az elveszi a<hi> tenger félelmességét,</hi> lehetleníti a hajótörést,
@@ -269,21 +296,27 @@
                   <hi>józan emberszeretet.</hi>
             </p>
             <p> Az meghosszabbítja az embernek a napot, s megrövidíti benne a munkát.</p>
-            <p> Az a <hi>becsületszót</hi> olyan erőssé teszi, mint a <hi>törvény,</hi> s a <hi>lelkiismeretet</hi> teszi első
+            <p> Az a <hi>becsületszót</hi> olyan erőssé teszi, mint a <hi
+                 >törvény,</hi> s a <hi>lelkiismeretet</hi> teszi első
                folyamodású bíróvá.</p>
-            <p> Az megkönnyíti az <hi>utazást,</hi> s megismerteti az <hi>egész földet</hi> az emberrel.</p>
-            <p> És segít feltalálni azt a <hi>földzugolyt</hi> is, amelyben a <hi>magyar nép ősei</hi> laknak, elzárva a külvilágtól, s teremt belőlük
+            <p> Az megkönnyíti az <hi>utazást,</hi> s megismerteti az <hi
+                 >egész földet</hi> az emberrel.</p>
+            <p> És segít feltalálni azt a <hi>földzugolyt</hi> is, amelyben a <hi
+                 >magyar nép ősei</hi> laknak, elzárva a külvilágtól, s teremt belőlük
                számunkra új rokon nemzetet.</p>
             <p> Ezek művem alkotó eszméi.</p>
             <p> Ha tudományom és képzelmem oly erős volna, mint a hitem!</p>
             <p> Mert hitem erős abban, hogy az emberiséget egy-egy nagy eszme viszi koronkint
                előbbre, s visszaesést nem enged.</p>
             <p> A klasszikus kor a <hi>költészet</hi> által emelte fel az embert. A
-               héber az<hi> erkölcsi törvénnyel</hi> ismerteté meg. A jézusi tan a <hi>szeretet vallásával</hi> váltotta meg. Még hátra van ránézve a
+               héber az<hi> erkölcsi törvénnyel</hi> ismerteté meg. A jézusi tan a <hi
+                 >szeretet vallásával</hi> váltotta meg. Még hátra van ránézve a
                legnagyobb tökély fokára emelő megdicsőítés – ez az <hi>ismeret.</hi>
             </p>
             <p> Az ismeretek diadala lesz az, amidőn az a<hi> halandó,</hi> aki azt
-               mondja magáról: „Én vagyok az Isten!”, leveszi koronáját azon <hi>halandó</hi> előtt, aki azt mondja: „Én vagyok az <hi>ember!</hi>”</p>
+               mondja magáról: „Én vagyok az Isten!”, leveszi koronáját azon <hi
+                  >halandó</hi> előtt, aki azt mondja: „Én vagyok az <hi
+               >ember!</hi>”</p>
             <p> És akkor úgy lehet – nincs a csillagrendszerben lehetetlenség –, hogy a világalkotó
                a tökéletesült emberiség számára még a földnek azt a hibáját is helyrehozza, mely
                legfőbb oka égalji s időjárási rendetlenségeinknek, a<hi> földtengely
@@ -395,7 +428,9 @@
                   légreszkettető hangverseny után egyszerre kétszáznegyven léggömb emelkedik ki a
                   tizenöt csillagsánc falai közül, mik ezer <hi>mérte</hi> (mčtre)
                   hosszaságú köteleken tartva s egymáshoz fűzve, az új stratégia vívmányát mutatják
-                  fel; amikből az ostromló sereg fejére <hi>trinitrin</hi>, <hi>durranilin, dinamit, nitromannit</hi> és <hi>pyroxilin</hi> lövegeket lehet hajigálni, anélkül, hogy az röppentyűivel a
+                  fel; amikből az ostromló sereg fejére <hi>trinitrin</hi>, <hi
+                    >durranilin, dinamit, nitromannit</hi> és <hi
+                     >pyroxilin</hi> lövegeket lehet hajigálni, anélkül, hogy az röppentyűivel a
                   mennyei tűzaknákat elérhetné; legfőbb rendeltetésük levén pedig az ostromló
                   léggömbök hasonértékű ellensúlyozása.</p>
                <p> S mind a kétszáznegyven hadi léggömb körös-körül fel van lobogózva őfelsége
@@ -494,9 +529,12 @@
                   kik a képtárban várakoztak őfelségére.</p>
                <p> A főudvarmester átnyújtá őfelségének egy bársonyvánkoson azon rendjeleket, miket
                   e napon kell viselnie, a<hi> bárányt</hi> az aranygyapjúval, s
-                  vaskoronát a kétfejű <hi>sassal,</hi> a porosz négy fekete <hi>sast</hi> és egy veres <hi>sast,</hi> az orosz
+                  vaskoronát a kétfejű <hi>sassal,</hi> a porosz négy fekete <hi
+                    >sast</hi> és egy veres <hi>sast,</hi> az orosz
                   kétfejű fekete sast a benne foglalt egyfejű fehér <hi>sassal,</hi> a
-                  svéd négy <hi>serafim</hi> főt, a badeni szárnyas <hi>oroszlánt,</hi> a guelph fehér <hi>paripát,</hi> az angol <hi>sárkányt,</hi> a török <hi>félholdat</hi> s a dán
+                  svéd négy <hi>serafim</hi> főt, a badeni szárnyas <hi
+                     >oroszlánt,</hi> a guelph fehér <hi>paripát,</hi> az angol <hi
+                    >sárkányt,</hi> a török <hi>félholdat</hi> s a dán
                   fehér <hi>elefántot,</hi> – őfelsége mosolyogva jegyzé meg: „Hisz az
                   egész zodiákus rajtam van már”.</p>
                <p> Mire az udvarmester, ki elmés aperçuiről hírhedett, találóan jegyzé meg: „Akkor
@@ -894,7 +932,8 @@
                   egy ember nem hagyhat föl e feladattal – alkotni és hinni – a király. Mindenki el
                   van fáradva már, én még nem; mindenki lemondott már a hitről, én még nem. –
                   Húszmillióra megy az évi nyugdíj, amit <hi>leköszönt</hi>
-                  kormányférfiaknak és visszavonult főkatonatiszteknek fizet az ország; nyolc <hi>leköszönt</hi> uralkodó Európa több országaiból él itt
+                  kormányférfiaknak és visszavonult főkatonatiszteknek fizet az ország; nyolc <hi
+                    >leköszönt</hi> uralkodó Európa több országaiból él itt
                   körülöttünk csábító példájával igazolva, hogy a királyi palásttal együtt a nehéz
                   kötelességeket is levetheti az ember. De én, uraim, még viselem ezt a bíbor
                   palástot, melyet a balsors minden villámai s az ellenség és pártdüh minden golyói
@@ -986,7 +1025,8 @@
                   a folytonos izzadástól; a kereskedelmi miniszter szédelgésről panaszkodott; az
                   igazságügyér az aranyerének esett áldozatává, a kultuszminiszter egy esztendőre
                   elvesztette az étvágyát s az őfelsége oldala melletti miniszter azzal a szóval
-                  támolygott be a hét utolsó estéjén a jockey klubba, hogy: „egészen <hi>makutyi</hi> vagyok!” (Strupirt.)</p>
+                  támolygott be a hét utolsó estéjén a jockey klubba, hogy: „egészen <hi
+                    >makutyi</hi> vagyok!” (Strupirt.)</p>
                <p> Ha ez az „ember” így viszi a dolgot: még tönkretesz minden minisztert. Pedig hát
                   az a tizenöt-húsz rongyos millió, amit így megtakarítani vél, akár ide, akár
                   oda.</p>
@@ -1059,7 +1099,8 @@
                   mondom: legyen harc! irtó tűz lepi el a fél világrészt, s addig foly a vér, amíg
                   azt nem mondom: ,elég!’ Legyőzhetem ellenségeimet; csak tégedet szeretnem nem
                   szabad.”</p>
-               <p> „Ura vagyok a békének. Köthetek frigyet leggyűlöltebb, legmegvetettebb <hi>ortályosommal;</hi> vásárolhatom a békét szégyenletes pénzen;
+               <p> „Ura vagyok a békének. Köthetek frigyet leggyűlöltebb, legmegvetettebb <hi
+                    >ortályosommal;</hi> vásárolhatom a békét szégyenletes pénzen;
                   eldarabolt tartományok árán; csak neked nem nyújthatok kezet, csak tégedet
                   szeretnem nem szabad.”</p>
                <p> „Jöhet rám egy fejedelmi őrültség, hogy összetépjek mindent, ami szent: esküt,
@@ -1149,7 +1190,8 @@
                   infámis lapot, kegyetlenül megtaposta azt a papucsával és ráköpködött.</p>
                <p> Azután felvette az összegyűrt hírlapot, kiterjesztette azt az asztalra, s
                   kíváncsian végigtekintgette ennek ismeretlen hieroglifjait.</p>
-               <p> – Eh, mégiscsak szeretné az ember tudni, hogy mivel rágalmazhat ez a mesquin <hi>bennünket?</hi> (Már tudniillik az udvari cukrászt – meg a
+               <p> – Eh, mégiscsak szeretné az ember tudni, hogy mivel rágalmazhat ez a mesquin <hi
+                    >bennünket?</hi> (Már tudniillik az udvari cukrászt – meg a
                   királyt.)</p>
                <p> – A futár úr ért magyarul! – mondá a főkomornyik úr.</p>
                <p> – De az udvari cukrász úr egészen összesározta a sarkával a lapot, s rá is
@@ -1466,7 +1508,8 @@
                   mindig legközelebb álló szolgára, s azt mondá neki nyugodtan: „Add fel
                   ingemet.”</p>
                <p> A főkomornyik mélységes jobbágyi hódolattal jegyzé meg, hogy őfelsége ma
-                  vadászatra fog menni, s az ismét olyan hely, ahol szükséges felvenni az<hi> atlaszpáncélinget.</hi>
+                  vadászatra fog menni, s az ismét olyan hely, ahol szükséges felvenni az<hi
+                    > atlaszpáncélinget.</hi>
                </p>
                <p> – Soha többé – mondá a király.</p>
             </div>
@@ -1485,11 +1528,13 @@
                   tüntette ki magát. – <hi>Nagy Fridrik</hi> harci diadalai közepett
                   azon megnyugtató érzést is megszerezte magának, hogy még mint versíró is meg tudna
                   élni (soványul az igaz). <hi>– Lajos</hi> bajor király színművészi
-                  tehetségei felől igyekezett magának meggyőződést szerezni. – Őfelségének, <hi>II. Árpád</hi> királynak egyik őse gyakorlati vadász volt: csak
+                  tehetségei felől igyekezett magának meggyőződést szerezni. – Őfelségének, <hi
+                    >II. Árpád</hi> királynak egyik őse gyakorlati vadász volt: csak
                   zergét kétezer darabon felül ejtett el saját királyi kezével; egy még korábbi őse
                   pedig igen <hi>jó gazda</hi> volt, úgyhogy mikor egy veszélyes
                   európai hadjárat végén közel volt hozzá, hogy országait, koronáit mind elveszítse,
-                  azzal vigasztalhatá magát: „Mégis én maradok akkor is Európában a <hi>leggazdagabb privatier</hi>”, ami csakugyan a legokosabb
+                  azzal vigasztalhatá magát: „Mégis én maradok akkor is Európában a <hi
+                    >leggazdagabb privatier</hi>”, ami csakugyan a legokosabb
                   hivatás.</p>
                <p> II. Árpád királynak ilyen abasilikwV hajlama volt a festőművészet.</p>
                <p> Kora ifjúságában szenvedélye volt ez, s mind a müncheni, mind a pesti, már akkor
@@ -1594,7 +1639,8 @@
                   olyan élesek, mint a hiénáé, melyhez fölálló sörénye is némileg hasonlatossá
                   teszi; ámbár szemfogainak hiányzása az alsó állkapcából emlékeztet a nepali
                   buansura. Hanem ami végre elvitathatlanná teszi az ereiben folyó dingóvért, amint
-                  a mexikói mondaná: „sangre azul”, ez először is az a sajátságos <hi>dingóbűz</hi> rajta, mely valami keverék a sakál és cibetmacska szagából, s
+                  a mexikói mondaná: „sangre azul”, ez először is az a sajátságos <hi
+                     >dingóbűz</hi> rajta, mely valami keverék a sakál és cibetmacska szagából, s
                   másodszor, ez a veleszületett specifikus gyűlölet a többi kutyáktól rettegett gnú
                   ellenében, melyet képes egymagában felverni, meghajtani, vele megküzdeni, és azt
                   elfogni, egyetlen csahintás nélkül.</p>
@@ -1800,7 +1846,8 @@
                <p> A beszélő állat nyaka magasra volt felnyújtva ekkor, orra az ég felé emelve,
                   szarvai hátrahajolva. A legkedvezőbb pillanat a dingó-kopónak a rárohanásra.</p>
                <p> A véreb egy remekül kiszámított szökéssel lökte fel magát fektéből, gyorsan mint
-                  az oroszlán – ámde a gnúnak még egy védelmi fogása volt félretéve: ez az <hi>antilop-mozzanat.</hi> Abban a villámrövid percben, mely nem elég
+                  az oroszlán – ámde a gnúnak még egy védelmi fogása volt félretéve: ez az <hi
+                    >antilop-mozzanat.</hi> Abban a villámrövid percben, mely nem elég
                   többé arra, hogy félreugorjék, hirtelen térdre esik a gnú úgy, hogy a támadó
                   véreb, mely a nyakára célozta az ugrást, egyenesen a szarvai hegyébe esik, s a
                   következő pillanatban felhasított testtel repül a gnú hátán keresztül, s aztán
@@ -1835,7 +1882,8 @@
                <p> Henrik Zsigmond herceget annyira vitte a vadászindulat, hogy megfeledkezve
                   alattvalói helyzetéről, azt a kérdést intézte a királyhoz, hogy „miért nem ejtette
                   el felséged a vadat?”</p>
-               <p> – Azért nem – felelt őfelsége –, mert soha semmi ivadékom sem vadászott <hi>háziállatokra.</hi>
+               <p> – Azért nem – felelt őfelsége –, mert soha semmi ivadékom sem vadászott <hi
+                    >háziállatokra.</hi>
                </p>
                <p> Az urak csak elszédültek a feleletre.</p>
                <p> (– Nesze nekünk – súgá a főherceg a miniszter fülébe –. A legközelebbi sessióban
@@ -1857,7 +1905,8 @@
                   meg! Aztán legyen az ember képes dinasztikus érzelmeit megtartani! Volt élc
                   elég.</p>
                <p> De egyen sem nevettek annyit a jockey klubban, mint a Le Menteur calembourján,
-                  mely így szólt: „Azalatt, míg a többi társaság a gnút üldözé, őfelsége lelke <hi>harmóniáját</hi> keresve, <hi>vadgalambra</hi>
+                  mely így szólt: „Azalatt, míg a többi társaság a gnút üldözé, őfelsége lelke <hi
+                    >harmóniáját</hi> keresve, <hi>vadgalambra</hi>
                   vadászott.”</p>
                <p> („Hermione” görögül azt is jelenti, hogy „harmonia” s „Peleia” görögül
                   „vadgalamb”.)</p>
@@ -2072,13 +2121,15 @@
                   azután még egy „szentlélek” is került. S ezek együtt vannak mindig. Nem tudom,
                   mire való az a tréfa a felügyelőségtől?</p>
                <p> – Nem tréfa ez, felség. Ezek mind a hárman egy nagy, végtelen eszme üldözésében
-                  veszték el eszüket. Mind a hárman tudós, eszes emberek voltak, kik a <hi>légben repülés lehetőségét</hi> akarták megfejteni. Ez idő tájt
+                  veszték el eszüket. Mind a hárman tudós, eszes emberek voltak, kik a <hi
+                    >légben repülés lehetőségét</hi> akarták megfejteni. Ez idő tájt
                   sok ember őrült meg ebben. S a vágy oly természetes. A hadtudomány oly fokra
                   fejlődött, hogy a legelső harcban, mely kitör, az emberiség egyik felének ki kell
                   irtani a másikat. A huszadik század utolsó felét járjuk, s az a hit, hogy a
                   kétezered év betöltésével el kell jönni az időnek, mely az örök „Isten békéjét”,
                   az örök „treuga Dei”-t elhozza, az egész világot kezdi áthatni.</p>
-               <p> – Tehát ön is hisz a <hi>millenniumban?</hi> Lehetőnek tartja a <hi>Chiliasmust?</hi> A kétezredik év Isten békéjét?</p>
+               <p> – Tehát ön is hisz a <hi>millenniumban?</hi> Lehetőnek tartja a <hi
+                    >Chiliasmust?</hi> A kétezredik év Isten békéjét?</p>
                <p> – Ha emberek akarják, s Isten segít, lehető.</p>
                <p> – Beszéljen tovább a három őrültről.</p>
                <p> – Az egyik a léggömb kormányozhatóságának tanaiba őrült bele. E rendszerrel
@@ -2539,9 +2590,11 @@
                <p> Ekkor aztán megmondták őfelségének a miniszterek, hogy kik azok a Mazrur
                   „társai”.</p>
                <p> A szomszéd respublika elnöknője, Alekszandra asszony és annak államkancellárja:
-                  Kuraszin úr. Ez a két hatalmas társ az, aki ez üzletet nálunk etablirozta: <hi>car tel est son plaisir!</hi>
+                  Kuraszin úr. Ez a két hatalmas társ az, aki ez üzletet nálunk etablirozta: <hi
+                    >car tel est son plaisir!</hi>
                </p>
-               <p> Ezeket pedig jó lesz nem sérteni meg – a székely <hi>fölösleges</hi> leányok szép szemeiért; akiket ha el nem visznek
+               <p> Ezeket pedig jó lesz nem sérteni meg – a székely <hi
+                     >fölösleges</hi> leányok szép szemeiért; akiket ha el nem visznek
                   Oroszországba, majd elvisznek Törökországba, Perzsiába, Egyiptomba.</p>
                <p> S a dolog hagyatott úgy, ahogy volt.</p>
                <p> Ezért égett úgy a király arca oly <hi>hadüzenő</hi> tűzzel, mikor a
@@ -2727,7 +2780,8 @@
                   hogy ne szóljon, akkor azután egy szobor nem némább.</p>
                <p> Hiszen ott volt Dávid, hogy helyette beszéljen.</p>
                <p> – Mindenesetre; és ott a „Perogralló”, a „Jak Puddig”, a „Macca”, a
-                  „Scaramuzzia”, a „Staberle” meg a „Gracioso”, vagy a „Cassandrino” <hi>klasszikus</hi> elmésségein lelkét nemesíté, sőt a „Rák
+                  „Scaramuzzia”, a „Staberle” meg a „Gracioso”, vagy a „Cassandrino” <hi
+                    >klasszikus</hi> elmésségein lelkét nemesíté, sőt a „Rák
                   ouverture”-ön még művészi ízlést is szerzett.</p>
                <p> Mazrurt ez egy kicsit kihozta sodrából.</p>
                <p> A többi bohózati aljas alakok felemlítéseért nem haragudott; ámbár meg nem
@@ -2834,7 +2888,8 @@
                <p> – Mindenüvé! – felelt a leány.</p>
                <p> Egy nagy park volt előttük, mely a hajdani „hét ház” helyén alakíttatott; azt
                   egész terjedelmében magas vasrács fogta körül. A park bejáratát egy egyiptomi
-                  mintázatú kapuzat képezte, s ennek a kapuzatnak a legfelső párkányába egy<hi> sárga zászló</hi> volt tűzve.</p>
+                  mintázatú kapuzat képezte, s ennek a kapuzatnak a legfelső párkányába egy<hi
+                    > sárga zászló</hi> volt tűzve.</p>
                <p> Azt már mindenki tudja, hogy mit jelent a sárga zászló. Ennek a vasrácsnak az
                   oldalán két ölnyire be van gyepesedve az út, a járókelők a túlsó oldalra mennek
                   át, mikor a sárga zászlót meglátják.</p>
@@ -2925,7 +2980,8 @@
                   rakása, kiigazítása kerül, s egy krajcárnál kisebb pénz már nincs Európában. Előre
                   látható, hogy az Astrapé időjártával az összes óvilági zsurnalisztikát meg fogja
                   ölni.</p>
-               <p> Ezért a neve <hi>Astrapé</hi> (görögül villám), mely <hi>gyors</hi> és <hi>öl.</hi>
+               <p> Ezért a neve <hi>Astrapé</hi> (görögül villám), mely <hi
+                    >gyors</hi> és <hi>öl.</hi>
                </p>
                <p> Még ugyan védi ellene a typographiált hírlapokat az a körülmény, hogy nem tud
                   minden ember gyorsírászatot olvasni; azonban évről évre szaporodik azoknak a
@@ -3012,7 +3068,8 @@
                   megjelenni, előre gondolhatá, hogy merényletéből celebris ügyet szándékozik
                   csinálni a hadügyminisztérium.</p>
                <p> – Közvitéz, Tatrangi Dávid! – szólt az elnöklő ezredes, midőn a Generalgewaltiger
-                  felolvasá a bűnvádat. – Igaz-e az, hogy ön egy érdemes <hi>polgárt,</hi> nagyságos Mazrur Miron igazgató urat saját házában erőszakosan
+                  felolvasá a bűnvádat. – Igaz-e az, hogy ön egy érdemes <hi
+                     >polgárt,</hi> nagyságos Mazrur Miron igazgató urat saját házában erőszakosan
                   megtámadá, földre verte, s házából egy hölgyet elragadott?</p>
                <p> – Igaz.</p>
                <p> – Megmondhatja ön tettének indokait?</p>
@@ -3039,8 +3096,10 @@
                   felállt.</p>
                <p> – Uraim! Őfelsége, dicsőségesen uralkodó császárunk és királyunk jelen
                   legmagasabb kéziratában, a<hi> tegnapi kelettel,</hi> Tatrangi Dávid
-                     <hi>urat</hi> a vitéz XII. voltigeurezred <hi>alhadnagyává</hi> legkegyelmesebben kinevezni méltóztatott. Ezáltal a
-                  vádpontok <hi>kategóriája</hi> elesik. <hi>Alhadnagy</hi> Tatrangi Dávid <hi>lovagias kötelességét</hi>
+                     <hi>urat</hi> a vitéz XII. voltigeurezred <hi
+                     >alhadnagyává</hi> legkegyelmesebben kinevezni méltóztatott. Ezáltal a
+                  vádpontok <hi>kategóriája</hi> elesik. <hi
+                     >Alhadnagy</hi> Tatrangi Dávid <hi>lovagias kötelességét</hi>
                   teljesítette, amidőn egy sértett hölgyért tettleges elégtételt vett a bántalmazón.
                   Tambour! A tisztelgőt! Kornétás! A chamade-ot! Zászlótartó! A honneurt!</p>
                <p> Dob, trombita pörgött és recsegett, a zászló háromszor meglóbáltatott Dávid feje
@@ -3048,7 +3107,8 @@
                   tisztelgett. Ez a katonai becsület-helyreállítás szertartása.</p>
                <p> Az ezredes pedig odalépett Dávidhoz, a markába csapott, megrázta a kezét, s azt
                   mondá neki:</p>
-               <p> – Fogadj Isten, bajtárs; ugyan derekasan tetted, hogy jól megrugdaltad azt a<hi> parasztot…</hi>
+               <p> – Fogadj Isten, bajtárs; ugyan derekasan tetted, hogy jól megrugdaltad azt a<hi
+                    > parasztot…</hi>
                </p>
                <p> Ma aztán szabad volt Dávidnak kardot kötni az oldalára.</p>
                <p> S holnap szabad volt neki azt <hi>letenni.</hi>
@@ -3134,7 +3194,8 @@
                   flandriai hímzetek a XV. századból s a most már oly ritka d’Arazzik, mitológiai
                   jelenetek selyembe szőve. A bútorok Jean Goujon modorát utánzó vésnökművészettel,
                   csakhogy újabb kori találmányok alkalmazása által meghazudtolva az időkort, a
-                  diófa kressilalkohol által sötétkékké pácolva, másutt a violaszín <hi>királyfa</hi> alkalmazva, mely már amerikai szerzemény; az
+                  diófa kressilalkohol által sötétkékké pácolva, másutt a violaszín <hi
+                    >királyfa</hi> alkalmazva, mely már amerikai szerzemény; az
                   elefántcsont-faragványok görög ízlés szerint megfestve; a bronz szobrokon a
                   „corinthi érc” nemes zöld rozsdája. Pompás, damaszkozott vasszekrények ezüsttel,
                   arannyal kiverve; velencei tükrök rámáin Delaulne bacchánsnőinek merész
@@ -3149,7 +3210,9 @@
                   héten egyszer kell felhúzni, s a straszburgi, lyoni, Medina dal Campói ódon
                   mesterséges óraművek remek mintázatai.</p>
                <p> Mindezen remekművek közt azonban több volt az utánzat, mint az eredeti. A
-                  civilizáció gyáripara a XX. században mindent elő tud már állítani <hi>gyári úton,</hi> amit a hajdankor művészete mint <hi>kézműremekeket</hi> hagyott hátra. Rubenst, Tintorettót
+                  civilizáció gyáripara a XX. században mindent elő tud már állítani <hi
+                    >gyári úton,</hi> amit a hajdankor művészete mint <hi
+                    >kézműremekeket</hi> hagyott hátra. Rubenst, Tintorettót
                   olajnyomatok a csalódásig utánozzák, az encausticának megfelel a lithophania,
                   Benvenuto Cellini ciselirozásait hajszálig utánképzi a galvanoplasztika; a
                   gobelint előállítja a gépszövőszék, az elefántcsontot nem faragják többé, hanem
@@ -3163,7 +3226,8 @@
                   nevezetes szobrászati remekét tudják már mintába önteni kétszer égetett, kétszer
                   timsóval átizzasztott főszanyagból, hogy azt csak a szakértő tudja
                   megkülönböztetni az igazi carrarai márványtól vagy alabástromtól.</p>
-               <p> Ilyen utánzat nagyon sok van az újabbkori Krőzusok palotáiban. A <hi>luxus encanaillirozza magát!</hi> Az eredeti, az igazi műkincsek,
+               <p> Ilyen utánzat nagyon sok van az újabbkori Krőzusok palotáiban. A <hi
+                    >luxus encanaillirozza magát!</hi> Az eredeti, az igazi műkincsek,
                   a földből kiásott antikok arisztokratikus uralma lejár. A ma készült szobrot
                   beássák guanóba, két hó múlva kiveszik, az egyik lábát letörik, s lesz belőle
                   antik; a ma festett korcsmai képet felakasztják a füstre, s két hét múlva lesz
@@ -3623,7 +3687,8 @@
                   van áramlata, mégpedig kettős: egyik réteg a másik fölött. A léghajós feladata
                   csupán az, hogy abba az áramlatba emelkedjék vagy szálljon alá, amellyel tovább
                   akarja magát vitetni. Hogy minő áramlatok vannak fölötte és alatta, ezt
-                  megtudhatja a felbocsátott <hi>Reichard-féle kémlőlabdák</hi> és <hi>Aswood</hi> leeresztett <hi>hullóernyői</hi> által.
+                  megtudhatja a felbocsátott <hi>Reichard-féle kémlőlabdák</hi> és <hi
+                    >Aswood</hi> leeresztett <hi>hullóernyői</hi> által.
                   Ha a kedvező ár a feje fölött van, kihányja a hajóterhet, s felszáll; ha alatta
                   van, kiereszt a könenyből, s lebocsátkozik.</p>
                <p> – S ha aztán megint feljebb kell mennie? – akasztá őt meg a mechanikus őrült.</p>
@@ -3634,7 +3699,8 @@
                <p> – Tehát az ön léghajójában tüzelni is szükséges <hi>szénnel;</hi>
                   ott égő szénnek kell lenni. Feje fölött pedig a könennyel tölt léggömb. De arra
                   nem ülök rá.</p>
-               <p> – Értsük meg egymást! Az eddigi léggömbök tökéletlensége miben állt? <hi>Kisszerűségükben.</hi> Ugyan mit mondanának arra az emberre, aki
+               <p> – Értsük meg egymást! Az eddigi léggömbök tökéletlensége miben állt? <hi
+                    >Kisszerűségükben.</hi> Ugyan mit mondanának arra az emberre, aki
                   egy <hi>csónakon</hi> nekiindulna az<hi>
                      Atlanti-óceánnak,</hi> hogy átvitorlázzék rajta Amerikába? Azt, hogy bolond.
                   Hát erre a nagy óceánra itt fölöttünk, hogy mer valaki felhágni egy csónakon?
@@ -3644,7 +3710,8 @@
                      Eastern.</hi> Az én légjáró gályám egy <hi>óriás,</hi> mely ezer
                   mázsát emel a magasba. A talapja <hi>Pétin</hi> rendszere nyomán van
                   összeállítva, csakhogy az enyimnél a <hi>középvitorlák</hi> helyett,
-                  melyek az oldalszeleket, akár a<hi> Lee,</hi> akár a<hi> Louw</hi> oldalról jövőket, az egyenes irányra felhasználni
+                  melyek az oldalszeleket, akár a<hi> Lee,</hi> akár a<hi
+                    > Louw</hi> oldalról jövőket, az egyenes irányra felhasználni
                   hivatvák, <hi>oldalredőnyök</hi> vannak alkalmazva, s a négy kaucsuk
                   léggömb, mely az egészet fölemeli, nem a hosszú hajótest hosszában, hanem a két
                   végére van alkalmazva. A hajótest közepén tehát tüzelni lehet, kell is, a rajta
@@ -3654,7 +3721,8 @@
                <p> – De elvégre is az ön léghajója akármilyen óriás lesz is, csak oda megy, ahova a
                   szél viszi. Mi hasznát vesszük annak így a háborúban? – ezt veté ellene a
                   mechanikus őrült.</p>
-               <p> – Nem oda viszi a légáramlat, ahová ő akarja. Tervem egyesíti mindazt, amit <hi>Herson</hi> föltalált, az<hi> oldalszárnyakat</hi>
+               <p> – Nem oda viszi a légáramlat, ahová ő akarja. Tervem egyesíti mindazt, amit <hi
+                    >Herson</hi> föltalált, az<hi> oldalszárnyakat</hi>
                   s a<hi> legyező alakú</hi> kormányt, mellyel ha akarom, körben
                   fordítom meg a léghajót, mint pedig <hi>Pariridge
                      pneumodromonát.</hi> Léggömböm kaucsukból van, tiszta könennyel töltve, nem
@@ -3664,13 +3732,15 @@
                   kiszorítja, s magának helyet csinál. Fűtőgépemmel egész 60° Celsiusig hevíthetem a
                   gázt kaucsuktömlőn át, s nevelhetem tetszés szerint az erejét. Elhagytam azonban
                   az egész repülő <hi>gépezetet,</hi> amivel Partridge csak magát
-                  csalta meg. Az ő <hi>spirálszélkerekei</hi> s fekmentes <hi>szélkelepei,</hi> mik a hajónak hol vertikális, hol horizontális
+                  csalta meg. Az ő <hi>spirálszélkerekei</hi> s fekmentes <hi
+                    >szélkelepei,</hi> mik a hajónak hol vertikális, hol horizontális
                   irányt adtak volna, matematikai képtelenségek. A gőzgép által hajtott
                   szélmalomszárnyak forogtak ugyan, de azoktól a hajó sebesebben nem ment, éppen
                   úgy, mintha egy lapátkerekű gőzösnek egész kereke a vízben volna: mert amit a
                   hátracsapó lapát a légen taszít, azt az előrecsapó másik lapát éppen olyan erővel
                   visszataszítja 1–1 = 0; 0+0 ez is = 0. 1×1 mindig = 1. Ez ellen erőszak nem segít.
-                  Az a terve pedig Partridge-nek, hogy majd őneki egy nagy <hi>hengerbe illesztett szélmotollája</hi> a szelet úgy fogja irányozni, hogy
+                  Az a terve pedig Partridge-nek, hogy majd őneki egy nagy <hi
+                     >hengerbe illesztett szélmotollája</hi> a szelet úgy fogja irányozni, hogy
                   azzal a kormányvitorlára szeglettörésben hasson, tisztán képtelen számítás: azért,
                   mivelhogy léghajón nem érezni szelet. Az együtt úszik a légáramlattal, s a
                   legvadabb orkánban úgy érzi a bennülő, mintha tökéletes szélcsendben volna. Gép
@@ -3683,8 +3753,11 @@
                   harmadszor az, amivel a madár repül, a szárnytoll, a hatalmas „panne” semmi
                   ismeretes anyagból elő nem állítható. Ez szilárd, ruganyos, törhetlen és könnyű.
                   Hol van ilyen anyag az eddig ismeretes 64 elem és annak összetételei között? Az
-                     <hi>acél</hi> szilárd, ruganyos, de törékeny és nehéz, az<hi> alumínium</hi> könnyű és ruganyos, de nem szilárd, elhajlik;
-                     a<hi> molybdenezüst</hi> ruganyos és könnyű, de törékeny. A<hi> wallosin</hi> képlet ruganyos és könnyű, de nem szilárd; az<hi> ebonit,</hi> ez a neme a vulkanizált kaucsuknak, amiből fésűket,
+                     <hi>acél</hi> szilárd, ruganyos, de törékeny és nehéz, az<hi
+                    > alumínium</hi> könnyű és ruganyos, de nem szilárd, elhajlik;
+                     a<hi> molybdenezüst</hi> ruganyos és könnyű, de törékeny. A<hi
+                    > wallosin</hi> képlet ruganyos és könnyű, de nem szilárd; az<hi
+                    > ebonit,</hi> ez a neme a vulkanizált kaucsuknak, amiből fésűket,
                   botokat, sőt hintórugókat is készítenek, volna még legalkalmasabb a madártollat
                   helyettesíteni; de veszedelmes volna őt a légben repülésre használni negatív
                   idioelectrikus tulajdona miatt, aminek hatását nem lehet előre kiszámítani. Azért
@@ -3716,7 +3789,8 @@
                   ráakasztott léggömb csak kölönc, mely ha hátrább marad, mint a gép, azt
                   feltartóztatja; ha előtte jár, akkor nem adhat neki a gép irányt, ha pedig másfelé
                   viszi a légáramlat, mint a gép iránya, akkor az<hi> erők
-                     parallellogrammja</hi> elméleténél fogva, a léghajó mindig az <hi>ismeretlen cathetusok hypothenusáján</hi> fog járni, azaz nem tudja, hogy hová
+                     parallellogrammja</hi> elméleténél fogva, a léghajó mindig az <hi
+                     >ismeretlen cathetusok hypothenusáján</hi> fog járni, azaz nem tudja, hogy hová
                   megy. – A léggömbhajózás az egész hadviselésben nem egyéb, mint egy igen kétséges
                   kockajáték. Sikerülhet olyankor, ha egy nagy ostromló sereg egy másikat egy
                   városba beszoríthat, mint azt Moszkvában láttuk az orosz forradalom alatt; ahol az
@@ -3749,13 +3823,17 @@
                   calorigép (nevezzük „hőléggépnek”) folytonos pörgésben tart. Éppen száz éve annak,
                   hogy <hi>Ericson</hi> a hőléggépet mozderőül alkalmazta. Húsz évig
                   küzdött a kísérletekkel, míg gépe hibáit, akadályait kiismerte, legyőzte, végre
-                  egy kétezer tornás hajót mert egy hőlégmozdonnyal a tengerre bocsátani. Később <hi>Lehmann</hi> e gépet még tökéletesebbé tette a hideg – és hőlég
-                  kölcsönösen ellenható, s egymást felváltó működtetésével. Végül <hi>Laubroi</hi> és <hi>Schwarzkopf</hi> tökéletesítették. Mai nap
+                  egy kétezer tornás hajót mert egy hőlégmozdonnyal a tengerre bocsátani. Később <hi
+                    >Lehmann</hi> e gépet még tökéletesebbé tette a hideg – és hőlég
+                  kölcsönösen ellenható, s egymást felváltó működtetésével. Végül <hi
+                     >Laubroi</hi> és <hi>Schwarzkopf</hi> tökéletesítették. Mai nap
                   már ez a rendszer csaknem mindenütt kiszorította a múlt század gőzgépeit a
                   használatból. Hanem fűteni a hőlégmozdonyt is kell, csakhogy tizedrésznyi fűtőszer
                   elég hozzá, mint a gőzgépekhez kellett. Tüzelőgéppel azonban repülőgépet
                   összekötni nem lehet; a légben repülő gépnek oly gyorsasággal kell mozogni, mely a
-                  tüzelést szertelenül fokozná; én tehát széntűz helyett használtam az<hi> alkarsint.</hi> Tudjuk, mi ez. Más néven <hi>cacodyloxid.</hi> Mirenytartalmú nedv, mely a víznél súlyosabb, s annak a
+                  tüzelést szertelenül fokozná; én tehát széntűz helyett használtam az<hi
+                    > alkarsint.</hi> Tudjuk, mi ez. Más néven <hi
+                     >cacodyloxid.</hi> Mirenytartalmú nedv, mely a víznél súlyosabb, s annak a
                   fenekére leszáll, s amint levegő ér hozzá, egyszerre forrni, bugyogni kezd,
                   áthevül, s lassankint 200 fokú melegséget fejt ki. Hívják <hi>Cadet
                      égő vizének</hi> is. Ez volt repülőgépem fűtőszere. Kísérletem a legszebben
@@ -3773,7 +3851,8 @@
                   haladást okozott. Propellerem kelepe, mely addig fölfelé taszított, éppen oly
                   erővel kezdett hajtani lefelé. Szerencsém, hogy a Balaton volt alattam. Akik
                   nézték repülésemet, azt mondják, hogy az nem egy <hi>parabolát</hi>
-                  képezett, ahogy kilőtt lövegek szoktak, hanem tökéletes <hi>derékszöget.</hi> Fölment 45 fok alatt, egyszer megállt, s onnan megint 45 fok
+                  képezett, ahogy kilőtt lövegek szoktak, hanem tökéletes <hi
+                     >derékszöget.</hi> Fölment 45 fok alatt, egyszer megállt, s onnan megint 45 fok
                   alatt lejött. Itt megáll minden matematikai számítás. Tagadhatlan, hogy a gép
                   működése okozza ezt a tüneményt. De hol van hát a hiba? Ezt nem tudom. De meg
                   fogom tudni. Számítok és újra számítok; s ha innen kiszabadulok, ismét megkísérlem
@@ -3791,8 +3870,10 @@
                   nagyravágyásból. Az ilyen célnak nem lehet pályakoszorúja. Régidő óta kínlódnak
                   ezekkel, s sajátságos, hogy többnyire cipészek, bukott kereskedők, megvert
                   hadvezérek foglalkoznak a repülés mesterségének találgatásával. Már 1786-ban
-                  repült egy <hi>sabléi lakatoslegény,</hi> a híres <hi>Besnier</hi> egy szárnyas géppel, melyet saját maga kezével-lábával mozgatott.
-                  Át tudott vele repülni széles folyamokon. Következett rá <hi>Blanchard</hi> Párizsban, ki két esernyő alakú szárnnyal kísérté meg a
+                  repült egy <hi>sabléi lakatoslegény,</hi> a híres <hi
+                     >Besnier</hi> egy szárnyas géppel, melyet saját maga kezével-lábával mozgatott.
+                  Át tudott vele repülni széles folyamokon. Következett rá <hi
+                     >Blanchard</hi> Párizsban, ki két esernyő alakú szárnnyal kísérté meg a
                   repülést, azután a bécsi óraműves <hi>Degen.</hi> Mind megbuktak.
                   Önök uraim, mielőtt az ég magasába készültek fölemelkedni, emelkedtek volna föl
                   előbb a lélek magaslatába; és ne azzal a szándékkal keresték volna a repülés
@@ -3819,7 +3900,8 @@
                   tovaszállítására kitűnő eszköz, míg a kisebb erőt igénylő feladatokhoz sokkal
                   célszerűbb a Lenoir-féle gázmozdony. De ez nem tartozik a dologhoz. Elhiszem, hogy
                   felviszi önt a propeller a magasba, s viszi is mindaddig fölfelé, amíg atmoszférai
-                  levegő van előtte, talán még a világéterben is, míg az <hi>alkarsinban</hi> tart, s míg a kalorigép melegét a légtelen űr hidege el nem
+                  levegő van előtte, talán még a világéterben is, míg az <hi
+                     >alkarsinban</hi> tart, s míg a kalorigép melegét a légtelen űr hidege el nem
                   nyeli; – de amint meg akar ön térni a fölfelé tartó irányból, egyszerre le kell
                   esnie. – A mozdítóerő <hi>a</hi>
                   <hi>gép hátuljában van. –</hi> Ez jó a vízen, ami a hajót
@@ -3864,7 +3946,8 @@
                   mégis repül! A szárnyizma pedig oly gyönge, mint a pókfonál: több benne a nyirok,
                   mint a test. Mégis repül. – Nézzék azt a Papilio Iót, ami ennek a fiúnak a
                   kalapjára most leszállt. Milyen könnyen tovalibben. – Ennek a szárnya is delejes:
-                  csakhogy ennek a delejessége nem azonos a tolléval, mely <hi>tényező,</hi> hanem a gyantáéval, mely elutasító. – A hímporban van a „mínusz”
+                  csakhogy ennek a delejessége nem azonos a tolléval, mely <hi
+                     >tényező,</hi> hanem a gyantáéval, mely elutasító. – A hímporban van a „mínusz”
                   delej. S mivel a negatív pólusok taszítóereje kisebb, mint a pozitív pólusoké,
                   azért a lepke röpte is gyöngébb, mint a madáré. De mégis e delejességben rejlik
                   repülési tehetsége; ügyetlen szárnya sohasem képesítené arra. – Ha leseperjük a
@@ -3890,19 +3973,26 @@
                   hajtott villany segélye mellett a Néván fölfelé. Azok mind igen bonyolult
                   szerkezetű gépek, aminőket egy olyan veszélyes kísérletnél, minő a légutazás,
                   alkalmaznunk nem szabad. Az én gépem oly egyszerű és érthető, hogy azt egy józan
-                  eszű munkás első magyarázat után kezelheti. Két részből áll: az egyik a<hi> Holtz</hi> által feltalált, s a szó szoros értelmében vett <hi>villanygép</hi> a<hi> Poggendorf-féle kettős
-                     összeállításban.</hi> A másik egy az előbbivel összekötött <hi>szárnypár,</hi> középen a közös tengelynél egymás rovátkaiba beillő. A
-                  villanygép legelső megindítása embererővel történik; a <hi>Holtz-féle diametralis conductor,</hi> mint tudjuk, már az első
-                  kerékfordulónál kétszer nagyobb erőt összpontosít, mint a régi <hi>electrophorok,</hi> s azért <hi>villanysűrítőnek</hi> is
+                  eszű munkás első magyarázat után kezelheti. Két részből áll: az egyik a<hi
+                    > Holtz</hi> által feltalált, s a szó szoros értelmében vett <hi
+                    >villanygép</hi> a<hi> Poggendorf-féle kettős
+                     összeállításban.</hi> A másik egy az előbbivel összekötött <hi
+                     >szárnypár,</hi> középen a közös tengelynél egymás rovátkaiba beillő. A
+                  villanygép legelső megindítása embererővel történik; a <hi
+                     >Holtz-féle diametralis conductor,</hi> mint tudjuk, már az első
+                  kerékfordulónál kétszer nagyobb erőt összpontosít, mint a régi <hi
+                     >electrophorok,</hi> s azért <hi>villanysűrítőnek</hi> is
                   nevezték. Ha mármost a két szárny mindegyike tíz <hi>vékony
-                     üveglapból áll,</hi> miket egy föléjük alkalmazott <hi>messing</hi> vagy <hi>elaterit</hi> köpeny takar, s az
+                     üveglapból áll,</hi> miket egy föléjük alkalmazott <hi
+                     >messing</hi> vagy <hi>elaterit</hi> köpeny takar, s az
                   üveglapoknak a sarkai az elektromotor villanyát átveszik, a kettős gépezet mindkét
                   szárnya +, azaz tényleges villanyossá válik. A kézi hajtógép kerekes korongja
                   ugyanakkor azokat egymáshoz fölemeli. A tényleges villanysarkak azonban egyszerre
                      <hi>eltaszítják egymást,</hi> s támad belőle az a mozderő, amit
                   „a” betűvel jeleztünk, s mely <hi>kiszámítás szerint percenkint s
                      lábbal erősebb, mint a hozzákötött ebonit hajónak a föld vonzerejéből származó
-                     esésmozzanata.</hi> Már most ha <hi>egy</hi> üveglap helyett <hi>tíz</hi> van alkalmazva a géphez, akkor az arány ilyen lesz: a
+                     esésmozzanata.</hi> Már most ha <hi>egy</hi> üveglap helyett <hi
+                    >tíz</hi> van alkalmazva a géphez, akkor az arány ilyen lesz: a
                   1×10–b+a 2×10–b+3×10–b+a 4×10–b = a 100–b 4, azaz négy perc alatt a repülőgépnek
                   85 lábnyi magasra kell felszállnia. Ehhez semmi kifogás nem fér. Az erő megvan,
                   csupán az a kérdés, hogy <hi>kiállja-e azt a hozzá alkalmazott
@@ -3925,7 +4015,8 @@
                   leszállhaték csendesen, mint egy libegő keselyű. Semmi sem volt elhibázva. Amire
                   számítottam, az mind megjelent segélyemre; hajóm a villanygép első mozdulatára
                   egyensúlyát megtartva a légbe emelkedett, kétszer-háromszor visszacsapódott még a
-                  talajhoz, de az nem ártott semmit, mert a hajó ruganyos <hi>ebonitból</hi> volt készítve, s ez visszapattanásával még elősegíté a szárnyak
+                  talajhoz, de az nem ártott semmit, mert a hajó ruganyos <hi
+                     >ebonitból</hi> volt készítve, s ez visszapattanásával még elősegíté a szárnyak
                   működését; negyedik szárnycsapásra már a légben maradtam, és akkor elkezdtem
                   fölfelé haladni. Tapsolt-e, éljenzett-e a közönség, azt nem tudom; arra nem
                   ügyeltem; én csak azt éreztem, hogy repülök. Valamit éreztem az üdvösségből. De
@@ -3945,7 +4036,8 @@
                   csapásokkal, de gyorsan, mint a kondor szárnyai: mikor a hajót önsúlya lefelé
                   vonta, a két szárny összecsapódott, de aztán ismét széjjelsuhant, mint a villám.
                   Eszembe jutott, hogy hiszen van nekem csillapító készletem, s a tafotákat a lapok
-                  közé vontam. Az sem segített már, a 22. percben az a sokszorozatlan <hi>a</hi> is <hi>a</hi>22 volt már, ami 284. láb
+                  közé vontam. Az sem segített már, a 22. percben az a sokszorozatlan <hi
+                    >a</hi> is <hi>a</hi>22 volt már, ami 284. láb
                   gyorsaságot ád ki. Így haladtam egyre fel a magasba. A 23. percben aztán egy
                   kellemetlen roppanást hallottam. Gépem egyik szárnya eltörött. Sem az üvegtáblák,
                   sem az elaterit nem állták ki a felfokozott villanyerőt; pedig már éppen fordítani
@@ -3956,8 +4048,10 @@
                   ebonit hajó, melyben ön meghúzta magát, hullernyőt képezett, s nem engedte, hogy
                   ön esés közben megfulladjon vagy idelenn agyonzúzza magát.</p>
                <p> – És most itt van ön közöttünk – szólt a calorigép bolondja. – Láttuk önt, mikor
-                  idehozták. Egyszer egy amerikai bankár látogatta önt meg e helyen, egy néger <hi>Rotschild,</hi> mister <hi>Severus,</hi> aki az
-                  összetörött gépét megvásárolta múzeuma számára, az e szóval vált el öntől: <hi>„massa Tatrangi, ha feltalálja ön valaha, hogyan kell az üveget
+                  idehozták. Egyszer egy amerikai bankár látogatta önt meg e helyen, egy néger <hi
+                    >Rotschild,</hi> mister <hi>Severus,</hi> aki az
+                  összetörött gépét megvásárolta múzeuma számára, az e szóval vált el öntől: <hi
+                    >„massa Tatrangi, ha feltalálja ön valaha, hogyan kell az üveget
                      hajlékonnyá, ruganyossá és szí</hi>vóssá <hi>tenni,</hi> akkor
                   jöjjön el vele hozzám, s én társaságba állok önnel <hi>tízmillió
                      dollárig repülőgépek készítésére;</hi> hanem amíg ki nem találja ön, addig ne
@@ -3966,7 +4060,8 @@
                   hangja úgy tört elő, mintha valami földbe elásott tetszhalott kiáltana fel
                   koporsójából.</p>
                <p> – Azt pedig nem fogja ön soha kitalálni! – kiálta megvetőleg a másik őrült –,
-                  mert az üveg alkatrésze <hi>kovany,</hi> azért az <hi>üveg jellege az, hogy törékeny, és az is marad örökké.</hi>
+                  mert az üveg alkatrésze <hi>kovany,</hi> azért az <hi
+                     >üveg jellege az, hogy törékeny, és az is marad örökké.</hi>
                </p>
                <p> A vita könnyen indulatossá vált volna, ha az első őrültet elő nem veszi az
                   őrülteknél válságos <hi>tüsszögés,</hi> mely néha fél napig is
@@ -4002,20 +4097,28 @@
                   kovanyösszetét. Hát a<hi> madár tollának</hi> nem kovany az egyik
                   alkatrésze? Nem négy százalék-e a kovany a<hi> sas tollában,</hi>
                   három százalék az<hi> emberi hajban?</hi> A<hi>
-                     spanyolnádban,</hi> mely oly hajlós, hét százalék a kovany, s a<hi> búzaszalmának</hi> 67 százaléka kovany; s a <hi>bambuszban</hi> a kovasav saját concretiókat képez, mik ruganyosak, mint a
+                     spanyolnádban,</hi> mely oly hajlós, hét százalék a kovany, s a<hi
+                    > búzaszalmának</hi> 67 százaléka kovany; s a <hi
+                     >bambuszban</hi> a kovasav saját concretiókat képez, mik ruganyosak, mint a
                   gyanta, <hi>tabaxirnek</hi> nevezik ezt. Hát azt nem láttad a
                   hutánkban, mikor a tiszta kovanyt élenyfúvós szeszlámpa előtt megolvasztottuk,
-                  tiszta üveg vált belőle, mely <hi>nyújtható</hi> volt és <hi>ruganyos, s</hi> amellett oly szilárd, hogy ha egy darabját az
+                  tiszta üveg vált belőle, mely <hi>nyújtható</hi> volt és <hi
+                    >ruganyos, s</hi> amellett oly szilárd, hogy ha egy darabját az
                   üllőre tettük, s pöröllyel ráütöttünk, ott maradt a helye üllőn és kalapácson, de
                   maga nem törött szét? Számtalan üvegedő anyag van, melynek átalakulása
-                  ruganyosságra hajló. Ilyen a<hi> skapolith-üveg.</hi> Az<hi> antipatheskorall</hi> éppen mészből van, és mégis hajlik.
-                  Hajtható az obsidian üvege, a chlorstrontium-üveg, különösen ruganyos a <hi>chromüveg:</hi> a<hi> fényle égenyes üvege;</hi> a
+                  ruganyosságra hajló. Ilyen a<hi> skapolith-üveg.</hi> Az<hi
+                    > antipatheskorall</hi> éppen mészből van, és mégis hajlik.
+                  Hajtható az obsidian üvege, a chlorstrontium-üveg, különösen ruganyos a <hi
+                    >chromüveg:</hi> a<hi> fényle égenyes üvege;</hi> a
                   brucit, az<hi> itacolumit</hi> üvegvegyítékei és mindenekfelett a
                   borax üvege. Hiszen még alig másfélszáz éve, hogy <hi>Davy</hi>
-                  fölfedezte a <hi>bórt</hi> mint egy új elemet a kelet-indiai <hi>tinkálban</hi> s a<hi> Maremmek mocsárvizében,</hi>
+                  fölfedezte a <hi>bórt</hi> mint egy új elemet a kelet-indiai <hi
+                    >tinkálban</hi> s a<hi> Maremmek mocsárvizében,</hi>
                   s ma már üveget nem is készítünk „bór” nélkül. Lényeges alkatrésze lett ez
                   üvegeinknek. Az üvegcsinálás tudománya ötezer éves. Mennyi új titok lett azóta
-                  fölfedezve, s mennyi <hi>régi titok</hi> lett eltemetve, mely <hi>új feltalálásra</hi> vár. Ilyen eltemetett titok az<hi> aventurin</hi> üveg, mely átlátszó aranyércnek tetszik. Nem
+                  fölfedezve, s mennyi <hi>régi titok</hi> lett eltemetve, mely <hi
+                    >új feltalálásra</hi> vár. Ilyen eltemetett titok az<hi
+                    > aventurin</hi> üveg, mely átlátszó aranyércnek tetszik. Nem
                   találhatjuk ki, hogyan készítették Pompéjiban. Fogsz emlékezni egy történelmi
                   adomára. Egyszer <hi>Severus</hi> császárhoz egy tyrrhenumi
                   edénygyáros egy pompás üvegurnát vitt ajándékba. A császárt meglepte a mű szép
@@ -4035,34 +4138,46 @@
                   művészi alkotású domborművek ékesítik, jelenetek a mítoszvilágból. A régészek még
                   ma is vitatkoznak fölötte, hogy Thetis és Peleus, vagy Hercules és Alceste regéje
                   van-e rajta örökítve, valamint, hogy a felírástalan szarkofágot a vázával együtt
-                  Nero szentelte-e Poppaeának, vagy Severus Mammaeának? Az üveg váza a<hi> Barberini-</hi>múzeumba került, akkor éppen egy Barberini levén
-                  a pápai trónon. Ezt a múzeumot később elkótyavetyélték, s a vázát megvette <hi>Hamilton,</hi> Hamiltontól megvásárolta ezer guineaért <hi>Portland</hi> herceg. A régészek előtt hírhedett a Barberini
+                  Nero szentelte-e Poppaeának, vagy Severus Mammaeának? Az üveg váza a<hi
+                    > Barberini-</hi>múzeumba került, akkor éppen egy Barberini levén
+                  a pápai trónon. Ezt a múzeumot később elkótyavetyélték, s a vázát megvette <hi
+                    >Hamilton,</hi> Hamiltontól megvásárolta ezer guineaért <hi
+                    >Portland</hi> herceg. A régészek előtt hírhedett a Barberini
                   üvegváza. Egyszer annak a hírhedett <hi>Lloydnak</hi> a fia, kinek
                   nevéről a kereskedelmi társulatok céget csináltak (a fiú nagy korhely volt!),
                   fogadott a korhely pajtásaival, hogy ő olyan genie-csínyt fog elkövetni, amiről az
                   egész világ fog beszélni, s melyet még az utókor számára is fel fognak jegyezni.
                   Mi volt e csíny? Az, hogy részeg fővel nekiment a múzeumban a Barberini-vázának, s
-                  azt állványostól feldöntötte. Ennek a hírhedett remekműnek az <hi>összetörése</hi> csakugyan világhírűvé teheti az embert. De várj! A levert
-                  üvegváza <hi>nem törött össze,</hi> csak <hi>behorpadott! –</hi> Ez tény. – Tehát a lefejezett feltaláló üvegedénye megvan.
+                  azt állványostól feldöntötte. Ennek a hírhedett remekműnek az <hi
+                     >összetörése</hi> csakugyan világhírűvé teheti az embert. De várj! A levert
+                  üvegváza <hi>nem törött össze,</hi> csak <hi
+                     >behorpadott! –</hi> Ez tény. – Tehát a lefejezett feltaláló üvegedénye megvan.
                   Nem mese, hogy az üveg hajlítható, kovácsolható. Csak az a kérdés, mi ennek a
-                  titka? Járj utána! Keresd meg! Találd ki! Hiszen mesterséged az. Üldözd a <hi>hatvannégy elemen</hi> keresztül, s ha egyik sem adja ki, keresd
+                  titka? Járj utána! Keresd meg! Találd ki! Hiszen mesterséged az. Üldözd a <hi
+                    >hatvannégy elemen</hi> keresztül, s ha egyik sem adja ki, keresd
                   fel az új elemet. Hisz a „bór”-t csak 1805-ben találták fel, a „jód”-ot 1811-ben s
                   a „klór”-t is csak 1774-ben. Még hátralehet egy!… Keresd!… Ne hagyj fel a
-                  kutatással, míg rá nem találsz… Az is lehet, hogy a <hi>hűtésben</hi> van a hajlós üveg titka, vagy a<hi>
-                  beitatás</hi>ban. – Hiszen az egyiptomiak már bírták a titkot, hogyan lehet a<hi> fluor kristályát,</hi> amiből a hajdankori pompás <hi>murrhini</hi> vázák készültek, intensive megfesteni; az olaszok
+                  kutatással, míg rá nem találsz… Az is lehet, hogy a <hi
+                     >hűtésben</hi> van a hajlós üveg titka, vagy a<hi>
+                  beitatás</hi>ban. – Hiszen az egyiptomiak már bírták a titkot, hogyan lehet a<hi
+                    > fluor kristályát,</hi> amiből a hajdankori pompás <hi
+                    >murrhini</hi> vázák készültek, intensive megfesteni; az olaszok
                   be tudják itatni az <hi>achátba</hi> a színeket, s a kínaiak bírják
                   a titkot: a<hi> hegykristályt kékre és rózsaszínűre</hi> festeni.
                   Hátha beitatással sikerül a titkot feltalálnod? Tán elaylban párolva? Vagy a
                   hűtéssel? De úgy kell az üvegnek a ruganyosságát megszerezned, hogy a
                   villanyosságát el ne veszítsd. Te! Hisz a természet maga is buzdít reá. Ő maga is
-                  találgatta már ezt; a fényle, a macskaezüst, nem hajlós üveg-e? A<hi> diallag</hi> nem nevezhető-e özönvíz előtti ásatag üvegnek? – Hátha a
+                  találgatta már ezt; a fényle, a macskaezüst, nem hajlós üveg-e? A<hi
+                     > diallag</hi> nem nevezhető-e özönvíz előtti ásatag üvegnek? – Hátha a
                   villanyerő maga segít ki a homályból? Hiszen a villanynak nagy hatása van a vezető
-                  ércek <hi>rugékonyságának apasztására,</hi> hátha a<hi> nemvezetőknél megfordítva hat?</hi> Ne mulaszd el vegyvizsgálat alá venni
+                  ércek <hi>rugékonyságának apasztására,</hi> hátha a<hi
+                     > nemvezetőknél megfordítva hat?</hi> Ne mulaszd el vegyvizsgálat alá venni
                      a<hi> nephelint,</hi> a vulkán által kihányt üvegtömeget. Hogyan
                   készíti azt maga a föld alatti tűz? Próbáld vegyíteni a<hi>
                      nemeskőhomokot.</hi> Tégy kísérletet a <hi>methylaminnal,</hi>
                      az<hi> osmiummal,</hi> mit kétszer fehérre izzassz. Figyelembe
-                  vedd a<hi> caputmortuumot,</hi> a vegyészi <hi>halálfőt,</hi> ami a kémlet után hátramarad. A<hi> kobaltot</hi>
+                  vedd a<hi> caputmortuumot,</hi> a vegyészi <hi
+                     >halálfőt,</hi> ami a kémlet után hátramarad. A<hi> kobaltot</hi>
                   is megkísértsd. – A<hi> thallium</hi> nélkülözhetetlen lesz
                   kísérleteidnél… Ó! ha én veled mehetnék!… De hiszen te okosabb vagy nálamnál. Te
                   ifjú vagy. Te szerencsés vagy. Egy véletlen. Egy jó ötlet. És kezedben lesz.
@@ -4079,7 +4194,8 @@
                   égbe! – Vagy ide mellém, a bolondok házába! – De jönnöd kell!</p>
                <p> Az összetört, az égből leesett, a ferdére taposott emberi trapezoid minden
                   félreficamult tagja rángatózott a triposzi felmagasztaltságtól; rettegés volt rája
-                  nézni. Az ápolók, az orvosok, kik távolról nézték, magukban tanakodtak, vajon <hi>epileptikus</hi> vagy <hi>energumén</hi> roham
+                  nézni. Az ápolók, az orvosok, kik távolról nézték, magukban tanakodtak, vajon <hi
+                    >epileptikus</hi> vagy <hi>energumén</hi> roham
                   lesz-e ebből.</p>
                <p> Végezte aztán az öreg azzal, hogy felkacagott. <hi>Hebromania</hi>
                   lett belőle.</p>
@@ -4173,7 +4289,8 @@
                   Se nem timsó, se nem gálic, hogy érdemes volna elhordani háton, s megkínálni vele
                   valami gyárat.</p>
                <p> Erdélynek és különösen a Székelyföldnek sok nevezetes vulkáni tüneménye van, amik
-                  szűk körben régóta köztudomásúak, ilyen a torjai kénbarlang, s annak oldalán a<hi> gázvulkán</hi> (ennek is „Gyilkos” a neve), melybe a fölötte
+                  szűk körben régóta köztudomásúak, ilyen a torjai kénbarlang, s annak oldalán a<hi
+                    > gázvulkán</hi> (ennek is „Gyilkos” a neve), melybe a fölötte
                   elrepülő madarak beleszédülnek; ilyen a kovásznai „pokolsár”, a népes város
                   közepén folytonos forrongásban levő iszapvulkán, mely időközönként megújuló
                   kitöréssel lávafolyamokat áraszt maga körül, s olyankor gőzoszlopok között
@@ -4579,7 +4696,8 @@
                <p> – De ki fogja azt élelmezni, ki viseli a költséget?</p>
                <p> – A költséget előlegezi az üzletünk, s meg fogja téríteni 100% nyereséggel a
                   vesztett fél.</p>
-               <p> – Ah! ez nem ó-világi gondolat. <hi>Haszonbérbe venni</hi> az<hi> ellenséget!</hi> Hahaha! Ön tetszik nekem az eredeti ötleteivel.
+               <p> – Ah! ez nem ó-világi gondolat. <hi>Haszonbérbe venni</hi> az<hi
+                    > ellenséget!</hi> Hahaha! Ön tetszik nekem az eredeti ötleteivel.
                   De hátha a maga bőrét hagyja ön ott? Tegyük fel, hogy akad ilyen tízezer vakmerő
                   fickó, aki önnel együtt a repülőgépeken leszáll az ellenség táborának kellő
                   közepébe, hogy ott a hadi készleteket elpusztítsa, s ez az első félórában sikerül
@@ -4657,7 +4775,8 @@
                   begyógyul szépen, s nem marad fájó helye vissza.</p>
                <p> – Ah! ah! Tehát ön kihozza a szokásból a csatatéren való halált. Ezentúl azt
                   fogjuk olvasni a hadi bulletinekban: <hi>„elesett</hi> hatvanezer
-                  emberünk, <hi>halott semmi</hi>, hadseregünk fele – <hi>vakarózik!”</hi>
+                  emberünk, <hi>halott semmi</hi>, hadseregünk fele – <hi
+                    >vakarózik!”</hi>
                </p>
                <p> – Igen.</p>
                <p> – De hát tett ön ezzel a golyóval már kísérleti in corpore humano?</p>
@@ -4930,13 +5049,15 @@
                   Magyarország.</p>
                <p> Először azért, mert már eleitől fogva azon ország volt, amelyben a legtöbbféle
                   vallásfelekezet plántálta be magát; azután meg azért, hogy egész Európa minden
-                  keresztyén államában eltörölték már a szerzeteket, s a <hi>Sollicitudo omnium ecclesiarum</hi> bulla dacára mindenünnen száműzték a
+                  keresztyén államában eltörölték már a szerzeteket, s a <hi
+                     >Sollicitudo omnium ecclesiarum</hi> bulla dacára mindenünnen száműzték a
                   jezsuitákat; ez a sok egyházi rend aztán mind Magyarországra menekült, hol a
                   kormányt e tekintetben a quietismus vezette, s ez engedte szabadon, hogy azok itt
                   letelepüljenek, uradalmakat, házakat vásároljanak, iskolákat alapítsanak. Mindezek
                   tetejébe jöttek aztán az ó- és újkornak mindenféle philosophi szektái; szabad
                   kőmívesek, protestáns mukkerek, amerikai shakker-quakkerek, s benntámadott
-                  nazárénusok (kiknek nem kell templom, csak biblia); a hajdani <hi>szombatosok</hi> is fölébredtek, szemközt találkozva az<hi>
+                  nazárénusok (kiknek nem kell templom, csak biblia); a hajdani <hi
+                     >szombatosok</hi> is fölébredtek, szemközt találkozva az<hi>
                      antisabbathiánusokkal,</hi> akiknek meg nem kell sem szombat, sem vasárnap; ők
                   minden napot munkanapnak vallanak.</p>
                <p> A magasabb körök képviselték az ultramontanismus régióját, azoknak a befolyása
@@ -4948,7 +5069,8 @@
                   szubordinációval. Ezen kategóriába lehetett sorozni a rég időtől megtelepült
                   bencéseket, kegyesrendieket, irgalmasokat, premontreieket, cisztercitákat s az
                   ideiglenes fogadalommal alakuló <hi>Parabolana</hi> női szerzetet s
-                  a Port Royal des Champs apácákat. Hanem ezek mellett aztán itt van a sok <hi>Frčres ignorants,</hi> akik szerint minden világi tudomány az
+                  a Port Royal des Champs apácákat. Hanem ezek mellett aztán itt van a sok <hi
+                    >Frčres ignorants,</hi> akik szerint minden világi tudomány az
                   ördög munkája; a<hi> Paternianok,</hi> kik előtt csak két szentség
                   van: a nőtlenség meg a koldulás; aki nem azt követi, az nem jut mennyországba. Van
                   egy különös szerzet: a<hi> Basilianoké,</hi> akiket fogadalmuk
@@ -4959,7 +5081,8 @@
                   pénz halmozódik a ládájába, s mindezeknél fogva az iparosvilág, a kézművesek
                   minden osztálya dühös ellenük.</p>
                <p> A szabadelvűbb magasabb köröket aztán a<hi> spiritizmus</hi> tanai
-                  tartják elfoglalva: ez a gazdag kereskedő – és üzércsaládok <hi>vallása.</hi> Ők az <hi>asztrálszellemek</hi> közvetítése által
+                  tartják elfoglalva: ez a gazdag kereskedő – és üzércsaládok <hi
+                     >vallása.</hi> Ők az <hi>asztrálszellemek</hi> közvetítése által
                   nyerik a túlföldi revelációkat, miket Mózes idejében a villámok és égő
                   csipkebokrok hirdettek. És az ő <hi>médiumaik</hi> és táncoló
                   asztalaik épp oly „csalhatatlanok”, mint a pápa.</p>
@@ -4968,7 +5091,8 @@
                   vezetnek-e az üdvösségre? Az elsők szerint minden emberi lélek egyszerre lett
                   megalkotva a teremtés napján, s csak a test születik hozzá később; az utóbbiak
                   szerint egyszerre születik mind a kettő.</p>
-               <p> A magyar alsópapság között el van terjedve a propaganda egy önálló <hi>hungarican egyház</hi> megalakítására, mellyel egy szögletből
+               <p> A magyar alsópapság között el van terjedve a propaganda egy önálló <hi
+                    >hungarican egyház</hi> megalakítására, mellyel egy szögletből
                   kiinduló divergencia a<hi> német katolikusok</hi> ligája; egyik sem
                   összezavarandó az <hi>ó-katolikus</hi> felekezettel, mely elveti a
                   csalhatatlan pápát.</p>
@@ -4995,12 +5119,16 @@
                <p> Hanem ez hát még csak Budapest.</p>
                <p> Azonkívül van minden vidéknek saját hitfelekezete.</p>
                <p> Holdmező-Vásárhelynek van saját <hi>prófétája;</hi> Szegednek,
-                  Somogynak <hi>nazarénusai;</hi> Szerémben elterjedtek a<hi> skipetárok,</hi> a horvát nép között a <hi>baptisták.</hi> Ausztria felől beszivárogtak az ázsiai <hi>testvérek,</hi> akik kabbalistikus csodatételekkel szaporítják hivőik számát;
+                  Somogynak <hi>nazarénusai;</hi> Szerémben elterjedtek a<hi
+                    > skipetárok,</hi> a horvát nép között a <hi
+                     >baptisták.</hi> Ausztria felől beszivárogtak az ázsiai <hi
+                     >testvérek,</hi> akik kabbalistikus csodatételekkel szaporítják hivőik számát;
                   Moldva felől becsempészték magukat a <hi>manichaeusok,</hi> kik
                   egymást <hi>„signaculumaikról”</hi> ismerik fel; Csehország felől a
                   tót vidékeken elharapódzott az <hi>adamiták</hi> tana; sőt a román
                   nép között még a<hi> pabulatores</hi> szektának is vannak követői,
-                  kik csak önkényt termő erdei gyümölccsel és ehető füvekkel élnek; ezért <hi>legelészők</hi> a nevük; Olaszországtól pedig megkaptuk a
+                  kik csak önkényt termő erdei gyümölccsel és ehető füvekkel élnek; ezért <hi
+                    >legelészők</hi> a nevük; Olaszországtól pedig megkaptuk a
                   barabbistákat, akiknek tana: semmi királyt, semmi világi hatóságot el nem ismerni.
                   Németalföld elküldte a<hi> popelinitáit,</hi> kiknek nem kell hús; s
                   azoknak a válfajait <hi>chazarokat, petrobrusiánokat,</hi> kiknek
@@ -5028,7 +5156,8 @@
                   hirdetni in nomine Domini, s nincs többé „Chambre Ardente”, mely elé lehessen őket
                   idézni.</p>
                <p> A lazult társadalmi összefüggés, a költészet, a szerelem maga, frivol
-                  kötekedéssel vallásos formákba önti bolondságait, a könnyelmű nők házát <hi>Madelonettek kolostorává</hi> szentelték fel; a magasabb rangú
+                  kötekedéssel vallásos formákba önti bolondságait, a könnyelmű nők házát <hi
+                    >Madelonettek kolostorává</hi> szentelték fel; a magasabb rangú
                   hölgyek, kik szerelmi botlásaikat takargatják, a<hi>
                      theaterinnők</hi> szent szövetségébe avatják be magukat, mely elég vakmerő a
                   szentlélek áldó befolyását a nőkre általában kiterjeszteni.</p>
@@ -5042,7 +5171,8 @@
                   talizmánokkal, stricheiákkal és teraphimokkal ajándékoztatnak meg, míg in specie
                   katonák és lovagok a magyar György-tallérok viseletével tétetnek golyó- és
                   kardvágásmentesekké, viselik is azokat óraláncaikon. Az<hi>
-                     incastraturák</hi> ereklyéi minden vasárnap felmutattatnak. Az<hi> index librorum prohibitorumba</hi> folytonosan íratnak be az olvasástól
+                     incastraturák</hi> ereklyéi minden vasárnap felmutattatnak. Az<hi
+                     > index librorum prohibitorumba</hi> folytonosan íratnak be az olvasástól
                   eltiltott könyvek. Minden hamvazószerdán megújíttatik a minden tévelygőket
                   megrettentő <hi>comminátió,</hi> Septuagesima vasárnapján
                   megkezdetik a <hi>violaszín gyász, s</hi> végeztével kiosztatik
@@ -5074,7 +5204,8 @@
                      tanítójának</hi> iratait, melyben a megváltó contemporaneusa a leghitelesebben
                   megírja Krisztus halálának napját, világosan kitéve, hogy ez a nap VIII. Idibus
                   Martii, tehát március 7. napja volt. Ez nagy zavart idézett elő ismét a hívők
-                  világában. Sokan azt állították, hogy március idusa <hi>Sosigenes</hi> előtt a tél közepére, tehát január 15-ére esett, éppen két
+                  világában. Sokan azt állították, hogy március idusa <hi
+                     >Sosigenes</hi> előtt a tél közepére, tehát január 15-ére esett, éppen két
                   hónappal korábban. Mások betű szerinti értelemben fogadták el a hagyományt, ismét
                   mások apokrifnak nyilatkoztatták azt ki, s mármost aztán mind a katolikus, mind a
                   protestáns, mind az egyéb variáns keresztyén hitfelekezetek egyenkint megint
@@ -5083,18 +5214,23 @@
                   És valamennyien külön templomot építettek maguknak.</p>
                <p> És a kétségek dolgában a protestánsoknak sem volt kedvezőbb helyzete. Náluk is
                   megvolt a meghasonlás azon kérdés fölött, hogy vajon minden ember a mostani
-                  testében támad-e fel ítélet napján, vagy éppen csak a bibliai szent <hi>„lus”</hi> csont marad meg minden emberből, s ahhoz alkotódik
+                  testében támad-e fel ítélet napján, vagy éppen csak a bibliai szent <hi
+                    >„lus”</hi> csont marad meg minden emberből, s ahhoz alkotódik
                   hozzá az újraébredő tulajdonos? A dunántúliak papjai másként magyarázták a
                   komjáthi kánonokat, mint a tiszántúliak; néhol lutheránusok és kálvinisták
                   uniáltak, másutt ugyanazon evangélikus felekezet is kétfelé oszlott, mindnyájának
                   nagy küzdelme volt a saját nazarénusaival, s együtt valamennyinek a
                   szombatosokkal, monophysitákkal.</p>
                <p> A zsidók is éppen ily forrongásba kerültek. A<hi> Schulchan
-                     Aruch</hi> híve nem követte az újítókat, s nála a <hi>tephillim,</hi> az imaszíj még ma is megkülönböztető jel, ő most is 248 szóból
+                     Aruch</hi> híve nem követte az újítókat, s nála a <hi
+                     >tephillim,</hi> az imaszíj még ma is megkülönböztető jel, ő most is 248 szóból
                   álló imádságát mondja fel, s hogy a <hi>Thorát</hi> ott énekeljék,
                   ahol a hagyomány rendeli, hogy a nők a karzaton üljenek ezentúl is, ne a
-                  földszinten, avégett ő is külön templomot épít: ragaszkodik a <hi>Talmud</hi> szavaihoz; beszéli sok helyütt egymás közt a sajátszerű <hi>Ladinó</hi> zsargont, s szombatnapon felköti az egyik hívő
-                  házától a másikig áthúzott összekötő szabbathzsinórt, a hagyományos <hi>Airufot;</hi> s a szétszakadást <hi>éppoly</hi>
+                  földszinten, avégett ő is külön templomot épít: ragaszkodik a <hi
+                     >Talmud</hi> szavaihoz; beszéli sok helyütt egymás közt a sajátszerű <hi
+                    >Ladinó</hi> zsargont, s szombatnapon felköti az egyik hívő
+                  házától a másikig áthúzott összekötő szabbathzsinórt, a hagyományos <hi
+                    >Airufot;</hi> s a szétszakadást <hi>éppoly</hi>
                   kevéssé tudta náluk is megorvosolni a<hi> Beth din Haggadol,</hi> a
                   nagy Sanhedrin, és a<hi> Keneseth Hagdoleh,</hi> a nagy Sinagoga,
                   valamint a kormány által egybehívott kongresszusok és a bölcs országos törvények,
@@ -5124,7 +5260,9 @@
                   uralkodók szerencsétlen, egymásnak ellenmondó közjogi kísérleteivel, kitörésre
                   kényszeríték az elterjedt szövetséget. Akkor tűnt ki, hogy a társadalom minden
                   osztálya saturálva volt már azzal. A Nihil győzött.</p>
-               <p> Itt is egy asszony alakja magasult ki az óriási népmozgalomból, név szerint <hi>Alekszandra Petrovna;</hi> közönségesen <hi>Sasza;</hi> ki azzal kezdte meg szerepét, hogy mikor a lázongó nép palotája
+               <p> Itt is egy asszony alakja magasult ki az óriási népmozgalomból, név szerint <hi
+                    >Alekszandra Petrovna;</hi> közönségesen <hi
+                     >Sasza;</hi> ki azzal kezdte meg szerepét, hogy mikor a lázongó nép palotája
                   előtt összegyűlt, s férjével, egy büszke herceggel alkudozni kezdett, ő maga
                   kiáltá le erkélyéről: „le a bojárokkal! ŕ bás les aristocrates!” s saját kezével
                   nyitá fel a kaput a szuverén nép előtt, s mialatt a herceget saját palotája
@@ -5148,7 +5286,8 @@
                   regiójában: a<hi> pozitív nihilizmus</hi> szektái.</p>
                <p> „Pozitív nihilizmus!” Hisz ez paradoxon! És mégsem az.</p>
                <p> Némely szektának még csak a nevét hallják a Kárpátokon innen, s a név
-                  jelentéséből találgatják, mi rejlik a <hi>kontradeisták,</hi> az<hi> animalisták</hi> tanaiban:</p>
+                  jelentéséből találgatják, mi rejlik a <hi>kontradeisták,</hi> az<hi
+                    > animalisták</hi> tanaiban:</p>
                <p> Többeknek a dogmáit már nagyjában ismerik is. A<hi> kainisták</hi>
                   tana ez: minden, ami rossz, az a jó. A tízparancsolatban minden megfordítva
                   értendő. Az antimoralismus a vezető.</p>
@@ -5173,17 +5312,22 @@
                </p>
                <p> A chiliasmus: az a hit, hogy a jelen világnak, úgy ahogy áll, el kell pusztulnia,
                   s a Messiás országának kell rá elkövetkeznie, élt már a régi zsidóknál, gyökeret
-                  vert a keresztyének között; tudós teológusok egész tudományt csináltak belőle: <hi>eschatologia</hi> cím alatt, s okadatolva kiszámították annak
+                  vert a keresztyének között; tudós teológusok egész tudományt csináltak belőle: <hi
+                    >eschatologia</hi> cím alatt, s okadatolva kiszámították annak
                   mikor leendő bekövetkezését. A zsidók a 7000. esztendőt a világ teremtése után, a
                   keresztyének Krisztus urunk születése után a 100., aztán 365., aztán az 500., majd
                   az 1000., később az 1785., s legkésőbb az 1879. évet határozva az apocatastasia
                   napjául, mely az Antikrisztus uralmát megdönti. De hogy ekkor sem jött el, végre
                   mindenki megnyugodott abban, hogy a <hi>kétezredik</hi> év betelése
-                  lesz az a várt korszak, amelyen túl Isten országa leszáll a földre, ez lesz a <hi>világújrateremtés szombatja.</hi> Még pedig az <hi>irvingisták</hi> szerint az ő <hi>„hét községükben”</hi> fog az
+                  lesz az a várt korszak, amelyen túl Isten országa leszáll a földre, ez lesz a <hi
+                    >világújrateremtés szombatja.</hi> Még pedig az <hi
+                     >irvingisták</hi> szerint az ő <hi>„hét községükben”</hi> fog az
                   megkezdődni, a<hi> mormonok</hi> szerint a <hi>Salt
-                     Lake</hi> partjain, a<hi> montanisták</hi> szerint <hi>Pepuzában,</hi> a<hi> székely szombatosok</hi>
+                     Lake</hi> partjain, a<hi> montanisták</hi> szerint <hi
+                    >Pepuzában,</hi> a<hi> székely szombatosok</hi>
                   szerint a <hi>Szent-Anna tava</hi> mellett; míg a zsidók és
-                  ókatolikusok és a protestánsok közösen megegyeztek abban, hogy az<hi> Jeruzsálemben</hi> fog legelébb földre szállni, általános boldogsággal;
+                  ókatolikusok és a protestánsok közösen megegyeztek abban, hogy az<hi
+                     > Jeruzsálemben</hi> fog legelébb földre szállni, általános boldogsággal;
                   amidőn maga az ördög is meg fog javulni, és lesz belőle confráter; amidőn a föld
                   munka nélkül terem, az ember ingyen lakik jól; mindenki megifjul és megszépül;
                   senki meg nem hal és nem születik többé; és különösen bor lesz elég. – Ez a
@@ -5194,12 +5338,15 @@
                   húzó, s mégis egy őrült közös cél felé rohanó vakhit embercsordája közepett kell a
                   XX. század magyar államférfiainak hideg bölcsességgel és meleg hazaszeretettel
                   tanácskozni afölött, hogyan reformálják tanintézeteiket, hogyan küzdjenek meg a
-                  tanügy terén a hagyományos nyomorúságokkal, mely a tanítót ismét a <hi>mensa ambulatoria</hi> alamizsnafalatjaira szorította, a
-                  felekezeti féltékenységgel, a grapsa vaskalapossággal, a diákos <hi>pennalismussal,</hi> a tudományok <hi>szamárhídjaival,</hi>
+                  tanügy terén a hagyományos nyomorúságokkal, mely a tanítót ismét a <hi
+                    >mensa ambulatoria</hi> alamizsnafalatjaira szorította, a
+                  felekezeti féltékenységgel, a grapsa vaskalapossággal, a diákos <hi
+                     >pennalismussal,</hi> a tudományok <hi>szamárhídjaival,</hi>
                   hogyan terjesszenek felvilágosodást a nép között, hogy tartsák meg nemzetüket a
                   hazaszeretetben, hogy vezessék az ifjú nemzedéket a magas erények, a tudományos
                   képzettség, a józan szorgalom útján?</p>
-               <p> De úgy legyen nyugtom a földben „akkor,” mint ahogy hiszem, hogy <hi>1953-ban</hi> sem <hi>hagytak fel</hi> ez „emberi”
+               <p> De úgy legyen nyugtom a földben „akkor,” mint ahogy hiszem, hogy <hi
+                    >1953-ban</hi> sem <hi>hagytak fel</hi> ez „emberi”
                   munkával, mely közel jár az „isteni” teremtés művéhez.</p>
                <p> Az Isten megalkotta az embert, de az ember kiművelte az embert!… Egyszer aztán
                   azt mondta valaki, hogy „no ha olyan nagyon várjátok az apocatastasiát, hát jöjjön
@@ -5354,7 +5501,8 @@
                   mehet el minden ember, s nem kószálhat a padok között. Ki a másiknak izenni akar,
                   ott az íróeszköz az asztalán, levele kézről kézre adatik. Ezáltal sok időfogyasztó
                   zaj mellőzve van.</p>
-               <p> Ha a gyűlés tűzbe jön, egyetlen jeladás az elnök <hi>inclangoriuma</hi> által elég a lármát elnémítani; mert ha nem elég, akkor a
+               <p> Ha a gyűlés tűzbe jön, egyetlen jeladás az elnök <hi
+                     >inclangoriuma</hi> által elég a lármát elnémítani; mert ha nem elég, akkor a
                   másik percben már az elnök a padozat alá ereszti le a lármázókat. Inkább
                   megfogadják a figyelmeztetést.</p>
                <p> Minden képviselő feje fölött van egy csengettyű, Réaumur-porcelánból, mely
@@ -5906,7 +6054,8 @@
                <p> Még hátra van két hatalmas appellatorium forum. Egyik a felséges koronás király,
                   másik a felséges mezítlábos nép!</p>
                <p> Nehogy pedig azt higgye valaki, hogy én a népet gúnyolom, midőn mezítlábosnak
-                  nevezem. Ez nem <hi>hyperbole,</hi> ez nem „meiosis”, nem <hi>kicsinyítés:</hi> ez tény.</p>
+                  nevezem. Ez nem <hi>hyperbole,</hi> ez nem „meiosis”, nem <hi
+                    >kicsinyítés:</hi> ez tény.</p>
                <p> Nem beszélünk itt a falusi mezítlábakról: a derék, vízben-sárban edzett
                   mezítlábakról, a csizmakíméleten alapult mezítlábakról; sőt éppen nem a
                   ruhamosáshoz dechausseírozott szép fehér mezítlábakról; azoknak
@@ -6125,7 +6274,9 @@
                   csak unokaöcs volt.</p>
                <p> Amit azután a főhercegnő mondott, az csak magánbeszéd volt; mert a király egyszer
                   sem szakította őt félbe.</p>
-               <p> – Kedves öcsém! Most eljutottunk arra a pontra, amelyről <hi>előre</hi> még csak egy irányban lehet haladni: egyenesen <hi>lefelé.</hi> Hét nap óta állunk ez örvény előtt veled együtt; hét nap óta
+               <p> – Kedves öcsém! Most eljutottunk arra a pontra, amelyről <hi
+                     >előre</hi> még csak egy irányban lehet haladni: egyenesen <hi
+                     >lefelé.</hi> Hét nap óta állunk ez örvény előtt veled együtt; hét nap óta
                   kérdezi tőled millió és millió ajk, fennhangon és némán: elmerülünk-e? És te hét
                   nap óta állhatatosan hallgatsz; választ nem adsz senkinek. Most én jöttem el, hogy
                   szólásra bírjalak. – Mindjárt az elején egy olyan kérdést intézek hozzád, amire
@@ -6191,9 +6342,12 @@
                   mely külön nem választható. Most ennek a háromságnak a szétbontását kísérlik meg.
                   Kik? A királyok kocsija mellett szaladó „Krethi és Plethi!” A magyar „szejm” (mert
                   nem országgyűlés az most, csak <hi>lengyel szejm</hi>) szorosabbra
-                  húzza „Szent Péter láncait”. A magyar carbonarik utána éneklik az<hi> „Elloposkleros”</hi> gúnydalait. A<hi> Gephirismus,</hi> a
-                  szabad gúnyolódás minden piacon felüti sátorát. Semmi sem szent többé. A<hi> rex</hi> csak <hi>regulus</hi> már. A legnagyobb
-                  államokban az „autocratia” helyét elfoglalja a <hi>„pornokratia”</hi>. Megtámadják egyszerre a vagyont, és a hitet és a jó
+                  húzza „Szent Péter láncait”. A magyar carbonarik utána éneklik az<hi
+                     > „Elloposkleros”</hi> gúnydalait. A<hi> Gephirismus,</hi> a
+                  szabad gúnyolódás minden piacon felüti sátorát. Semmi sem szent többé. A<hi
+                    > rex</hi> csak <hi>regulus</hi> már. A legnagyobb
+                  államokban az „autocratia” helyét elfoglalja a <hi
+                     >„pornokratia”</hi>. Megtámadják egyszerre a vagyont, és a hitet és a jó
                   erkölcsöt. Üldözet tárgyává, gúnynyilak céltáblájává lesz az erény, a kegyeletes
                   érzés. És kultusszá fajul a hitetlenség és a mindent tagadás. S most azt kívánják,
                   hogy ezt a király névaláírásával szentesítse. A király maga, kinek trónmennyezete
@@ -7379,7 +7533,8 @@
                   azokkal dolgozó műhelyek nem esnek útban.</p>
                <p> – De én azokat is meg fogom nézni. Férjem sokat beszélt előttem e gyár csodáiról,
                   s én alig várom, hogy azokat megláthassam.</p>
-               <p> – Alig várja? Talán éppen hajlandó volna azon kezdeni a <hi>háztűznézést?</hi> Mint jó gazdasszony, legelső dolognak találja férje házánál
+               <p> – Alig várja? Talán éppen hajlandó volna azon kezdeni a <hi
+                     >háztűznézést?</hi> Mint jó gazdasszony, legelső dolognak találja férje házánál
                   a <hi>konyhát</hi> tekinteni körül? Mit szól ön ehhez, Mr. Tatrangi?
                   Nincs a mistress kifáradva? Uralkodik tökéletesen az idegein?</p>
                <p> Dávid azt felelte rá, hogy „amit az asszony kíván, az parancsolat”.</p>
@@ -7456,7 +7611,8 @@
                   Mr. Severus, abba csakugyan belesült. A műhely felügyelője ott állt háta mögött,
                   azt felszólítá, hogy magyarázza meg, hogyan van.</p>
                <p> A felügyelő rideg hangon felelt:</p>
-               <p> – Nekem esküm tiltja <hi>idegenek</hi> és <hi>asszonyok</hi> előtt gyárunk titkairól beszélni.</p>
+               <p> – Nekem esküm tiltja <hi>idegenek</hi> és <hi
+                     >asszonyok</hi> előtt gyárunk titkairól beszélni.</p>
                <p> – Damn’! – kiáltá Mr. Severus. – Ez udvariatlan jenki!</p>
                <p> – Székely, székely! – igazítá őt rendre Dávid, s ezzel megveregeté a felügyelő
                   vállát. – Áron, neked igazad van.</p>
@@ -7734,7 +7890,8 @@
                   Ha megszerzed még a tudományt is hozzá, te léssz az első, ki velem együtt lehozod
                   az üzenetet a felhők közül a földre: „ember, tied az ég”! Rászánod-e magadat e
                   nehéz feladatra?</p>
-               <p> Rozáli megszorítá összekulcsolt ujjaival egész erejéből <hi>vőlegénye</hi> kezét, s azt mondá: „Kezdjünk hozzá.” Még menyasszony volt, és
+               <p> Rozáli megszorítá összekulcsolt ujjaival egész erejéből <hi
+                     >vőlegénye</hi> kezét, s azt mondá: „Kezdjünk hozzá.” Még menyasszony volt, és
                   nem asszony.</p>
                <p> S az első nászéj és utána a többi hat nap és éjszaka azzal tölt el, hogy a
                   vőlegény magyarázta a menyasszonynak a normálbarométer, a kerekes barométer, az
@@ -7823,7 +7980,8 @@
                   részvényesek a 750 frt befizetés után 250 forint osztalékot kaptak, s előre
                   látható volt, hogy e kereskedelmi vállalattal az önök monarchiája az elsőrendű
                   kereskedelmi államok közé fog emelkedni. Csak egyetlenegy körülményen múlt e
-                  remény valósulása. Egy csekély kis körülményen. Egy <hi>bajuszon</hi> múlt el az egész. Az volt a hiba, hogy III. Károly egyetlen
+                  remény valósulása. Egy csekély kis körülményen. Egy <hi
+                     >bajuszon</hi> múlt el az egész. Az volt a hiba, hogy III. Károly egyetlen
                   trónörökösének nem volt bajusza, Mária Terézia nem volt férfi. Károly császár
                   mindenáron királlyá akarta tenni leányát; ezt eszközölte ki a pragmatica sanctió.
                   Hogy a pragmatica sanctiót Anglia elfogadja, egy föltételt szabott rá: az
@@ -7907,7 +8065,8 @@
                   egy regényét a sok közül, melyben a hősnő a hőssel együtt egy luftballonban
                   felszáll, s aztán odafenn az égben egy ideális szerelmi jelenet fejlődik ki
                   kettőjük között. Ez igen csábító példa. Hanem ez igen könnyű munka volt akkor:
-                  mind Lafontaine-re, mind a vállalkozó kisasszonyra nézve. Ámde az<hi> aerodromon</hi> kormányosa nemcsak arra nem ér rá, hogy akár prózában, akár
+                  mind Lafontaine-re, mind a vállalkozó kisasszonyra nézve. Ámde az<hi
+                     > aerodromon</hi> kormányosa nemcsak arra nem ér rá, hogy akár prózában, akár
                   versekben elégiákat mondjon utazótársának, hanem a legelső két másodpercében a
                   felemelkedésnek az a kérdése hozzá, hogy minő az arány a gép gyorsaságának
                   progressziójában?</p>
@@ -7930,7 +8089,8 @@
                   bennlevők megszabaduljanak a légzési szervek szenvedésétől, ami különben a
                   léghajósokat leginkább szokta kínozni. A szabad ballonok hajóiban utazóinak már 11
                   ezer lábnyi magasban orrából és füléből megindul a vér. Az aerodromon azonban e
-                  készülék mellett egy saját maga által megtöltött <hi>antliapneumaticává</hi> alakul át, s míg a haladás irányában nyitva levő
+                  készülék mellett egy saját maga által megtöltött <hi
+                     >antliapneumaticává</hi> alakul át, s míg a haladás irányában nyitva levő
                   szelepen át a lég összetömörül a hajóban, s a legritkultabb légrétegben is
                   alkalmassá válik a belélegzésre, addig az ellentétes irányban levő szelelőcsövek
                   szelepei csukva vannak, különben nem lehetne kiállni embernek a légrohamot, abban
@@ -7942,14 +8102,16 @@
                   hyperbolikus manométer tehát csak azt jelzik, hogy minő sűrűsége van a hajóban
                   levő légnek; de nem azt, hogy minő légnyomás van az általa elért magaslaton.</p>
                <p> – Jól van, mistress – szólt Severus, most már egy tudálékos asszonyt képzelve
-                  maga előtt –, de már most más baj is jön elő. A gépet nemcsak az a<hi> villanykondenzátor</hi> és <hi>forgatag
+                  maga előtt –, de már most más baj is jön elő. A gépet nemcsak az a<hi
+                    > villanykondenzátor</hi> és <hi>forgatag
                      elektromotor</hi> hajtja, melynek gépkereke a kormányos kezében van; hanem nagy
                   hamar átveszi az uralkodást az atmoszférai <hi>villanyosság</hi>
                   ismeretlen nagyhatalma. Mit tesz a figyelő társ ekkor?</p>
                <p> – A figyelő társ, amint a normálbarométeren látja a hatványozott emelkedést,
                      az<hi> alhidade</hi>-on, a rheoscopon, a villanybefolyás
                   szaporodását, ezt számokban jelzi a kormányosnak, s ha a kormányos jónak találja a
-                  lég villanyosságát fokozott gyors haladásra felhasználni, akkor a <hi>légvillany-induktorokat</hi> működésbe hozza, s miután a gép
+                  lég villanyosságát fokozott gyors haladásra felhasználni, akkor a <hi
+                    >légvillany-induktorokat</hi> működésbe hozza, s miután a gép
                   szárnyai 128 athmoszférai nyomást kiállanak, a villanysokszorozás által percenkint
                   ezer lábnyi gyorsaságra erőltetheti a gépet, ami egy százötven lábnyi gyorsasággal
                   rohanó szélvésszel szemközt repülve is 850 lábnyi haladást eredményez.</p>
@@ -7962,14 +8124,16 @@
                   tartózkodást. De éppen az említett zsurlódás által folytonos meleggel látja el a
                   lég maga a hajót, s nem kell hozzá sem fűtőszer, sem azzal vesződő emberi kéz. E
                   zsurlódási meleghez járulhat még a termoelektricitás tényezője is. De ennek a
-                  hatása is ellensúlyozva van. A hajó hátterében van alkalmazva a Carré-féle <hi>ammonsavas confrigerator,</hi> mely azonnal, amint a hajó
+                  hatása is ellensúlyozva van. A hajó hátterében van alkalmazva a Carré-féle <hi
+                    >ammonsavas confrigerator,</hi> mely azonnal, amint a hajó
                   hőmérséke a 20 fokon, Réaumur szerint, felülemelkedik, rögtön megkezdi a
                   működését, s mesterséges jéghideget képezve, a hőmérsékletet ismét kiegyenlíti. Ha
                   az nem volna elég, a gép nehány nyomással még magasabb légrétegekbe emelkedik, hol
                   nagyobb a hideg. Ha az is hasztalan volna, akkor meg lassítja a repülését.</p>
                <p> – S hogyan teheti azt, ha egyszer a földdelej és a légvillany kapták fel a
                   szárnyaikra?</p>
-               <p> – A legegyszerűbben. A kormányos intésére a segéd a <hi>villanykiürítőhöz</hi> nyúl, s vagy a <hi>csillag alakú</hi>
+               <p> – A legegyszerűbben. A kormányos intésére a segéd a <hi
+                     >villanykiürítőhöz</hi> nyúl, s vagy a <hi>csillag alakú</hi>
                   kiürítővel szabadítja meg a gépet a túlságos villanytól, vagy a<hi>
                      detonatorral,</hi> mely rögtöni villanyszikrákkal, dörgés közt távolítja el a
                   fölösleges vonzerőt.</p>
@@ -8007,15 +8171,19 @@
                <p> – Nem, sir – szólt Rozáli komolyan. – A természettudomány igen szép és elragadó
                   élvezet. A delejvillany csodái lekötik a lelket, s magukkal képesek ragadni,
                   mintha az is hozzájuk tartozó elem volna. Az érzékek el vannak általa foglalva
-                  egészen. Mily gyönyörűk Lichtenberg <hi>porrajzai!</hi> Marum <hi>pávafarkfénye;</hi> a<hi> szivárvánnyá</hi>
-                  alakított <hi>villanyszikra;</hi> Bunsen <hi>villanylángíve,</hi> a galvani folyam csodálatos <hi>vegytani
+                  egészen. Mily gyönyörűk Lichtenberg <hi>porrajzai!</hi> Marum <hi
+                    >pávafarkfénye;</hi> a<hi> szivárvánnyá</hi>
+                  alakított <hi>villanyszikra;</hi> Bunsen <hi
+                     >villanylángíve,</hi> a galvani folyam csodálatos <hi>vegytani
                      bontó</hi> hatalma; a villanyfolyam szellemszerű <hi>zengése</hi>
                   a vezető ércekben, mit a<hi> telefon</hi> hallat; a mulattató
                   kísérletek a <hi>villany örökmozdonnyal,</hi> a<hi>
-                     villanyórával, Franklin villanyos rajztáblájával;</hi> a Wolff-inductor <hi>folytonos villáma</hi> mily eleven utánzása az égi viharnak! S
+                     villanyórával, Franklin villanyos rajztáblájával;</hi> a Wolff-inductor <hi
+                    >folytonos villáma</hi> mily eleven utánzása az égi viharnak! S
                   annak a gyémánt minden színeivel ragyogó <hi>dicsköre</hi> egy
                   látvány a próféták álmaiból. Mily csodálatos tünemény a légüres üvegharang alatt
-                  kisugárzó villanyfény, mely a pozitív saroknál piros, a negatívnál kék <hi>rétegekben,</hi> mint egy orsó alakú démon jelenik meg! Mily
+                  kisugárzó villanyfény, mely a pozitív saroknál piros, a negatívnál kék <hi
+                    >rétegekben,</hi> mint egy orsó alakú démon jelenik meg! Mily
                   megbűvölő látvány a <hi>villanyos zuhatag;</hi> mely bíborsugáraival
                   a világoszöld színben pompázó uránüveg szélein túlömlik! Hisz ezek oly tünemények,
                   amik mellett az ember elfelejti azt, hogy a szíve dobog. És midőn maga előtt látja
@@ -8027,12 +8195,15 @@
                <p> Severus izgatottan járt alá s fel a szobában.</p>
                <p> – Ez nem igaz, ez nem úgy van. Bennem is megvannak azok az érzékek mind, én is
                   végigélveztem a természettudomány gyönyöreit, én is jártam ott, ahol a világalkotó
-                  szellemek csodáikat mutogatják emberek parancsára; én is láttam a <hi>holt ember</hi> arcát mosolyra fintorulni a galvanfolyam
-                  befolyása alatt; de azt a hatalmát a villanyerőnek tagadom, hogy <hi>két élő szívet</hi> képes legyen astaticus állapotba hozni. Én is próbáltam
+                  szellemek csodáikat mutogatják emberek parancsára; én is láttam a <hi
+                    >holt ember</hi> arcát mosolyra fintorulni a galvanfolyam
+                  befolyása alatt; de azt a hatalmát a villanyerőnek tagadom, hogy <hi
+                     >két élő szívet</hi> képes legyen astaticus állapotba hozni. Én is próbáltam
                   ezt. De ez lehetetlen. Mikor egyszer a szív érez, azt semmi matematikai számítás
                   meg nem győzni, semmi tünemény el nem kábítja. Önök vagy szerencsétlenek, és nem
                   szeretik egymást…</p>
-               <p> – Vagy pedig – sietett Rozáli közbeszólni – tudjuk azt, hogy <hi>hazánk és becsületünk</hi> van feltéve a nagy kockára. Sir! Én megtudtam, hogy
+               <p> – Vagy pedig – sietett Rozáli közbeszólni – tudjuk azt, hogy <hi
+                     >hazánk és becsületünk</hi> van feltéve a nagy kockára. Sir! Én megtudtam, hogy
                   férjemnek „ma” kísérletet kell tenni az általa feltalált géppel. E vállalkozására
                   hivatva van hazája védelmének kötelessége és üzletének lekötött becsülete által.
                   Bátorsága senkinek sem volt, hogy őt ez égbetörő kísérleténél mint legelső
@@ -8527,7 +8698,8 @@
                <p> Hatodnap a katonai parancsnok az excedenseket jól leszidja.</p>
                <p> Aztán hetednap megint egy új patália vonja magára az olvasó figyelmét a
                   hírlapokban.</p>
-               <p> Egy lócsiszár-konzorcium megtámadja a hadügyminisztériumot, hogy ő azt a <hi>negyvenezer lovat,</hi> aminek bevásárlása elrendeltetett, tíz
+               <p> Egy lócsiszár-konzorcium megtámadja a hadügyminisztériumot, hogy ő azt a <hi
+                    >negyvenezer lovat,</hi> aminek bevásárlása elrendeltetett, tíz
                   percenttel olcsóbban szerezte volna be, mint az a másik konzorcium, melynek azt a
                   miniszter <hi>titokban</hi> kiadta.</p>
                <p> A hadügyminiszter átlátja, hogy a titoktartás nem a XX. század intézménye, s
@@ -8570,7 +8742,8 @@
                   Djelat?” szerzője regényképpen írt le, már megvalósult, s a XX. századbeli
                   Oroszország nem olyan félelmes többé Európára, mint a múlt században – hanem
                   félelmesebb.</p>
-               <p> Még a XIX. század napóleoni vészalternatívája ez volt: Európa 50 év alatt <hi>vagy</hi> respublikává lesz, <hi>vagy</hi> kozákká;
+               <p> Még a XIX. század napóleoni vészalternatívája ez volt: Európa 50 év alatt <hi
+                    >vagy</hi> respublikává lesz, <hi>vagy</hi> kozákká;
                   most a kérdés egyesítve van: „kozákká is, respublikává is”.</p>
                <p> Egy óriási nép, mely maga számára nézve annyi, mint a francia és a német együtt,
                   egy rettenetes ország, mely egyszerre Japánt, Kínát, Turkesztánt, Törökországot,
@@ -8658,7 +8831,8 @@
                   hogy nagyon sok az adóssága. Milyen egyszerűen lehetne rajta segíteni! Elfoglalni,
                   s aztán kifizetni a hitelezőit még egynehány milliárd új rubeljeggyel. Annak is
                   lehetne lekötni szilárd alapul például a Kárpátokat: azokban is van sok arany,
-                  ezüst, réz, vas és drágakő. Még jól járna az ország a meghódíttatással. – <hi>Likvidálna</hi> az új „directió” alatt.</p>
+                  ezüst, réz, vas és drágakő. Még jól járna az ország a meghódíttatással. – <hi
+                    >Likvidálna</hi> az új „directió” alatt.</p>
                <p> Van is elvbarátja a nihilisták nézeteinek elég. Ahol nincs, vesznek. Eladó
                   írótoll mindenütt van a világon. Az európai sajtónak egyharmad része az orosz
                   köztársaság magasztalásával foglalkozik. Azonkívül egy egész ligája a becsületes,
@@ -8724,7 +8898,8 @@
                <p> Hogy a szultán nagyvezérével igen jó barátságban állnak.</p>
                <p> Hogy a finnlandi erődöket, az egész keleti tengerpartot csaknem védtelenül
                   hagyták, s hadosztályaikat onnan mind a Visztula felé indítják, hogy mind a
-                  tizennégy elsőrangú váruk <hi>Sveaborg</hi>-tól <hi>Kercsig</hi> üresen van hagyva, hogy <hi>Pétervárát, Rigát</hi>
+                  tizennégy elsőrangú váruk <hi>Sveaborg</hi>-tól <hi
+                     >Kercsig</hi> üresen van hagyva, hogy <hi>Pétervárát, Rigát</hi>
                   csak az opolcsenia tartja megszállva.</p>
                <p> Hogy ellenben <hi>Bender, Odessa, Nikolajev, Varsó</hi> hemzsegnek
                   a minden fegyvernemű seregektől.</p>
@@ -8828,7 +9003,8 @@
                   pukkannak széjjel, amik keresztülszakítják a kaszamáták tömör boltozatait! Hát a
                   kézigránátok dinamittal töltve, miknek küldetésük a léggömbökből alászóratni, s
                   aztán ismét a <hi>Congrčve</hi>-röppentyűk, mik az ellenséges
-                  léggömbök felgyújtására vannak szánva! Hát a rémséges <hi>torpedók,</hi> folyamtorkolatok és tűzaknák számára alkotva! Hát e lövegeknek
+                  léggömbök felgyújtására vannak szánva! Hát a rémséges <hi
+                     >torpedók,</hi> folyamtorkolatok és tűzaknák számára alkotva! Hát e lövegeknek
                   hajítógépei: az arzenál térein orgonasípokként egymás mellé rakott ágyúcsövek,
                   ezerszámra! A félelmes revolverágyú a Coehorn-féle gőzmitrailleusök, mikből
                   szakadatlan vaszápor esik! Valóban, mikor ez ország hadvezérei végigsétálnak ez
@@ -8837,11 +9013,14 @@
                   csodagépek szerkezetéről, s felel kémiából, mechanikából, mértanból, mint egy
                   rigorosandus: akkor méltán ragyog az arcuk ettől a gondolattól: „hát csak hadd
                   jöjjenek azok a repülő lovasok!”</p>
-               <p> Az is előre látható volt, hogy a legközelebbi európai háború leginkább <hi>várharc</hi> fog lenni.</p>
+               <p> Az is előre látható volt, hogy a legközelebbi európai háború leginkább <hi
+                    >várharc</hi> fog lenni.</p>
                <p> Az osztrák hadászok siettek kipótolni a múlt század mulasztásait, s a birodalom
                   északi részét megerősítették.</p>
-               <p> A Krakkótól Czernoviczig vezető vasútvonal hosszában az orosz <hi>„Samaria” váracsláncolat</hi> lett utánozva. Sambor város táborhellyé
-                  alakíttatott át, egyelőre csak harcmezei erődítéssel; az egyes és kettős <hi>redánok,</hi> a hosszú courtinák, bastionok lettek nagy
+               <p> A Krakkótól Czernoviczig vezető vasútvonal hosszában az orosz <hi
+                     >„Samaria” váracsláncolat</hi> lett utánozva. Sambor város táborhellyé
+                  alakíttatott át, egyelőre csak harcmezei erődítéssel; az egyes és kettős <hi
+                    >redánok,</hi> a hosszú courtinák, bastionok lettek nagy
                   kerületben felhányva, miket ismét előretolt csillagsáncok védelmeztek; a fűrész
                   alakú bástyák árkai a Dnyeszter vizével megtöltettek; sánckarózat futott végig a
                   belső partokon, miken alacsony „poternek” búvajtói vezettek be; a mellvédek és
@@ -8863,7 +9042,8 @@
                   szabadban találja magát: nem veszt vele semmit.</p>
                <p> Tehát a Jagellók hajdani koronázási városa egészen más a XX. században, mint
                   aminek a XIX.-ben ismerték. Akkor is voltak ugyan már körüle egyes detachirozott
-                  váracsok, melyek rövid ideig tartó védelemre képessé tették, s a <hi>Wawel</hi> hegyi királyi várnak ágyúkkal fölszerelt bástyái voltak; palotáját
+                  váracsok, melyek rövid ideig tartó védelemre képessé tették, s a <hi
+                     >Wawel</hi> hegyi királyi várnak ágyúkkal fölszerelt bástyái voltak; palotáját
                   mint kaszárnyát használta egy ezred, rendesen magyar, gyalog sorkatona: hanem
                   történetünk korszakában már Krakkó elsőrendű erősséggé van emelve, amit indokolva
                   találunk abban a körülményben, hogy a tőle alig ötmérföldnyi távolban eső
@@ -8885,11 +9065,15 @@
                   a dicsőült hős harcolt. S a bielani hegytetőt, hol egykor a camaldulensisek
                   kolostora állt, most egy fellegvár koronázza; s a szép mulató erdő köröskörül ki
                   van irtva.</p>
-               <p> Az eltűnt nevezetességek helyett körös-körül a várépítészet <hi>polygonumai,</hi> mindenféle kombinációkban, szögletsáncok, előre ugró <hi>orillonjaikkal;</hi> a mély árkok a vízvezetők zsilipeit rejtő,
+               <p> Az eltűnt nevezetességek helyett körös-körül a várépítészet <hi
+                     >polygonumai,</hi> mindenféle kombinációkban, szögletsáncok, előre ugró <hi
+                    >orillonjaikkal;</hi> a mély árkok a vízvezetők zsilipeit rejtő,
                      <hi>batardeaux</hi> tornyokkal ellátva. Az erődítvények
                   kősáncaikkal, földváraikkal, mindig nagyobb terjedelemben tolattak előre; a
                   mérnöki számítás az előretolt védművet megint egy másik védművel látta jónak
-                  fedezni. Huszonöt év óta folytonosan mérik, építik, ássák a <hi>tenaillonokat,</hi> a<hi> contreface-okat,</hi> a<hi> lunetteket,</hi> a<hi> ravalinokat;</hi>
+                  fedezni. Huszonöt év óta folytonosan mérik, építik, ássák a <hi
+                     >tenaillonokat,</hi> a<hi> contreface-okat,</hi> a<hi
+                    > lunetteket,</hi> a<hi> ravalinokat;</hi>
                   tanulmányozzák a „holtszegleteket”, mikben a sáncágyúk az ostromlót nem érik,
                   huszonöt év óta tiltják a környék és a város lakóinak a mind nagyobb területet
                   elfoglaló <hi>enceintek, magistralék</hi> felé közelítést, miknek
@@ -8898,11 +9082,14 @@
                   „támadási homlokzat”, koronázott szarvműveivel mint egy bonyolódott abrakadabra
                   terjeszti előre észak felé rejtélyes zegzugait.</p>
                <p> Minden negyedik évben jött egy-egy új erődítési főnök, aki elődének intézkedéseit
-                  jónak látta tökéletesíteni, más beosztást tenni, az árkokat <hi>faussebraiékkel</hi> ellátni, az egyik <hi>Breisach</hi>
+                  jónak látta tökéletesíteni, más beosztást tenni, az árkokat <hi
+                     >faussebraiékkel</hi> ellátni, az egyik <hi>Breisach</hi>
                   rendszerét követte, a másik <hi>Landauét,</hi> a harmadik föld
                   alatti folyosórendszert kísérte meg; a negyedik <hi>Montalembert
                      emeletes kazamatáit</hi> vette alkalmazásba, az ötödik Chaseloup cavaliereit
-                  hozta be, mik a sáncokat még réstörés után is bevehetetlenné teszik, az ötödik <hi>Carnot</hi> tana után indult, egész sor <hi>redánokat</hi> állítva egymás mellé.</p>
+                  hozta be, mik a sáncokat még réstörés után is bevehetetlenné teszik, az ötödik <hi
+                    >Carnot</hi> tana után indult, egész sor <hi
+                     >redánokat</hi> állítva egymás mellé.</p>
                <p> A legutolsó időkben aztán, hogy be legyen fejezve a védmű, a külső redánok
                   kőfalait négyhüvelykes <hi>vaslemezekkel</hi> burkolták be, amiken
                   az ágyúgolyó át nem törhet,</p>
@@ -8926,7 +9113,8 @@
                   előtt lerakják, s így út nélkül is előreroboghatnak, az ellenséges hadtömegek
                   keresztültörésére szánva.</p>
                <p> S hogy a folyamokon átjárás meg legyen nehezítve, ott leskelődnek a Rudawa
-                  torkolatánál, ahol az a Visztulába omlik, az úgynevezett <hi>alligátorok.</hi> Ezek víz alatt járó búvárhajók, miknek feladata az ellenség
+                  torkolatánál, ahol az a Visztulába omlik, az úgynevezett <hi
+                     >alligátorok.</hi> Ezek víz alatt járó búvárhajók, miknek feladata az ellenség
                   által vert hajóhidakat szétszaggatni, hajóit elsüllyeszteni.</p>
                <p> És végül… húszévestől ötvenévesig minden férfi katona, és tartozik fegyverbe
                   állani. Ez is kétmillió harcos!</p>
@@ -9080,7 +9268,8 @@
                   fogadta. A nép hallgatott, szégyenlette magát.</p>
                <p> És még mindig nem Spanyolországról és nem Kuba szigetéről van szó, hanem
                   Németországról és az osztrák–magyar birodalomról.</p>
-               <p> Az orosz és francia diplomaták azt a tanácsot adták a spanyol <hi>becsületes emberek</hi> juntájának, hogy térjenek vissza ahhoz az eszméhez,
+               <p> Az orosz és francia diplomaták azt a tanácsot adták a spanyol <hi
+                     >becsületes emberek</hi> juntájának, hogy térjenek vissza ahhoz az eszméhez,
                   aminek megakadályozása annyi szerencsétlenségnek volt okozója a múlt században,
                   egy Hohenzollern trónba emelésére. Németország hatalmas állam, pénze is sok van;
                   tud segíteni a zilált viszonyokon, ha hozzáfog. Amit a múlt században a napóleoni
@@ -9241,7 +9430,8 @@
                   táborhely, ahonnan egyfelől a Dnyeszter-vonal megvédhető, másfelől a
                   Visztula-vonal erőszakolható. Krakkóban volt összpontosítva kétszázezer magyar
                   honvéd és újoncsorezred, mely intézkedéssel a generalissimus háromféle tervet
-                  üldözött. Az egyik cél az volt, hogy ilyen nagy összpontosított <hi>„magyar”</hi> haderő Magyarországtól jó messze eltávolíttassék, mert az
+                  üldözött. Az egyik cél az volt, hogy ilyen nagy összpontosított <hi
+                     >„magyar”</hi> haderő Magyarországtól jó messze eltávolíttassék, mert az
                   osztrák hagyomány még mindig nem hisz a magyarnak; a másik nézet szerint a
                   honvédet és az újonc katonát nem tartják a nyílt csatában helytállni képesnek, míg
                   a sánc mögött hasznát vehetik; a harmadik cél pedig az volt, hogy kétszázezer
@@ -9258,7 +9448,9 @@
                   honvédség, mintegy hatvanezer ember Bécs védelmére hagyva; a többi elosztva
                   Komárom, Olmütz, Temesvár erődítvényeiben.</p>
                <p> Európának minden nagy és középhatalma kötelezve volt Osztrák–Magyarországot
-                  fegyverrel is segíteni, azon esetben, ha bárki által fegyverrel <hi>megtámadtatnék.</hi> Azonkívül volt egy nagy és örök szövetségese: <hi>Lengyelország,</hi> melynek nemzetéből még most sem és sohasem
+                  fegyverrel is segíteni, azon esetben, ha bárki által fegyverrel <hi
+                     >megtámadtatnék.</hi> Azonkívül volt egy nagy és örök szövetségese: <hi
+                    >Lengyelország,</hi> melynek nemzetéből még most sem és sohasem
                   lehetett kiirtani hazájának mítoszi szerelmét, azt a fájó, vonagló érzést, mely
                   egy élve eltemetettet koporsója födelén zörgetni készt, hogy soha ne engedje a
                   fölötte pihenőket aludni. E nemes, szerencsétlen mártírnemzet, e halottaiból is
@@ -9297,7 +9489,8 @@
                   Orosz–Lengyelország oldalába, innen egyszerre keresztültörend a Visztulán, az
                   ellenséget döntő ütközetre kényszeríti; siker esetében, a lengyel fölkelőkre is
                   számítva, <hi>Zamoszk</hi> s<hi> Maziovicze</hi>
-                  várakat megszálló seregekkel körülzárolva, egyenesen <hi>Varsónak</hi> megy, és ha a varsó–czenstochowai vasútvonalat elfoglalhatja, az
+                  várakat megszálló seregekkel körülzárolva, egyenesen <hi
+                     >Varsónak</hi> megy, és ha a varsó–czenstochowai vasútvonalat elfoglalhatja, az
                   orosz hadsereget abba a helyzetbe hozza, amiben az 1870-i francia–német
                   hadjáratban voltak a franciák, hogy a két egymástól elválasztott nagy hadseregük
                   sohasem tudott egymással egyesülni, hanem mindegyik külön volt kénytelen
@@ -9338,7 +9531,8 @@
                   összesíté s az arnopoli vár fölött átszállítá a Visztulán, Lublin felé intézve egy
                   csapást, hogy ellenfelének elvágja az útját Varsó felé. – Oly nagy volt tervéhez
                   való bizalma, hogy még a krakkói honvédségtől is ideparancsolt 7 huszárezredet,
-                  csak egyet hagyva ottan, dacára a honvédsereg főparancsnoka, <hi>Dárday</hi> tábornagy ellenvéleményének. E hatalmas lovashadtest nem is talált
+                  csak egyet hagyva ottan, dacára a honvédsereg főparancsnoka, <hi
+                     >Dárday</hi> tábornagy ellenvéleményének. E hatalmas lovashadtest nem is talált
                   nagy ellenzésre, s haladhatott Lublinig, maga előtt tolva ötven-hatvanezer kurdot,
                   baskirt és kozákot.</p>
                <p> Ekkor megfordult – a szél.</p>
@@ -9347,7 +9541,8 @@
                   mocsárai mögül egy nagy felhő emelkedett fel. Egy, a szó minden értelmében
                   koromfekete felhő, mely messze elfogta a láthatárt, s a szél szárnyain látszott
                   közelíteni.</p>
-               <p> Tarnow és Bochnia között volt az osztrák tartalék báró <hi>Grundmann</hi> tábornagy vezérlete alatt.</p>
+               <p> Tarnow és Bochnia között volt az osztrák tartalék báró <hi
+                     >Grundmann</hi> tábornagy vezérlete alatt.</p>
                <p> Az a fekete felhő efelé hömpölyödött.</p>
                <p>
                   <hi>Nyolcvanezer orosz lovas egy tömegben!</hi> Minőt csak Attila
@@ -9536,7 +9731,8 @@
                   lefoglalását, mely a kormányt mindig ellátja hadikölcsönnel. (Hasonló követelést
                   nyilvánított már Grabov tábornok is 1866-ban ugyanazon indokoknál fogva.) Ebbe nem
                   egyeztek bele. Inkább Bécs romjai alá temetkezni!</p>
-               <p> Pár nap múlva aztán az orosz elit sereg élén megérkezett maga <hi>Sasza</hi> asszony, az „északi Semiramis”. Ő nagylelkű akart lenni, és ismerte
+               <p> Pár nap múlva aztán az orosz elit sereg élén megérkezett maga <hi
+                     >Sasza</hi> asszony, az „északi Semiramis”. Ő nagylelkű akart lenni, és ismerte
                   az illő courtoisie-t. Maga szabott olyan föltételeket, amiknek engedékenysége még
                   ellenfeleit is meglepte.</p>
                <p> Azok szerint az egész bécsi helyőrségnek minden fegyverrel, ágyúval és
@@ -9802,7 +9998,8 @@
                   a földre alá, mely esetben az a hegyén levő gyutacsok hatásától éppen a föld
                   színén robbant volna széjjel, akkor most, ahány ölet e csodarém lángszárnyai
                   átölelnek, annyi öl volna beterítve a földön halottakkal.</p>
-               <p> De a „fehér sasnak” <hi>öntudata</hi> van; az aerodromon azt <hi>mondta:</hi> „nem azért születtem, hogy százezrével öljem az
+               <p> De a „fehér sasnak” <hi>öntudata</hi> van; az aerodromon azt <hi
+                    >mondta:</hi> „nem azért születtem, hogy százezrével öljem az
                   embereket, hanem, hogy meggátoljam az emberölést”, s ezért fenn a magasban, a két
                   tábortól egyenlő távolban robbantá fel a „pusztítót” villámkanócával.</p>
                <p> Így is irtóztató volt a hatás. Tömérdek katona gyógyíthatlanul megsiketült, sok
@@ -9812,7 +10009,8 @@
                <p> Hanem emberélet nem oltatott ki!</p>
                <p> Az aerodromon pedig e magas emberszeretetével saját magát is veszélybe
                   döntheté.</p>
-               <p> Mikor Dárday a krakkói observatóriumból nézte az „égi harc” meseszerű <hi>jelenését,</hi> azt mondá: „Nézzétek! Én tudom, mi ez. Az a
+               <p> Mikor Dárday a krakkói observatóriumból nézte az „égi harc” meseszerű <hi
+                    >jelenését,</hi> azt mondá: „Nézzétek! Én tudom, mi ez. Az a
                   szegény góbé, aki azt a törhetlen üveget csinálja, ajánlotta fel nekem
                   honvédminiszter koromban az ő találmányát, a szabadon repülő gépet; most itt
                   van!”</p>
@@ -9905,7 +10103,8 @@
                   hogy minden előművet kellően megvédhessen, ha azok egyszerre minden oldalról
                   szuronnyal, lábtóval megtámadtatnak; még kevésbé lehet tudomása a „holt
                   szegletekről” és a „néma sétányokról”. Az első alatt értik a hadászok azokat a
-                  térségeket, miket az erődök ágyúinak kereszttüze érintetlen hágy<hi>,</hi> az utóbbi alatt pedig azokat a hozzájárulható utakat, amik nincsenek
+                  térségeket, miket az erődök ágyúinak kereszttüze érintetlen hágy<hi
+                     >,</hi> az utóbbi alatt pedig azokat a hozzájárulható utakat, amik nincsenek
                   aláaknázva. Ezek felől csak a táborkar főnökének van tudomása, s ezeknek
                   felhasználása mellett, számba véve az orosz harci nép halálmegvető vitézségét,
                   igen könnyen vissza foglalható lesz a táborhely egy rögtöni karcsapással.</p>
@@ -10603,7 +10802,8 @@
                <p> – De baj lesz azután azoknak, ahová a kimerült léggömbök majd a pokolgépeket
                   leejtik. Hátha éppen Pestre visz egyet a szél.</p>
                <p> – Az, úgy segéljen, igaz – kiálta fel egy félkezű tüzérezredes, kinek levágott
-                  fél karjának csonkja még mindig arról a pisztolylövésről <hi>álmodik,</hi> mellyel az ellenség lőporos váracsát légbe vetteté, még most is
+                  fél karjának csonkja még mindig arról a pisztolylövésről <hi
+                     >álmodik,</hi> mellyel az ellenség lőporos váracsát légbe vetteté, még most is
                   képzelik érzeni elszakadt idegei az ujjak görcsös szorítását. – Igaz az! Nem
                   szabad ez átkozott stratagémának másutt kárt csinálni, mint ott, ahol kigondolták.
                   A légbe fogjuk őket emelni, s akkor a repülő aerodromonok megragadják őket, s
@@ -10756,7 +10956,8 @@
                <p> A néger aztán felkelt és szólt.</p>
                <p> Ez a fekete arc és alak, abban a fénylő pikkelyhüvelyben olyan nagyon
                   emlékeztetett a rémmesék Salamandereire.</p>
-               <p> – Az érdemes gentleman helyesen szólt. Ő az én <hi>üzlettársam.</hi> Igenis, uraim. Önöknek a háború mesterség; nekem üzlet. Önök
+               <p> – Az érdemes gentleman helyesen szólt. Ő az én <hi
+                     >üzlettársam.</hi> Igenis, uraim. Önöknek a háború mesterség; nekem üzlet. Önök
                   harcolnak dicsvágyból, nemzetiségi gyűlöletből, király iránti hűségből,
                   hazaszeretetből, s ezért készek a más vérét is, a magukét is kiontani. Mi nem
                   ebből a szempontból fogjuk fel a háborút. Mi nem szomjazzuk az ellenség vérét. Ez
@@ -11102,8 +11303,10 @@
                   dort von der Höh’?”</p>
                <p> Egy napon pedig elfogadta a parlament a nihilisták által megkedveltetett római
                   házasságot: a polygamia successivát. Ez is nagy tetszésre talált. Kivált mikor
-                  aztán még azt a jót is összekötötték vele, hogy a törvénynek <hi>visszaható</hi> ereje is legyen. Minden nőnek joga legyen azon férfi nevét
-                  viselni, akinek élettörténete az övében valami tényleges <hi>epizódot</hi> képez. Ebből némely férfira és hölgyre nézve valóságos „embarras
+                  aztán még azt a jót is összekötötték vele, hogy a törvénynek <hi
+                     >visszaható</hi> ereje is legyen. Minden nőnek joga legyen azon férfi nevét
+                  viselni, akinek élettörténete az övében valami tényleges <hi
+                     >epizódot</hi> képez. Ebből némely férfira és hölgyre nézve valóságos „embarras
                   de richesses” támadt. S miután akadtak olyan bornírt férfiak, kik messze elmaradva
                   századunk szellemétől az ilyen <hi>névkisajátítást</hi> „brevi manu”
                   nem voltak hajlandók akárkinek megengedni, tehát az ebből támadt vitás kérdéseket
@@ -11124,26 +11327,34 @@
                   carina”. E műben összpontosítva volt minden, ami a közönség érzékeit csiklandozza,
                   minden, ami meglepő, ami kápráztató. A meséje is nagyon felizgató. Egy orosz cár
                   története, kit cárnéja megcsal, trónjáról letaszít, megölet; oly erős színekkel
-                  festve, aminőket csak a saját nemzete nagyságait gyűlölő <hi>önvér</hi> tud használni, oly keserűen gúnyolni az oroszt nem tudná más, mint
+                  festve, aminőket csak a saját nemzete nagyságait gyűlölő <hi
+                     >önvér</hi> tud használni, oly keserűen gúnyolni az oroszt nem tudná más, mint
                   maga az orosz. Sajátszerű izgalmas látvány ez; mikor egy ellenséges város
                   operaházában a színpadra hurcolt cári nagyság kigúnyolt tragédiájának a nézőtért
                   megtöltő orosz egyenruhák „bravó, bravissimo” kiáltással tapsolnak! – De még a
                   kiállítás is valami rendkívüli volt. Előjött benne a<hi>
-                     Néva-felszentelés,</hi> pompás egyházi menetével a jégen: <hi>Szentpétervár ünnepi kivilágítása,</hi> igazi műtűzjátékkal; <hi>fejedelmi szánkázás</hi> hózivatarban; egy török hárem a képzelem egész
+                     Néva-felszentelés,</hi> pompás egyházi menetével a jégen: <hi
+                     >Szentpétervár ünnepi kivilágítása,</hi> igazi műtűzjátékkal; <hi
+                     >fejedelmi szánkázás</hi> hózivatarban; egy török hárem a képzelem egész
                   melegségével alakítva; a<hi> dodolatánc,</hi> melyet a cárok
                   szigorúan eltiltottak, volt okuk rá, a leányok, akik azt táncolták (az utcán)
                   csupa virágokba voltak öltözve – és semmi egyébbe. Ezt itt igazi cserkesz
                   bajadérek táncolták. Be lett mutatva benne egy egész <hi>orosz
                      zenekar,</hi> ahol minden zenésznek egy olyan kürt van adva, mely csak
                   egyetlenegy hangot ad, s csak az üteny szerint fújja mindenik a maga hangját,
-                  mikor rá következik a sor (emberekből alkotott zenegép!) és aztán egy <hi>utcai harc,</hi> ahol igazi ütlegek osztatnak ki, valódi verekedő
+                  mikor rá következik a sor (emberekből alkotott zenegép!) és aztán egy <hi
+                    >utcai harc,</hi> ahol igazi ütlegek osztatnak ki, valódi verekedő
                   kozák comparseriával, s végül a<hi> slovetski szent kolostor nagy
-                     mirákuluma,</hi> a megelevenülő szentképekkel. Különösen elragadó volt az<hi> északfény</hi> természethű utánzása a színpadon
+                     mirákuluma,</hi> a megelevenülő szentképekkel. Különösen elragadó volt az<hi
+                    > északfény</hi> természethű utánzása a színpadon
                   villanykészülékkel. A közönség nem győzte magát telenézni rajta. De ami a
                   külpompát is elfeledteté, az az énekrészek bizarr beosztása volt. Sasza asszony
                   nagy birodalmában fölfedezett egy nőt, akinek tökéletes basszus hangja volt és egy
-                  férfit, a leggyönyörűbb női <hi>szoprán</hi> hanggal. Tehát a <hi>carina,</hi> a<hi> primadonna</hi> énekelte a <hi>mély</hi> hangot, és játszotta a férfias jellemű nő szerepét
-                  hozzá, a<hi> primo amoroso</hi> pedig a női <hi>magas</hi> partie-t a gyönge lelkű <hi>Péter cár</hi>
+                  férfit, a leggyönyörűbb női <hi>szoprán</hi> hanggal. Tehát a <hi
+                    >carina,</hi> a<hi> primadonna</hi> énekelte a <hi
+                    >mély</hi> hangot, és játszotta a férfias jellemű nő szerepét
+                  hozzá, a<hi> primo amoroso</hi> pedig a női <hi
+                     >magas</hi> partie-t a gyönge lelkű <hi>Péter cár</hi>
                   szerepében. Ez olyan bizarr ötlet volt, amit a világ egy színpadán sem fognak
                   utánuk csinálhatni.</p>
                <p> De volt is hatása a műnek. Mindennap azt adták, s mindennap fulladásig tömött
@@ -11157,7 +11368,8 @@
                   ülő becsületes hentesekkel és korcsmárosokkal és azoknak feleségeivel s a
                   parlamenti celebritásokkal s a római házastársnőkkel; s ha valamelyik magasrangú
                   úrhölgynek nem tetszett ez a társaság, s azt üzente a meghívásra, hogy migrénje
-                  van, azt Sasza asszony másnap személyesen meglátogatá. Sasza asszony maga is <hi>végzett doctrix medicinae;</hi> ő maga felvette a meglátogatott
+                  van, azt Sasza asszony másnap személyesen meglátogatá. Sasza asszony maga is <hi
+                    >végzett doctrix medicinae;</hi> ő maga felvette a meglátogatott
                   paciensnél a betegség diagnózisát, s elrendelte számára a követendő kúrát. És
                   Sasza asszony orvosi rendeletei nem olyanok voltak, amiket ha, akarom, beveszek,
                   ha akarom, otthagyok; ő mindent profilaktikus rendszerrel gyógyított; szabad
@@ -11178,7 +11390,8 @@
                   friss, meleg vérrel; de nem embertől, hanem báránytól való vérrel. És íme teljes
                   siker koronázta kísérletét. A haldokló föléledt; de nem tudott többé beszélni,
                   csak <hi>bégetett,</hi> mint a bárány. Íme tehát Sasza asszony ezzel
-                  bebizonyítá a tézist, mely fölött <hi>concertált,</hi> hogy az<hi> emberi lélek a vérben van; tehát az is agyag; az anyaggal együtt
+                  bebizonyítá a tézist, mely fölött <hi>concertált,</hi> hogy az<hi
+                    > emberi lélek a vérben van; tehát az is agyag; az anyaggal együtt
                      elváltozik;</hi> amivel a materialisták egész táborát rögtön meghódítá. Most
                   már több lett a világ előtt, mint uralkodónő, több mint hősnő: tekintély lett
                   belőle.</p>
@@ -11196,7 +11409,9 @@
                   kapott érte! (Nem a katonáktól, akik annyival többet koplaltak.)</p>
                <p> Csupán egy osztály volt még, amit nem tudott meghódítani: az újságírók. Ez makacs
                   egy had, ha a cenzor nem ül a nyakán. Felvásárolni nem lehetett őket. Az olyan
-                  nagy lapok írói, amiket a közönség elkényeztetett, megvehetetlenek. Nincs az a <hi>királyi zseb,</hi> amit valaki elfogadjon cserébe <hi>százezer ember zsebe</hi> helyett. – Sasza asszony nem nyomta el
+                  nagy lapok írói, amiket a közönség elkényeztetett, megvehetetlenek. Nincs az a <hi
+                    >királyi zseb,</hi> amit valaki elfogadjon cserébe <hi
+                    >százezer ember zsebe</hi> helyett. – Sasza asszony nem nyomta el
                   barbár hódítók szokása szerint a vele kötekedő hírlapokat: hanem talált ki
                   valamit, hogy az újságírók előtt azt a sok zsebet bezárja. Mindenben azon
                   törekedett, hogy <hi>a nők fölényét a férfiak fölött</hi>
@@ -11232,7 +11447,8 @@
                   nagyban rablás: mindez pyramidalis magasságra emelkedett, s a milliomosok úgy
                   támadtak elő, mint a gomba, s a Rothschildek és a hozzájuk hasonló ínséges
                   pénznagyságok kezdtek aggódni jövendő egzisztenciájuk miatt.</p>
-               <p> Egyszer Mazrur egy új vállalattal jelent meg a börzén. Ez a <hi>Wertheim-féle</hi> régi hírű tűzmentespénztár-készítő gyárnak részvénytársulat
+               <p> Egyszer Mazrur egy új vállalattal jelent meg a börzén. Ez a <hi
+                     >Wertheim-féle</hi> régi hírű tűzmentespénztár-készítő gyárnak részvénytársulat
                   által megvásárlása. Alaptőke hat millió forint. A börze nem értette, minek ez
                   Mazrurnak, hiszen jó hitelű iparvállalat, de mit akarhat vele? Itt akar-e
                   megtelepülni? Azért csak létrejött a részvénytársulat; maga Mazrur egymilliót írt
@@ -11253,7 +11469,8 @@
                <p> Már ő akkor megkapta a hírt a krakkói és czenstochowai megrendítő eseményekről. A
                   vakon táncoló Bécsben majd csak akkor tudják azt meg, ha a nihilisták utolsó
                   csapatja is kivonult onnan; addig senki sem kap levelet, még a követek sem.</p>
-               <p> Azokat elfogják a portyázók, s hasztalan lármázni érte. Hja, <hi>Messieurs, c’est la guerre.</hi>
+               <p> Azokat elfogják a portyázók, s hasztalan lármázni érte. Hja, <hi
+                     >Messieurs, c’est la guerre.</hi>
                </p>
                <p> Ekkor aztán Sasza asszony agyában egy régen érlelt terv mérge fakadt ki:
                   elhatározá, hogy ha mindent vesztenie kell, legalább ezt az egyet megteszi.</p>
@@ -11748,13 +11965,15 @@
                   Elmehetsz. Küldjétek hozzám Mazrurt: most én készítek haditervet.</p>
                <p> Odaküdték hozzá Mazrurt.</p>
                <p> – Te, Mazrur – monda neki Sasza asszony –, rögtön szekérre ülsz, s ahogy a ló
-                  vágtathat, ahogy a gőzmozdony rohanhat, sietsz Budára. Viszed magaddal a<hi> százmillió osztrák</hi>
+                  vágtathat, ahogy a gőzmozdony rohanhat, sietsz Budára. Viszed magaddal a<hi
+                    > százmillió osztrák</hi>
                   <hi>bankjegyet. –</hi> Itt a meghatalmazás részemről a nevedre;
                   nagykövetem vagy: ezúttal tárt karokkal fogadnak, mert a békeföltételeket viszed.
                   – Ezek kemény, szigorú, megalázó békepontok, minőket győztes ellenség diktál a
                   sarka alá gázolt ellenfélnek. Te rajta légy, hogy ennek minden pontja el legyen
                   fogadva. Nem adok semmi utasítást. Te ismersz ott minden embert. Minisztereket,
-                  hadvezéreket, udvaroncokat, főpapokat, népképviselőket, hírlapírókat. A<hi> kulcsot,</hi> mely mindannyinak az ajtaját kinyitja, magaddal
+                  hadvezéreket, udvaroncokat, főpapokat, népképviselőket, hírlapírókat. A<hi
+                    > kulcsot,</hi> mely mindannyinak az ajtaját kinyitja, magaddal
                   viszed. Te tudni fogod, mit tégy. Csak egyet parancsolok neked. Mikor visszajössz,
                   nekem az elvitt százmillióból egy rongyot vissza ne hozz, hanem ezt a békeokmányt,
                   változatlan szöveggel aláírva meghozod! Ezt parancsolom neked.</p>
@@ -12149,7 +12368,8 @@
                   kieressze-e a maga lengyel tartományait, hogy az egész egy darabban legyen, s ha
                   nem ereszti, ki vegye el tőle? Ausztria is odaadja-e hozzá Galíciát? Meddig
                   terjedjenek annak a határai? Belekerüljön-e abba <hi>Vörös- és
-                     Fekete</hi>-Oroszország s a litván öt vajdaságból alakult <hi>Fehér-</hi>Oroszország is?</p>
+                     Fekete</hi>-Oroszország s a litván öt vajdaságból alakult <hi
+                     >Fehér-</hi>Oroszország is?</p>
                <p> Ebből azután egy olyan geographicohistoricai veszekedés nőtte ki magát, hogy a
                   holdvilágnak kellett segítségül jönni, amidőn késő estére odáig jutottak, hogy a
                   tábori térképen a helyreállítandó Lengyelországnak a határait veres irallal
@@ -13066,7 +13286,8 @@
                <p> – Legyen a mi városunk neve: „Otthon”. Jó név nekünk, s az idegen könnyen
                   kimondja, csaknem az angollal azonos: „At home”.</p>
                <p> – Éljen! – zendült rá minden ajkról.</p>
-               <p> – Fiúk! – mennydörgött újra a honvédvezér oroszláni hangja. – Fel tehát a mi <hi>Otthonunkba! Nem lát bennünket többet Kutyabagos!</hi>
+               <p> – Fiúk! – mennydörgött újra a honvédvezér oroszláni hangja. – Fel tehát a mi <hi
+                    >Otthonunkba! Nem lát bennünket többet Kutyabagos!</hi>
                </p>
                <p> Az égretörő hahota koronázta meg a népkedély nyilatkozványát. Ez volt a
                   legnagyobb hatású szó. Amit Dávid beszélt, azt nem mind értették; de azt, hogy
@@ -13116,7 +13337,8 @@
                   délkeletnek ömlik alá, éppen egy elkészült szigetet talál a kiömlése előtt, melyet
                   már be is nőttek a fák. A sziget török neve Chedrile s az hosszú zátonyban
                   folytatódik a víz alatt. A Szulina-ág és a Szent György-Duna által képezett
-                  szigetet hívják Moisénak. A negyedik ág azután, aminek a neve <hi>Porticskája,</hi> egészen délnek halad, s nem is szakad a tengerbe, hanem maga
+                  szigetet hívják Moisénak. A negyedik ág azután, aminek a neve <hi
+                     >Porticskája,</hi> egészen délnek halad, s nem is szakad a tengerbe, hanem maga
                   emberségéből alkot egy nagy tavat, a Razint. Ezek a mi paradicsomunk határai.
                   Belül semmi ember mívelte föld. Egyetlen felszántani való hold sehol. Csupán a
                   Moise szigeten van egy emelkedettebb térség, nehány négyszögmérföldnyire: az
@@ -13240,7 +13462,8 @@
                   képeznek, sőt a nikkel és alumínium pénzeket is használhatjuk, becsületes
                   értékükre devalválva. Ez tehát mind nem terheli még a saját számlánkat.</p>
                <p> Mr. Severus lecsapta maga elé a tárcáját, elbámulva.</p>
-               <p> – De már látom, hogy lesz önből kereskedő! Kezd okulni. Tehát csináljunk itt <hi>stornót:</hi> írjuk a kárt a haszon rovatba. A föld egész
+               <p> – De már látom, hogy lesz önből kereskedő! Kezd okulni. Tehát csináljunk itt <hi
+                    >stornót:</hi> írjuk a kárt a haszon rovatba. A föld egész
                   berendezésével, töltésekkel, csatornákkal együtt nem kerül semmibe: a nyereség a
                   veszteséget kiegyenlíti. Mármost térjünk az építkezésekre. Ez iránt szeretném az
                   ön véleményét kiismerni. Ha fából építünk, akkor fát kell venni; ha kőből építünk,
@@ -13274,7 +13497,8 @@
                   nyereségből osztalékot ád, tartaléktőkét tesz félre, szállítóeszközeit szaporítja?
                   Mi?</p>
                <p> – Igen, az utóbbi módot akarom.</p>
-               <p> – S mennyi forgalmi tőkét szánt ön az üzlet megkezdésére? Vagy <hi>barattozás</hi> módjára akarja kezdeni: árukicseréléssel?</p>
+               <p> – S mennyi forgalmi tőkét szánt ön az üzlet megkezdésére? Vagy <hi
+                     >barattozás</hi> módjára akarja kezdeni: árukicseréléssel?</p>
                <p> – Nem. Készpénzzel fizetünk. Kell hozzá forgalmi tőke az első évben
                   négyszázmillió.</p>
                <p> – Ez tehát kerek ötszázmillió. Hol veszi ön ezt az ötszázmilliót?</p>
@@ -13732,7 +13956,8 @@
                   szállt alá. A hajóban ülőknek úgy tetszett, mintha a nap futna le oly sebesen az
                   égről, elbukva az aranyozott hegyormok alá. Percek múlva a gép földet ért; Dávid
                   felnyitá az ajtót, s a bámulására odacsődülő oroszok előtt földre segíté országuk
-                  úrasszonyát, ki vezéreinek e szóval mutatá be Tatrangi Dávidot: <hi>A Duna-delta szabad köztársaságának elnöke!</hi>
+                  úrasszonyát, ki vezéreinek e szóval mutatá be Tatrangi Dávidot: <hi
+                     >A Duna-delta szabad köztársaságának elnöke!</hi>
                </p>
                <p> S azzal kérte Dávidot, hogy nyújtsa karját, és kövesse őt társaival együtt a
                   vezéri szállásra a szerződési okmány elkészítése és aláírása végett.</p>
@@ -13741,7 +13966,8 @@
                   amihez Severusnak kedve is volt; de Dávid tiltakozott minden vendégség ellen.
                   Egyetlen pohár bor elég arra, hogy a magasban holtrészeggé legyen tőle az ember. A
                   légjáróknak nem szabad semmi szeszest inniok. És mára még nagy dolgaik vannak.</p>
-               <p> Társai tudták, hogy mik ezek a nagy dolgok; s otthagyták a lakomát. Dávid is <hi>fölterített</hi> már, s annak a vendégsége még jobban ingerlé
+               <p> Társai tudták, hogy mik ezek a nagy dolgok; s otthagyták a lakomát. Dávid is <hi
+                    >fölterített</hi> már, s annak a vendégsége még jobban ingerlé
                      az<hi> éhet: –</hi> az csupa ezüst és arany!</p>
                <p> Mielőtt elváltak volna, Sasza asszony tökéletes átváltozáson ment keresztül.
                   Legelőbb is átöltözött. Férfiból asszonnyá alakult.</p>
@@ -14412,7 +14638,8 @@
                   folyvást új eredményeket hoznak elő; amint a néppusztító hadjáratok óriási
                   történetét helyettesíteni kezdi a társadalmi élet nyüzsgő mozaikképe, mely
                   szakadatlan változatban sürg-forr a napi események hírtömegében: azzal lassankint
-                  elenyészik az emberiségnek egyik leggonoszabb kísértete, az utolsó démon, <hi>az unalom.</hi>
+                  elenyészik az emberiségnek egyik leggonoszabb kísértete, az utolsó démon, <hi
+                    >az unalom.</hi>
                </p>
                <p> A huszadik század közepén túl nem unhatják többé magukat az emberek. A napnak
                   minden óráját elfoglalja valami esemény, mely a szellemnek új izgalmat ad. Az
@@ -14841,7 +15068,8 @@
                   sokkal jobban van már, még sok örömet fog élni, amit az apa mind igen rossz néven
                   vett.</p>
                <p> – Te hallgass. Gyermek vagy. Nem is gyermek, csak embrió. Akkor fogsz még csak
-                  születni, ha én meghalok. Addig nálam van a lelked <hi>vital-geniusza.</hi> Ha én azt mondom, hogy „meghalok”, hát úgy lesz. A
+                  születni, ha én meghalok. Addig nálam van a lelked <hi
+                     >vital-geniusza.</hi> Ha én azt mondom, hogy „meghalok”, hát úgy lesz. A
                   Szenegál-parti négerek, ha rabszolgaságba jutnak, régen tudják már azt, hogy
                   hogyan kell akarva meghalni, minden öngyilkos erőszak nélkül. Azt mondják, én
                   akarok meghalni, és megteszik. A Wisconsini „Red Jaquet”, a rézszínűek főnöke,
@@ -14854,12 +15082,14 @@
                   visszatérek, hogy tudassam veled. Igenis, visszatérek. Az erős akarat előtt nincs
                   lehetetlenség. Ha ki tudtam szakítani a lelkemet magamból, mikor a
                   Gyilkos-völgyben az ichort kerested, s egy székely favágó alakjában naphosszant
-                  vezettelek, emlékezhetel rá, félkarja annak is ki volt törve; – azt <hi>önalakításnak</hi> nevezik – hát majd megtalállak én a nagyobb
+                  vezettelek, emlékezhetel rá, félkarja annak is ki volt törve; – azt <hi
+                    >önalakításnak</hi> nevezik – hát majd megtalállak én a nagyobb
                   távolból is. Eddig is többször volt nálad a lelkem, mint rendes lakhelyén: a
                   „glandula pinealis”-ban. Hanem neked még most rinocéroszidegeid vannak, azt
                   megérezni. Ha állandóul melletted leszek, majd hozzászokol a látáshoz. Akkor majd
                   tudatom veled azt, amit tudnod kell. Átleheltem már beléd a titkot, hogyan lehet a
-                  légben repülni; most még meg kell tudnom ennek a <hi>mithridatját:</hi> „hogyan kell a repülést lehetetlenné tenni”.</p>
+                  légben repülni; most még meg kell tudnom ennek a <hi
+                     >mithridatját:</hi> „hogyan kell a repülést lehetetlenné tenni”.</p>
                <p> Dávid csodálkozva tekintett az öregre, s az észrevette azt. – Látom, mit
                   gondolsz. Keresztüllátok rajtad. Te azt gondolod most magadban: íme egy szegény
                   őrült, aki haldoklik, s kétszeresen félrebeszél. De nem úgy van. Mi szerezte meg
@@ -15569,7 +15799,8 @@
                <p> Dehát Magyarországon semmi szó sem emelkedett az új állam mellett? Nem éreztek
                   itt <hi>hálát</hi> azok iránt, kik országukat a végveszélytől
                   megszabadíták? Nem éreztek <hi>büszkeséget,</hi> látva egy új
-                  növekedő kolóniát, mely nemzetök nevét híressé, hatalmassá tette? Nem éreztek <hi>rokoni szerelmet</hi> a vérükből való vér iránt? Nem féltek-e,
+                  növekedő kolóniát, mely nemzetök nevét híressé, hatalmassá tette? Nem éreztek <hi
+                    >rokoni szerelmet</hi> a vérükből való vér iránt? Nem féltek-e,
                   hogy összeütközés esetére ők törnek diribről darabra, mint egy drótozás tartotta
                   repedt fazék?</p>
                <p> Igenis: a nemzet, a nép, a közvélemény jó volt, bölcs volt, mint mindig.
@@ -15816,7 +16047,8 @@
                <p> Minden üzlet maradt a maga rendes kerékvágásában. A külföldi commanditok éppen
                   úgy folytatták működéseiket, mint eddig; azzal a (nagy) különbséggel, hogy e
                   válságos idő alatt készfizetés mellett történt minden adásvevés.</p>
-               <p> Dárday, mikor azt megtudta, hogy bankjegyeiket kitiltották az <hi>osztrák–magyar</hi> pénzpiacokról, s azután a többi európai s észak-amerikai
+               <p> Dárday, mikor azt megtudta, hogy bankjegyeiket kitiltották az <hi
+                     >osztrák–magyar</hi> pénzpiacokról, s azután a többi európai s észak-amerikai
                   piacokról is (másutt nem voltak forgalomban) első dühében represszáliákhoz akart
                   nyúlni; hanem aztán Severus és Tatrangi lecsillapították: üzleti dolgokban nem
                   szabad indulatba jönni. A financiákhoz nagyobb nyugalom kell, mint a teológiához.
@@ -15863,7 +16095,8 @@
                   kötelezettség az üzletváltók által hordozott hitelt egy időre megsemmisíté; ez
                   ötlet az volt, hogy ő az arany- és ezüstértéken kívül még egy harmadik valódi
                   nemes értéket is bevont a közforgalomba: ez a<hi> gyémántérték.</hi>
-                  Hiszen milliárdok hevernek gyémántokban. Most elkezdett a gyémánt szerepelni <hi>mint pénz,</hi> s pótolta egyrészben a váltókat. A papirosnál
+                  Hiszen milliárdok hevernek gyémántokban. Most elkezdett a gyémánt szerepelni <hi
+                    >mint pénz,</hi> s pótolta egyrészben a váltókat. A papirosnál
                   mindenesetre megbízhatóbb érték volt. Három aláírás sem kellett hozzá. Lejárta
                   napján beváltható volt, és kis helyen elfért belőle nagy összeg. Az üzletvilág
                   kezdett hozzászokni a gyémántpénzhez.</p>
@@ -16268,7 +16501,8 @@
                <p> – Nem, bajtársam, a filozófia sohasem szűnik meg. Még az arannyal szemközt sem.
                   Mi tartja össze a mi államunkat? A hatalom? Nem; hisz még csak fegyveres
                   rendőrségünk sincsen. A jog? Nem. Hisz még csak kódexre szedett törvénykönyveink
-                  sincsenek. <hi>A szokássá vált becsületérzés</hi> az<hi>,</hi> mely államunk egész alkotmányát képezi. Az a szokás, hogy
+                  sincsenek. <hi>A szokássá vált becsületérzés</hi> az<hi
+                    >,</hi> mely államunk egész alkotmányát képezi. Az a szokás, hogy
                   elég a kötelességet annak tudni, akinek terhe, hogy teljesítse azt, mielőtt az
                   sürgetné a teljesítésre, a kinek az ő kötelességéből haszna van. Ez a mi
                   kormányzásunk titka, ez a társadalmi együttlétünk életereje. Törjük meg ezt mi
@@ -16433,7 +16667,8 @@
                   közegészségi állapotokat gyökeresen megjavítandó nagyszerű csatornázásra. E
                   nagylelkűséget azonban a bank nem terjeszté ki Mazrurra, úgy érvelve, hogy
                   Mazrurnak csak azon esetben volt egy százalék megígérve a kincsekből, ha azoknak
-                  hollétét felfedezi. Ő azonban csak azt tudta megmutatni, hogy hol <hi>„voltak”,</hi> s annak felfedezése, hogy hol „vannak”, másnak az
+                  hollétét felfedezi. Ő azonban csak azt tudta megmutatni, hogy hol <hi
+                    >„voltak”,</hi> s annak felfedezése, hogy hol „vannak”, másnak az
                   érdeme. Az elutasított Mazrur fogadást tett, hogy e megtagadást drágán fogja
                   megfizettetni az egész országgal.</p>
                <p> Végül pedig Mr. Severus sem nyerte meg a maga se fél, se egész milliárdját.</p>
@@ -16478,7 +16713,8 @@
                <p> S ez a két veszély olynemű, hogy ellenük sem hatalom, sem tudomány nem segít.</p>
                <p> Hiszen Sonnenfels óta elég módszert találtak arra ki, hogyan szaporítható
                   egyáltalában a nép; hanem hogy különösen „egy” faj létszámának aránya hogyan
-                  emelhető a többi együtt lakó fajokéhoz képest, arra módszert <hi>keresni</hi> tilt a morál; <hi>találni</hi> a fiziológia.
+                  emelhető a többi együtt lakó fajokéhoz képest, arra módszert <hi
+                     >keresni</hi> tilt a morál; <hi>találni</hi> a fiziológia.
                   Iskolai nevelés, ösztöndíjak, literatúra, kormányzat által mehet végbe némi
                   átalakulás; de ez lassú processzus; s a világtörténet nem vár…</p>
                <p> A másik baj elhárítására megszüntetett az ichorgyár minden más célra való
@@ -16865,7 +17101,8 @@
                <p> Mindezen bajok megkerülésére vannak Dávidnak tervei; de azokat oly titokban
                   tartja, hogy még két igazgatótársának sem fedezte fel egészen. Azok csak annyit
                   tudnak, hogy mikor Tatrangi Dávid negyedévenkinti büdzséjét társainak bemutatja,
-                  abban rendesen egy tétel fordul elő, aminek ez a címe: <hi>Kin-Tseu.</hi> S e tétel után folyton szaporodó összegek, mik milliókra
+                  abban rendesen egy tétel fordul elő, aminek ez a címe: <hi
+                     >Kin-Tseu.</hi> S e tétel után folyton szaporodó összegek, mik milliókra
                   mennek, anélkül, hogy hasonló cím alatt valami fedezettel bírnának. Két társának
                   csupán annyit szokott Tatrangi mondani, ha e tételnél megállnak, hogy ez
                   „múlhatatlan szükség”; s majd megtudják, hogy mire való a tizedik évben, addig
@@ -16928,13 +17165,15 @@
                   irodalomban azt a könyvet, melyből a Kin-Tseu tartományról lehet valamit
                   megtudni.</p>
                <p> A tudós nyelvésznő, kinek az Otthon állam nagyszerű könyvtára rendelkezésére
-                  állott, addig kutatott annak kínai termében, a kínaiak által <hi>She-Khu-sti-shu-nak</hi> nevezett irodalmi gyűjteményében, míg rátalált a
+                  állott, addig kutatott annak kínai termében, a kínaiak által <hi
+                     >She-Khu-sti-shu-nak</hi> nevezett irodalmi gyűjteményében, míg rátalált a
                   keresett könyvre.</p>
                <p>
                   <hi>Ez Sze-ma-tsiang</hi> kínai történetíró munkájának egyik része,
                      <hi>a Szan-hoang-pen-ki.</hi> Ebben jön elő a Kin-Tseu tartomány
                   leírása.</p>
-               <p> A tudós nő ismerte <hi>Sze-ma-tsiang</hi> műveit, mikből már a <hi>Sze-ki</hi> több európai nyelvre, azok közt magyarra is le volt
+               <p> A tudós nő ismerte <hi>Sze-ma-tsiang</hi> műveit, mikből már a <hi
+                    >Sze-ki</hi> több európai nyelvre, azok közt magyarra is le volt
                   fordítva. Ez a legnevezetesebb történészük a kínaiaknak, ki e művében a mennyei
                   birodalom őstörténetét írta meg, kezdve azt kétezer évvel a keresztyén
                   időszámlálás előtt, s összegyűjtve mindazon krónikákat, amik a Heu-dinasztia
@@ -16952,18 +17191,22 @@
                <p> Hanem egy dolgot őszintén meg kell mondanunk.</p>
                <p> A tudós chinista nőnek nem volt türelme a bírálatokat is végigtanulmányozni,
                   amiket az európai és kínai tudósok a bölcs Sze-ma-tsiang műveiről írtak, különben
-                  tudta volna, hogy azok régóta különbséget tesznek e nagy író <hi>históriai</hi> munkái és <hi>regényes meséi</hi> között, s ha
+                  tudta volna, hogy azok régóta különbséget tesznek e nagy író <hi
+                     >históriai</hi> munkái és <hi>regényes meséi</hi> között, s ha
                   ezt tudta volna, akkor mindjárt eleve megmondja Rozálinak, hogy „asszonyom, ha
                   Sze-ma-tsiangtól akarsz valamit olvasni, vedd meg a <hi>Sze-ki</hi>
-                  utolsó köteteit, azok legkevésbé unalmasak; de a <hi>Szan-hoang-pen-kit</hi> ne kívánd olvasni, azt még nem fordította le senki,
+                  utolsó köteteit, azok legkevésbé unalmasak; de a <hi
+                     >Szan-hoang-pen-kit</hi> ne kívánd olvasni, azt még nem fordította le senki,
                   mert tele van olyan mesékkel, aminőknek kinyomtatásaért az ember Európában az
                   ,erkölcsrendőrséggel’ jön összeütközésbe”.</p>
-               <p> Ahelyett a tudósnő, amint megkapta a keresett könyvet, rögtön maga elé csapta <hi>a Nan pokuan-hoa-wei pion</hi> című szótárt, s hozzáfogott a
+               <p> Ahelyett a tudósnő, amint megkapta a keresett könyvet, rögtön maga elé csapta <hi
+                    >a Nan pokuan-hoa-wei pion</hi> című szótárt, s hozzáfogott a
                   fordításhoz.</p>
                <p> Akkor aztán, mint igazi nyelvtudós, nem látott többé maga előtt se poézist, se
                   morált; csak szótárt, nyelvtant és szókötést, s fordította a kínai alulról fölfelé
                   írt sorokat egymás után, nem törődve azoknak tartalmával.</p>
-               <p> A <hi>Szan-hoang pen-ki</hi> az elején leírja a <hi>Kin-Tseu</hi> tartomány hozzájárulhatlan határait; azután egész komolyan
+               <p> A <hi>Szan-hoang pen-ki</hi> az elején leírja a <hi
+                     >Kin-Tseu</hi> tartomány hozzájárulhatlan határait; azután egész komolyan
                   előadja annak természeti sajátságait, lefesti növényeit, állatait, a virágokat,
                   miknek kelyhében a virággal együtt élő és elhervadó madárka lakik, a gyümölcsöket,
                   miktől az ember szerelemittassá lesz; a rózsákat, mik nappal illatoznak, éjjel
@@ -16985,7 +17228,8 @@
                   nem feledő részletezéssel; az egy ország, tele olyan szép asszonyokkal, aminők az
                   egész mennyei birodalomban nem találhatók.</p>
                <p> Szól azután szerző a nép szokásairól.</p>
-               <p> Az istenséget ember alakban imádják. Éppen, mint a szomszéd országban, <hi>a Szi-Tsangban</hi> (mit az európaiak Tübetnek neveztek el). Egy
+               <p> Az istenséget ember alakban imádják. Éppen, mint a szomszéd országban, <hi
+                    >a Szi-Tsangban</hi> (mit az európaiak Tübetnek neveztek el). Egy
                   szép ifjú férfi a kin-tseuiak istene.</p>
                <p> De hol veszik ők a szép férfit, mikor náluk a fiúgyermeknek már születésekor
                   bezúzzák az orrát, hogy rút legyen, mint a többi?</p>
@@ -17228,18 +17472,22 @@
                   úszszárny helyett négy lábbal ellátva, hol a Hoang-Cio-Ja állat lakik, mely télen
                   hal, nyáron madár; hol a vízi <hi>tehenek</hi> kijönnek a tavakból
                   az igazi tehenekkel tülekedni, hol <hi>a honani</hi> repülő
-                  tekenősbékák a hegyormokon hallatják zivatarhirdető füttyentéseiket; hol a <hi>Xan-Tengi</hi> selyembogarak kész kelmévé szövik selyemszálaikat;
+                  tekenősbékák a hegyormokon hallatják zivatarhirdető füttyentéseiket; hol a <hi
+                    >Xan-Tengi</hi> selyembogarak kész kelmévé szövik selyemszálaikat;
                   hol a Huon-Fo Kien-i szarvas emberek föld alatti városokat építenek, s a Fe-Xe
                   fenevad, melynek emberfeje van, emberhúsra vadászik; hol a tyúkok toll helyett
                   gyapjút hordanak, s a <hi>Lúva</hi> madárral az emberek halakat
                   fogatnak; hol a <hi>vasdisznók</hi> tenyésznek, mik megtámadóik
                   ellen hegyes sertéiket fegyver gyanánt felborzolják; ahol a „napmadár”, a
                   csodaszép <hi>Fung-Hoang,</hi> melynek képét a kínai császárok
-                  címerükben viselik, élő testben található még, fészket rak és költ; hol a <hi>szuchueni</hi> páviánok az erdőkben az asszonyokra leskelődnek,
+                  címerükben viselik, élő testben található még, fészket rak és költ; hol a <hi
+                    >szuchueni</hi> páviánok az erdőkben az asszonyokra leskelődnek,
                   akik iránt emberi vágyakat éreznek (rettentő hybridum, ha sikerre vezetne), s ha
                   már a páviánok így, hát még az emberek magok! Holott fel van jegyezve, hogy a
                   kínai császárok sok száz év előtt a <hi>jang-kheu-fui</hi> hölgyeket
-                  vásárolták arany és gyöngy értéken, s azokból telt ki környezetük, kik közül a <hi>Ciam-Caják</hi> a felolvasó, írástudó hölgyek, a <hi>Tatujánák</hi> az énekelők és táncosnők, a<hi>
+                  vásárolták arany és gyöngy értéken, s azokból telt ki környezetük, kik közül a <hi
+                    >Ciam-Caják</hi> a felolvasó, írástudó hölgyek, a <hi
+                    >Tatujánák</hi> az énekelők és táncosnők, a<hi>
                      Sia-Aták</hi> pedig a konyhaművészet és csemegetár felügyelői voltak. És
                   mindezektől egy nagy földrengés egyszerre elzárta a mennyei birodalmat. Kijárás ez
                   országból csak a két folyam medrében van; s zuhatag ellen úszni ki tud? Még a hal
@@ -17628,7 +17876,8 @@
                <p> Most megkapta ős települőit. Kétszázezer lélek, erőteljes, egészséges férfi, nő,
                   gyermek, béke, szabadság és tiszta erkölcsök népe, kik közt nincs se rabszolga, se
                   kiváltságos úr, csupán önválasztotta vezérek: <hi>rabonbánok,</hi>
-                  és <hi>kádárok,</hi> kik a rendet fenntartják, s a <hi>perest oldók,</hi> kik bíráskodnak, s a pereket elintézik ős szokás, nem írott
+                  és <hi>kádárok,</hi> kik a rendet fenntartják, s a <hi
+                     >perest oldók,</hi> kik bíráskodnak, s a pereket elintézik ős szokás, nem írott
                   törvény szerint, kiknél nincs papi rend, nincs pozitív vallás; az Istent a nagy
                   természet elemeiben tisztelik: a napban és az örök tüzekben, mik hegyeik közt
                   égnek; a földben, mely szikláival védi, gyümölcseivel táplálja az ő népét; a
@@ -17846,7 +18095,8 @@
                   hírlapi úton küldhetett, s a tudósítások egyedül az Otthon világjegyekkel nyomott
                   lapjában jelentek meg.</p>
                <p> Mikor fognak visszatérhetni mindezek? Mikor jöhet ki az egész átköltözésre kész
-                  nemzedék? Erre bizonyos választ adott a vele szerződötteknek Dávid. – <hi>Abban az évben, mely az Otthon városa alapításától tizedik.</hi>
+                  nemzedék? Erre bizonyos választ adott a vele szerződötteknek Dávid. – <hi
+                    >Abban az évben, mely az Otthon városa alapításától tizedik.</hi>
                </p>
                <p> Tudta jól, hogy ez lesz a válságos év, melyben az ármány még egyszer megkísérti
                   majd felfordítani fejtetőre a világot, s felülkerekíteni bűnt, butaságot,
@@ -17902,7 +18152,8 @@
                   rabonbánokat, kik a székek rendjét fenntarták, a perestoldókat, kik igazságot
                   szolgáltattak, a kádárokat, kik a belbékét fenntartották s a horkászokat, kik a
                   közadót beszedték s a közszükségletre feloszták; végre a hét vezért magát, s a hét
-                  vezér a Tana-családból eredő fejedelmet, ki választása napján megtette a<hi> napvágást az égből esett karddal.</hi> Vezérválasztáskor még
+                  vezér a Tana-családból eredő fejedelmet, ki választása napján megtette a<hi
+                    > napvágást az égből esett karddal.</hi> Vezérválasztáskor még
                   dívott a szokás, hogy a vezérek karjaikat megszúrva, vérüket egy közös
                   áldozókehelybe csorgatták, s ez volt az eskü pecsétje.</p>
                <p> Mikor egy fejedelem elvénült, elméjében meggyengült, s látta azt, hogy népének
@@ -18048,7 +18299,8 @@
                   kézmű, az alacsony, széles nyugágy a legsimulékonyabb casses szövetű párnaival,
                   kelet-indiai minta, karcsú, kígyótekervényű mennyezetoszlopaival, a földtekét
                   emelő Atlasz mint óramű, genfi remekmunka. És szemben a nyugággyal, egy egész
-                  oszlopközt és annak boltozatát betölt egy művészi alkotású <hi>anaglyph:</hi> szobrász és festész pályakoszorús műve: emelkedett dombormű
+                  oszlopközt és annak boltozatát betölt egy művészi alkotású <hi
+                     >anaglyph:</hi> szobrász és festész pályakoszorús műve: emelkedett dombormű
                   márványból, melynek szobrai egyúttal ki is vannak festve, a háttér szintén egy
                   festett tájkép. Az anaglyph tárgya az a sokszor felhasznált mítoszi jelenet,
                   amidőn Páris, a juhász, válogat három istennő között, hogy melyiknek adja az
@@ -19141,14 +19393,16 @@
                   magának gyűjt, az mind a tiéd lehetne akkor”, ha az a századrésznyi hideg ész azt
                   nem kérdené: „de meddig?”</p>
                <p> A pavlovszki kastély félkör alakú oszlopzatos peristyllel pompázó épület.</p>
-               <p> Előtte van egy nagy kerek tó, fenyőkkel, borókabozóttal körülszegélyezve. <hi>Tíz lépcső vezet le a tó felszínéig.</hi> A lépcsők fehér
+               <p> Előtte van egy nagy kerek tó, fenyőkkel, borókabozóttal körülszegélyezve. <hi
+                    >Tíz lépcső vezet le a tó felszínéig.</hi> A lépcsők fehér
                   márványból vannak, s körös-körül futnak. Olyan e tó a kastély homlokzatáról nézve,
                   mint egy óriási acéltükör fehér zománckeretben.</p>
                <p> A kék alapon úszó hattyúpárok vonnak hosszú ezüstvonalakat.</p>
                <p> Egy dúsan aranyozott gondola sikamlik tova sirálykönnyűséggel a hattyúk között;
                   az evezők pihennek, csak a bíbor selyemvitorla, a szellőtől dagasztva, viszi előre
                   a karcsú járművet. E gondolában ülnek Alekszandra és Severus.</p>
-               <p> – Gyönyörű tó! – mond a néger. – Szebbet csak egyet láttam: az egyiptomi <hi>szultán</hi> (!) várkertjében.</p>
+               <p> – Gyönyörű tó! – mond a néger. – Szebbet csak egyet láttam: az egyiptomi <hi
+                    >szultán</hi> (!) várkertjében.</p>
                <p> – Mi szebb rajta? – szólt az asszony, a férfi vállára dűlve. – Kedvedért
                   előteremtem.</p>
                <p> – Ah, fölség, ahhoz minden hatalmad sem elég; a kairói tó szépsége abból áll,
@@ -20075,7 +20329,9 @@
                   visszatérítés ígérete nélkül. Megadom azt királyotok becsületszavában, kormányotok
                   honszeretetében, nemzetünk jobb jövőjében bízva.</p>
                <p> És most kérlek és kényszerítelek benneteket:</p>
-               <p> Állítsátok helyre a polgári békét az országban: béküljetek ki egymással, ne <hi>beszéljétek</hi> többé a belháborút; hanem <hi>cselekedjétek</hi> a külvédelmet.</p>
+               <p> Állítsátok helyre a polgári békét az országban: béküljetek ki egymással, ne <hi
+                    >beszéljétek</hi> többé a belháborút; hanem <hi
+                     >cselekedjétek</hi> a külvédelmet.</p>
                <p> És a Vaskaput eddigelé még csak hatszáz lábnyi magas gáttal zártam el. És tenger
                   támadt belőle Szerbia és Magyarország között: tenger, mely benneteket megvéd. Még
                   hátra van a két sziklafal háromezer lábnyi magaslata. Minden el van készítve
@@ -20816,7 +21072,8 @@
                   amire ez aztán az orosz sereg háta mögött folytatta rablóhadjáratát a Duna-part
                   vidéki román falvak ellen, amiknek lakossága, folytonos érintkezésben levén az
                   otthoni néppel, s annak kereskedelme által gazdagodván, nem ok nélkül volt
-                  gyanúsítható a magyarok iránti rokonszenvéről. Mazrur azt mondá, hogy a<hi> renegátokat</hi> még kegyetlenebbül kell büntetni! S az
+                  gyanúsítható a magyarok iránti rokonszenvéről. Mazrur azt mondá, hogy a<hi
+                    > renegátokat</hi> még kegyetlenebbül kell büntetni! S az
                   természetes, hogy minden ember renegát, aki a magyarral rokonszenvez, aki vele
                   kereskedést folytat, tőle vesz, neki elád, a nyelvéből három szót megtanul. Ez
                   olyan bűn, mintha valaki megtagadja a szentháromságot, s mahomedánná lesz.</p>
@@ -21152,7 +21409,8 @@
                   ordítva odább; őket is a rémület hajtotta.</p>
                <p> Ki az hát, akitől még az oroszlán is megrémül?</p>
                <p> Nem váratott magára. Két izmos, szőrös kar kétfelé hajtá a sűrűn nőtt
-                  pálmasudarakat, mintha nádberek volna, s előlépett a minden fenevadak <hi>cárja:</hi> a gorilla.</p>
+                  pálmasudarakat, mintha nádberek volna, s előlépett a minden fenevadak <hi
+                    >cárja:</hi> a gorilla.</p>
                <p> Irtózatos alak! Hat láb magas, mikor egyenesen áll; széles vállakkal és izmos
                   karokkal, minők az emberé; teste végig rőtbarna serteszőrrel fedve, és
                   állkapcsaiban oly hatalmas agyarak, minők a vadkané. Mellkasa széles, kidomborult;
@@ -21976,7 +22234,8 @@
                   csapódik, az ütődéstől a földi légkör élenye fellobbantja az üstökös egész
                   tömegét, mely nem lehet egyéb, mint csupa gyúlékony gáz. S ebben a világfelgyújtó
                   lángban a föld úgy meg fog olvadni, hogy olyan lesz, mint mikor a nap gyűrűjéből
-                  kirepült. Nem <hi>ítéletnap</hi> lesz az, hanem csak <hi>ítéletperc.</hi>
+                  kirepült. Nem <hi>ítéletnap</hi> lesz az, hanem csak <hi
+                    >ítéletperc.</hi>
                </p>
                <p> Az államszövetség igazgatótanácsa elég jól ismerte a veszélyt, mely az egész
                   földet fenyegeti, s gondoskodott annak elhárításáról.</p>
@@ -23181,7 +23440,8 @@
                   temetve benned, s nem járhatnánk a te fenséges titkaid országában többé!</p>
                <p> – Hozsanna!</p>
                <p> A fizika nem engedi, hogy oly gyönge hang, minő az emberiség összes kiáltása
-                  volna, a ritka világéteren át elterjedjen a közel csillagokig; de <hi>ezt az egy</hi> hozsanna kiáltást mégis meg kell engednie, hogy
+                  volna, a ritka világéteren át elterjedjen a közel csillagokig; de <hi
+                    >ezt az egy</hi> hozsanna kiáltást mégis meg kell engednie, hogy
                   elhatoljon szét a Tejút napkoszorújáig, a ködcsillagokig, a középponti napig. Az
                   ember újra visszakapta az eget!</p>
                <p> És másnap reggel visszakapta a napot.</p>

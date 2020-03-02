@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00691" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00691" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Fekete gyémántok : ELTeC edition</title>
-            <author>Jókai, Mór (1825-1904)</author>
+            <author ref="viaf:59084200">Jókai Mór (1825-1904)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -42,7 +44,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>Fekete gyémántok</title>
-                     <author>Jókai, Mór</author>
+                     <author>Jókai Mór</author>
                      <pubPlace>Szekszárd</pubPlace>
                      <publisher>Babits</publisher>
                      <date>1993</date>
@@ -52,7 +54,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>Fekete gyémántok</title>
-               <author>Jókai, Mór</author>
+               <author>Jókai Mór</author>
                <date>1870</date>
             </bibl>
          </sourceDesc>
@@ -224,7 +226,8 @@
                   s előtted áll a <hi>tegnapi</hi>.</p>
                <p>Valóban szükség volt óriási lakókra e földön, hisz nem járhatott volna azon más,
                   mint az egér, mely a bozóton átsikamlik, s a majom, mely az ágak tetején
-                  tovaszökell: ha nem lett volna annak a világnak <hi>mamutja</hi>.</p>
+                  tovaszökell: ha nem lett volna annak a világnak <hi
+                  >mamutja</hi>.</p>
                <p>A tegnap lakóit vastagbőrűeknek hívja a természetbúvár (pachydermis). A mostani
                   korba is származott át néhány faj az aprajából: az elefánt, a szarvorrú, a víziló,
                   a tapír, a bivaly, s az abessin meztelen kutya. Mind feketék; kevés serteszőrrel,
@@ -1011,7 +1014,8 @@
                   tudjuk, hogy ha mindezt másra bízná, először is tízezer forintot az igazgatásra
                   elfizetne, és másodszor még egy másik tízezer forintot fizetne rá az üzletére
                   “veszteség” cím alatt. Ezt értik, akik próbálták.</p>
-               <p>Hanem hát a gazda <hi>maga lát</hi> minden után, és <hi>érti</hi> a dolgát alaposan és van <hi>kedve</hi>
+               <p>Hanem hát a gazda <hi>maga lát</hi> minden után, és <hi
+                    >érti</hi> a dolgát alaposan és van <hi>kedve</hi>
                   az üzletéhez. Három dolog, ami ha együtt találtatik, azt mondják róla, hogy
                   “szerencse”.</p>
                <p>Pedig nem “szerencse”, hanem “önerő”.</p>
@@ -1047,9 +1051,11 @@
                   Mit idéz elő a <hi>hővillany-oszlop?</hi> És az a számtalan, csak a
                   beavatott előtt felfogható titokszerű üst, katlan, lombik és kemence, a sublimáló
                      <hi>üvegkályha</hi>, az átlátszó üvegbuzogányok, agyaggyűrűiken,
-                  Berzelius vegytani mérlege, Woulff <hi>kéklő-leszűrője</hi>, az <hi>élenyfúvó</hi> éterlámpa, a <hi>folyékony széneny
+                  Berzelius vegytani mérlege, Woulff <hi>kéklő-leszűrője</hi>, az <hi
+                    >élenyfúvó</hi> éterlámpa, a <hi>folyékony széneny
                      lehűtője</hi>, a <hi>villósűrítő cső</hi>, a kálium-kemence, a
-                     <hi>zöldlőmeszeny-csöveg</hi>, Marsh <hi>mirenykémlője</hi>, az elemvegybontó edények és mindezek között a
+                     <hi>zöldlőmeszeny-csöveg</hi>, Marsh <hi
+                     >mirenykémlője</hi>, az elemvegybontó edények és mindezek között a
                   legtitokszerűbb lény maga az, aki éjeket eltölt közöttük, vajon mi szüksége van
                   neki mindezekre?</p>
                <p>Más halandó ember, ha kifáradtan megtér napi munkájából, jólesik neki, ha
@@ -1417,7 +1423,8 @@
                   mosolygott hozzá! Sem arról nem volt tudomása, hogy mosolyog, sem arról, hogy
                   komolyan beszél. Egy vadember - az angyal stádiumában.</p>
                <p>Azt már tudja, hogy szép; de azt még nem tudja, hogy ez a szépség mit ér. Beszél
-                  olyan dologról, amit <hi>sejteni</hi> erény, de már <hi>tudni</hi> bűn.</p>
+                  olyan dologról, amit <hi>sejteni</hi> erény, de már <hi
+                    >tudni</hi> bűn.</p>
                <p>Mennyivel különböző a többi némberektől! Selyemben és mezítláb járóktól
                   egyformán.</p>
                <p>És amellett valóságos mintaképe a bibliai Évának. Nem amilyennek azt az
@@ -3200,7 +3207,8 @@
                   akkor én nem maradok, keressen magának más gyóntatót!” Hanem erről más jutott
                   eszébe. Ad vocem gyóntató!</p>
                <p>- De mondja meg nekem a grófnő, hogy amíg ön oly benső összeköttetésben áll ama
-                  bizonyos rémekkel, hogyan lehet az, hogy a grófnő éppen a múlt éjjeli <hi>ördögszombat</hi> zajából semmit sem hallott?</p>
+                  bizonyos rémekkel, hogyan lehet az, hogy a grófnő éppen a múlt éjjeli <hi
+                    >ördögszombat</hi> zajából semmit sem hallott?</p>
                <p>E kérdésre a grófnő fehér arcán két kerek piros folt jelent meg, s szemeit
                   zavarodottan süté le.</p>
                <p>A pap pedig folyvást élesen szögezte tekintetével, nem lehetett előle menekülni. A
@@ -4626,7 +4634,8 @@
                <p>- Feleségül akarom venni.</p>
                <p>A pap nagyot nevetett.</p>
                <p>- Ne nevess rajta, mert komolyan mondom!</p>
-               <p>- Jó! Hát komolyan beszélek róla. Először is nem értem azt, hogy minek <hi>neked</hi> a házasság. S ha megértettem, akkor nem értem azt,
+               <p>- Jó! Hát komolyan beszélek róla. Először is nem értem azt, hogy minek <hi
+                    >neked</hi> a házasság. S ha megértettem, akkor nem értem azt,
                   hogy minek viszed azt, akit feleségül akarsz venni, madame Risan intézetébe, ahol
                   nevelnek kitűnő sarjadékot a külvárosi színházak számára, de nem szerény
                   háziasszonyokat a homlokaik simaságára féltékeny férjeknek.</p>
@@ -5156,7 +5165,8 @@
                <p>Egy egész világrész, tele ismeretlen növényzettel, ismeretlen állatokkal és így
                   bizonyosan emberekkel is.</p>
                <p>A legünnepeltebb tudósok bizonyítják lételét, s merész hajósok egy századnál több
-                  idő óta törekesznek a jeges tenger úszó bércein keresztül, hogy e <hi>hatodik</hi> világrészbe eljuthassanak.</p>
+                  idő óta törekesznek a jeges tenger úszó bércein keresztül, hogy e <hi
+                    >hatodik</hi> világrészbe eljuthassanak.</p>
                <p>Lehet, hogy még egy <hi>hetedik</hi> is van, a déli földsarkon.
                   Maury kapitány felszólította az angol kormányt, hogy küldjön oda egy expedíciót, s
                   előadta kellő tudományos bizonyítással, hogy a barometrum állása szerint, mely a
@@ -5191,7 +5201,8 @@
                <p>Ha ez a hajó beszélni tudna!</p>
                <p>De valamit mégis tudott beszélni.</p>
                <p>A bal oldala teli volt ragadva csigákkal. Valószínűleg egy időre zátonyra jutott,
-                  s míg onnan újra kiszabadította a dagály, ragadtak oldalpalánkjaiba a csigák. <hi>Murex</hi> fajok voltak. Azok pedig tengeri növénnyel élnek.
+                  s míg onnan újra kiszabadította a dagály, ragadtak oldalpalánkjaiba a csigák. <hi
+                    >Murex</hi> fajok voltak. Azok pedig tengeri növénnyel élnek.
                   Tehát ahol ez a hajó járt, ott már csigák vannak és tengeri növényzet. Ott már nem
                   fagy be a tenger soha.</p>
                <p>És még egy tanút hozott magával: egy madárfészket. Azon a fészken egy anyagólya
@@ -5240,7 +5251,8 @@
                <p>Oly rettenetes egyedül, hogy mikor egyszer Kane nyakát egy szőrszál csiklandani
                   kezdte, örömmel nyúlt utána, azt hitte, bolha. Megörült neki, hogy van még rajta
                   kívül állat a semmiségnek ez országában. Hiú öröm! Még ez az utolsó hű kebelbarát
-                  is elhagyta itt az embert. Nem lakik itt más, csak a <hi>Semmi</hi>.</p>
+                  is elhagyta itt az embert. Nem lakik itt más, csak a <hi
+                  >Semmi</hi>.</p>
                <p>S milyen szeszélyes alakításokat teremt a <hi>Semmi </hi>mindabból a
                   Valamiből, amit vakmerő emberek idehoztak az ő országába?</p>
                <p>Mivé lesznek az élelmiszerek?</p>
@@ -5321,7 +5333,8 @@
                   látogatójegyeit egy meg nem nevezett világnak az óvilág kapujában. A tenger felett
                   ismeretlen madarak csoportjai röpködtek.</p>
                <p>E tengeröbölt a <hi>Peabody-öböl</hi> név alatt jegyzék fel a
-                  földrajzon a tudósok, s a csatornát, mely ez öbölhöz a jégen át vezet, <hi>Kennedy csatornájának</hi>. A pont, hol Kane és társai azt
+                  földrajzon a tudósok, s a csatornát, mely ez öbölhöz a jégen át vezet, <hi
+                    >Kennedy csatornájának</hi>. A pont, hol Kane és társai azt
                   fölfedezték, 82°, 2’ alatt fekszik az északi szélességnek, nem egész nyolc foknyi
                   távolban a föld éjsarkától. S mert a pólusoknál a földgömb be van lapulva, a fokok
                   hossza rövidebb. A földsark onnan már talán csak tíz napi járó!</p>
@@ -5365,7 +5378,8 @@
                <p>A föld azt mondja: “Nem! Én élni fogok az örökkön örökké való időkig!”</p>
                <p>A földnek van saját hatalma, mit nem kér sem a naptól, sem a firmamentumtól
                   kölcsön: <hi>a delej, a villany</hi>.</p>
-               <p>Az az ő <hi>tulajdona</hi>. A többi bolygóknak is van. A <hi>Jupiternek</hi>, a <hi>Vénusznak</hi>
+               <p>Az az ő <hi>tulajdona</hi>. A többi bolygóknak is van. A <hi
+                    >Jupiternek</hi>, a <hi>Vénusznak</hi>
                   ön-delejfényét távcsöveink rég hírül hozták, a polaroszkóp kétségtelenné
                   tette.</p>
                <p>S ez a hatalom, a föld deleje, annál magasabbra fejlődik, minél jobban kihűl. Az
@@ -5421,7 +5435,8 @@
                <p>Hogyan került volna oda?</p>
                <p>Hát aki megmondja nekem, hogyan került Amerikába az <hi>azték</hi>,
                   a <hi>rézszínű</hi>, Polinéziába a <hi>hottentot</hi>,
-                  a karibi szigetekre az <hi>indián</hi>, ki vitte őket oda és <hi>“honnan”</hi>, annak majd megmondom én is, hogyan került a
+                  a karibi szigetekre az <hi>indián</hi>, ki vitte őket oda és <hi
+                    >“honnan”</hi>, annak majd megmondom én is, hogyan került a
                   földsarki szigetre az ottlakó ember. Mert sziget minden darab föld e planétán. A
                   víz a földteke felszíne.</p>
                <p>Hogy pedig tökéletesebb az ottani ember, mint mi, annak az első oka az, hogy
@@ -5487,7 +5502,8 @@
                <p>S mert utazni, terhet szállítani ott van az istenadta lég, nem vesződnek azzal,
                   hogy az áldott földre hosszú vonalakon kőhalmazokat rakjanak, miket mi utaknak
                   nevezünk, hanem engedik annak minden foltját zöldülni, kenyeret teremni.</p>
-               <p>A légbe emelkedés, a <hi>röpülés</hi> feltalálásával <hi>lehetetlenné</hi> lett minden <hi>háború</hi>. A
+               <p>A légbe emelkedés, a <hi>röpülés</hi> feltalálásával <hi
+                    >lehetetlenné</hi> lett minden <hi>háború</hi>. A
                   legnagyobb hadsereget, mely kívülről ágyúkkal, monitorokkal törne be e nép
                   határán, szétvernék, tengerbe fojtanák, villámokkal agyonpaskolnák a légből, és
                   anélkül, hogy egyetlen rendes katonát tartanának hozzá; ott nincs harci dicsőség,
@@ -5496,7 +5512,8 @@
                <p>Ebből természetesen következik, hogy <hi>hódító zsarnokok
                      sincsenek.</hi> Ki tudna egy népnek fejére ülni, mely röpül?</p>
                <p>Még az igavonó barmok szolgasága is megszűnt náluk. A villanydelej ekét hajt,
-                  kévéket út nélkül hazaszállít; mozderőnek szolgál kicsiben és nagyban; <hi>a jármot elvetették</hi> ott már, mint haszontalan
+                  kévéket út nélkül hazaszállít; mozderőnek szolgál kicsiben és nagyban; <hi
+                    >a jármot elvetették</hi> ott már, mint haszontalan
                   barbáreszközt.</p>
                <p>Ártó állat, dúvad ellen sem kell fegyver. Ami volt, azt kiirtották, s kívülről nem
                   jöhet hozzájuk. Nagyon erős fala van országuknak.</p>
@@ -5559,7 +5576,8 @@
                <p>Azután az államé minden gyár, bánya, összpontosított erőt követelő iparműhely,
                   azokból él és hatalmas, mint amilyen gazdag és hatalmas nálunk Rothschild,
                   anélkül, hogy valami törvénybe volna iktatva a civillistája.</p>
-               <p>Tehát itt nincs <hi>börzeszédelgés</hi>, nincs <hi>bukás</hi>, nincsenek milliomosok, kiknek fölösleges pénze az erkölcsökben
+               <p>Tehát itt nincs <hi>börzeszédelgés</hi>, nincs <hi
+                     >bukás</hi>, nincsenek milliomosok, kiknek fölösleges pénze az erkölcsökben
                   vásárt üssön, az asszonyokat fényűzőkké, a férfiakat sóvárokká tegye. De koldusok
                   sincsenek. Milliomos csak az állam, szegény csak a miniszter.</p>
                <p>Hát házaik milyen legyenek? Hát ők építkeznek-e?</p>
@@ -5628,7 +5646,8 @@
                   Míg a mi tehetetlen széntüzünknél hutáink akkora refraktort sem bírnak kiállítani,
                   mely az ötvenezer mérföldnyi közelben járó holdat annyira látkörünkbe hozza, hogy
                   embermagasságnyi tárgyakat kivehessünk rajta, azalatt ők a végtelenig fokozható
-                  villanytűzzel oly óriási nagyítótükröket állítottak elő, mikben a <hi>Sirius</hi> úgy jön fel, mint a delelő nap, a csillag-ködfoltok
+                  villanytűzzel oly óriási nagyítótükröket állítottak elő, mikben a <hi
+                    >Sirius</hi> úgy jön fel, mint a delelő nap, a csillag-ködfoltok
                   mint új világrendszer, s a szomszéd planéták lapja előttük áll, mintha az ég
                   helyett egy új földboltozat függne odafenn. És akik látják ez óriási
                   nagyítótükrökben a szomszéd planétát megnépesülve ugyanolyan emberi alakokkal,
@@ -5638,9 +5657,11 @@
                   idehozott csillagzaton; kell-e azoknak pap? Kell-e templom? Kell-e hit vagy
                   reveláció?</p>
                <p>Ők nem <hi>“hiszik”</hi>, hogy van Isten, van lélek, van túlvilág,
-                  van örök élet; ők <hi>“tudják”</hi> már, hogy <hi>van!</hi>
+                  van örök élet; ők <hi>“tudják”</hi> már, hogy <hi
+                     >van!</hi>
                </p>
-               <p>Kell-e ott erényt, szorgalmat, hűséget, jóságot <hi>“prédikálni”?</hi>
+               <p>Kell-e ott erényt, szorgalmat, hűséget, jóságot <hi
+                     >“prédikálni”?</hi>
                </p>
                <p>Nem. Az éjsark alatt <hi>nincsen pap.</hi>
                </p>
@@ -5886,7 +5907,8 @@
                   Ivánt e bűvös kelepcéből.</p>
                <p>- Igaz, grófnő, hogy ahol csak élet van a földön, ott rokonszenv és ellenszenv
                   egyenlően jogosult. A grófnő tanulmányozta a delejességet. Olvasott annak
-                  pólusairól. Ugyanott bizonyosan azt is olvasta, hogy a delejnek <hi>egyenlítője</hi> is van, egy vonal, mely sem nem dél, sem nem éj. A magnetikus
+                  pólusairól. Ugyanott bizonyosan azt is olvasta, hogy a delejnek <hi
+                     >egyenlítője</hi> is van, egy vonal, mely sem nem dél, sem nem éj. A magnetikus
                   ekvátor. Ott a delej sem vonz, sem taszít. Ott nyugalom van. Ilyen delej ekvátort
                   minden ember visel szívében, s ha gyűlöletben és szeretetben a legnagyobb
                   szökéseket teszi is szenvedélye, ez a vonal változatlan marad, s akik az alatt
@@ -5965,7 +5987,8 @@
                <p>- Hanem érdekes ország lehet - folytatá Salista őrgróf a harcelírozást. - Minden
                   ember egy leydeni villanyos palack, csak úgy jön ki belőle a szikra, ha duellálni
                   megyünk, nem viszünk magunkkal pisztolyt, csak a kezemet nyújtom ki ellenemre.</p>
-               <p>- S akkor betelik a <hi>példabeszéd</hi>, hogy még a kezed is <hi>elsül</hi>.</p>
+               <p>- S akkor betelik a <hi>példabeszéd</hi>, hogy még a kezed is <hi
+                    >elsül</hi>.</p>
                <p>- A példabeszéd ugyan határozottan “disznólábat” említ - szólt nevetve a kapitány
                   -, de elviselem a karambolt, amire magam adtam az “aufsitzer”-t.</p>
                <p>- Hanem az még érdekesebb lehet ott, hogy ha az ember az utcán szivarra akar
@@ -6322,7 +6345,8 @@
                <p>Iván nem hagyta el.</p>
                <p>Jó az a cotillon, még ha magyar is, avégre, hogy az ember nem hagyhatja el
                   egymást, mikor akarja.</p>
-               <p>Egy fiatal gentleman érkezett ezalatt Ivánhoz, egyike a kártyaasztal melletti <hi>néma személyeknek</hi>, s odasúgott neki:</p>
+               <p>Egy fiatal gentleman érkezett ezalatt Ivánhoz, egyike a kártyaasztal melletti <hi
+                    >néma személyeknek</hi>, s odasúgott neki:</p>
                <p>- Ödön üzeni, hogy gyere már vissza; minden pénzedet elvesztette, amit ott
                   hagytál.</p>
                <p>- Jól tette - mondá Iván, s kivéve tárcáját zsebéből, odanyújtá azt ifjú
@@ -6495,7 +6519,8 @@
                   lehet.</p>
                <p>Hanem aki azután meggyőzte Angela grófnőt afelől, hogy Iván nem beszélt senkinek a
                   balesetről, az unokabátyja volt, Ödön gróf.</p>
-               <p>- Téged Berend kísért hazáig? (Már nem nevezték mágnes lovagnak, már nem <hi>tréfáltak</hi> vele.)</p>
+               <p>- Téged Berend kísért hazáig? (Már nem nevezték mágnes lovagnak, már nem <hi
+                    >tréfáltak</hi> vele.)</p>
                <p>- Igen.</p>
                <p>- Neked ez a kíséret kellemes volt?</p>
                <p>- Honnan gondolod? - kérdé Angela hevesen.</p>
@@ -7032,7 +7057,8 @@
                   társaságokkal, Árpádnak pedig azonnal válaszol, kérve, hogy őt mindennap tudósítsa
                   arról, amit Evelinától megtudhat a kőszéntárna érdekében...</p>
                <p>E naptól kezdve minden héten két-három levelet kapott Iván Bécsből.</p>
-               <p>“Az öreg herceg már pedzi a horgot. Kaulman maga vezette be őt a madame <hi>tündérpróbáira</hi>.</p>
+               <p>“Az öreg herceg már pedzi a horgot. Kaulman maga vezette be őt a madame <hi
+                    >tündérpróbáira</hi>.</p>
                <p>Evelina úgy játszik, énekel, varázsol, mikor négy fal között van, s csak
                   ketten-hárman látják, hogy ha a színpadon is így tudna, világhírű művésznő válnék
                   belőle. De amint a proszcénium lámpái elé lép, trémát kap, elfelejt mindent, tuskó
@@ -7040,7 +7066,8 @@
                <p>Pedig az a titulusa a <hi>tündérpróbáknak</hi>, hogy a műértő herceg
                   győződjék meg a talentumáról s eszközölje ki a szerződtetését az operához.</p>
                <p>Én tudom, hogy mi az igazi cél!</p>
-               <p>A herceg nemcsak <hi>műértő</hi>, hanem <hi>szakértő</hi> is.</p>
+               <p>A herceg nemcsak <hi>műértő</hi>, hanem <hi
+                     >szakértő</hi> is.</p>
                <p>Ő tudja, hogy mi lehet az ára olyan két szép fekete gyémántnak, mint Evelina
                   szemei?</p>
                <p>Hozzájárul még az az inger is, hogy Waldemár herceg őrülten szerelmes ebbe az
@@ -7056,7 +7083,8 @@
                   boldogít engemet, az utolsó jut Félix barátomnak.</p>
                <p>A fotográftól pedig elveszik a matricát.</p>
                <p>Hát én pedig nem adtam el a fényképeket Waldemár hercegnek, hanem inkább elküldöm
-                  neked, ahogy következnek egymás után. A mama úgysem szereti az <hi>ilyen</hi> képeket a háznál.”</p>
+                  neked, ahogy következnek egymás után. A mama úgysem szereti az <hi
+                     >ilyen</hi> képeket a háznál.”</p>
                <p>
                   <hi>* * *</hi>
                </p>
@@ -7368,7 +7396,9 @@
                   szemmértékezésből, hogy ellenfelének szokatlan hosszú karja van.</p>
                <p>Iván nem védte a hasvágást, felemelte előtte a karját, elhagyta ellenfele vágását
                   a teste előtt suhanni két vonalnyi távolban az eleven bőrétől, s ahelyett
-                  visszavágott neki, s ugyanoda, ahol először vágott a karjára <hi>hosszában</hi>, oda szabott egy másodikat <hi>keresztben</hi>.</p>
+                  visszavágott neki, s ugyanoda, ahol először vágott a karjára <hi
+                     >hosszában</hi>, oda szabott egy másodikat <hi
+                  >keresztben</hi>.</p>
                <p>Itt van a kettő <hi>“előre”!</hi>
                </p>
                <p>A keresztvágás által ami különbség volt izomerőre nézve a két férfi között,
@@ -7404,7 +7434,8 @@
                <p>- Katonadolog! - viszonzá helyettük Salista. - Ilyent százat osztottam én másnak.
                   Ideje, hogy én is kapjak egyet. Fel sem veszem. Hanem valami fáj mégis nagyon,
                   amit sem árnika, sem jégburok meg nem enyhít. Amit csak te gyógyíthatsz meg, aki
-                  adtad. Valld meg, igaz hitedre, hogy voltál te valaha <hi>katona</hi>.</p>
+                  adtad. Valld meg, igaz hitedre, hogy voltál te valaha <hi
+                     >katona</hi>.</p>
                <p>- Hát hogyne lettem volna! - mondá Iván. - Huszárhadnagy voltam a szabadságharc
                   alatt.</p>
                <p>- No hát vigyen el az ördög, mért nem tudtad azt hamarább mondani? Micsoda
@@ -7539,7 +7570,8 @@
                   Ivánnak a karját.</p>
                <p>- De biz abból semmi sem lesz, hogy te most közülünk megszökjél. De ilyen jó
                   cimborát ily könnyen el nem eresztünk. Éppen most, mikor te vagy a szezon lionja.
-                  Innen ugyan el nem távozol. Te vagy köztünk most az <hi>“Ehren-Praeses”</hi>.</p>
+                  Innen ugyan el nem távozol. Te vagy köztünk most az <hi
+                     >“Ehren-Praeses”</hi>.</p>
                <p>Iván erre elmosolyodott. Szelíd szarkazmus, csendes, ironikus bánat, férfias
                   keserűség volt mosolyában s azt mondta Eduárdnak halkan:</p>
                <p>- Köszönöm, bajtárs, a megtiszteltetést. De nem való vagyok én “Barataria
@@ -7923,7 +7955,8 @@
                <p>Zsurnalisztikai reklámok, “Beküldetett”-ek veszteni kezdik már hatásukat. Minden
                   ember tudja ezt a mesterséget.</p>
                <p>“Isten áldása Kaulmannál! Ki vesz hamburgi sorsjegyeket?”</p>
-               <p>Az élcet kezdik érteni. Az utóragban az élc, hogy: “nál” <hi>van</hi> ugyan, de “tól” nem <hi>jön</hi> az áldás.</p>
+               <p>Az élcet kezdik érteni. Az utóragban az élc, hogy: “nál” <hi
+                     >van</hi> ugyan, de “tól” nem <hi>jön</hi> az áldás.</p>
                <p>Hanem hát sok új <hi>dolog</hi> van még a nap alatt.</p>
                <p>Mikor Félix azt a <hi>szívességet</hi> tette Ivánnak, hogy vitt neki
                   egy felügyelőt, beszélgetés közben meglátott az asztalán egy darab szénlapot,
@@ -8029,7 +8062,8 @@
                   részvényeiket. A certificátokat nagy ázsióval ragadozzák ki egymás kezéből: hanem
                   még részvényt nem lát a börze. Hanem a kurzus jegyzi szépen a “pénz” és “áru”
                   rovatokat.</p>
-               <p>A tapasztalt emberek tudják, hogy ez csak színpadi háború, hogy aki <hi>igazi pénzt</hi> akar adni, kaphat annyi részvényt al pari a
+               <p>A tapasztalt emberek tudják, hogy ez csak színpadi háború, hogy aki <hi
+                    >igazi pénzt</hi> akar adni, kaphat annyi részvényt al pari a
                   kútfőnél, amennyit csak parancsol; s a contremine csak leskelődik, hogy mikor
                   csapjon az agitátorok közé, mikor verje le egyszerre parin alul a vállalat
                   részvényeit, hogy azután akkor vásárolja őket össze csúf áron, s azután nőhetnek
@@ -8859,7 +8893,8 @@
                   semmit.</p>
                <p>Az eltávozottak s az újon szerzettek között csak az volt a különbség, hogy azok
                   nyíltan megmondták, hogy nem <hi>akarnak</hi> tenni semmit, ezek
-                  pedig mutatták, hogy igyekeznek valamit tenni, de nem <hi>lehet</hi>; tolnák előre a dolgot, de ha <hi>nem megy</hi>.</p>
+                  pedig mutatták, hogy igyekeznek valamit tenni, de nem <hi
+                  >lehet</hi>; tolnák előre a dolgot, de ha <hi>nem megy</hi>.</p>
                <p>A posztóviselő osztálynál nem kapni meg, amit keresnek az állambölcsek.</p>
                <p>Máskor legalább meg volt ellensúlyozásul a selyem- és bársonyviselő osztály; a
                   díszmente és a reverenda, a főúr és a pap. Most azok is távol maradnak.</p>
@@ -8929,7 +8964,8 @@
                </p>
                <p>Egy szombati napon meglátogatta Ivánt Rauné úr. Elmondta röviden látogatásának
                   célját. A Bonda-völgy lakóinak több szomszéd faluból azon óhajtásuk van, hogy a
-                  bécsi kormányhoz és birodalmi tanácshoz folyamodjanak vidékük elhanyagolt <hi>közlekedési ügyének</hi> jobb állapotba helyezése végett. Ez a
+                  bécsi kormányhoz és birodalmi tanácshoz folyamodjanak vidékük elhanyagolt <hi
+                    >közlekedési ügyének</hi> jobb állapotba helyezése végett. Ez a
                   dolog Ivánt is éppen úgy érdekli, mint a többit, annálfogva engedje meg, hogy az ő
                   munkásai is részt vegyenek a holnap tartandó népgyűlésen.</p>
                <p>Iván kereken megtagadta az engedélyt.</p>
@@ -9000,7 +9036,8 @@
                   beszédet, beleszővén abba az országnak jelen megrekedt állapotját, melyből a nép
                   menekülni óhajt s az igaz jóltevőket kezdi felismerni a tétlenségre kárhoztató
                   hitegetőktől.</p>
-               <p>Különösen hangsúlyozta a népnek e józan felismerését az apát úr, mikor az <hi>irányadó excellencia</hi> elé került.</p>
+               <p>Különösen hangsúlyozta a népnek e józan felismerését az apát úr, mikor az <hi
+                    >irányadó excellencia</hi> elé került.</p>
                <p>Az irányadó excellencia kegyteljesen szorítá meg az apát úr kezét s biztosítá
                   róla, hogy az X-i püspökség nemsokára meg fog ürülni s betöltésénél gond lesz rá,
                   hogy a leghívebb prelátus jusson oda.</p>
@@ -9363,7 +9400,8 @@
                   szépségeiket fitogtatták, dicsőségükkel parádéztak és azokat, akik amazoknak a
                   beszédein elaludtak, akik ugrándozásaikat szemüvegezték, és a papot, ki őket
                   idehozta, és idehozott társait, kik tátott szájjal bámulnak az újkapura, úgy
-                  szerette volna fogai alatt összemorzsolni! Úgy égett a <hi>pokla</hi> a szomjtól.</p>
+                  szerette volna fogai alatt összemorzsolni! Úgy égett a <hi
+                     >pokla</hi> a szomjtól.</p>
                <p>Mindezt a kínt elmulasztaná egy csók.</p>
                <p>“Egyedül vagyunk, egymás szeretői voltunk, mi volna benne lehetetlen?”</p>
                <p>De nem tudta, hogyan kezdjen hozzá, hogy ezt megmondja neki.</p>
@@ -9556,7 +9594,8 @@
                <p>- Nos, kedves? Hát kivívtam a bondavári vasutat, ugye?</p>
                <p>Evelina mélyen meghajtotta magát előtte. Éppen a gerolsteini hercegnő jelmezében
                   volt.</p>
-               <p>- Örök hálára lekötelezettje vagyok excellenciádnak. Legközelebb küldök érte <hi>negyvenezer</hi> csókot.</p>
+               <p>- Örök hálára lekötelezettje vagyok excellenciádnak. Legközelebb küldök érte <hi
+                    >negyvenezer</hi> csókot.</p>
                <p>Miért, miért nem, őexcellenciája a “negyvenezer” szóért nagyon felütötte az orrát,
                   s többet nem udvarolt a gerolsteini hercegnőnek. Hanem Evelina is bizonyos
                   lehetett felőle, hogy akárhogy énekeljen ezután, az udvari operaházhoz dekrétumot
@@ -9640,7 +9679,8 @@
                <p>Most már világra szóló vállalatba is merészkedhetik. Fejedelmi rangja van már a
                   pénzpiacon.</p>
                <p>A <hi>börzebárók</hi> közül a <hi>börzehercegek</hi>
-                  közé emelkedett. Ha kölcsöne sikerül, a neve <hi>börzekirály</hi>.</p>
+                  közé emelkedett. Ha kölcsöne sikerül, a neve <hi
+                  >börzekirály</hi>.</p>
                <p>Sámuel apát neve pedig kezd glóriától körülövezve lenni.</p>
                <p>Fenn a kormányférfiak azt látják, hogy e hatalmas népszónok erős fegyver lehet a
                   kezükben, ki elvágja majd a népet az úrtól s a tömeget az értő fejek nélkül
@@ -10430,8 +10470,10 @@
                   nyertek <hi>“rajtad”</hi>. Ez ma van.</p>
                <p>Holnap pedig nem vagy sehol.</p>
                <p>A nevedet kitörli mindenki a jegyzőkönyvéből. A parketten azt látják, hogy nem
-                  vagy <hi>“ott”</hi>, s arról tudja minden ember, hogy nem vagy a <hi>világon</hi>.</p>
-               <p>Még a vénasszonyok is a börzerácson kívül, tudják már, hogy nem vagy <hi>többé</hi>. Ember sem vagy, senki sem vagy. Üres hely vagy.</p>
+                  vagy <hi>“ott”</hi>, s arról tudja minden ember, hogy nem vagy a <hi
+                    >világon</hi>.</p>
+               <p>Még a vénasszonyok is a börzerácson kívül, tudják már, hogy nem vagy <hi
+                    >többé</hi>. Ember sem vagy, senki sem vagy. Üres hely vagy.</p>
                <p>
                   <hi>* * *</hi>
                </p>
@@ -10842,7 +10884,8 @@
                   világi nagyságról. Jól van! Nem álmodozom többé. Ön azt mondá: “Én még leány
                   vagyok!” Jól van, tehát legyen ön valóban “leány”. A francia törvények nem
                   ismernek házasságot, mely nem polgári hatóság előtt köttetett. Önnek a házassága
-                  Kaulman Félixszel ez országban érvénytelen és semmis. Ön itt <hi>Dirmák Éva</hi> leányasszony, semmi más. Ezt megmondhatja ön Kaulman úrnak,
+                  Kaulman Félixszel ez országban érvénytelen és semmis. Ön itt <hi
+                     >Dirmák Éva</hi> leányasszony, semmi más. Ezt megmondhatja ön Kaulman úrnak,
                   hogy tőlem hallotta. Én adtam neki e tanácsot, hogy önnel így tegyen. Most megyek
                   kolostoromba vissza Istennel kibékülni.</p>
                <p>“Dirmák Éva” odarogyott térdre a pap lábaihoz s kezét elárasztá csókjaival és
@@ -11002,8 +11045,10 @@
                   Hát mit kínálok én önnek? Nem azt-e, hogy a Kaulman név magasra becsültessék? Óh!
                   A Kaulman néven egy szennyfoltnak sem szabad maradni. A Kaulman-cég főnöke egy
                   derék respectábilis férfi lesz. Künn a világban a tekintély, a börzén cenzor,
-                  szilárd férfi, honn tisztes családfő. Azt azután, hogy künn a világban <hi>micsoda</hi>, csak mi tudjuk <hi>ketten</hi>, azt
-                  pedig, hogy otthon <hi>micsoda</hi>, csak mi tudjuk <hi>hárman</hi>.</p>
+                  szilárd férfi, honn tisztes családfő. Azt azután, hogy künn a világban <hi
+                    >micsoda</hi>, csak mi tudjuk <hi>ketten</hi>, azt
+                  pedig, hogy otthon <hi>micsoda</hi>, csak mi tudjuk <hi
+                    >hárman</hi>.</p>
                <p>Kaulman belső küzdelem hevélyét akarta mutatni.</p>
                <p>- Ej, uram, ne dörzsölje ön a szemeit és az arcát! - szólt elfordulva a herceg. -
                   Azért én nem fogom sem azt hinni, hogy ön sír, sem azt, hogy elpirul. Az idő
@@ -11587,7 +11632,8 @@
                   és eltávozott.</p>
                <p>A hölgy, ki a kőszénre <hi>apellál</hi>, nem szorult senki
                   barátságára többé.</p>
-               <p>A divatvilág fővárosában sok szép asszony találta már ennél <hi>utolsó pártfogóját!</hi>
+               <p>A divatvilág fővárosában sok szép asszony találta már ennél <hi
+                     >utolsó pártfogóját!</hi>
                </p>
                <p>Még azon az estén Evelina ékszerésze látta a szép asszonyt.</p>
                <p>Evelina odavitte hozzá utolsó brilliánt fülönfüggőjét. Az maradt meg neki; a többi
@@ -11605,7 +11651,8 @@
                <p>De úgy látszik, a szép asszony még azt is oly féltékenyen el tudta rejteni, hogy
                   sohasem akadtak rá.</p>
                <p>Talán csak cselfogás volt tőle a Seine partján elvetett öltönycsomag, s míg minden
-                  ember a víz fenekén kereste: ő csakugyan szavát tartotta, s menekült a <hi>kőszénhez</hi>, a csendesen betakaró, haldoklók szemeit lefogó,
+                  ember a víz fenekén kereste: ő csakugyan szavát tartotta, s menekült a <hi
+                    >kőszénhez</hi>, a csendesen betakaró, haldoklók szemeit lefogó,
                   más világra elszállító kőszénhez...</p>
                <p>Waldemár herceg sohasem tudott meg felőle semmit. S hat hétig mind maga, mind
                   összes cselédsége gyászruhát viselt utána.</p>
@@ -11666,7 +11713,8 @@
                <p>“De nini! Hát mit dühösködöm én itt, mint egy félbolond a ketrecben? Hát van
                   énnekem valami bajom? Nincs énnekem annyi bajom sem, mint a máknyi mag! ‘Sz itt
                   van az öcsémuramnak a levele, ni! De jó, hogy ezt vissza nem adtam neki! Amelyben
-                  kötelezi magát, hogy ezer darab bondavári részvényt tartozik tőlem átvenni <hi>al pari, bármikor</hi>. Ej, de emberséges ember voltam érte, hogy
+                  kötelezi magát, hogy ezer darab bondavári részvényt tartozik tőlem átvenni <hi
+                    >al pari, bármikor</hi>. Ej, de emberséges ember voltam érte, hogy
                   pipára nem gyújtottam egyszer ezzel az írással. Megcsókolhatnám magamat érte, hogy
                   ilyen okos ember voltam! Óh, én édes eszem! Óh, én előrevigyázó orrom! Most ebbe
                   az írásba beletakarózom egészen. Eshetik tőlem a jeges zegernye zápor; engemet
@@ -11895,7 +11943,9 @@
                   soknemű kristályozatok, mik a bondavári hegyégésről tanúskodtak, s a tudósok, a
                   geológusok bizonyítják, hogy ezek valóban a hegyégés produktumai.</p>
                <p>Hiába tiltakoznak a részvényesek azután, hogy mindebből egy szó sem igaz. Zöld a
-                  fű, zöld az erdő Bondavárott; hogy ezek az égett tanúk a <hi>duttweileri</hi> hegyből valók, mely százhúsz év óta ég, meg a <hi>planitzi</hi> kőszénbányából, mely már kiégett; a kristályok az
+                  fű, zöld az erdő Bondavárott; hogy ezek az égett tanúk a <hi
+                     >duttweileri</hi> hegyből valók, mely százhúsz év óta ég, meg a <hi
+                    >planitzi</hi> kőszénbányából, mely már kiégett; a kristályok az
                      <hi>epterodei</hi> és <hi>bilini</hi> földkiégés
                   alkotásai; nem használ semmit.</p>
                <p>A megijedt ember mindig a rosszabbat hiszi.</p>
@@ -12366,7 +12416,8 @@
                   ellenfogadók fizetik ki neki a húszezer forint különbséget, ha felmennek négy
                   forinttal, akkor ő fizet nekik ugyanannyit.</p>
                <p>Délben egy ügynök érkezik a sorompóhoz, aki elég hangosan adja tudtul, hogy egy úr
-                  van itten a rekeszen túl, aki ötszáz darab bondavárit akar venni - <hi>al pari!</hi>
+                  van itten a rekeszen túl, aki ötszáz darab bondavárit akar venni - <hi
+                    >al pari!</hi>
                </p>
                <p>Mintha egy zongorára ütne valaki pöröllyel, olyan zűrhangot adott ez a szó.</p>
                <p>Gúnykacaj, csodakiáltás, örömordítások, szitok, hihetetlenség emelkedik egyszerre
@@ -13147,7 +13198,8 @@
                   megszólítá, miként akkor, egy percre felnyitá szemeit, hogy büszkén azt mondja:
                   “Nem kell semmi!” s azután hamvadna tovább.</p>
                <p>Olyan szép volt e márványarc most is, mozdulatlan sugár szemöldeivel, s Iván
-                  megállhatta, hogy egy csókkal ne érintse azt, mint megállhatta <hi>akkor!</hi> Pedig talán nem is nehezteltek volna érte, mint nem neheztelének
+                  megállhatta, hogy egy csókkal ne érintse azt, mint megállhatta <hi
+                     >akkor!</hi> Pedig talán nem is nehezteltek volna érte, mint nem neheztelének
                   most.</p>
                <p>Amint akkor egy melltűvel, most a koporsófedéllel betakarta a szép titkot. Élve,
                   halva, nem volt szabad neki azt kitalálni.</p>
@@ -13331,7 +13383,8 @@
                   enyelegnek vele, hanem vissza kell tromfolni az ostoba tréfálkozót, s jót kell
                   húzni a kezére, ha a keze is jár hozzá. Ez nálunk a virtus. - A ríva fakadó leány
                   megsértené a mi paraszt együgyűségünket; de ha pofont ád, azt mondjuk: derék
-                  leány! Inkább <hi>hirtelenkezű</hi> legyen, mint <hi>hirtelensíró</hi> “mécses cserép”. Csak olyankor látom őt könnyezni, mikor
+                  leány! Inkább <hi>hirtelenkezű</hi> legyen, mint <hi
+                     >hirtelensíró</hi> “mécses cserép”. Csak olyankor látom őt könnyezni, mikor
                   vasárnap délutánonként az epreskert udvarán karikába ül a fiatalság, s ki tudja
                   hányadszor, elmondatják velem azt a történetet, amikor ön, uram, leszállt a tömlőt
                   levinni a beomlott tárnába egyes-egyedül, s már azt hittük, ottvesz. Asszonyok,

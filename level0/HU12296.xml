@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU12296" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU12296" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Anarkalli : Regény két kötetben : ELTeC edition</title>
-            <author>Donászy, Ferenc (1858-1923)</author>
+            <author ref="viaf:1657716">Donászy Ferenc (1858-1923)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -41,7 +43,7 @@
                <relatedItem type="source">
                   <bibl type="firstEdition"> / ;Budapest : , ;(Az Athenaeum olvasótára)
                      <title>Anarkalli : regény</title>
-                     <author>Donászy, Ferencz</author>
+                     <author>Donászy Ferencz</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Athenaeum</publisher>
                      <date>1896</date>
@@ -1575,7 +1577,8 @@
                <p>»Ez egy jégcsap! Mit se lehet vele kezdeni«, ez az általános vélemény járt megvető
                   ajkpittyesztgetés közt szájról-szájra.</p>
                <p>Csak Violet várta egyforma örömmel e mindennapi csendes, bizalmas órákat, -
-                  melyeknek azonban a hetenként rendesen megérkező telinga<hi xml:id="_ftnref4">[4]</hi> egy csapással végett vetett.</p>
+                  melyeknek azonban a hetenként rendesen megérkező telinga<hi xml:id="_ftnref4"
+                     >[4]</hi> egy csapással végett vetett.</p>
                <p>Hosszu bambuszboton lóggatott zacskójában nagyszámu sürgönyt és levelet hozott,
                   mik az egész tábort fenekestől felforgatták.</p>
                <p>- Violet, kedves Violet, minő nagy ujság! kiálta sebesen közéjük toppanva Lilyet.
@@ -4307,7 +4310,8 @@
                   is, tudtam, hogy egyszer mégis visszakerülsz... Fejemmel, az én drága fejemmel
                   kezeskedtem ezért...</p>
                <p>A hold már rég elbujt, a fegyveres kisérők néhánya fáklyáit kezdte eloltogatni, s
-                  összébb vonták sovány fekete mellükön a vékony sarát,<hi xml:id="_ftnref9">[9]</hi> mert a napkelte hűvös szellője zizegett a fák koronái között és a
+                  összébb vonták sovány fekete mellükön a vékony sarát,<hi xml:id="_ftnref9"
+                     >[9]</hi> mert a napkelte hűvös szellője zizegett a fák koronái között és a
                   csillagok szikrázó fénye halaványulni kezdett. Csak a hajnal-csillag sugárzott a
                   gyémánt hasonlíthatlan tüzes szikrázásában a halványan derengő láthatár
                   alján...</p>
@@ -5091,7 +5095,9 @@
                   urát...</p>
                <p>Ebben a pillanatban egy egyszerü fehér lepelbe burkolt, magas férfi hajolt meg
                   előtte...</p>
-               <p>- Nyugalmadban nem mernélek háborgatni, oh, felséges Rao,<hi xml:id="_ftnref11">[11]</hi> engedd meg tehát, hogy szolgád a tsahi<hi xml:id="_ftnref12">[12]</hi> csillag felkelése előtt elinduljon a szentséges Bhowandért és vele
+               <p>- Nyugalmadban nem mernélek háborgatni, oh, felséges Rao,<hi xml:id="_ftnref11"
+                     >[11]</hi> engedd meg tehát, hogy szolgád a tsahi<hi xml:id="_ftnref12"
+                     >[12]</hi> csillag felkelése előtt elinduljon a szentséges Bhowandért és vele
                   együtt elhozhassa Bhavani szent kigyóit...</p>
                <p>- Jól van, csak siess! Narayanin fusson, a hogy tud, hogy idejében itt legyetek!
                   mondá Nena fejdelem, azután Keschub-Agarrihoz fordult:</p>

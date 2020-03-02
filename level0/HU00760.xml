@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00760" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00760" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Francia kastély : ELTeC edition
             </title>
-            <author>Krúdy, Gyula (1878-1933)22810
+            <author>Krúdy Gyula (1878-1933)<idno type="VIAF">22810</idno>
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -42,7 +44,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>Szindbád</title>
-                     <author>Krúdy, Gyula</author>
+                     <author>Krúdy Gyula</author>
                      <publisher>Magyar Helikon</publisher>
                      <date>1973</date>
                   </bibl>
@@ -50,7 +52,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>Francia kastély</title>
-               <author>Krúdy, Gyula</author>
+               <author>Krúdy Gyula</author>
                <date>1912</date>
             </bibl>
          </sourceDesc>
@@ -1225,7 +1227,8 @@
                      hölgyek kedvessége mindig felejthetetlen leend, hisz meglehetősen bizalmas
                      barátnőim voltak. Ők ugyan csak kisvárosi asszonyok, akik nem sokat értenek a
                      művészet, divat és irodalom dolgaihoz, de vajon hol is tanulhatták volna!
-                     Elzárkózva, maguknak, magukért élnek a kis városban, és a <hi>Képes Családi Lapok </hi>régi évfolyamaiból másolják a divatot. De azért
+                     Elzárkózva, maguknak, magukért élnek a kis városban, és a <hi
+                        >Képes Családi Lapok </hi>régi évfolyamaiból másolják a divatot. De azért
                      nagyon kedves, derék nők voltak, és én sok mulatságos percet köszönhetek nekik.
                      Habár, mondom, majdnem műveletlen nőknek merném őket nevezni.</p>
                   <p>Szindbád meglehetősen bárgyú mosollyal hallgatta végig a színésznő gyorsan

@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00786" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00786" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Szegény gazdagok : ELTeC edition</title>
-            <author>Jókai, Mór (1825-1904)</author>
+            <author ref="viaf:59084200">Jókai Mór (1825-1904)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -43,7 +45,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>Szegény gazdagok I-II.</title>
-                     <author>Jókai, Mór</author>
+                     <author>Jókai Mór</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Unikornis</publisher>
                      <date>1993</date>
@@ -53,7 +55,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>Szegény gazdagok</title>
-               <author>Jókai, Mór</author>
+               <author>Jókai Mór</author>
                <date>1860</date>
             </bibl>
          </sourceDesc>
@@ -382,7 +384,8 @@
                meg akartam a szenzáliát takarítani magunknak, s ezért magam mentem el hozzá ma
                délelőtt fél tizenkettőkor. No, ez a legillendőbb idő látogatást tenni, így gondolom.
                Én csak tudom, hogy mi az illendő. Megyek az előszobájába; ott áll egy inas. Azt
-               mondja, hogy várjak. Én várjak? Én előszobázzak? Egy Lapussa János! És kinél? Egy <hi>nyomorú semmiházi</hi> Hászeginél a vendégfogadóban! Jól van.
+               mondja, hogy várjak. Én várjak? Én előszobázzak? Egy Lapussa János! És kinél? Egy <hi
+                 >nyomorú semmiházi</hi> Hászeginél a vendégfogadóban! Jól van.
                Vártam. Jelents be nála. Azalatt le sem ülhettem, mert a gazember az előszobában
                minden széket telerakott suvickos kefével, meg csizmával. Én! Egy Lapussa János!
                Akkor visszajön az a másik gazember, s azt mondja, hogy azt izeni az ura, mert nem
@@ -439,7 +442,8 @@
                bírni, akinek nyugta ne legyen miatta.</p>
             <p> Esti hét óráig eléggé eluntatta családját, akkor Lángainé színházba megy. Henriette
                a nevelőnővel a nagyteremben zongorához ül, a gyerekeket lefektetik. Clementine és a
-               cselédség vacsorál, senki sem marad nála, akkor következik azután az <hi>éjjeliőr</hi> hivatása.</p>
+               cselédség vacsorál, senki sem marad nála, akkor következik azután az <hi
+                 >éjjeliőr</hi> hivatása.</p>
             <p> Az éjjeliőrök sorát sohasem irigyeltem; éjszaka sötétben, magányosan végigbotorkálni
                az emberjáratlan utcákon, hallgatni saját lépteinek visszhangját meg az alabárd
                kopogását, várni egyik órát a másik után, s kiabálni fennhangon kegyes mondásokat,
@@ -523,7 +527,8 @@
             <p> – No, hát! – izent neki az álmából felvert doktor valamit, amit a pitvarnok
                bizonyosan nem mondott el odabenn. A János úr által tett fenyegetőzés egész éjjel nem
                hagyta Demeter urat aludni, aztán meg a szegény Margarit sem. Egy-egy érdekesebb hely
-               megragadta az öreg figyelmét, akkor elfelejtette János párbaját, például, mikor <hi>Monte-Cristo megleli azt a tömérdek kincset a szigeten.</hi>
+               megragadta az öreg figyelmét, akkor elfelejtette János párbaját, például, mikor <hi
+                 >Monte-Cristo megleli azt a tömérdek kincset a szigeten.</hi>
             </p>
             <p> Ekkor felköltötte Margarit, hogy hozzon egy mappát, keresse meg rajta, hol van a
                Monte-Cristo-sziget? Margari kereste azt minden tengeren, utoljára még a szárazföldön
@@ -719,7 +724,8 @@
                bemutassa neki, de már az akkor olyan képet mutatott rá, mint a márványhölgy
                Zampában, hogy János elébb jónak látta megkérdezni halkan: mi tetszik. Mire az az
                odahajló fülébe azt súgta:</p>
-            <p> – Tanuld meg, hogy ne mutasd be a vendégnek a háziasszonyt, te <hi>ügyetlen!</hi>
+            <p> – Tanuld meg, hogy ne mutasd be a vendégnek a háziasszonyt, te <hi
+                  >ügyetlen!</hi>
             </p>
             <p> János először megijedt e címtől, másodszor haragudni akart érte, hanem harmadszor
                jobbnak látta mosolyogva fordulni Hátszegi báró úrhoz, aki udvariasan kisegíté
@@ -774,7 +780,8 @@
                disputálni, csak hogy elmenjek a háztól, míg az öreg él. Jólesnék neki, ha
                beleszeretnék; de azt nem éri meg János barátom, mert amíg atyánk él, addig nem
                megyek másodszor férjhez.)</p>
-            <p> – Tehát valami Nagy Sándor, aki hódításra indult ki; aki nem házat, hanem <hi>háztüzet jött nézni.</hi>
+            <p> – Tehát valami Nagy Sándor, aki hódításra indult ki; aki nem házat, hanem <hi
+                 >háztüzet jött nézni.</hi>
             </p>
             <p> – Igen. Olyasvalami. Kitaláltad, hanem azért mégis tévedni méltóztatol.</p>
             <p> – Azon csak örülök.</p>
@@ -786,7 +793,8 @@
             <p> – Azt remélem is – szólt fönségeskedő kenettel Matild –, ha én kezemet akarom
                nyújtani valakinek, azt majd én választom magamnak. És arra nem elég valakinek két
                szép fekete szemének lenni, hogy az én figyelmemet megnyerje; és nem elég neki a
-               tavalyi bálokról tudni beszélni, meg lovon tudni ülni; hanem annak egy kis <hi>karakterének is kell lenni,</hi> annak becsültetni is kell a világ
+               tavalyi bálokról tudni beszélni, meg lovon tudni ülni; hanem annak egy kis <hi
+                 >karakterének is kell lenni,</hi> annak becsültetni is kell a világ
                előtt, hogy ő legyen rám nézve szerencse, ne én őrá.</p>
             <p> János tízszer is bele akart vágni a beszédbe; mikor vége volt, kitört belőle a
                szó:</p>
@@ -807,7 +815,8 @@
             <p> Megrázta a fejét, egyet rántott a vállán, mint aki nem is reméli, hogy megértsen
                valamit a dologból. Egyszer azonban szemei véletlenül összetalálkoznak
                Henriette-éivel. Az a zila tekintet a leány arcán első pillanatra feltűnt előtte, a
-               másik pillanatban már tudta, hogy testvére mit akar, a harmadikban pedig <hi>többet tudott,</hi> mint ő.</p>
+               másik pillanatban már tudta, hogy testvére mit akar, a harmadikban pedig <hi
+                 >többet tudott,</hi> mint ő.</p>
             <p> Az első pillanat elárulná neki, hogy Henriette hamarább megértette János szavait,
                mint ő; a második azt, hogy János Henriette számára hozott vőlegényt; és a harmadik
                azt, hogy Henriette azt a vőlegényt utálja.</p>
@@ -846,7 +855,8 @@
                hangkifejtéstől meg nem ijed.</p>
             <p> – Mit akarsz?</p>
             <p> – Olyan nagyon kiabálni semmi esetre sem, mint ti ketten, hogy földszint és a
-               második emeletben is meghallják, mit beszélünk. És ha tinektek <hi>semmi egyéb</hi> szándékotok nincsen, mint Pauline, megholt testvérünk egyik
+               második emeletben is meghallják, mit beszélünk. És ha tinektek <hi
+                  >semmi egyéb</hi> szándékotok nincsen, mint Pauline, megholt testvérünk egyik
                gyermekét lerázni nyakatokról, akkor ennek sem akarok ellentmondani. Szegény Pauline,
                mindig azt mondta, hogy ha meghal, a leányát énrám hagyja. Én mindig azt mondtam rá,
                hamarább meghalok én … Jól van, János, jól van.</p>
@@ -1496,7 +1506,8 @@
                értette az összefüggést.</p>
             <p> – Kérem az iratokat vissza – szólt Demeter úr, száraz kezét eléjük nyújtva. – Még
                most kellenek. Itt vannak nálam fordításban is. Tehát ön is azt hiszi, ügyvéd úr,
-               hogy Henriette-nek jó lesz a báróhoz nőül menni? No, azon a napon, ha <hi>megérjük,</hi> amikor Henriette az oltárhoz lép Hátszegi Lénárddal,
+               hogy Henriette-nek jó lesz a báróhoz nőül menni? No, azon a napon, ha <hi
+                 >megérjük,</hi> amikor Henriette az oltárhoz lép Hátszegi Lénárddal,
                ezen firkákat önnek fogom ajándékozni. Addig nekem kellenek! … Tetszik engemet
                érteni?</p>
             <p> Sipos úr egészen le volt verve; nem volt semmi kedve valakivel vitatkozni többé: ily
@@ -1947,7 +1958,8 @@
             <p> Henriette valóban megmutatta azt, odaírta nevét olyan vékony kis gömbölyded
                betűkkel, mintha valami tündér lehelte volna oda.</p>
             <p> – Még egyet, kedves kisasszony – szólt hozzá nyájasan Sipos úr –, minthogy már a
-               toll a kezében van, legyen szíves e visszaadott iratok táblájára felírni <hi>egy bizonyos szót,</hi> azt a bizonyos nevet, vagy mit, amit
+               toll a kezében van, legyen szíves e visszaadott iratok táblájára felírni <hi
+                 >egy bizonyos szót,</hi> azt a bizonyos nevet, vagy mit, amit
                kegyeden kívül még csak egy ember tud; annak bizonyságaul, hogy a lemondás őszinte és
                tartaléktalan.</p>
             <p> A leány sokáig nézett azokkal a titoktartó sötét szemeivel az ügyvéd szemeibe.
@@ -1955,7 +1967,8 @@
                nevet, a másik, a delejes háló másik tényezője, nem fogja elárulni, ha hamis
                volt.</p>
             <p> Nagy csendben odahajolt a csomag fölé, s szokatlanul megnyomva a tollat, odaírá ezt
-               a barbár hangzású nevét egy szép fényes csillagnak: <hi>„Mesarthim”,</hi> azzal letette csendesen a tollat; semmi szenvelgés nem látszott
+               a barbár hangzású nevét egy szép fényes csillagnak: <hi
+                  >„Mesarthim”,</hi> azzal letette csendesen a tollat; semmi szenvelgés nem látszott
                arcán; semmi színpadra hozatala kínos érzelmeknek. Bejöhet már a vőlegény!</p>
             <p> … Vajon az igazi jelszót írta-e oda? …</p>
             
@@ -2311,7 +2324,8 @@
                Henriette-et nem érte nagy veszteség, midőn férje oda utasítá, hogy jó lesz korán
                lepihenni, mert holnap jókor indulnak útra. – Henriette áldotta magában azt a rókát,
                azt a vadászostort, még azt a mezőt is, mely így elvonja a férfiak figyelmét az
-               asszonyokról. Már két napot jegyezhetett fel naplójába, mely után azt írhatná: <hi>ez a nap az enyim volt.</hi>
+               asszonyokról. Már két napot jegyezhetett fel naplójába, mely után azt írhatná: <hi
+                 >ez a nap az enyim volt.</hi>
             </p>
             <p> Másnap olyan korán indultak, hogy az öreg házigazdán kívül senki sem volt ébren a
                vadásztársaság közül. Az ismét hintajáig vezette nyomorék karján fiatal vendégnőjét,
@@ -2357,7 +2371,8 @@
                oldalpillantással még inkább értésére adott.</p>
             <p> Azonban Henriette-nek mégis elég ideje maradt eltávozása közben meghallani, amit a
                gróf mondott felőle Hátszeginek, úgy félig hallhatólag:</p>
-            <p> – Une jolie petite machine, pour manger de la monnaie! (Csinos kis <hi>pénzevő</hi> gépecske!)</p>
+            <p> – Une jolie petite machine, pour manger de la monnaie! (Csinos kis <hi
+                  >pénzevő</hi> gépecske!)</p>
             <p> Hátszegi valami mentő választ súghatott rá, amire Kengyelesy nevetve, és egész
                fennhangon kiáltá fel:</p>
             <p> – De isz az enyim gőzerőre fogyasztja a pénzt!</p>
@@ -2554,7 +2569,8 @@
                egy kicsit jobban szeresse férjét, mint most”?</p>
             <p> – Mi közöm nekem e balgasághoz?</p>
             <p> – Hát azt értette, hogy aki szerencsétlen a szerelemben, az szerencsés a játékban;
-               az éjjel a báró úr a gróf úrral együtt kártyázván, <hi>fixundfertig</hi> elnyerte tőle az egész Kengyelesy-uradalmat.</p>
+               az éjjel a báró úr a gróf úrral együtt kártyázván, <hi
+                  >fixundfertig</hi> elnyerte tőle az egész Kengyelesy-uradalmat.</p>
             <p> Henriette úgy érzé magát, mint akit a boa constrictor ölelése fog körül, s nem bírja
                védeni magát. Ezt sejté ő.</p>
             <p> Clementine-nek nagyon tetszett a felvett pletykatárgy.</p>
@@ -2742,7 +2758,8 @@
                szája ízit; jóizűen evett belőle a lelkem; engem is váltig kínált, hogy egyem, de
                énnekem olyan szűk volt a torkom, mintha az én nyakamról vettek volna már mértéket,
                egy falat kevés, annyi le nem ment volna rajta. Mikor aztán előállt a szekér, mondták
-               neki, hogy készüljön, odaadott egy húszast a porkolábnak: „ugyan, édes <hi>keresztapám,</hi> futtasson el valakit ide a szomszédba egy ital
+               neki, hogy készüljön, odaadott egy húszast a porkolábnak: „ugyan, édes <hi
+                 >keresztapám,</hi> futtasson el valakit ide a szomszédba egy ital
                borért; lehetetlen, hogy le ne nyomtassam valami itallal azt a zsíros ételt,
                megvárnak addig ezek az urak <hi>az alkalmatossággal,</hi> nem hagynak
                engem itten!” Meg is várták szépen, míg a borral előjöttek, azt felhajtotta; két-két
@@ -2753,7 +2770,8 @@
                amint felállt a szekérbe, odafordult a nagy sokasághoz; szép magas, nagy szál legény
                volt, piros két orcája, fekete, hosszú haja; megköszönte szépen, hogy őt
                kikísértették, hogy utolsó tisztességére kijöttek; szép, erős hangja volt, akár egy
-               káplánnak, – azután leszállt, levetkőzött csinosan, ahogy kellett; odafordult <hi>a főpostamesterhez,</hi> aki az embereket elevenen szállítja fel a
+               káplánnak, – azután leszállt, levetkőzött csinosan, ahogy kellett; odafordult <hi
+                 >a főpostamesterhez,</hi> aki az embereket elevenen szállítja fel a
                másvilágba: „No, Gábor mester, ugye, csak szép nap van ma? No, látja: pedig azt
                mondják, hogy olyankor, mikor valakit akasztani visznek, mindig zivatar támad!” A
                hóhér nem tudott neki rá mit mondani, mert furcsa szó is volt az! Én már úgy ki nem
@@ -3313,7 +3331,8 @@
             <p> A leány kétkedve nézett rá, mintha kérdené, hogy „neked mindent szabad itt
                elajándékoznod tetszésed szerint?” Az öreg nem is állhatta szó nélkül.</p>
             <p> – Jaj, jaj, domnule, csak készítetlen aranyat ne ajándékoznál valakinek, inkább
-               marékkal szórnád a kivertet; erről még nyomunkra jön valaki. Aztán ez már <hi>tanú!</hi>
+               marékkal szórnád a kivertet; erről még nyomunkra jön valaki. Aztán ez már <hi
+                 >tanú!</hi>
             </p>
             <p> – Jó helyen van. Anica kezén: ott pedig hallgatni fog. Anica tíz csókkal felelt e
                mondásra. Eltalálta: éppen tíz kettős aranyat ért az a karperec, aztán a csók is
@@ -3802,7 +3821,8 @@
             <p> Ezt olyan önérzettel mondá a pásztor, mintha a világ minden részéből odejövőnek
                kellene azt tudni hírből, hogy itt lakik az erdők között az erős Juon.</p>
             <p> Henriette bámulatából azonban vevé észre, hogy ő még nem hallott felőle semmit.</p>
-            <p> – Te nem tudod még, domna, hogy én ki vagyok, de én tudom, hogy te ki vagy. <hi>A dumnye barbatu,</hi> az urad sokat találkozott már velem, az ismer
+            <p> – Te nem tudod még, domna, hogy én ki vagyok, de én tudom, hogy te ki vagy. <hi
+                 >A dumnye barbatu,</hi> az urad sokat találkozott már velem, az ismer
                jól. Az még csak olyan erős ember a világon, mint én vagyok. Sokszor birkózott velem
                itt a gyepen, – fogadásbul. Egyikünk sem bírta a másikat földhöz vágni. A nagyságos
                úr mélyebben tudja a fába vágni a fejszét, mint én, de én meg többet tudok emelni,
@@ -4712,7 +4732,8 @@
                szemeimet. Abban a völgyben olyan sok lakik, s olyan merészek, hogy az ember arcát
                érinti szárnyuk hegye, amint mellette elcsapkodnak.</p>
             <p> – Nem fél ön a vadaktól?</p>
-            <p> – Azoktól nem, mert velem voltak pisztolyaim és késem; hanem ez a <hi>vérszopó</hi> éjszakája volt, ki éjfélkor az erdőkön szokott lappangani, s akit
+            <p> – Azoktól nem, mert velem voltak pisztolyaim és késem; hanem ez a <hi
+                  >vérszopó</hi> éjszakája volt, ki éjfélkor az erdőkön szokott lappangani, s akit
                kívül alva talál, annak a nyakát kettős fogával megharapja. Szerencsémre nem
                találkoztam vele: – de nem is ijedtem volna meg tőle.</p>
             <p> Henriette-nek nem jutott eszébe e percben afelől tudakozódni, hogy ki az a
@@ -5372,7 +5393,9 @@
                Demeter úrra alátekintve, összeszítt ajkai közül így szóla hozzá:</p>
             <p> – Jól van tehát, kegyes uram. Te hidegvérű ember vagy; – én is az vagyok. Te nem
                szereted a komédiajátszást; – én sem szeretem. Nem szólok többet semmi szót a te
-               szívedhez az én szívemből. Tégy, amit tetszik! Írass, amit tetszik. Majd ha <hi>nekem nem fog tetszeni,</hi> amit írattál – én tenni <hi>fogok róla</hi>…</p>
+               szívedhez az én szívemből. Tégy, amit tetszik! Írass, amit tetszik. Majd ha <hi
+                 >nekem nem fog tetszeni,</hi> amit írattál – én tenni <hi
+                 >fogok róla</hi>…</p>
             <p> Demeter úr meg volt lepetve.</p>
             <p> – Tenni fogsz róla, te? Mit tehetsz te az én végakaratom ellen? Rövideszű
                némber!</p>
@@ -5499,7 +5522,8 @@
             <p> – Ugyebár, Szilárd barátom – szólt a gróf –, ez a ruha meg ez a coiffure sehogy sem
                áll a grófné arcához, mi?</p>
             <p> Sok jámbor fiatalembert kétségbe ejtett volna egy ilyen hóbortos kérdés, kik egyik
-               ügyetlen bókbul a másikba botlottak volna egy ilyen <hi>„banditadöfés”</hi> kiparírozása közben; az én Szilárdom örökké nyugodt arcát egy
+               ügyetlen bókbul a másikba botlottak volna egy ilyen <hi
+                  >„banditadöfés”</hi> kiparírozása közben; az én Szilárdom örökké nyugodt arcát egy
                percig sem hozta zavarba az.</p>
             <p> – A grófnénak minden jól illik – válaszolt rá –, de én mégis tudok egyet, ami ennél
                is csinosabb, ami minden hölgyet szebbé tesz.</p>
@@ -5759,7 +5783,8 @@
             <p> – Nagysád nem sejti? – Én jól tudom. Hátszegi nagyon jól ismeri nejét. Igen jól érzi
                ő azt előre, hogy amint a bárónő meg fogja tudni, hogy öccsét azzal vádolják,
                miszerint az nevére váltót hamisított, az egy percig sem fog kételkedni azon, hogy
-               mit tegyen, hanem <hi>valódinak</hi> fogja elismerni <hi>a hamisított aláírást.</hi>
+               mit tegyen, hanem <hi>valódinak</hi> fogja elismerni <hi
+                  >a hamisított aláírást.</hi>
             </p>
             <p> – Valóban! Ön igazat mond. És azzal testvére meg lesz mentve.</p>
             <p> – Tökéletesen.</p>
@@ -6624,7 +6649,8 @@
             <p> Amint a grófnő leült, a társalkodónő, mintegy jelszóra, felállt, és elment valahová.
                Ne keressük.</p>
             <p> Alig maradtak egyedül, midőn a báró rosszkedvvel veté oda:</p>
-            <p> – Úgy látszik, nagysádtok között igen mély és bizodalmas viszony <hi>örvend</hi> magának.</p>
+            <p> – Úgy látszik, nagysádtok között igen mély és bizodalmas viszony <hi
+                  >örvend</hi> magának.</p>
             <p> – Óh, igen bizodalmas. Ez egy igen derék, becsületes ember.</p>
             <p> – De, látom.</p>
             <p> – Igazán mondom. Rám nézve megbecsülhetlen ember, és hozzám rendkívül
@@ -6656,7 +6682,8 @@
                eredeti ezer forint tartozásomból is mostanságig negyvenezer forint lett szépen, s az
                uzsorás most már sürget, és nem akar hitelezni többé, pedig én szívesen folytatnám
                azt a fináncminiszteri tréfát, amíg egynehány száz millióra felnőne. Hanem hát az
-               éhes sárkánynál nincs kegyelem többé. Egyszer rossz kedvemben <hi>Szilárd</hi> előtt ki találtam ejteni ezt a titkot, s a derék fiú magára
+               éhes sárkánynál nincs kegyelem többé. Egyszer rossz kedvemben <hi
+                  >Szilárd</hi> előtt ki találtam ejteni ezt a titkot, s a derék fiú magára
                vállalta, hogy majd segít ő azon. Nem tudom én miféle formahibákat fedezett fel
                tartozásomban, meg hogy mi mindennel akarja megriogatni hitelezőmet; elég az hozzá,
                hogy biztosított, miszerint nem kell egyebet megtérítenem, mint az eredeti összeget,
@@ -6702,7 +6729,8 @@
                értéke szerint; erre, úgy hiszem, szívesen rááll uzsorása, s a cserét elfogadja.</p>
             <p> – Óh, köszönöm, köszönöm; hanem elébb én is szeretném tudni, hogy – hát ön mi
                kamatot kér tőlem? Mert uzsorát nem fizetek!</p>
-            <p> – Igen törvényes és keresztyéni kamatot. Csupán azt az egyet kérem, hogy ennek a <hi>fráternek</hi> ne legyen többet nyitva a grófné háza.</p>
+            <p> – Igen törvényes és keresztyéni kamatot. Csupán azt az egyet kérem, hogy ennek a <hi
+                 >fráternek</hi> ne legyen többet nyitva a grófné háza.</p>
             <p> – Komolyan szólt a báró?</p>
             <p> – A legkomolyabban.</p>
             <p> – Nem fél, hogy szaván fogom?</p>
@@ -7962,7 +7990,9 @@
                fösvénység nem engedte, hogy ne kapjon ezen a kérdésen. Legjobb alkalom kínálkozott
                számára egy alkalmatlan nyűgöt saját válláról le-, és a vármegyére rátólni.
                Felmagasztalta az egekig a derék, becsületes embert; hogy az milyen egyenes lelkű,
-               milyen józan, milyen szorgalmas. Szerencsétlen, nem vette észre, hogy a <hi>„legale testimonium,”</hi> előtt beszél, akinél ma nem „verba v<hi>olant”,</hi> hanem „verba v<hi>alent”.</hi>
+               milyen józan, milyen szorgalmas. Szerencsétlen, nem vette észre, hogy a <hi
+                 >„legale testimonium,”</hi> előtt beszél, akinél ma nem „verba v<hi
+                 >olant”,</hi> hanem „verba v<hi>alent”.</hi>
             </p>
             <p> – De vajon megbízható ember-e? Itt holmi aprólékos pénzkezelések is fordulnak elő;
                tiszta keze van?</p>
@@ -8116,7 +8146,8 @@
                semmit.</p>
             <p> – Méltóztatta valami örvendetes hírt akarni mondani.</p>
             <p> (No, hisz azt majd megtudod, csak eredj haza.)</p>
-            <p> Majd máskor, majd máskor, most nagyon sietek; most nem érek rá <hi>instanciákat</hi> elfogadni. Hogy jut eszébe ilyen korán jönni az emberhez?
+            <p> Majd máskor, majd máskor, most nagyon sietek; most nem érek rá <hi
+                  >instanciákat</hi> elfogadni. Hogy jut eszébe ilyen korán jönni az emberhez?
                Tudja, hogy tizenegy órától tizenkettőig vagyok otthon található a városban; akinek
                valami kérnivalója van, keressen ott és akkor.</p>
             <p> Margari pedig már akkor megtudta a kocsistól, hogy Promontorra mennek át, ahonnan a
@@ -8917,7 +8948,8 @@
                senkinek soha egy szót se szólj, mert különben …</p>
             <p> És itt egy fenyegető mondatot tudatott vele Gerzson úr, ami bizonyos hallgatásra
                bírja a magyar közembert, mert ettől írtózik legjobban:</p>
-            <p> –… mert különben törvény elé kerül a dolog, s neked <hi>tanúskodni</hi> kell benne. – Ettől pedig szörnyen fél mindenki.</p>
+            <p> –… mert különben törvény elé kerül a dolog, s neked <hi
+                  >tanúskodni</hi> kell benne. – Ettől pedig szörnyen fél mindenki.</p>
          </div>
          <div type="chapter">
             <head>A reszkető kéz</head>
@@ -8957,9 +8989,11 @@
                mint akinek valaha lángok közül kellett kimenekülni. Megijedt tőle. Olyan ijedős volt
                különben is.</p>
             <p> – Ne rettenjen meg, asszonyom – szól a nő térdre bocsátkozva előtte, s megfogva
-               Henriette ruháját, hogy el ne futhasson előle. – Én vagyok, <hi>Anica.</hi>
+               Henriette ruháját, hogy el ne futhasson előle. – Én vagyok, <hi
+                  >Anica.</hi>
             </p>
-            <p> Henriette bámulva mereszté rá holdkóros szemeit, keresve az arcon a <hi>tegnapi</hi> ideálszépség bűbáját, s azt kezdé hinni, hogy ez csak
+            <p> Henriette bámulva mereszté rá holdkóros szemeit, keresve az arcon a <hi
+                 >tegnapi</hi> ideálszépség bűbáját, s azt kezdé hinni, hogy ez csak
                gonosz varázs; ha valaki a varázsoldó szót kimondaná, ez arc megint oly szép lenne,
                mint tegnap.</p>
             <p> – Nem ismerhet rám nagyságos asszonyom, mert arcom összeégett a Lúcsia-barlangban.
@@ -8988,7 +9022,8 @@
                urakat lát, s úgy megy eléjük térden csúszkálva, s mérföldekig elszalad a hintaik
                után, hogy instanziáját bevegyék a kocsiba. Pedig hát ez nagyon bolond gondolat; mert
                meglehet, hogy az a nagy úr, aki éppen ott ment végig a hintóban, nem is ebből az
-               országból való volt, sőt az is meglehet, hogy az írás, amit a <hi>dászkál</hi> adott, nem is folyamodvány volt, hanem valami ócska kurrens. Nevetni
+               országból való volt, sőt az is meglehet, hogy az írás, amit a <hi
+                  >dászkál</hi> adott, nem is folyamodvány volt, hanem valami ócska kurrens. Nevetni
                való ez nagyon, nagyságos asszonyom.</p>
             <p> A leány szemeit törölgeté e szónál.</p>
             <p> Azután ismét megragadá Henriette kezeit, s mint aki fél, hogy rövid lesz az ideje
@@ -9557,7 +9592,8 @@
             <p> Reggel, mint az égből esett villám, volt Vámhidy ott, ahol senki sem várta.</p>
             <p> Estig nyolc embert szedett össze, akiket nehéz gyanúban talált.</p>
             <p> Még alkonyat után egy lovas hadnagytól levelet küldött Gerzsonnak, melyben azt írta:
-               „Bizonyos vagyok felőle, hogy az egész cselszövény fonalát kezemben tartom. <hi>Nyomon vagyunk!”</hi>
+               „Bizonyos vagyok felőle, hogy az egész cselszövény fonalát kezemben tartom. <hi
+                 >Nyomon vagyunk!”</hi>
             </p>
             <p> Éjszakára egy magányos malomban telepedett meg, melyet ezúttal úgy választa ki, hogy
                szükség esetén védnie is lehessen. Nagy okai voltak attul tartani, hogy az éjjel
@@ -9771,7 +9807,8 @@
             <p> Hátszegi észrevevé Szilárd hangjában az ingerültséget, s hideg mosolygással monda
                neki:</p>
             <p> – Kedves ifjú barátom. Tudja-e ön, hogy mi az a <hi>hullócsillag?</hi>
-               Az egy rosszul égő szivarnak a tüze, amit valami mennyei pipás elhajított. <hi>Good bye!</hi> …</p>
+               Az egy rosszul égő szivarnak a tüze, amit valami mennyei pipás elhajított. <hi
+                 >Good bye!</hi> …</p>
             <p> Azzal vállára kapta fegyverét, s könnyű, úriasan délceg léptekkel haladt végig a
                mezőn, vadászcsapatját maga után szólítva, ugyanazon erdőben tűnve el, amelyből
                előjött.</p>
@@ -10060,7 +10097,8 @@
                celebrált úrnőknek, a legmíveltebb osztályokból, akik, egy önfeledt pillanatában a
                rossz tanácsadó szenvedélynek, férjeiket a szerető kedveért megölték!? Nem álmodott
                római imperátorok kísérteteivel, kiket egy világ hatalmával kezeikben, egy gyönge nő
-               kétségbeesése buktatott sírba? Mert-e így játszani egy szívvel, melynek csak <hi>meg kellene szólalni,</hi> hogy elpanaszolja, miért szenved, és ő
+               kétségbeesése buktatott sírba? Mert-e így játszani egy szívvel, melynek csak <hi
+                 >meg kellene szólalni,</hi> hogy elpanaszolja, miért szenved, és ő
                nagyon fekete sorsnak nézne elébe.</p>
             <p> Bizonyára ő nagyon jól ismerte nejét; Henriette-nek nem volt bátorsága a tőrt,
                melyre rá volt írva, hogy ezt az ő szívének szánták, megragadni, s a fenyegető

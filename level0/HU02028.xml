@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU02028" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU02028" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Színek és évek : ELTeC edition</title>
-            <author>Kaffka, Margit (1880-1918)19708135
+            <author>Kaffka Margit (1880-1918)<idno type="VIAF">19708135</idno>
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -42,7 +44,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>Színek és évek</title>
-                     <author>Kaffka, Margit</author>
+                     <author>Kaffka Margit</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Osiris</publisher>
                      <date>1999</date>
@@ -52,7 +54,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>Színek és évek</title>
-               <author>Kaffka, Margit</author>
+               <author>Kaffka Margit</author>
                <date>1911</date>
             </bibl>
          </sourceDesc>
@@ -183,7 +185,10 @@
                jól van; ami volt, megvolt - de én semmit belőle újra nem kezdenék.</p>
             <p>Ahogy így újra meg újra végigélem, végigcsinálom gondolatban a rég elmúlt dolgokat,
                néha össze is fut a szemem előtt sok összefüggés. Mindennek, ami történik, oly
-               sokféle oka van; nem tudom, mindig a legigazabbat találom-e meg, ha <hi>egy</hi> okot keresek - és nem tudom, minden apróság éppen <hi>úgy</hi> történt-e, vagy csak sokszor gondoltam és mondtam <hi>úgy</hi> el azóta, és már magam is hiszem. Hallottam egyszer, hogyha az ember
+               sokféle oka van; nem tudom, mindig a legigazabbat találom-e meg, ha <hi
+                  >egy</hi> okot keresek - és nem tudom, minden apróság éppen <hi
+                  >úgy</hi> történt-e, vagy csak sokszor gondoltam és mondtam <hi
+                  >úgy</hi> el azóta, és már magam is hiszem. Hallottam egyszer, hogyha az ember
                hegyes vidéken jár - néha csak egypár lépést megy odább, és egészen megváltozik szeme
                előtt a tájkép; völgyek és ormok elhelyezkedése egymáshoz. Minden pihenőhelyről nézve
                egészen más a panoráma. Így van ez az eseményekkel is talán; és meglehet, hogy amit
@@ -209,7 +214,8 @@
             <p>Hárman futkostunk, uralkodtunk, veszekedtünk, hancúroztunk ott a két öcsémmel nagyon
                pici korunk, az édesapánk halála óta vadócon, magunkra hagyva és - azt hiszem -
                boldogan. Kár, hogy a gyerekkor gazdagságából olyan keveset őriz meg az emlékezet:
-               jeleneteket, apró eseteket, s azt is elváltozott formában, ahogyan <hi>azóta</hi> gondoltunk rá, életünkben néha emle­gettük. Most, mikor tudom a
+               jeleneteket, apró eseteket, s azt is elváltozott formában, ahogyan <hi
+                  >azóta</hi> gondoltunk rá, életünkben néha emle­gettük. Most, mikor tudom a
                későbbi sorsukat, visszaemlékszem rá, hogy Sándorka mindig szelídebb, elgondolkodóbb
                gyerek volt; lányos és ártatlan kisfiú. Vele, ha csak ketten voltunk együtt, egészen
                furcsa és fantasztikus játékot eszeltünk ki, és folytattuk - azaz továbbéltük minden
@@ -1153,7 +1159,8 @@
             <p>Vállat vontam, és az volt az érzésem, hogy most mind a ketten ostobának tarthatjuk
                egymást, pedig nem vagyunk azok. Csak nem találta el, hogy mit kelljen mondani nekem.
                Mit is kellett volna?</p>
-            <p>Később a lugasban egy verset mondott el, amely úgy kezdődött: <hi>“Hová</hi>
+            <p>Később a lugasban egy verset mondott el, amely úgy kezdődött: <hi
+                  >“Hová</hi>
                <hi>merült el szép szemed</hi>
                <hi>világa?”</hi> Könyv nélkül tudta, elmagyarázta, hogy hol szép és
                mit jelent. Akkor hallottam legelőször ezt a verset, mintha tetszett volna is, csak
@@ -1789,7 +1796,8 @@
             <p>- Igen, velem jönni! Így, ahogy van, Magda - nem bánok semmit már. Egyikünk sem fog
                így szeretni soha többet. Jöjjön!</p>
             <p>A szavai úgy hulltak a lelkemre, mint erős, nagyszerű villanásai az életnek -
-               megnyílt lehető­ségek -, különös, mozgalmas álmok, mint valami <hi>egész</hi> élmény. De egy pillanat feléig sem voltam kísértetben, hogy követni
+               megnyílt lehető­ségek -, különös, mozgalmas álmok, mint valami <hi
+                  >egész</hi> élmény. De egy pillanat feléig sem voltam kísértetben, hogy követni
                fogom, amit mond. El tudtam választani a szép percek színjátékát a valóság nappalias
                és közömbös szcénáitól. “Hisz ő is bizonyosan másképp fog gondolkozni holnap reggel
                már!”</p>
@@ -2902,7 +2910,8 @@
                magamon az idegen férfi tekintetét. Most a virágok árnya véd, visszanézem az
                elszántság egy egyszerű és ujjongón hazárdos ötletével - kérdő és kereső, megértő és
                elintéző pillantásával -, amilyenhez nem elég az akarás, a játékkedv néha: ritka
-               felhangoltság perce kell hozzá és az a biztosság, hogy ennyi <hi>minden:</hi> és nem zavarhat meg a folytatás kétsége vagy kockázata. “A
+               felhangoltság perce kell hozzá és az a biztosság, hogy ennyi <hi
+                  >minden:</hi> és nem zavarhat meg a folytatás kétsége vagy kockázata. “A
                királyfi!” - gondoltam ellenőrizetlenül és különös megdöbbe­nés­sel. Mélán kék,
                komoly férfiszemeket láttam, hosszúkás lágy vonalú arc bágyadt fehérségét, szinte
                betegesen felpirosló ajkakat a sötétszőke bajusz alatt. A két aranysas csillogott,
@@ -5012,7 +5021,8 @@
             <p>Ez mind én voltam; mert így ment már és még úgyabbul is miközöttünk!... Hogy
                fejlődött ez, hogy juthattunk idáig? - kérdem önmagamtól most a csendesült,
                zavartalan magányban, az öregség szelídülésében. Istenem, fokonként, lassan süllyedt
-               az egymással bánásunk, a viszo­nyunk; és tulajdonképp csak <hi>szavak,</hi> egyre nyersebb, komiszabb, fékezetlenebb, csúnyább szavak jelezték
+               az egymással bánásunk, a viszo­nyunk; és tulajdonképp csak <hi
+                  >szavak,</hi> egyre nyersebb, komiszabb, fékezetlenebb, csúnyább szavak jelezték
                ezt az utat a lejtőn. De mi is történhet két együtt élő ember közt egyéb, mi lehet
                fontosabb: mint az, ahogyan időnként egymással beszélnek. Jöhetnek közbe békülések,
                még heves szerelempercek is; de egyetlen szó sem hangzik el nyom nélkül. A

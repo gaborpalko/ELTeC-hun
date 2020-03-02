@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07693" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07693" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A száműzött leánya : Regény : ELTeC edition</title>
-            <author>Degré, Alajos (1820-1906)</author>
+            <author ref="viaf:25034532">Degré Alajos (1820-1906)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -43,7 +45,7 @@
                <relatedItem type="source">
                   <bibl type="printSource"> /  ; Gergely Imre rajzaival;Budapest : , ;(Magyar regényirók képes kiadása ; 33.)
                      <title>A száműzött leánya : regény</title>
-                     <author>Degré, Alajos</author>
+                     <author>Degré Alajos</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Franklin-Társ.</publisher>
                      <date>1906</date>
@@ -52,7 +54,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>A száműzött leánya : Regény</title>
-               <author>Degré, Alajos</author>
+               <author>Degré Alajos</author>
                <date>1861</date>
             </bibl>
          </sourceDesc>

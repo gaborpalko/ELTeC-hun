@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU10855" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU10855" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A szegedi boszorkányok: Regény: ELTeC edition</title>
             <author>
-,                Jósika Miklós (1794-1865) 19720475
+                Jósika Miklós (1794-1865) <idno type="VIAF">19720475</idno>
             </author>
              <respStmt>
                  <resp>ELTeC conversion</resp>
@@ -40,11 +42,12 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                         <title>A szegedi boszorkányok</title>
-                        <author>báró, Jósika Miklós</author>
+                        <author>báró Jósika Miklós</author>
                         <pubPlace>Pest</pubPlace>
                         <publisher>Heckenast</publisher>
                         <date>1854</date>
-                        <ref target="http://nektar.oszk.hu/hu/manifestation/1586819"/>
+                        <ref
+                           target="http://nektar.oszk.hu/hu/manifestation/1586819"/>
                      </bibl>
                </relatedItem>
             </bibl>

@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00949" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00949" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A Noszty fiú esete Tóth Marival : ELTeC edition
             </title>
-            <author>Mikszáth, Kálmán (1847-1910)46774986              
+            <author>Mikszáth Kálmán (1847-1910)<idno type="VIAF">46774986</idno>              
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -53,7 +55,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>Regények és nagyobb elbeszélések 20–21, 1906–1907, A Noszty fiú esete Tóth Marival</title>
-                     <author>Mikszáth, Kálmán</author>
+                     <author>Mikszáth Kálmán</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Akadémiai Kiadó</publisher>
                      <date>1960</date>
@@ -62,7 +64,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>A Noszty fiú esete Tóth Marival</title>
-               <author>Mikszáth, Kálmán</author>
+               <author>Mikszáth Kálmán</author>
                <date>1908</date>
             </bibl>
          </sourceDesc>
@@ -558,10 +560,12 @@
                   háta mögött azt mondják neki a »Harag­szom rád«-ban: »Haragszom rád«. (Miért?)
                   »Mert olyan furcsa neved van«. S össze­nevetnek lenéző ajkbiggyesztéssel. A megyei
                   restoráción nem választják meg semminek: a bemutatá­soknál még a családtagok is
-                  szégyenlik magokat s elharapják a keresztnevet; magok közt is <hi>»Kéti«</hi>-nek nevezik a szerencsétlent (hogy ti. Két »i« van a neve után:
+                  szégyenlik magokat s elharapják a keresztnevet; magok közt is <hi
+                     >»Kéti«</hi>-nek nevezik a szerencsétlent (hogy ti. Két »i« van a neve után:
                   Kopereczky I. I.). Kéti báró érezte, hogy ettől az átkozott névtől okvetlenül meg
                   kell válnia, erre pedig csak egy mód volt, hogy főbelőjje magát s ezzel aztán egy
-                  füst alatt azt is bebizonyította apja előtt, hogy mégis <hi>igazi</hi> Kopereczky volt. Abban a tekintetben legalább, hogy nagy szamár
+                  füst alatt azt is bebizonyította apja előtt, hogy mégis <hi
+                     >igazi</hi> Kopereczky volt. Abban a tekintetben legalább, hogy nagy szamár
                   volt - amiről országszerte ismeretesek a Kopereczkyek -, mutatja ezt a pozsonyi
                   dietán szárnyrakelt paszkvillus is, Kopereczky István követre vonatkozó:</p>
                <p>Mivel nem vagy Deák, csupán Kopereczky,</p>
@@ -830,7 +834,8 @@
                   utalványt.</p>
                <p>- Csak ez az unalmas írás ne lenne - zsémbelt. - Micsoda bolond találmány,
                   barátocskám. Az ember lefogdossa az emberi hangokat ezekkel a légylábakkal. Hát
-                  nem nagyszerű? Mit is mondtál csak? Hogy mindjárt kiváltod, <hi>mihelyt lehet.</hi> Bocsánatot kérek, de mi nem élünk frázisokból. Nem vagyunk
+                  nem nagyszerű? Mit is mondtál csak? Hogy mindjárt kiváltod, <hi
+                     >mihelyt lehet.</hi> Bocsánatot kérek, de mi nem élünk frázisokból. Nem vagyunk
                   mi sem közvélemény, se országgyűlés. Tessék üzleti nyelven beszélni! Mikor? Évet,
                   hónapot, napot! Mondjuk, kiváltod egy fél év alatt…</p>
                <p>- Helyes.</p>
@@ -1651,7 +1656,8 @@
                   tanácsokat öntögetett a fejébe, már tegnapelőtt előre elutazott a megyébe a
                   hangulatot megfordítani (már amennyire lehet), sőt egyenesen nem célirányos lett
                   volna, mert Feri sógor otthon maradt s minden másodnap megpumpolta, még pedig
-                  mindig duplájával az előbbeni kölcsönnek. Egy szóval <hi>kubusra</hi> dolgozott. Ezt a metódust pedig állítólag egy hajdankori perzsa
+                  mindig duplájával az előbbeni kölcsönnek. Egy szóval <hi
+                     >kubusra</hi> dolgozott. Ezt a metódust pedig állítólag egy hajdankori perzsa
                   sah se győzte a sakktáblán, pedig csak búzaszemekről volt szó. Hja, ezt nem lehet
                   tíz napig kitartani. A báró tehát azt mondta egy reggel Malinkának:</p>
                <p>- Készüljön fel, amice, megyünk haza Krapecre. Ott a csendességben, ahol nem zörög
@@ -4926,7 +4932,8 @@
                <p>Miska tehát fölvette a zöld kötényt, kimaradt az iskolából és ott dolgozgatott az
                   öreg Stromm oldalán két-három évig. Mindjárt az első pipáját a híres Bornemissza
                   csendbiztos vette meg a kirakatból, ami nem csekély dicsőség volt. Mert a nagy
-                  csendbiztos, kinek halála után még sok évtized múlva is <hi>bornemisszáknak</hi> nevezték abban az egész országrészben a pandúrokat,
+                  csendbiztos, kinek halála után még sok évtized múlva is <hi
+                     >bornemisszáknak</hi> nevezték abban az egész országrészben a pandúrokat,
                   egyszersmind nagy pipaértő hírében állt, s elég volt egy mestert kiemelni a
                   homályból maga az a tény, hogy az ő szájában látták az alkotását.</p>
                <p>Miska hovatovább olyan pipákat készített, hogy addig szállt-szállt a hírük, míg a
@@ -12489,7 +12496,8 @@
                   pletykát. Csak a Palojtay becsületes arcán tükröződött mély részvét; ő nem bírta
                   eltitkolni, igaz barátja volt a Tóth családnak.</p>
                <p>- Nem jár nekem az a cím, méltóságos uram, nincs diplomám - szabadkozott Tóth
-                  Mihály -, nemes ember se vagyok, szóval semmi se vagyok, sőt <hi>most már</hi> kevesebb vagyok a semminél is.</p>
+                  Mihály -, nemes ember se vagyok, szóval semmi se vagyok, sőt <hi
+                     >most már</hi> kevesebb vagyok a semminél is.</p>
                <p>- Ejh, nem kell azt olyan nagyon szívére venni - vágott közbe Podwolski gróf
                   rögtön, in medias res akarván bocsátkozni -, hiszen magunk is voltunk fiatalok
                   kutya mája, sőt ami engem illet…</p>
@@ -12618,7 +12626,8 @@
                   üstöke -, az ember szinte kételkedni kezd, vajon az emberek szoktak-e gondolkozni.
                   Van, mondjuk, egy gazember, aki elrabolja gyermekünknek a becsületét s akkor utána
                   kell futnunk (már te szerinted Palojtay), hogy vigye el a leányt is, meg a
-                  hozományát is és ezt te reparációnak nevezed, a gróf úr pedig <hi>mentésnek</hi> mondta (hogy mentsük amit lehet). Hogyan? Hát mentés ez? Hát
+                  hozományát is és ezt te reparációnak nevezed, a gróf úr pedig <hi
+                     >mentésnek</hi> mondta (hogy mentsük amit lehet). Hogyan? Hát mentés ez? Hát
                   reparáció ez? Lássuk csak sorba. Eddig ugye tönkrement a leány becsülete, de még
                   megvan a fiatalsága, szépsége, hozománya. A gazember elviszi azt is. Apránként
                   tönkreteszi a szépségét, rosszul bánik vele, mert hisz gazember, talán veri is,

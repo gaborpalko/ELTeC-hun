@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU01009" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU01009" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A hóhér kötele : ELTeC edition</title>
-            <author>Petőfi, Sándor (1823-1849)</author>
+            <author ref="viaf:59087691">Petőfi Sándor (1823-1849)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -41,7 +43,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">
                      <title>Régi magyar regények</title>
-                     <author>[szerk., és az utószót írta Kerényi Ferenc]</author>
+                     <author>[szerk. és az utószót írta Kerényi Ferenc]</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Unikornis</publisher>
                      <idno type="issn">1217-0828</idno>
@@ -52,7 +54,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>A hóhér kötele</title>
-               <author>Petőfi, Sándor</author>
+               <author>Petőfi Sándor</author>
                <date>1846</date>
             </bibl>
          </sourceDesc>

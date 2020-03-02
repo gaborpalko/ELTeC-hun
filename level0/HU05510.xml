@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU05510" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU05510" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Gyulai Pál : Regény : ELTeC edition</title>
-            <author>Kemény, Zsigmond (1814-1875)</author>
+            <author ref="viaf:54141095">Kemény Zsigmond (1814-1875)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
@@ -36,7 +38,7 @@
                <relatedItem type="source">
                   <bibl type="printSource">/ ;Budapest :,
                      <title>Gyulai Pál : regény </title>
-                     <author>Kemény, Zsigmond</author>
+                     <author>Kemény Zsigmond</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher> Szépirodalmi K.</publisher>
                      <date>1967</date>
@@ -45,7 +47,7 @@
             </bibl>
             <bibl type="firstEdition">
                <title>Gyulai Pál : Regény</title>
-               <author>Kemény, Zsigmond</author>
+               <author>Kemény Zsigmond</author>
                <date>1847</date>
             </bibl>
          </sourceDesc>
@@ -524,7 +526,8 @@
                   számára ígérnek szórakozást, kitüntetéseket és élvezetet.</p>
                <p>Jelenleg, tudniillik május hó 16-án, a szászsebesi tér más oldalára, hol egy
                   színkör áll, kezd lassanként gyűlöngeni a nép.</p>
-               <p>Ott kötéltáncosok mutatványai után nagyszerű misztérium adatik: <hi>Jerikó</hi>
+               <p>Ott kötéltáncosok mutatványai után nagyszerű misztérium adatik: <hi
+                     >Jerikó</hi>
                   <hi>ostroma</hi>.</p>
                <p>A régi zsidó öltözetek, hosszú rézkürtök, a papoknak hétszeri ünnepélyes menete, a
                   vár falainak titkos gépezetek által véletlen elsüllyesztése kétségkívül sok
@@ -622,7 +625,8 @@
                   Guzmannak, mint a pogány költők Pollux örmény... vagyis görög tábornoknak.</p>
                <p>GUZMAN. Arcátlan bohóc!</p>
                <p>BATTISTA <hi>torz</hi>
-                  <hi>szigorral</hi>. Bajazzó, fogd be a szádat. Különben <hi>öklét</hi>
+                  <hi>szigorral</hi>. Bajazzó, fogd be a szádat. Különben <hi
+                    >öklét</hi>
                   <hi>fölemeli</hi> oly sötétkékké festem hátadat, milyennek azon
                   éjjeli eget képzeled, honnan Guzman lovag csillaga fog leragyogni. Értettél?</p>
                <p>PIERRO. Tökéletesen. Te szívre tudsz hatni, és költői hasonlatosság által
@@ -635,7 +639,8 @@
                   véletlenen múlt, Battista úr, hogy az nem vagyok.</p>
                <p>PIERRO. Guzman lovag, ki véletlenül nem herceg és történetből súgó! Bocsásson meg
                   merészségemért.</p>
-               <p>BATTISTA. Pierro! Az ó-kasztíliai vér csak egyrangúak iránt tart bosszút. <hi>Guzmanhoz</hi>. Nemes lovag! Miként és mikor lehetett volna ön
+               <p>BATTISTA. Pierro! Az ó-kasztíliai vér csak egyrangúak iránt tart bosszút. <hi
+                    >Guzmanhoz</hi>. Nemes lovag! Miként és mikor lehetett volna ön
                   villafrancai herceg?</p>
                <p>GUZMAN. Ah, a fiatalkor, a kalandorélet! Most is gyönyörrel emlékezem azon fényes
                   napokra, midőn sötét éjjel pengettük a gitárt s fütyöröltünk. A hercegleány, a
@@ -699,7 +704,8 @@
                   mesében.</p>
                <p>GUZMAN <hi>sóhajt</hi>. Ezek álmok. Csak szép álmok!</p>
                <p>PIERRO. Kivált az érmelléki palackok. Ismerem Battistát.</p>
-               <p>BATTISTA. Bárgyú! Neked fogalmad sincs egy rendezett háztartásról. <hi>Guzmanhoz</hi>. Nemes Lovag! Tervem miért volna kivihetetlen?</p>
+               <p>BATTISTA. Bárgyú! Neked fogalmad sincs egy rendezett háztartásról. <hi
+                    >Guzmanhoz</hi>. Nemes Lovag! Tervem miért volna kivihetetlen?</p>
                <p>GUZMAN. Hát nem tudja-e, hogy engem Gergely diáktól nagy köz választ el, oly
                   mélység, melyben a zsidó Abirám, a múlt héten, midőn a masinák megakadtak,
                   elsüllyedhetett volna? Önnek, mint látom csekély világnézete van. Nem érti a párt
@@ -811,13 +817,15 @@
                   <hi>ki</hi>. Tudnom kell nevét.</p>
                <p>GUZMAN. Nagyságos úr!... <hi>Magában</hi>. Úgy tetszik, nincs annyi
                   bátorságom, mint a párizsi vérmenyegzőkor. Rajta Guzman! Semmi szívdobogás, semmi
-                  tétova! <hi>Gyulaihoz</hi>. Fejedelmi biztos úr!... <hi>Fönnakad</hi>.</p>
+                  tétova! <hi>Gyulaihoz</hi>. Fejedelmi biztos úr!... <hi
+                    >Fönnakad</hi>.</p>
                <p>GYULAI. Mit késel? <hi>Egész</hi>
                   <hi>erszényét</hi>
                   <hi>átnyújtja</hi>.</p>
                <p>GUZMAN. Nagyságos úr...! <hi>Magában</hi>. Nyíltan Guzman, tartalék
                   nélkül; ha szintén minden pillantása égő kanóc volna is, s te mellette egy
-                  puskaporos hordó, mely fedél nélkül áll, és legott szilokra pattan... <hi>Gyulaihoz,</hi>
+                  puskaporos hordó, mely fedél nélkül áll, és legott szilokra pattan... <hi
+                    >Gyulaihoz,</hi>
                   <hi>túlzó</hi>
                   <hi>méltósággal</hi>. Nagyságos úr! Ó-Kasztília, II. Fülöp trónja,
                   az egész spanyol birodalom, Kelet-India és az Antillák megrázkódnának csömör és
@@ -891,8 +899,10 @@
                   okos tanácsokat írhasson... Igen, értesítenem kell Sennót. Azonban előbb fogadja
                   föl, hogy mindenről hallgat, és meg nem támadja Gyulait. Ezt ő különben sem
                   tehetné. Hiszen titkolja, hogy neje van! Nincs mitől tartanom. De az átkozott
-                  fehérvári út. Majd lehord. Semmi baj. A férfinak tenni és kockáztatni kell. <hi>Giovane</hi>
-                  <hi>Sennóhoz</hi>: Lovag, nemes lovag, egy szóra!... <hi>Senno</hi>
+                  fehérvári út. Majd lehord. Semmi baj. A férfinak tenni és kockáztatni kell. <hi
+                    >Giovane</hi>
+                  <hi>Sennóhoz</hi>: Lovag, nemes lovag, egy szóra!... <hi
+                    >Senno</hi>
                   <hi>odaérkezik,</hi>
                   <hi>s</hi>
                   <hi>mindketten</hi>
@@ -1111,7 +1121,8 @@
                   elénekelhetnék egy vidor dalt a pásztorórák és hű szerelem édjeiről. Itt a gitár.
                   Tégy próbára. De mondd ki titkodat. Barátnőm vagy, szólj.</p>
                <p>SOFRONIA <hi>magában</hi>. Nem kellett volna e vihart fölkeltenem.
-                     <hi>Cecilhez</hi>: Ülj mellém e kerevetre. <hi>Cecil</hi>
+                     <hi>Cecilhez</hi>: Ülj mellém e kerevetre. <hi
+                     >Cecil</hi>
                   <hi>gépileg</hi>
                   <hi>engedelmeskedik</hi>. Még egész félóra van a színmű kezdetéig.
                   Marad elég idő öltözködésre. Kedvesem, sápadt vagy! Űzd el aggodalmaidat.</p>
@@ -1137,9 +1148,11 @@
                   <hi>Hidegen.</hi> Báthory Boldizsáré.</p>
                <p>SOFRONIA. Szerelmi vallomások. Tegnap adta át Pierro.</p>
                <p>CECIL <hi>magában</hi>. Erőt, bosszú, erőt! Megbocsátás: ti
-                  versenyző szenvedélyek, kiket még megnevezni nem tudok, adjatok erőt! <hi>Sofroniához</hi>: S ő téged akar elcsábítani? És a gyalázatos
+                  versenyző szenvedélyek, kiket még megnevezni nem tudok, adjatok erőt! <hi
+                    >Sofroniához</hi>: S ő téged akar elcsábítani? És a gyalázatos
                   Pierro eszköz!</p>
-               <p>SOFRONIA. Holnapra kér légyottot. Este hét órára. Hol? Nem jut eszembe. <hi>Fölemelkedik</hi>
+               <p>SOFRONIA. Holnapra kér légyottot. Este hét órára. Hol? Nem jut eszembe. <hi
+                    >Fölemelkedik</hi>
                   <hi>a</hi>
                   <hi>kerevetről.</hi>
                   <hi>Végigfutja</hi>
@@ -1561,7 +1574,9 @@
                      <hi>Magában</hi>. Ez a Senno megőrült a Boldizsár iránti rajongás
                   miatt. <hi>A</hi>
                   <hi>maestro</hi>
-                  <hi>segédéhez</hi>: Tartson ön szoros fegyelmet. <hi>Magában</hi>. Minő goromba vala Senno, s mily kábaságokat fecsegett. <hi>A</hi>
+                  <hi>segédéhez</hi>: Tartson ön szoros fegyelmet. <hi
+                     >Magában</hi>. Minő goromba vala Senno, s mily kábaságokat fecsegett. <hi
+                    >A</hi>
                   <hi>maestro</hi>
                   <hi>segédéhez</hi>: Minden botrányért felelős leend.</p>
                <p>
@@ -1675,7 +1690,8 @@
                   Felette habok csapnak el, körüle halak. A tengerfenéken egy szirt kláris-ágya
                   fogadja. A csontvázra kagylók ragadnak: a keleti gyöngy kincstárai. A mellcsontra
                   egy elsüllyedt hajó drágaságaiból gyémántkereszt hull, és a szemüregekbe fényes
-                  karbunkulus. Ezek haszontalan dekorációk egy váz számára. <hi>Gondolkozik</hi>. Azonban pályám nem nagyszerű-e? Én, ki Enyeden hat évig
+                  karbunkulus. Ezek haszontalan dekorációk egy váz számára. <hi
+                     >Gondolkozik</hi>. Azonban pályám nem nagyszerű-e? Én, ki Enyeden hat évig
                   voltam gyermektanító, most mestere vagyok az eseményeknek. Titkos adataimból, mint
                   fészkéből a sas, repül föl a szenvedély. A harangszót, mely egy nagy úr
                   menyegzőjéről regél, lélekcsengettyűvé változtatom. - Kéjes az erő, a hatalom
@@ -1879,7 +1895,8 @@
                   erejéről hiteles adatokat szolgáltatott, s ki neki mindig Senno lovagot juttatja
                   eszébe.</p>
                <p>A kislár-agassinak - a fekete rabok fejének - védence örökké készült följelenteni
-                  valami gyaurt, mert a cadinok - fő háremhölgyek - füzéréből egy még ép klárizst<hi xml:id="_ftnref1">[1]</hi> szöktetett el. A titkok kezelői bűnösnek Sennót
+                  valami gyaurt, mert a cadinok - fő háremhölgyek - füzéréből egy még ép klárizst<hi
+                     xml:id="_ftnref1">[1]</hi> szöktetett el. A titkok kezelői bűnösnek Sennót
                   gyanították volna, ha nem hallák, hogy csaknem ezen időről szól egy Perában lakó
                   franknak követelése, ki talán tévedésből elcsábított nejéért Sennóval való
                   párbajra tisztességes okot keres.</p>
@@ -2379,7 +2396,8 @@
                   nyersanyagok közül is sok látta Szorisztant és Indiát. Részint a kerevetekre
                   rakva, részint emelvényeken még használatlan prémek és szeszélyes öltözetek
                   hevertek. Minden mérfoka a hő és hűvös égaljnak, minden tartományai három
-                  földrésznek, melyek hódoltak az oszmán félholdnak, vagy ismerték a szpáhik<hi xml:id="_ftnref2">[2]</hi> portyázatait és a janicsárok tömör hadéletét, minden
+                  földrésznek, melyek hódoltak az oszmán félholdnak, vagy ismerték a szpáhik<hi
+                     xml:id="_ftnref2">[2]</hi> portyázatait és a janicsárok tömör hadéletét, minden
                   homokpusztái az egyenlítőhöz közel fekvő tájékoknak, ha annyi kútfővel bírtak,
                   hogy a tevének italt nyújthassanak, mindezek, ismétlem, adóztak a fejedelmi udvar
                   bútoraira, melyek többnyire ajándékokból teltek ki, melyeket a fényes kapu nyugati
@@ -2565,7 +2583,8 @@
                   eljöhetett volna Sába királynője, hogy megkérdezné a nép jólétének és a kormányzás
                   bölcsességének talányait. De Báthory István és barátom, Géczi - kinek csendesen
                   pihenjenek porai - őseikhez költöztek; mert a görög közmondás szerint, kit az
-                  istenek kedvellenek, korán megy sírba, és az irigy halál, mint a költő mondja: <hi>summa</hi>
+                  istenek kedvellenek, korán megy sírba, és az irigy halál, mint a költő mondja: <hi
+                    >summa</hi>
                   <hi>papavera</hi>
                   <hi>carpit</hi>, azaz a tized haszonbérlője és a szolgabíró
                   hosszasan él, míg a nagy fejedelmek s kormányzók ritkán ringathatják térdeiken
@@ -4434,7 +4453,8 @@
                   kérésem alkalmatlanság, megjelenésem tolakodás volna.</p>
                <p>GENGA <hi>csüggedőn</hi>. Úgy zárva minden kilátás! - Isten önnel,
                   Sofronia <hi>(távozni akar)</hi>.</p>
-               <p>SOFRONIA <hi>tartóztatja</hi>. Várjon ön. <hi>Kétkedve</hi>. Mit tegyek?... Ah, egy eszme!... Nem, nem, lehetetlen. Ily
+               <p>SOFRONIA <hi>tartóztatja</hi>. Várjon ön. <hi
+                     >Kétkedve</hi>. Mit tegyek?... Ah, egy eszme!... Nem, nem, lehetetlen. Ily
                   ötlet arcán az ábránd kellemjeleket, az élet bűnbélyeget lát... Aztán veszélyei...
                   De a veszély jöjjön-e számításba? <hi>Gondolkodva</hi>
                   <hi>lejt</hi>
@@ -4643,7 +4663,8 @@
                   Hisz én is hallám, mi sors fenyegeti a podeszták, fejedelmek, hercegek, királyok,
                   császárok és szultánok gyanús kedveseit! Egyiket a Marmora hullámai közé vetik
                   zsákba kötve; másikat a felséges úr legpuhább vánkosokon saját kezével megfojtja
-                  lassan, mosolyogva, szemrehányások nélkül; a harmadik esteli álomra víztiszta <hi>aqua</hi>
+                  lassan, mosolyogva, szemrehányások nélkül; a harmadik esteli álomra víztiszta <hi
+                    >aqua</hi>
                   <hi>tofánát</hi> iszik aranytálcáról, kristály üvegecskéből;
                   negyedikkel a lovagias kedélyű herceg reggelire megeteti az udvarló szívét vidor
                   társalgás közt; az ötödiket négyelve hordozzák szét a bakó lovai néptömeg
@@ -5489,7 +5510,8 @@
                   láthatatlanná lőn, én és Mészáros úr kellemetlen érintkezéseknek valánk kitéve, s
                   nem csekély vigasztalásunkra szolgált az utcákon támadt zaj és futkosás, mely a
                   városhajdúk megjelenését vonta maga után. A bátor Mészáros Bayard lovagként
-                  küzdve, én pedig, mint a római költő, relicto non bene clypeo,<hi xml:id="_ftnref4">[4]</hi> a rendőrség körme közé estünk. Egy pár órát rossz
+                  küzdve, én pedig, mint a római költő, relicto non bene clypeo,<hi
+                     xml:id="_ftnref4">[4]</hi> a rendőrség körme közé estünk. Egy pár órát rossz
                   szálláson tölténk. De hajnalhasadtával szükségesnek hívém nevemet fölfedezni, mire
                   a hajdúkapitány úr megújított engedelemkérések közt bocsátott szabadon előbb engem
                   s aztán kezességemre Mészárost, ki fönntartván jogát a törvénytelen letartóztatás
@@ -7888,7 +7910,8 @@
                   fogadnának. “Pierro, te himpellér vagy”, mondaná a legkisebb rongy azon
                   öltözetből, melyben egykor annyi tapssal üdvözöltek. A lorettói szűz is ritkán lát
                   térdelni az oltárköveken, és a rózsamáli bor zamatjára csak homályosan emlékezik
-                  Pierro. Cospetto, cospetto, mint megváltozott e szoba is. <hi>Leül.</hi> Rend, csín, összhangzás sehol! Ma izent Sofronia kisasszony, hogy
+                  Pierro. Cospetto, cospetto, mint megváltozott e szoba is. <hi
+                     >Leül.</hi> Rend, csín, összhangzás sehol! Ma izent Sofronia kisasszony, hogy
                   látogatnám meg. Ha elmaradok, bűnösnek fog tartani, holott az ő kárhoztatása
                   egyenesen szívemet sebzi, őrizzen a lorettói szűz a signora haragjától! Kegyed
                   tudhatja, mily hangulatban van most. Föl van-e dúlva a kisasszony kedélye? Kényes
@@ -8054,7 +8077,8 @@
                <p>- Alig hihetem, signor, hogy egészen értene - mond a bajazzo, fürkésző tekintetet
                   vetve Gengára.</p>
                <p>- Pah, művész úr, mintha oly bajos volna azon lehetségeken átfutni, melyek közül
-                  ön választhat. Hisz csak nem akar ökölharcot a diákkal, Nagy Imre modorában?<hi xml:id="_ftnref6">[6]</hi>
+                  ön választhat. Hisz csak nem akar ökölharcot a diákkal, Nagy Imre modorában?<hi
+                     xml:id="_ftnref6">[6]</hi>
                </p>
                <p>- Tehetné ezt egy gentiluomo? - válaszolá Pierro.</p>
                <p>- S tehát mi volna hátra - kérdé Genga -, ugye, ön a mérget Erdélyben sokra nem
@@ -8679,7 +8703,8 @@
                   fejedelemhez. Hódoljon az ő személyében azon tekintélynek, mely által kezeli a
                   gondviselés a népek sorsát. A fölkentek körül villámaival őrködik az ég.</p>
                <p>BÁTHORY <hi>olvas</hi>. Maradj állandó. Bűnben is létezhetik neme a
-                  nagyszerűségnek, míg a könnyelmű változékonyságot megvetéssel kíséri a világ (<hi>ásít</hi>
+                  nagyszerűségnek, míg a könnyelmű változékonyságot megvetéssel kíséri a világ (<hi
+                    >ásít</hi>
                   <hi>s</hi>
                   <hi>kiejti</hi>
                   <hi>a</hi>
@@ -14251,7 +14276,8 @@
                   hihette volna másként.</p>
                <p>Kedélyéből, a Báthory-házhoz való viszonyából, túlságos eszméiből a kötelesség és
                   hála iránt, s végtére azon fogalomból, mellyel bírt a fejedelmi uralkodás és
-                  alattvalói engedelmesség felől, annyira kifejlett ama szerep, melyet e szóval <hi>bűn</hi> bélyegzett meg, mint a kemény márványból egy művész
+                  alattvalói engedelmesség felől, annyira kifejlett ama szerep, melyet e szóval <hi
+                    >bűn</hi> bélyegzett meg, mint a kemény márványból egy művész
                   vésője alatt lassanként előtűnik sivár jellemével megrendelt munkája: Cloto,
                   Megara vagy valami sötét alak Dante poklából.</p>
                <p>S mégis részint a vétektől való iszony, részint inkább elmélő, mint tevékeny
@@ -15117,7 +15143,8 @@
                <p>Ennek igen természetes az oka.</p>
                <p>Soha a spanyol és görög közadósságok, soha reménydús honi vállalataink, vagy hogy
                   idegen mozgalmakra vezessem olvasóim figyelmét, soha a marokkói csoda-tökélyű
-                  gyantagyár szabadítékos társulatának, melynek keletkezését s feloszlását <hi>Paturot</hi> című regényben gyönyörű tollal rajzolta egy névtelen
+                  gyantagyár szabadítékos társulatának, melynek keletkezését s feloszlását <hi
+                    >Paturot</hi> című regényben gyönyörű tollal rajzolta egy névtelen
                   író, kétszáz procent haszonra terveit részvényei nagyobb becs-ingásoknak kitéve
                   nem voltanak, mint az arisztokrácia és a tömeg mulattatására szentelt szászsebesi
                   tér élvei.</p>
@@ -19185,7 +19212,8 @@
                <head> 14</head>
                <p>Minthogy olvasóim képzelődése könnyen kitöltheti az apró hézagokat, melyek egy
                   szívviszony fejlődésének előadásában támadhatnak, nincs miért naponként az erdélyi
-                  fejedelmet szép Armidájához kísérjem, s néhány lapot Tiefenbach grófné <hi>Emlékezései</hi>-ből belétekintés nélkül átforgathatunk!...</p>
+                  fejedelmet szép Armidájához kísérjem, s néhány lapot Tiefenbach grófné <hi
+                    >Emlékezései</hi>-ből belétekintés nélkül átforgathatunk!...</p>
                <p> Szeptember 20-án</p>
                <p>Alfonso éppen most távozott tőlem. Nagy óvatosságot kelle használnom, hogy itt
                   mulatása senkitől észre ne vétessék. Akármint magyarázzuk a lehetségeket,
@@ -19602,7 +19630,8 @@
             </div>
             <div type="chapter">
                <head> 15</head>
-               <p>Itt megszakítjuk kivonatainkat Tiefenbach grófné <hi>Emlékezései</hi>ből, mert már regényünk végpontjai felé más fonalszálak is
+               <p>Itt megszakítjuk kivonatainkat Tiefenbach grófné <hi
+                     >Emlékezései</hi>ből, mert már regényünk végpontjai felé más fonalszálak is
                   elvezethetnek.</p>
                <p>Míg azonban a gyors fejlemények örvényébe vetnők magunkat, mulassunk egy kissé
                   Gyulaival, kinek - ha sorsa iránt érdeklődünk - a szászsebesi téren tartott lovagi

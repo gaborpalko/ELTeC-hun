@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU12551" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU12551" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Katalin :  Regény fiatal leányok számára  : ELTeC edition</title>
-            <author>, Benedek Elek (1813-1893) 120201932
+            <author> Benedek Elek (1813-1893) <idno type="VIAF">120201932</idno>
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -40,11 +42,12 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>Katalin : regény fiatal leányok számára</title>
-                     <author>Benedek, Elek</author>
+                     <author>Benedek Elek</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Athenaeum</publisher>
                      <date>1896</date>
-                     <ref target="http://nektar.oszk.hu/hu/manifestation/1573131"/>
+                     <ref
+                        target="http://nektar.oszk.hu/hu/manifestation/1573131"/>
                   </bibl>
                </relatedItem>
             </bibl>
@@ -1218,7 +1221,8 @@
                   az övével! Betegség ha ér: sem éjjele, sem nappala. Remegő szivvel virraszt ágyunk
                   felett, de válságos pillanatokban hőssé válik, harczra kél magával a rettenetes
                   Halállal.</p>
-               <p>Mama! Nincs szó, mely oly hiven fejezné ki az <hi>önfeláldozást</hi>, a maga jólétéről való le­mondást, mint ez a szó: mama! Ez az
+               <p>Mama! Nincs szó, mely oly hiven fejezné ki az <hi
+                  >önfeláldozást</hi>, a maga jólétéről való le­mondást, mint ez a szó: mama! Ez az
                   egyetlen szó, melyet minden gyermek ismer, bármely nyelvet beszéljen s királynak,
                   koldusnak csak addig boldog a gyermeke, mig van, a kinek mondja: mama!</p>
                <p>- Nem, nem! Lehet az uj asszony derék, nemes, az én anyám helyét nem pótolhatja! -
@@ -2130,7 +2134,8 @@
                <p>- Nos igen, a tied és a testvéreidé.</p>
                <p>- Nem értem...</p>
                <p>- Kedves Róza, te sok mindent nem értesz. Majd megérted, ha szinről-szinre látod.
-                  De beszéljünk egyébről, a mi téged jobban érdekel. Ülj le már, <hi>nálam</hi>.</p>
+                  De beszéljünk egyébről, a mi téged jobban érdekel. Ülj le már, <hi
+                     >nálam</hi>.</p>
                <p>Róza habozva ült le s kényelmetlenül feszengett a székben. Ugy érezte magát,
                   mintha fogoly volna. Szeretett volna menekülni, de röstellette ott hagyni
                   Katalint.</p>
@@ -2791,7 +2796,8 @@
                   jó barátok, a költő tisztelői most már elforditják a fejüket, ha látnak az utczán,
                   nehogy megállitsam és kérjek tőlük valamit. Egy szó, mint száz: Etelkát nem vették
                   fel a tanitónő-képzőbe. Egyszerüen nem jutott neki hely. Sem ingyenes, sem
-                  fizetett. A tanfelügyelő azt mondta: hja, kérem, ez <hi>minta-intézet</hi>, ide legfönnebb 25 leányt vesznek föl. A miniszterhez nem
+                  fizetett. A tanfelügyelő azt mondta: hja, kérem, ez <hi
+                     >minta-intézet</hi>, ide legfönnebb 25 leányt vesznek föl. A miniszterhez nem
                   is mentem. - Tessék, biztatott a tanfelügyelő, a jövő évben újra próbálni, talán
                   akkor. Apropos, ugy-e, a kedves leánya - keresztény? - Igen, mondtam én
                   csodálkozva. Miért, kérem? Mert ez fontos, nagyon fontos... Egy kissé
@@ -3400,7 +3406,8 @@
                   állott Eötvös szobra, mely feketén, búsan vált ki a még alig levelezdő akáczfák
                   körül. Bement a kis parkba, s hosszan nézte a szobrot. <hi>A
                      megfagyott gyermek </hi>költőjének szelid, gondolkozó arczát. Sorban jutottak
-                  eszébe a költő versei. <hi>A megfagyott gyermek. </hi>A <hi>Végrendelet</hi>. Önkéntelen suttogta magában a <hi>Végrendelet </hi>kezdő sorait:</p>
+                  eszébe a költő versei. <hi>A megfagyott gyermek. </hi>A <hi>Végrendelet</hi>. Önkéntelen suttogta magában a <hi
+                     >Végrendelet </hi>kezdő sorait:</p>
                <p>Ha majdan átfutottam,</p>
                <p> Göröngyös utamat...</p>
                <p>Tovább, tovább! Nem volt ereje itt maradni. Kiment a korzóra, s onnét a legelső
@@ -4268,7 +4275,8 @@
                <p>- Fiatal!? Azért sikerülhet. Ha jól tudom, Rákosi Jenő is tizennyolcz éves korában
                   irta az <hi>Aesopus</hi>-át s ez, szerintem, a legszebb
                   alkotása.</p>
-               <p>- Igen ám, de hányan irtak még tizennyolcz éves korukban <hi>Aesopus</hi>-t?Te csak azt az egyet nézed, kinek már az első fellépése fényes
+               <p>- Igen ám, de hányan irtak még tizennyolcz éves korukban <hi
+                     >Aesopus</hi>-t?Te csak azt az egyet nézed, kinek már az első fellépése fényes
                   diadal volt s nem gondolsz arra a száz meg száz ifjura, kik évek hosszú során át
                   próbálgatják a szárnyukat és nem tudnak felrepülni, mignem végre is a földön kell
                   maradniok. Egynéhánynak sikerül hosszú, kitartó küzdelem után. Vannak, kiknek csak
@@ -5106,7 +5114,8 @@
                   mit a multkor irtál, hogy nem a vagyon adja a névnek a fényt, s György és Kornél,
                   mindkettő a maga pályáján, dicsőséget szerez a Szentpáli névnek, nagyobb
                   dicsőséget, mint azok az ősök, kik éltek az öröklött vagyonból s munka nélkül
-                  élték le az életet. De hiába, az én szivem hozzá van nőve az <hi>anyaföldhöz </hi>s fáj, erősen fáj, mást látnom őseimnek földjén.«</p>
+                  élték le az életet. De hiába, az én szivem hozzá van nőve az <hi
+                     >anyaföldhöz </hi>s fáj, erősen fáj, mást látnom őseimnek földjén.«</p>
                <p>- Szegény jó apa, - sóhajtott Katalin, - neked igazad van.</p>
                <p>De nem rég úgy vette észre, hogy György és Kornél valamit titkolnak előtte; azt is
                   megtudta, hogy Kornél egyszer odahaza járt, bár ő neki azt mondta, hogy Bécsbe
@@ -5136,7 +5145,8 @@
                   nyilhatik virág! Katalin! Katalin! Ha megdobbanna a szived! Ha a mi romjaink közt
                   is nyilhatnék még virág!«</p>
                <p>Könyek törtek elő Katalin szeméből. Hátha igaza van Kálmánnak? De ő azt irta
-                  vissza: a mi romjaink közt már nem nyilhatik virág. <hi>Bemohosodtak.</hi>
+                  vissza: a mi romjaink közt már nem nyilhatik virág. <hi
+                     >Bemohosodtak.</hi>
                </p>
                <p>Nagy zajjal jöttek haza az ikrek, velük Kornél.</p>
                <p>- Kismama! Kismama! Levél a vőlegényemtől! Holnap már itt lesz s az esküvő előtt

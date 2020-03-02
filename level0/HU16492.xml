@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16492" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16492" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A második férj :  Regény két kötetben  : ELTeC edition</title>
-            <author>Abonyi, Árpád (1865-1918)39125767 
+            <author>Abonyi Árpád (1865-1918)<idno type="VIAF">39125767</idno> 
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -43,7 +45,7 @@
                <relatedItem type="source">
                   <bibl type="firstEdition">
                      <title>A második férj : regény. 1-2.</title>
-                     <author>Abonyi, Árpád</author>
+                     <author>Abonyi Árpád</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Athenaeum</publisher>
                      <date>1895</date>
@@ -433,7 +435,8 @@
                   voltál itt! Hogy vagy? Jól persze, te mindig jól vagy.</p>
                <p>- Ugy a hogy, édes Szirén, - aludtál?</p>
                <p>- Bizony már félig aludtam is. Apával jöttél? Magadtól ugy sem jöttél volna. Hagyd
-                  el kérlek, - megszoktuk. Mióta hires ember lettél, a <hi>Sibilla</hi> ugyancsak gőgössé tett.</p>
+                  el kérlek, - megszoktuk. Mióta hires ember lettél, a <hi
+                     >Sibilla</hi> ugyancsak gőgössé tett.</p>
                <p>- Dehogy tett.</p>
                <p>- Tapasztalásból beszélek. Mikor voltál utoljára nálunk? Szeptemberben, drága
                   uracskám, majdnem félév előtt.</p>
@@ -768,7 +771,8 @@
                   aggódó szemökben az is feltünő körül­ménnyé élesedett, hogy Clermontné az idén már
                   október elején beköltözött »mária-család«-i kastélyából, - mig a mult évben csak
                   deczember tizedikén érkezett meg. Miért jött korábban? Clermontné azonnal megadta
-                  a választ, - azért jött korábban, mert jelen akart lenni a <hi>Sibilla</hi> premierején, mely október 23-án volt és jelentékeny sikerrel
+                  a választ, - azért jött korábban, mert jelen akart lenni a <hi
+                     >Sibilla</hi> premierején, mely október 23-án volt és jelentékeny sikerrel
                   járt. A tante e természetes ma­gya­rázattal látszólag meg volt elégedve, magában
                   azonban elhatározta, hogy a fiatal asszony minden mozdulatára szorgosan ügyelni
                   fog. Clermontné, kinek női ösztöne azonnal megsugta, hogy figyelemmel kisérik, a
@@ -2183,7 +2187,8 @@
                   máskép cselekszik, mint a hogy beszél? Nemde csalónak, vagy komédiásnak? Vagy mind
                   a kettőnek. Nézzetek meg hát engem figyelmesebben, mint eddig és be fogjátok
                   látni, hogy nincs szerencsém beletartozni abba a jeles társaságba, melyben csalók,
-                  ámitók és komédiások foglalják el a diszhelyeket. Láttad a <hi>Sibillá</hi>-mat.«</p>
+                  ámitók és komédiások foglalják el a diszhelyeket. Láttad a <hi
+                     >Sibillá</hi>-mat.«</p>
                <p>- Láttam, te adtál jegyet, különben nem láttam volna. S a lány őszinte
                   elragadtatással kiáltott fel: Nagyon szép volt, Fülöp! a bucsuzás ott a sárga
                   szalonban, a viszontlátás Sibil és György között... magam is neki keseredtem,
@@ -2762,7 +2767,8 @@
                   kelletlen kényszerből látta ő méltóságát szalonjának vendégei között, mellőzni
                   azonban nem lehetett.</p>
                <p>Fülöp végig sétált a köruton, - estefelé betért egy kávéházba, elolvasta az
-                  estilapokat, azután meglátogatta az Operát. Leoncavallo <hi>bajazzoi</hi> voltak müsorra tüzve. Ez volt két év óta a »Cavalleria
+                  estilapokat, azután meglátogatta az Operát. Leoncavallo <hi
+                     >bajazzoi</hi> voltak müsorra tüzve. Ez volt két év óta a »Cavalleria
                   rusticana« mellett legkedvesebb operája. Ha csak halaszthatatlan teendői nem
                   akadtak, mindig meghallgatta a fiatal olasz mester e forró zenedrámáját, melynek
                   szélesen hullámzó, szenvedélyes melódiái a legélénkebb hatást gyakorolták reá.</p>
@@ -4188,7 +4194,8 @@
                kilobban, ha semmiféle külső befolyás nem ingerli, mint a szerelem, melyet magára
                hagynak, s a környezet hatásán kivül kerül. Fülöp soha sem vesztette el helyes
                érzékét a figyelme elé kerülő momentumok gyors megitélésében; igazat kellett tehát
-               adnia ezuttal is annak a végzetes szerepnek, melyet Echegaray <hi>Galeotto</hi>-jában a környezet játszik végig a szegény Ernesto és az ártatlan
+               adnia ezuttal is annak a végzetes szerepnek, melyet Echegaray <hi
+                  >Galeotto</hi>-jában a környezet játszik végig a szegény Ernesto és az ártatlan
                Theodóra megejtésére, kik vétkezés nélkül, jó formán akaratuk ellenére kerülnek bele
                a bukásba, a környezet rágalmainak esvén áldozatul. A rágalom szó ebben az esetben
                ugyan tulságosan erős, a helyzet azonban majdnem hasonló. A tante és a környezet
@@ -4358,7 +4365,8 @@
                meglepetve figyelte ezeket a zavart mozdulatokat. Szera arczkifejezése oly ijedt,
                annyira szenvedélyes és félreismerhet­lenül elfogult volt, hogy egy pillanatig sem
                hagyhatta többé kétségben érzelmei felől. S e fölfedezés a legnagyobb zavarba
-               ejtette. Annyit eddig is tudott, hogy a leány ragaszkodik hozzá, <hi>erre</hi> az eshetőségre azonban nem volt elkészülve. Föltámadt szivében az
+               ejtette. Annyit eddig is tudott, hogy a leány ragaszkodik hozzá, <hi
+                  >erre</hi> az eshetőségre azonban nem volt elkészülve. Föltámadt szivében az
                önvád; vigyáz­ni kellett volna. Szera fiatal, kicsit könnyelmü, de hü és ragaszkodó
                teremtés... vele szemben legalább mindig az volt... nem lett volna tehát szabad annyi
                nyiltsággal bánni vele, hogy vonzalma erősebb szenvedélylyé nőhesse ki magát. Erre
@@ -4741,7 +4749,8 @@
                   titokban most is megcsodálta. Nem adott mindjárt választ. Visszatette az asztalra
                   a névjegytartót, lassu, inkább kicsinylő, sem mint neheztelő mozdulattal vállat
                   vont és közelebb tolta székét a kerevethez. - »Igaza van Julia, - törte meg végre
-                  a kellemetlenül elhuzódó csendet, - őszinte voltam, de az én <hi>Sibillám</hi> hősnőjében egyetlen vonás sincs, mely Katalinhoz tehetné
+                  a kellemetlenül elhuzódó csendet, - őszinte voltam, de az én <hi
+                     >Sibillám</hi> hősnőjében egyetlen vonás sincs, mely Katalinhoz tehetné
                   hasonlóvá. Önök nem ismerik Katalint«...</p>
                <p>- Óh, én...</p>
                <p>Elhallgatott, s ijedten rezzent össze. Arczát elöntötte a vér... Fülöp
@@ -5938,7 +5947,8 @@
                soha többé ő tőle el ne váljon. Szeretettel, hálásan vetett egy pillantást a barnára
                festett vasajtóra: ime, nem mese, hogy a paradicsomnak ajtaja van, - <hi>ez</hi> az. Mire megfordult, az ifju állt szigoru arczczal előtte,
                mint egy inkvizitor.</p>
-            <p>- Figyelmeztetem asszonyom, - mondá emelt hangon, - hogy ez az ajtó <hi>most is</hi> be van zárva. Hiába tekintget reá, nem nyilik meg.</p>
+            <p>- Figyelmeztetem asszonyom, - mondá emelt hangon, - hogy ez az ajtó <hi
+                  >most is</hi> be van zárva. Hiába tekintget reá, nem nyilik meg.</p>
             <p>- Már nem baj.</p>
             <p>- Ez azt jelenti, hogy <hi>akkor</hi> baj volt, tehát ön még mindig
                emlékszik reá és még mindig nem bocsátott meg. Ez az ön nagylelküsége?</p>
@@ -6452,7 +6462,8 @@
                   keltünk, mint Velenczében a Lidón, vagy Párisban az <hi>Odeon</hi>
                   páholyában. Ön azért, mert szép, mint egy Junó, én azért, mert karomat nyujthatom
                   önnek. Ne szakitson félbe! Ez is nyiltság, s ön kikötötte, hogy a legteljesebb
-                  nyiltsággal nyilatkozzam. Emlékszik, mily ingerült lettem az <hi>Odeon</hi>-ban, midőn észrevettem, hogy egyszerre tiz látcső is kitartó ostrom
+                  nyiltsággal nyilatkozzam. Emlékszik, mily ingerült lettem az <hi
+                     >Odeon</hi>-ban, midőn észrevettem, hogy egyszerre tiz látcső is kitartó ostrom
                   alá veszi páholyunkat, a melynek sötét hátterében nem birtam annyira eltünni, hogy
                   az ostromló ellenség ne vegyen észre. Ugy van, asszonyom, - féltettem önt és ezt a
                   legteljesebb nyiltsággal be is vallom. Nagyon szerettem; azért.«</p>
