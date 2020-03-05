@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="eltec-0.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HUN19090" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HUN19090" xml:lang="hu">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -13,13 +17,9 @@
             <extent>
                 <measure unit="words">77578</measure>
             </extent>
-            <publicationStmt>
-                <p>Publication Information</p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="printSource"><author>Beniczkyné Bajza Lenke</author><title level="s" n="48">MAGYAR REGÉNYIRÓK KÉPES KIADÁSA</title>
-                    <title>Végzetes tévedés</title><publisher>BUDAPEST FRANKLIN-TÁRSULAT magyar irod. intézet és könyvnyomda</publisher><date>1909</date><respStmt><resp>editor</resp><name>Mikszáth Kálmán</name></respStmt></bibl>
-            </sourceDesc>
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-05"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Publication Information--></publicationStmt>
+            <sourceDesc><bibl type="printSource"><author>Beniczkyné Bajza Lenke</author><title level="s" n="48">MAGYAR REGÉNYIRÓK KÉPES KIADÁSA</title>
+                    <title>Végzetes tévedés</title><publisher>BUDAPEST FRANKLIN-TÁRSULAT magyar irod. intézet és könyvnyomda</publisher><date>1909</date><respStmt><resp>editor</resp><name>Mikszáth Kálmán</name></respStmt></bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-0">
             <p/>
@@ -31,11 +31,11 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2020-03-05">Checked by checkup script</change>
             <change when="2019-09-25">File created</change>
         </revisionDesc>
     </teiHeader>

@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU03130" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU03130" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,11 +22,8 @@
             <measure unit="pages">458</measure>
             <measure unit="vols">2</measure>
          </extent>
-         <publicationStmt>
-            <p>Published as part of ELTeC</p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="digitalSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-05"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC--></publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                <title>A karthauzi</title>
                <date>2005-09-21</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -34,22 +36,18 @@
                   <name>Kiss András</name>
                   <name>Ollé Krisztián</name>
                </respStmt>
-               <relatedItem type="source">
-                  <bibl type="printSource">
+               
+            </bibl><bibl type="firstEdition">
+               <title>A karthauzi</title>
+               <author>Eötvös József</author>
+               <date>1842</date>
+            </bibl><bibl type="printSource">
                      <title>A karthauzi</title>
                      <author> Eötvös József</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Franklin-Társulat</publisher>
                      <date>[1911]</date>
-                  </bibl>
-               </relatedItem>
-            </bibl>
-            <bibl type="firstEdition">
-               <title>A karthauzi</title>
-               <author>Eötvös József</author>
-               <date>1842</date>
-            </bibl>
-         </sourceDesc>
+                  </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -61,17 +59,17 @@
          <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2020-03-05">Checked by checkup script</change>
          <change when="2019-04-18"/>
       </revisionDesc>
    </teiHeader>
   <text>
       <body>
-         <div type="volume">
+         <div type="group">
             <head>I. KÖTET</head>
          <div type="chapter">
             <head>Bevezetés</head>
@@ -216,7 +214,7 @@
                szó van, nem a költői képzeletnek műve csak.</p>
             
          </div>
-         <div type="part">
+         <div type="group">
             <head>ELSŐ RÉSZ.</head>
             <div type="chapter">
                <head>I.</head>
@@ -1692,7 +1690,7 @@
                
             </div>
          </div>
-         <div type="part">
+         <div type="group">
             <head>MÁSODIK RÉSZ.</head>
             <div type="chapter">
                <head>XVII.</head>
@@ -5427,10 +5425,10 @@
             </div>
          </div>
          </div>
-         <div type="volume">
+         <div type="group">
             <head>II. KÖTET</head>
          </div>
-         <div type="part">
+         <div type="group">
             <head>HARMADIK RÉSZ.</head>
             <div type="chapter">
                <head>XXXVII.</head>
@@ -10240,7 +10238,7 @@
                
             </div>
          </div>
-         <div type="part">
+         <div type="group">
             <head>NEGYEDIK RÉSZ.</head>
             <div type="chapter">
                <head>L.</head>

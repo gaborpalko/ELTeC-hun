@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU06877" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU06877" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,11 +22,8 @@
             <measure unit="pages">723</measure>
             <measure unit="vols">2</measure>
          </extent>
-         <publicationStmt>
-            <p>Published as part of ELTeC</p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="digitalSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-05"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC--></publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                <title>Gróf Benyovszky Móricz életrajza, saját emlékiratai és útleírásai</title>
                <date>2009-03-27</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -33,29 +35,23 @@
                   <name>Csige Mónika</name>
                   <name>Kiss András</name>
                </respStmt>
-               <relatedItem type="source">
-                  <bibl type="digitalSource">
+               
+               
+            </bibl><bibl type="firstEdition">
+               <title>Gróf Benyovszky Móricz életrajza, saját emlékiratai és útleírásai</title>
+               <author>Jókai Mór</author>
+               <date>1887</date>
+            </bibl><bibl type="digitalSource">
                      <title>Gróf Benyovszky Móricz életrajza, saját emlékiratai és útleírásai</title>
                      <date>2009-03-27</date>
                      <ref target="http://www.archive.org/details/grfbenyovszkym01benyiala"/>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="source">
-                  <bibl type="printSource">
+                  </bibl><bibl type="printSource">
                      <title>Gróf Benyovszky Móricz életrajza, saját emlékiratai és útleírásai </title>
                      <author>Jókai Mór</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Ráth Mór</publisher>
                      <date>1888-1891</date>
-                  </bibl>
-               </relatedItem>
-            </bibl>
-            <bibl type="firstEdition">
-               <title>Gróf Benyovszky Móricz életrajza, saját emlékiratai és útleírásai</title>
-               <author>Jókai Mór</author>
-               <date>1887</date>
-            </bibl>
-         </sourceDesc>
+                  </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -67,17 +63,17 @@
          <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2020-03-05">Checked by checkup script</change>
          <change when="2019-04-18"/>
       </revisionDesc>
    </teiHeader>
   <text>
       <body>
-         <div type="volume">
+         <div type="group">
             <head>ELSŐ KÖTET.</head>
             
             <p>
@@ -8746,7 +8742,7 @@
                
             </div>
          </div>
-         <div type="volume">
+         <div type="group">
             <head>MÁSODIK KÖTET.</head>
             
             
@@ -9206,9 +9202,9 @@
                   átalakítják úrias paletot-ká, s abban minden úri háznál megjelenhetnek. - Ez is
                   összetalál Benyovszky feljegyzéseivel.</p>
                
-               <div>
+               <milestone unit="unspecified"/>
                   <!-- milestone type="subChapter" n="II"/ -->
-                  <head>A BRADJÁGOK.</head>
+                  <p><label>A BRADJÁGOK.</label></p>
                   <p>Bradjágnak híják Szibériában a szökevényt, a ki a kényszermunka helyett,
                      melynél kap rendes élelmezést, rabköntöst és börtönlakást, inkább választja a
                      szabad ég alatt csavargást, koplalást, rongyoskodást.</p>
@@ -9331,10 +9327,10 @@
                      »szerencsétlenség«-nek tartják, s még rokonszenvvel vannak a sorsüldözte
                      boldogtalan iránt.</p>
                   
-               </div>
-               <div>
+               
+               <milestone unit="unspecified"/>
                   <!-- milestone type="subChapter" n="III"/ -->
-                  <head>SZAMOJEDEK ÉS CSUKCSIAK.</head>
+                  <p><label>SZAMOJEDEK ÉS CSUKCSIAK.</label></p>
                   <p>Az éjsarkhoz közel lakó népek, az örök jéghez hozzákötött fajok között is
                      vannak fokozatok. A hogy a mívelt világ nemzetei versenyeznek a »nemesség«
                      előnyei fölött, úgy tart a verseny a létra-fokon lefelé is, melyik a legvadabb?
@@ -9476,10 +9472,10 @@
                      egész kupolaszerűen. A sír nem régi lehetett. Ámbár a jégsark tartományaiban ez
                      csalóka adat. Itt a földbe elásott csont és fa nem hamar rohad el.</p>
                   
-               </div>
-               <div>
+               
+               <milestone unit="unspecified"/>
                   <!-- milestone type="subChapter" n="IV"/ -->
-                  <head>KURUZSOLÁS.</head>
+                  <p><label>KURUZSOLÁS.</label></p>
                   <p>Hogy milyen háládatos foglalkozás a hókuszpókusz - Szibériában, azt a
                      hivatkozott lengyel száműzöttnek is volt módjában egy ízben tapasztalni.</p>
                   <p>Két napi csónakút alatt a Lénán, száműzött társaival együtt, nagyon sokat
@@ -9519,10 +9515,10 @@
                      »Mesélhetsz nekem!« mondá nagy bölcsen, »ismerjük mi jól a te öcsédet.« - Már
                      tudniillik a »leschy« ördögöt, a kit a leányból kikergetett.</p>
                   
-               </div>
-               <div>
+               
+               <milestone unit="unspecified"/>
                   <!-- milestone type="subChapter" n="V"/ -->
-                  <head>ERKÖLCSI FOGALOM. HÁZASSÁGSZERZÉS. LEÁNYRABLÁS.</head>
+                  <p><label>ERKÖLCSI FOGALOM. HÁZASSÁGSZERZÉS. LEÁNYRABLÁS.</label></p>
                   <p>Szemérmetességről, női erényről a szibériai népfajoknak még csak fogalmuk
                      sincsen. Valamennyi útazónak, száműzöttnek a feljegyzései mind arról
                      tanúskodnak, hogy a nők maguk kínálják a kegyosztásaikat az idegeneknek,
@@ -9618,9 +9614,9 @@
                      de hogy honnan kerűl elő a veres fersing, a tarka rokolya, a selyem fejkendő?
                      azt csak a szomszéd asszonyok tudnák megmondani.</p>
                   
-               </div>
+               
             </div>
-            <div>
+            <div type="group">
                <!-- milestone type="subChapter" n="I"/ -->
                <head>HARMINCZHATODIK FEJEZET. FELFEDEZETLEN NÉPFAJOK. AZ ITELMENEK.</head>
                <p>A terjedő orosz faj egyre szorítja felfelé az éjsarknak a jégvilág őslakóit. Azok
@@ -9703,7 +9699,7 @@
                <p>Ez már a hatodik világrész lehet - az északi földsark világa. S ott is van ember;
                   és állat, a kit az ember megegyen.</p>
                
-               <div>
+               <div type="chapter">
                   <!-- milestone type="subChapter" n="II"/ -->
                   <head>AZ ITELMENEK.</head>
                   <p>A mi Benyovszky Móricz naplójának hitelességét leginkább bizonyítja, az, hogy a
@@ -9890,9 +9886,9 @@
                      melyekről Benyovszky életírásában beszéltünk.</p>
                   
                
-               <div>
+               <milestone unit="unspecified"/>
                   <!-- milestone type="subChapter" n="II"/ -->
-                  <head>ÉGVILÁGÍTÁS.</head>
+                  <p><label>ÉGVILÁGÍTÁS.</label></p>
                   <p>El kell ismernem, hogy egy helyütt Bolsereczk leírásánál azt a hibát követtem
                      el, hogy a helyet tíz szélességi fokkal feljebb képzelve az éjsark felé,
                      deczemberben folytonos éjszakát borítottam erre a vidékre. Nordenskjöldnél
@@ -9911,10 +9907,10 @@
                      hóvakságot, mely ellen a Véga hajósai színes szemüvegekkel védték meg a szemük
                      világát.</p>
                   
-               </div>
-               <div>
+               
+               <milestone unit="unspecified"/>
                   <!-- milestone type="subChapter" n="III"/ -->
-                  <head>ÁLNAPOK.</head>
+                  <p><label>ÁLNAPOK.</label></p>
                   <p>Más, szintén többször előforduló nevezetessége az éjsarki vidéknek az álnapok
                      tüneménye, mely olyankor jön elő, a midőn derült idő mellett a lég tele van
                      vékony hókristályokkal. Ezek okozzák »tán« azt a sugártörést, mely a
@@ -9924,10 +9920,10 @@
                      pontjain álnapokkal megtoldva. A »halo«-nak a zenithfelé forduló ívrésze
                      többnyire szivárványszínekbe játszik.</p>
                   
-               </div>
-               <div>
+               
+               <milestone unit="unspecified"/>
                   <!-- milestone type="subChapter" n="IV"/ -->
-                  <head>KÖDHALLUCZINÁCZIÓ.</head>
+                  <p><label>KÖDHALLUCZINÁCZIÓ.</label></p>
                   <p>A szibériai átlátszó ködnek is van valami sajátsága, mely a szokatlan láttani
                      csalódást idézi elő. Nordenskjöld emberei látnak a ködben egy óriási fehér
                      medvét. Puskára kapnak, s mikor már ráakarnak lőni, akkor a fehér medve
@@ -9939,10 +9935,10 @@
                      úszó jégdarabon sütkérezik. A koponyája volt a nagy hegy, s a két agyara a
                      hómező.</p>
                   
-               </div>
-               <div>
+               
+               <milestone unit="unspecified"/>
                   <!-- milestone type="subChapter" n="V"/ -->
-                  <head>A MAMMUTH.</head>
+                  <p><label>A MAMMUTH.</label></p>
                   <p>Az állatvilágnak e legrejtélyesebb alakját a föld minden részében feltalálni
                      elszórt maradványaiban; de tömegesen és egészben megtartva eddigelé csak
                      Szibéria jégfedte partjai rejtegetik ez állatot. Úgy hogy fel kell tennünk,
@@ -10076,14 +10072,14 @@
                      hozta a világfordító özön; s ott rakta le őket, a hol most legnagyobb állat a
                      marmota, s legnagyobb honntermett fa a törpe nyír.</p>
                   
-               </div>
+               
             </div>
             <div type="chapter">
                <head>HARMINCZKILENCZEDIK FEJEZET.</head>
-                  <div>
+                  <milestone unit="unspecified"/>
                   <!-- milestone type="subChapter" n="I"/ -->
-                  <head> BENYOVSZKY ADATAI SZIBÉRIÁRÓL, KAMCSATKÁRÓL ÉS A KAMCSATKAI
-                  PARTOKRÓL.</head>
+                  <p><label> BENYOVSZKY ADATAI SZIBÉRIÁRÓL, KAMCSATKÁRÓL ÉS A KAMCSATKAI
+                  PARTOKRÓL.</label></p>
                <p>Benyovszky »Életrajzá«-nak két feladata van; az egyik az, hogy a mennyire lehet,
                   összefüggő elbeszélést adjunk az emlékiratok alapján; a másik az, hogy
                   bebizonyítsuk a Benyovszky adatainak hitelességét. Ez utóbbi tekintetben két
@@ -10224,10 +10220,10 @@
                <p>----------</p>
                <p>Eddig tart az angol kiadás harminczegyedik fejezete, s a mit ennek utolsó
                   mondatában megígér, a következő harminczkettedik fejezetben:</p>
-               </div>
-               <div>
+               
+               <milestone unit="unspecified"/>
                   <!-- milestone type="subChapter" n="II"/ -->
-                  <head>KAMCSATKA LEÍRÁSA</head>
+                  <p><label>KAMCSATKA LEÍRÁSA</label></p>
                   <p>czím alatt be is váltja. Ennek fordítását a
                      következőkben adjuk:</p>
                   <p>»Kamcsatka jelentékeny félszigete az é. sz. 58° 41’-ig terjed s délfelé az é.
@@ -10337,10 +10333,10 @@
                   <p>E leíráshoz kiegészítésűl szolgál az angol kiadás első kötetének
                      harminczharmadik fejezete, mely</p>
                   
-               </div>
-               <div>
+               
+               <milestone unit="unspecified"/>
                   <!-- milestone type="subChapter" n="III"/ -->
-                  <head>KAMCSATKA PARTJAIRÓL</head>
+                  <p><label>KAMCSATKA PARTJAIRÓL</label></p>
                   <p>tartalmaz rövid észrevételeket. E fejezet fordítását a következőkben adjuk:</p>
                   <p>»1. A keleti parton a mélység megmérhetlen és egy folyton tartó áram halad
                      északról délnek.</p>
@@ -10361,7 +10357,7 @@
                      ezeket a XVIII. század hetvenes éveiben írta, az ezeket az adatokat könyvekből
                      nem böngészhette, az ezeket csak a helyszínén gyűjthette.</p>
                   
-               </div>
+               
             </div>
             <div type="chapter">
                <head>NEGYVENEDIK FEJEZET. KAMCSATKA MEGKERÜLÉSE. A BEHRING-SZIGETEN.</head>
@@ -11681,9 +11677,9 @@
                   <hi>APÁNI HÁZ BELSEJE.</hi>
                </p>
                
-               <div>
+               <milestone unit="unspecified"/>
                   <!-- milestone type="subChapter" n="II"/ -->
-                  <head>JEZÓ-SZIGET LEÍRÁSA.</head>
+                  <p><label>JEZÓ-SZIGET LEÍRÁSA.</label></p>
                   <p>»Bármely hajós e szigeteket bizonyos távolságból a szárazföld egy tovavonuló
                      részének tarthatná. A hollandokat is ez a körülmény vezette a legnagyobb
                      tévedésekre, s a khinai hittérítők oly mesés történeteket terjesztettek
@@ -11903,7 +11899,7 @@
                      követelményeihez nem tud alkalmazkodni, végképen kihal s csak a történelem
                      fogja bizonyítani egykori létezésüket.</p>
                   
-               </div>
+               
             </div>
             <div type="chapter">
                <head>NEGYVENHATODIK FEJEZET. A JAPÁNIAKRÓL.</head>
@@ -12504,10 +12500,10 @@
                      nemis a gróftól, hanem kiséretétől eredtek.</p>
                   
                
-               <div>
+               <milestone unit="unspecified"/>
                   <!-- milestone type="subChapter" n="III"/ -->
-                  <head>III. (Másolat.) BÁRÓ BENYOVSZKY ELBESZÉLÉSE KAMCSATKÁTÓL MAKÓIG TETT
-                     ÚTJÁRÓL.</head>
+                  <p><label>III. (Másolat.) BÁRÓ BENYOVSZKY ELBESZÉLÉSE KAMCSATKÁTÓL MAKÓIG TETT
+                     ÚTJÁRÓL.</label></p>
                   <p>»Devenu en prison,
                   </p>
                   <p>1769. Anné.</p>
@@ -12546,8 +12542,8 @@
                   <p>»Minthogy e másolat eredetije igen rossz tintával, rossz papíron, helyenkint
                      német betűkkel van írva, csak hiányosan közölhető.«</p>
                   
-               </div>
-               <div>
+               
+               <milestone unit="unspecified"/>
                   <!-- milestone type="subChapter" n="IV"/ -->
                   <p>»Kivonat az indiai társaság kantoni főügynökének 1771 november 20-án kelt
                      leveléből, mely a »British King« hajón érkezett meg.</p>
@@ -12570,8 +12566,8 @@
                      maradnak, míg a franczia hajók elindúlnak Khinából és így juthatnak majd
                      Európába.«</p>
                   
-               </div>
-               <div>
+               
+               <milestone unit="unspecified"/>
                   <!-- milestone type="subChapter" n="V"/ -->
                   <p>»Kivonat egy 1771-ben Khinában Kantonban kelt s Pigou úrnak írott levélből.</p>
                   <p>»Szeptember 23-án érkezett Makaóba egy magyar báró vezetése alatt álló kis
@@ -12602,7 +12598,7 @@
                      szeptember 20. és 23-ika közt Makaóba érkezett, eléggé hitelesen
                      bebizonyítják.</p>
                   
-               </div>
+               
             </div>
             <div type="chapter">
                <head>NEGYVENKILENCZEDIK FEJEZET. STEFÁNOW ÚTLEÍRÁSA.</head>

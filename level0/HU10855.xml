@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU10855" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU10855" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,11 +21,8 @@
             <measure unit="words">76348</measure>
             <measure unit="pages">184</measure>
          </extent>
-         <publicationStmt>
-            <p>Published as part of ELTeC</p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="digitalSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-05"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC--></publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                 <title>A szegedi boszorkányok: Regény</title>
                <ref target="http://mek.oszk.hu/10800/10855"/>
                <date>2012-07-18</date>
@@ -29,24 +31,19 @@
                    <name>Szabó Attila</name>
                    <name>Kiss András</name>
                </respStmt>
-               <relatedItem type="source">
-                  <bibl type="digitalSource">
+               
+               
+            </bibl><bibl type="digitalSource">
                       <title>A szegedi boszorkányok: Regény</title>
                      <ref target="http://books.google.hu/books?id=tgsoAAAAYAAJ"/>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="source">
-                  <bibl type="firstEdition">
+                  </bibl><bibl type="firstEdition">
                         <title>A szegedi boszorkányok</title>
                         <author>báró Jósika Miklós</author>
                         <pubPlace>Pest</pubPlace>
                         <publisher>Heckenast</publisher>
                         <date>1854</date>
                         <ref target="http://nektar.oszk.hu/hu/manifestation/1586819"/>
-                     </bibl>
-               </relatedItem>
-            </bibl>
-         </sourceDesc>
+                     </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -58,24 +55,24 @@
          <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2020-03-05">Checked by checkup script</change>
          <change when="2019-04-23"/>
          <change when="2018-10-03"/>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <div>
+         <div type="chapter">
             <head> ELSŐ KÖTET </head>
             <p> A bevezetésnek semmi összeköttetése nem lévén a regénynyel magával, azt azok, kiket
                a boszorkányságróli fejtegetés nem érdekel, - olvasatlan hagyhatják.</p>
             <p>A szerző.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head> BEVEZETÉS. </head>
             <p>Egy régi levélgyüjtemény, mellynek érdekes foglalatja szoros összeköttetésben van a
                mult század első felében lefolyt szegedi boszorkány-perekkel, azon gondolatra birt -
@@ -289,7 +286,7 @@
                elől.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> HÁROM MÁGLYA. </head>
             <p> I. </p>
             <p>Miért borul tiszta homlokodra, te szűz ég a gyásznak fekete fátyola, miért vonul a
@@ -575,7 +572,7 @@
                Kati.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> II. </head>
             <p>Mikor ezen utóbbi közelebb ért, Szlatinay elfojtott haraggal szólt: ime, hadnagy ur,
                a némber, ki a jámbor Futaky leányokat boszorkánysággal vádolta, még mielőtt őt kinzó
@@ -800,7 +797,7 @@
                elkésett a sátán a viharral, s miénk a győzelem!</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> A VŐLEGÉNYEK. </head>
             <p> I. </p>
             <p>Láttuk Szlovenics urnak utóbbi szavaiból, hogy a vihart, melly Szeged határa fölé
@@ -985,7 +982,7 @@
                mellynek szükségkép megfejtését kell adnunk.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> II. </head>
             <p>Mielőtt Felsenthal a Mártonváry családdal megismerkedett, egy szerény ifju jelent meg
                igen gyakran a háznál.</p>
@@ -1196,7 +1193,7 @@
                felett egy fa kereszt emelkedett.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> III. </head>
             <p>E pillanattól óta az eddig is mogorva alig 42 - 43 éves férfiu, még inkább elfásult,
                senki sem látta többé derültnek, soha mosoly nem lebegett ajkain.</p>
@@ -1290,7 +1287,7 @@
                elmondjuk körülbelől, mit a kiváncsi fiatal tiszt tőle megtudott.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> FUTAKIRÓL VALAMI. </head>
             <p>Futaky Ferencz, ki - miként emlitni hallottuk - jelenben a szegedi városház
                börtönében fogva ült, mintegy három évvel azután, hogy Szeged végkép felszabadult a
@@ -1512,7 +1509,7 @@
                bennünket, hol e történet leg­érde­kesb szerepvivői kettejével találkozandunk.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> ÁGOTA ÉS REGINA. </head>
             <p>A városházának, - hova most lépteink vezetnek - az ugy nevezett praetoriumnak pincze
                osztályában léteztek a börtönök, mellyek gonosz lyukak voltak inkább mint szobák. Már
@@ -1826,7 +1823,7 @@
                mélyebbé ringatni.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> ISZONYU ÉJ. </head>
             <p> I. </p>
             <p>Mig a hölgyek pihentek s talán az ártatlanok álmát enyhülésükre el nem vonta tőlök a
@@ -2022,7 +2019,7 @@
                előre.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> II. </head>
             <p>Lássuk már most, csalódtunk-e, midőn a harangszót vészjelnek, a Szeged felől jövőket
                üldözőknek hittük, vagy bal előérzete a menekülőknek tévedett?</p>
@@ -2194,7 +2191,7 @@
                bele - kézhez keriteni.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> III. </head>
             <p>Térjünk most Ágotához és Reginához vissza. Láttuk, hogy ezek lovagjaik nyergén
                foglaltak helyet, még Matyi és Marczi más irányban, - valami előre elhatározott
@@ -2406,7 +2403,7 @@
                kénytelenek valánk félbe­szakasztani.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> EGY REJTÉLYES TÖRTÉNET. </head>
             <p> I. </p>
             <p>1711. - october 25-én, tehát mintegy 17 évvel azon jelenetek előtt, mellyeknek
@@ -2559,7 +2556,7 @@
                megnyittatott.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> II. </head>
             <p>A ház kissé avult tekintetü volt s aligha több lakója lehetett, mint a középkoru nő,
                ki gyertyá­val kezében a boltozott kapu alatt állt s annak egyik jobbkézre nyiló
@@ -2651,7 +2648,7 @@
                megtörtek alatta, s a verejték csurgott arczáról.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> III. </head>
             <p>A fiatal leány egyenesen az ágy felé tartott; Bayerné pedig, ki elősietett a hideg
                vizzel, ezt egy asztalra letévén, segitségére jött s az idegennel együtt leemelték a
@@ -2745,7 +2742,7 @@
             <p> </p>
          </div>
 
-         <div>
+         <div type="chapter">
             <head> MÁSODIK KÖTET. </head>
             <p> BARCELLONA. </p>
             <p> I. </p>
@@ -3038,7 +3035,7 @@
             <p>A királyné nyájasan köszönt fejével s az ifju eltávozott.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> II. </head>
             <p>Mielőtt Felsenthal veszélyes megbizásának eredményét megtudnók s megmondanók, miért
                örült annyira Bécsbe mehetni, szükségkép hátra kell mennünk egy évvel s mondanunk
@@ -3262,7 +3259,7 @@
                eljárjon.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> KÉT ELLENSÉGES CSALÁD. </head>
             <p> I. </p>
             <p>Három év telt el azon idő óta, mikor Felsenthal ikerleánykái eltüntek Bécsből. - Nem
@@ -3390,7 +3387,7 @@
                hogy végképen meg ne akadjon.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> II. </head>
             <p>Mig Felsenthal ezredénél volt, s abban a reményben, hogy a legjobb orvos - az idő -
                végre helyreállitandja nejének kedélyében az egyensúlyt, minden szabad idejét
@@ -3535,7 +3532,7 @@
                hires alföldi város­ban tanúi valánk.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> A CSONKA HÁZ. </head>
             <p> I. </p>
             <p>Ha visszatérünk történetünk első megható jeleneteire s felüditjük emlékezetünkben
@@ -3677,7 +3674,7 @@
                beszélnél vele. - - Csitt!</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> II. </head>
             <p>E pillanatban halk kopogás hallatszott a pitvar ajtaján, mellyet Banda Kati kemény
                reteszszel szokott a hivatlan nyitogatók ellen megóvni.</p>
@@ -3808,7 +3805,7 @@
                mi vonásaiba az öröm villámát szállitotta.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> VÉLY ÉS BABONA. </head>
             <p> I. </p>
             <p>Két héttel a leirt éji látogatás után, egy sajátos társaság rejtett gyülhelyén
@@ -4005,7 +4002,7 @@
                hézagba.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> II. </head>
             <p>Ezen ember minden tekintetben rendkivüli jelenet.</p>
             <p>A mennyire a gyér világitás engedte őt kivenni, a 70 évet meghaladta, de mind a
@@ -4200,7 +4197,7 @@
                maradand végig titok előttünk.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> A NYILVÁNULÁS. </head>
             <p>Ha elmondottuk mind azt, mi történetünkre vonatkozással, annak jó és bal esélyeire
                befo­lyással birt, mig Ágota és Regina gyermekek voltak: ideje, megközelitnünk azon
@@ -4503,7 +4500,7 @@
                ékesenszólással birnak.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> DANIEL RÓZSA, MAGUS, PRINCEPS ET MAGISTER SAGARUM, SUPREMUS CAPITANEUS SATANAE. </head>
             <p> I. </p>
             <p>Évek teltek el Rózsa Dánielnek talányos czélu, de a tudatlan s babonás boszorkányokra
@@ -4711,7 +4708,7 @@
                parancsoltam és akartam volna?</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> II. </head>
             <p>Másként áll uram! mond a nő mérgesen s kinálás nélkül leülvén egy székre: - mert erre
                tudva - bár Futaky uram maga óvakodott bele elegyedni abba, a mi történt, - most ő is
@@ -4848,7 +4845,7 @@
             <p>Jó, hogy tudom! - igy nem számitottunk - majd meg sugom vőmnek!</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> A SZÁBÁTH. </head>
             <p> I. </p>
             <p>A nyilvánulás után, melly a két Mártonváry testvér közt a vonzalmat - ha lehet - még
@@ -5116,7 +5113,7 @@
                kell, hogy erőt nyerj!</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> II. </head>
             <p>Alunni? - pihenni? kérdé némi ijedelemmel Ágota: most, midőn szememet nem merem
                be­huny­ni, ne hogy azon irtózatos álom visszatérjen! - most, midőn idegeim e lázas
@@ -5312,7 +5309,7 @@
             <p> </p>
          </div>
 
-         <div>
+         <div type="chapter">
             <head> HARMADIK KÖTET. </head>
             <p> RAFAELA. </p>
             <p> I. </p>
@@ -5574,7 +5571,7 @@
                eltávozott.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> II. </head>
             <p>Mihelyt Währhof kilépett, Rafaela azonnal leöltötte feszes diszöltözékét, kifüzette
                magát s parancsolta komornájának, hogy ágyát rendezze.</p>
@@ -5705,7 +5702,7 @@
                közt pihent s tagjain lázas feszültség rezgett át, pihent - de nem alhatott.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> A LÉGYOTT. </head>
             <p> I. </p>
             <p>Tiz nap tölt el azóta, hogy Rafaela az utóbb emlitett levelkét irta. - Egészsége
@@ -5890,7 +5887,7 @@
                halljuk.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> II. </head>
             <p>Miután helyet foglaltak, s Rafaela éles figyelemmel szegezte szemeit az ifjura, ez
                rövid szünet után igy közelitette meg a tárgyat.</p>
@@ -6038,7 +6035,7 @@
                melly közelebb vezetend eseményeink végfeloldásához.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> BOSZORKÁNY VADÁSZAT. </head>
             <p> I. </p>
             <p>Ha történetünk az egyszerü alföldi városba Szegedre tér ujra vissza, oka az, hogy
@@ -6199,7 +6196,7 @@
                tanácsterembe lépett, sugárzó arczczal felkiáltván: consummatum est! </p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> II. </head>
             <p>Ha Szlovenics, azon egész boszorkány-pörben, mellynek emlékezetét a történelem sem
                tartotta egyik avatott képviselőjében, méltósága alattinak, mint ama kort rajzolót -
@@ -6394,7 +6391,7 @@
                a melly, látszható közönössége daczára, őt nem óvta meg a nyugtalanságtól.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> III. </head>
             <p>Mit akarhatnak ezek! - gondolá magában; azután mintha egy sugára a világnak hatna
                kéte­lyeire, ajkait szoritotta össze s szemeit egy kérdő, majdnem fenyegető
@@ -6514,7 +6511,7 @@
                boszorkányt a kéményen át megszöktetni, - utánam!</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> A BOSZORKÁNYPÖR. </head>
             <p> I. </p>
             <p>Mind azt, a mi a leirt el fogatásokat követte, tudjuk, s történetünk oda ért, hol azt
@@ -6657,7 +6654,7 @@
                látta.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> II. </head>
             <p>Miután a városház előtt körültekintettünk, lépjünk a tanácsterembe, hogy tanui
                lehessünk annak, a mi ott történni fog.</p>
@@ -6939,7 +6936,7 @@
             <p>De mielőtt megmondanók mi történt tovább, fel kell Futaky Ferenczet keresnünk.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> A VÉGZETES ÓRA. </head>
             <p> I. </p>
             <p>Futaky Ferencz, befogattatása óta, több vallattatáson ment keresztül; de mindent
@@ -7103,7 +7100,7 @@
                halálra - mi nem vagyunk többé ellenségek!</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> II. </head>
             <p>Mi történt egyszerre Futakyval! - miért futott le a vér, csak pár perczczel ezelőtt
                lángoló arczáról, mint ha a tél dermesztő lehellete süvöltött volna körüle?</p>
@@ -7337,7 +7334,7 @@
                a két - érettök min­den áldozatra kész - Mártonváry ifjuval.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> BEFEJEZÉS. </head>
             <p>A leirt jelenetek után következő reggel, Szlovenics boszuságában átvirasztott éj
                után, jókor felkölt. Egyedüli vigasza, a szégyenitő hüle után, melly őt érte, az
@@ -7554,7 +7551,7 @@
                mint elhatározott s félreérthetlen parancscsal, örökre véget.</p>
             <p> </p>
          </div>
-         <div>
+         <div type="chapter">
             <head> Uj és szokatlanabb szavak némelly igazitásokkal. </head>
 
             <p>Álcza - álarcz</p>

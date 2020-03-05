@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07694" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07694" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,11 +21,8 @@
             <measure unit="words">47843</measure>
             <measure unit="pages">344</measure>
          </extent>
-         <publicationStmt>
-            <p>Published as part of ELTeC</p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="digitalSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-05"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Published as part of ELTeC--></publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                <title>Anatole :  Regény </title>
                <date>2009-12-07</date>
                <publisher>Magyar Elektronikus Könyvtárért Egyesület</publisher>
@@ -31,30 +33,24 @@
                   <name>Cserna Károly</name>
                   <name>Molnár Éva</name>
                </respStmt>
-               <relatedItem type="source">
-                  <bibl type="digitalSource">
+               
+               
+            </bibl><bibl type="firstEdition">
+               <title>Anatole</title>
+               <author>Toldy István</author>
+               <date>1872</date>
+            </bibl><bibl type="digitalSource">
                      <title>Anatole :  Regény </title>
                      <date>2009-12-07</date>
                      <ref target="http://www.archive.org/details/magyarregnyir34miksuoft"/>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="source">
-                  <bibl type="printSource">
+                  </bibl><bibl type="printSource">
                      <title>Anatole : Regény</title>
                      <author>Toldy István</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Franklin-Társulat</publisher>
                      <date>1906</date>
                      <ref target="http://nektar.oszk.hu/hu/manifestation/3221385"/>
-                  </bibl>
-               </relatedItem>
-            </bibl>
-            <bibl type="firstEdition">
-               <title>Anatole</title>
-               <author>Toldy István</author>
-               <date>1872</date>
-            </bibl>
-         </sourceDesc>
+                  </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -66,11 +62,11 @@
          <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2020-03-05">Checked by checkup script</change>
          <change when="2019-04-23"/>
          <change when="2019-02-27"/>
          <change when="2018-11-22"/>
@@ -470,8 +466,8 @@
                ez az érdemeknek nem legkisebbike» - -</p>
             <p>Íme Achille elbeszélése.</p>
             
-            <div type="chapter">
-               <head>I.</head>
+            <milestone unit="chapter"/>
+               <p><label>I.</label></p>
                <p>Flavigneux Anatole atyja, Flavigneux Anselme diszpéldánya volt a könnyelmű
                   párisiaknak. Tekintélyes vagyon birtokában, harmincz éves koráig csupán annak
                   tékozlásával foglalkozott. Ekkor, részint szokásból, részint, hogy a vagyonán
@@ -581,9 +577,9 @@
                   ismerte még a régi időkből s mert azt hitte, hogy nemcsak pénzért, hanem rokoni
                   szeretetből is jobban fel fognak a fiúra ügyelni, mint bárki más.</p>
                
-            </div>
-            <div type="chapter">
-               <head>II.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>II.</label></p>
                <p>Cotinék kaptak az alkalmon, midőn Detrolles őket számos évek múlva ismét
                   felkeresvén, felkérte, fogadják magokhoz öcscsét szállásra és ellátásra. Anatole
                   szintén örömmel lépett e család körébe, melyről már gyermekkorában a legjobbat
@@ -795,9 +791,9 @@
                   este nyolcz órakor többször megtörtént, a nélkül, hogy Anatole valami feltünőt
                   talált volna benne.</p>
                
-            </div>
-            <div type="chapter">
-               <head>III.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>III.</label></p>
                <p>Amióta Cotinék anyagi körülményeiben e változás beállt, az Anatole és Hermance
                   közti viszony lassanként veszteni kezdett gyermekded bizalmasságából. Alig múlt el
                   nehány hét s Hermance nem volt többé azon víg, kedélyes játszótárs, kinek Anatole
@@ -958,9 +954,9 @@
                   lassan haldokló férjet őrizve, a család nagyreményű sarjadéka a harmadik szobában
                   édelgett elcsábított ifjú kedvesével.</p>
                
-            </div>
-            <div type="chapter">
-               <head>IV.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>IV.</label></p>
                <p>Hónapokig tartott már e viszony, midőn egy estve a nagy operaház előcsarnokában
                   Anatole megpillantá Hermancet, a mint egy öreg úr karján jött ki a szinházból. A
                   kisérő haja s bajusza tiszta fekete s öltözéke a legválasztékosabb vala, de
@@ -1186,9 +1182,9 @@
                   kezéből; mire Anatole elalélva összerogyott.</p>
                <p>E jelenet után erős ideglázba esett.</p>
                
-            </div>
-            <div type="chapter">
-               <head>V.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>V.</label></p>
                <p>Anatole heteken át élet és halál közt lebegett.</p>
                <p>Ketten ápoltuk Hermanceszal. A leány nem volt szerelmes Anatoleba, de szerette
                   azon kedé­lyes bensőséggel, melylyel barátainkat, örömeink társát szeretjük, azon
@@ -1473,9 +1469,9 @@
                   sodorta, teljesen különbözőbe azoktól, melyeket lelke nagy romlására négy éven át
                   kultivált.</p>
                
-            </div>
-            <div type="chapter">
-               <head>VI.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>VI.</label></p>
                <p>Hélène egy vasuti hivatalnok leánya volt. Szép és ártatlan, korra nézve három
                   évvel, lélekben egy fél századdal ifjabb Anatolenál, valóságos gyermek hozzá,
                   valóságos angyal azon nőkhöz képest, kiknek karján Anatole eddigi tapasztalásait
@@ -1655,9 +1651,9 @@
                   legyen.</p>
                <p>Másnap, igéretéhez képest elment.</p>
                
-            </div>
-            <div type="chapter">
-               <head>VII.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>VII.</label></p>
                <p>Anatole megdöbbent, midőn Hélènet megpillantá. E virágzó arcz sápadt volt, mint a
                   viasz, szép lelkes szemei a könnyektől ki valának veresedve, tekintetök
                   elvesztette üde lángját, vonásai el valának torzulva; Hélène úgy nézett ki, mintha
@@ -1771,9 +1767,9 @@
                   mégis férjhez ment egy becsületes emberhez, kinek oldalán, ha boldogságot nem is,
                   de megelégedést talált.</p>
                
-            </div>
-            <div type="chapter">
-               <head>VIII.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>VIII.</label></p>
                <p>Hélène volt Anatole veszni indult lelkének megváltó angyala.</p>
                <p>Benne és általa az ifjú a nőnemet oly oldalról tanulta megismerni, mely eddig rá
                   nézve nem létezett: az igaz érzelem s az erény oldaláról. Midőn párhuzamot vont a
@@ -1984,9 +1980,9 @@
                   nélkül állott a világban, mint tíz év előtt, midőn atyja meghalt. Egy évvel előbb
                   Detrolles is sírba szállt, s az ifjúnak nem volt semmi támasza a világban.</p>
                
-            </div>
-            <div type="chapter">
-               <head>IX.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>IX.</label></p>
                <p>Anatole sorsa ekként egy könyv sorsától függött, melybe politikai eszméit
                   lerakta.</p>
                <p>Kezdetben úgy látszott, mintha e könyv határozott fiascot csinálna. Az első
@@ -2184,9 +2180,9 @@
                   mely ketyeg és jár mindaddig, míg láncza le nem fut, vagy rugója el nem törik s
                   aztán a czímlap nyugalma jelenti: ez a gép lejárta magát!</p>
                
-            </div>
-            <div type="chapter">
-               <head>X.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>X.</label></p>
                <p>Így történt. A farsang elmúlt s Anatole és Odalie nem látták egymást, kivéve
                   néhány véletlen, futó találkozást az utczán vagy színházban, mely épen csak annyi
                   időt adott Anatolenek, hogy köszönjön, s Odalienak, hogy - elpiruljon.</p>
@@ -2513,9 +2509,9 @@
                   kereste Odaliet, miszerint egy vagy más módon «jóvá teendi, a mit ellene akarata
                   ellenére vétkezett».</p>
                
-            </div>
-            <div type="chapter">
-               <head>XI.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>XI.</label></p>
                <p>E télen Anatole és Odalie gyakrabban találkoztak egymással. Anatole annyi időt
                   töltött a gyer­mek­kel, a mennyit társaságban egy és ugyanazon nővel az illem
                   megsértése nélkül csak tölteni lehet; s míg mások e körülményből barátom
@@ -2655,9 +2651,9 @@
                   érte, kedvesem!</p>
                <p>Szeretlek, Odalie, szeretlek, szeretlek!»</p>
                
-            </div>
-            <div type="chapter">
-               <head>XII.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>XII.</label></p>
                <p>A lelkesedés azonban, mely e szavakban nyilatkozik, nem tartott soká. Anatole
                   képes volt még nagy lelki emotiókra, de nem birta azokat maradandólag elviselni.
                   Lelke elveszté volt azon egészséges, ruganyos erőt, mely a gyermek-ifjút jellemzé,
@@ -3037,9 +3033,9 @@
                   megőrülés bevezetése. A skepsis szelleme annyira aláköté lelkének minden erejét,
                   hogy nem mert remélni s nem bírt lemondani.</p>
                
-            </div>
-            <div type="chapter">
-               <head>XIII.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>XIII.</label></p>
                <p>Közeledett a tél; a harmadik, mióta Anatole és Odalie egymást ismerték, s Anatole
                   azon hatá­ro­zatlansággal ment elébe, mely vagy a könnyelműségnek, vagy az
                   elcsigázott lélek apathiájá­nak gyümölcse. Minden gondolata Odalie körül forgott,
@@ -3218,9 +3214,9 @@
                   Odalienak több fájdalmat, mint örömet kellett merítenie mindinkább
                   «kiállhatatlanná» váló kedvese társaságából.</p>
                
-            </div>
-            <div type="chapter">
-               <head>XIV.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>XIV.</label></p>
                <p>Midőn a farsang elmúlt s Anatole csak Constance salonjában találkozhatott
                   Odalieval, alka­lom hiányában barátomnak e beteges ingerlékenysége is szűnni
                   kezdett. Odalie a találko­zá­sokban annyira meg tudta egyeztetni a nőt a
@@ -3332,9 +3328,9 @@
                   vélte:</p>
                <p>- Magamról csak magam rendelkezem!</p>
                
-            </div>
-            <div type="chapter">
-               <head>XV.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>XV.</label></p>
                <p>Anatole lázas izgatottságban tért vissza Párisba. Ez egyszerű jelenet
                   kimondhatatlan hatással volt reá. Odalie nem először nyilatkozott így előtte, de
                   míg máskor a leány ily nyilatkozatai nem bírták gondolatai menetét megváltoztatni,
@@ -3787,9 +3783,9 @@
                   egykor kész lett volna oltárhoz vezetni a nem szeretett, de szerény sorsban
                   nevelkedett Hélènet, most nem merte Odalie sorsát a magáéval összekötni.</p>
                
-            </div>
-            <div type="chapter">
-               <head>XVI.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>XVI.</label></p>
                <p>Ez elmélkedések s az eredmény, melyre vezettek, nem maradhattak hatás nélkül
                   Anatole kedély­állapotára. Mindeddig még volt egy homályos pont töprengéseinek
                   láthatárán, mely lehetett életadó esőnek és pusztító fergetegnek felhője,
@@ -4030,9 +4026,9 @@
                   ömlött el, mely nagy elhatározásokat jellemez. De e lelki erő felvillanása csak
                   nehány pillanatig tartott. Pár percz múlva Anatole megtörve rogyott székébe.</p>
                
-            </div>
-            <div type="chapter">
-               <head>XVII.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>XVII.</label></p>
                <p>Anatole lelkében élt az elhatározás, hogy szakítania kell Odalieval. A szerelmes
                   hangosan protestált e határozat ellen, mely a boldogságnak még pillanatnyi
                   csalékony külszínét is semmivé tette, de a becsület szava még hangosabban szólt a
@@ -4179,9 +4175,9 @@
                <p>- Az istenért Odalie! - és Anatole? kérdé körültekintve az üres szobában.</p>
                <p>- Megőrült! sikoltá Odalie és megsemmisülten hullott barátnője karjaiba.</p>
                
-            </div>
-            <div type="chapter">
-               <head>XVIII.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>XVIII.</label></p>
                <p>Odalie csalódott, - folytatá Achille, - Anatole nem őrült meg.</p>
                <p>Estve oly nyugalommal beszélte el nekem a Constancenál történteket, mely
                   meglepett. E lelki csönd hátterében ugyan félreismerhetlen vala a mély szenvedés,
@@ -4660,9 +4656,9 @@
                   <hi>Hyacinthe Randeau Rentier.</hi>
                </p>
                
-            </div>
-            <div type="chapter">
-               <head>XIX.</head>
+            
+            <milestone unit="chapter"/>
+               <p><label>XIX.</label></p>
                <p>Három nappal utóbb elhagytam Rómát.</p>
                <p>Nem láttam többé Odaliet, de nem bírtam feledni. E bűbájos alak, titokteljesen
                   ékesszóló varázsá­val folyton lelkem előtt lebegett, majd mint personifikácziója a
@@ -4696,7 +4692,7 @@
                   asszonyi szívvel és asszonyi gyengeségekkel.</p>
                <trailer> -&amp;-</trailer>
                
-            </div>
+            
          </div>
       </body>
   </text>
