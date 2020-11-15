@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU18993" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU18993" xml:lang="hu">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -2063,7 +2061,7 @@
                 <p>— Az még nem baj, édes grófnő; azért még nem kell sírni! — mondá reá a jó néni,
                     és öreg szemeiből szintén peregni kezdtek a könyek.</p>
                 <p>— Ne nevezzen engem grófnőnek, nevezzenengem leányának, édes Róza néni! Hadd
-                    gondoljam, anyám kebelén sírhat . >k most, kimondhatatlan nagy boldogságomban!
+                    gondoljam, anyám kebelén sírhat . &gt;k most, kimondhatatlan nagy boldogságomban!
                     Oh, ha most édes anyám élne! — mondá a leány zokogástól szaggatott hangon.</p>
                 <p>— Tehát ne sírjon, édes leányom! Őrüljön a boldogságnak, mint a hogy én örülök !
                     Oh, édes anyja nem örülhetne jobban boldogságának, mint én! — mondá a jó
@@ -5431,7 +5429,7 @@
                 <p>— Meg van ! — kiáltá egyszerre Fanchon, ki úrnőjével együtt gondolkodott,
                     szenvedett, és most ugrándozott örömében.</p>
                 <p>— Mi van meg ? — kérdé Malvin, fölrezzenve kinos gondolkodásából.</p>
-                <p>— A mód, a gróf megmentésére ! — kiáltá a tái^^all^&lt;^^^d>nö ujongva. — A
+                <p>— A mód, a gróf megmentésére ! — kiáltá a tái^^all^&lt;^^^d&gt;nö ujongva. — A
                     Johann által fogjuk megtudni azon harmadik kilétét.</p>
                 <p>— De hogyan? — kérdé Malvin reszkető hévvel.</p>
                 <p>— Azt még nem mondhatom ! Még csak úgy zavartan kerengenék bennem az eszmék! De
@@ -5844,7 +5842,7 @@
                 <p>Ilka hagyta őt sirní; mindössze csak a maga könnyeiből is vegyitett egynéhányat
                     édes atyáéi közé.</p>
                 <p>— No, édes leányom — kezdé végre az atya — ugy-e bár, most vége a fájdalomnak?
-                    Nem leszesz többé beteg ? Egészséges leszesz>boldog leszesz, mint én ? Meg vagy
+                    Nem leszesz többé beteg ? Egészséges leszesz&gt;boldog leszesz, mint én ? Meg vagy
                     boszulva ! Oh, milyen édes a boszu !</p>
                 <p>— Igen is, édes atyám, meg vagyok boszulva ! Csakhogy én még édesebb boszut
                     óhajtanék ! — mondá a leány, gyöngéden keblére simulván atyjának.</p>
@@ -6000,7 +5998,7 @@
                     gondolattól ! Voltam Füreden, hátha ott talállak? Dehogy találtalak! Hát magam
                     is visszajöttem. Kerestelek, mint Telemaque az apját, már nem tudom, hogy
                     hívták; úgy hiszem, Cincinatusnak ! jNem, ez ostoba ember volt; jobban szeretett
-                    szántani> mint mulatni; paraszt volt! De mindegy, akárhogy hívták, csak hogy
+                    szántani&gt; mint mulatni; paraszt volt! De mindegy, akárhogy hívták, csak hogy
                     végre megtaláltalak !</p>
                 <p>Elek nyugodtan hagyta öt beszélni, csak azon csudálkozott, hogy ez ember tegezi
                     őt, holott nem emlékezett rá, ha valaha ilyes barátsági viszony létezett volna

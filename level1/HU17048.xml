@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17048" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17048" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -1941,8 +1939,7 @@
                      kiszipolyozta az egész városka munkaerejét, de mióta a jobbágyságot eltöröl­ték
                      s a házikókban már szabad emberek laknak, legalább az asszonyokra és a
                      leányokra veti vágyó tekintetét a kastély népe. Azt mondta a kritikus, hogy van
-                     Magyarország némely vidékén helység, ahol századok óta <hi rend="italic"
-                        >feltünően hasonlitanak egymáshoz</hi> az emberek. Azok az oligarhák teszik,
+                     Magyarország némely vidékén helység, ahol századok óta <hi rend="italic">feltünően hasonlitanak egymáshoz</hi> az emberek. Azok az oligarhák teszik,
                      akik a kastélyból fürkészve néznek szét a városkában lakó asszonynép közt.</p>
                   <p>A patikus lecsapta az ujságot:</p>
                   <p>- Hallatlan disznóság!</p>
@@ -1950,8 +1947,7 @@
                      járt Danczkán, egyszer valóságos piaci forradalmat csinált a gyerekek közt.
                      Valahogy maga ellen tüzelte az iskolatársait, s mikor azok üldözőbe vették,
                      futva kiáltotta vissza nekik:</p>
-                  <p>- Ha nyugton nem hagytok, panaszra megyek az apátokhoz a - <hi rend="italic"
-                        >kastélyba.</hi>
+                  <p>- Ha nyugton nem hagytok, panaszra megyek az apátokhoz a - <hi rend="italic">kastélyba.</hi>
                   </p>
                   <p>A kapitánynak eszébe jutott, hogy akkor Danczka néhány hétig nagyon kellemetlen
                      fészek volt. A férjek, akik hallottak valamit a Szaplonczay esetéről,

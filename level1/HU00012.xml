@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00012" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00012" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -28,7 +26,7 @@
                <title>Irma hagyományai</title>
                <date>2000-01-15</date>
                <publisher>The Google Books Digital Content Store</publisher>
-               <ref target="https://books.google.hu/"></ref>
+               <ref target="https://books.google.hu/"/>
                <respStmt>
                   <resp>Original Electronic Edition</resp>
                   <name>Osztrák Nemzeti Könyvtár</name>  
@@ -3155,7 +3153,7 @@
                kifogása, — szóljon őszintén, nem hibázik-e valami?1' — Kérdé kedves, szelid
                mosolyával.</p>
             <p>„Semmi nem hibázik, csak áldása; — szólék, ihletődött szivvel borulva le elő;te, mint
-               szent előtt; — oh báróné, áldjon i>eg engem uj otthonom küszöbén, hogy legyen erőm
+               szent előtt; — oh báróné, áldjon i&gt;eg engem uj otthonom küszöbén, hogy legyen erőm
                kegyeit megérdemelni, s méltón betölteni szent feltételeimet."</p>
             <p>„Ki szivünkben oly helyet foglal el, mint ön, az meg van áldva, gyermekem; —
                viszonzá, homlokomat gyöngéden megcsókolva. — Aludjék békével, — pihenje ki

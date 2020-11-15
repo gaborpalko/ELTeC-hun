@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17910" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17910" xml:lang="hu">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -80,7 +78,7 @@
     <text>
         <body>
  <div type="chapter">  
-     <head >I.</head>
+     <head>I.</head>
      <p>A nap utósó sugarai rózsafénynyel boritották el a vidéket; az esti harang ezüst nyelve bús-komolyan szólt a távolban; a madarak csevegve keresték fészkeiket; s az emberek, a teremtésnek e törpe királyai, kifáradva tértek haza a nap teendői után, - ki a mezőről, ki a boltból, ki az irószobából vagy műhelyből - hol homlokuk verejtékében keresték kenyerüket, mig a jó isten ingyen tartja s ruházza szárnyasait.</p>
      <p>Lépteink ez esti órában, szegény ház felé vezetnek, Késmárk városának egyik mellékutcájába, hol kis, de tiszta és csinosan butorzott szobában nyitott ablak mellett, két alak ült; egy tizen-kilenc-husz éves ifju, s egy alig tizenöt éves leányka - mindketten mély gyászban s komolyan beszélgetve.</p>
      <p>- Tehát valóban - már holnap utnak kell indulnod Konrád? - kérdezte a leány könyes szemeit az ifjura emelvén.</p>
@@ -92,7 +90,7 @@
      <p>- Kedves, kedves Konrád! minő jó vagy hozzám! - kiáltott föl a lányka s testvéréhez simult, fejecskéjét vállán nyugtatva.</p>
 </div> 
             <div type="chapter">
-            <head >II.</head>
+            <head>II.</head>
                 <p>  Mig e szerény hajlékban a két árván maradt testvér igy beszélgetett, az elválás fájdalmának előérzetében, addig messze onnan, Magyarország déli részében, szép kastélyban, körülvéve a kényelem s fényüzés bájkörétől, egy fiatal sziv szintén fájdalmasan dobogott, - mert másnap el kellett válnia, legalább egy időre, attól, ki szerelmét birta, s kinek kezét igérte.</p>
                 <p>  A szép parkszerü kertben, melynek közepében nagy kastély emelkedett, két alak sétált lassan, és szorosan egymás mellett haladván; az egyik szép üde hajadon volt, alig tizennyolc éves; a másik csinos, deli huszártiszt, de kin, zsinoros egyenruhája dacára, a magyar jelleg nem volt látható.</p>
                 <p>  Világos szőke haj, kék szem, kerekded arc, ugy mint tartás és járás, inkább cseh eredetre gyanitatnak - s valóban a fiatal huszártiszt nem volt magyar, hanem inkább gazdag, mintsem előkelő cseh család ivadéka.</p>
@@ -110,7 +108,7 @@
                 <p>         Ez éjjel ketten virrasztottak a kastélyban; az egyik szárnyban a szép Irma, lakályos, választékos szobájában; a másik szárnyban Aladár - ki reggelig fel s alá járt az övében, s virradatkor elhagyta a házat, a nélkül, hogy lefeküdt volna.</p>
             </div>
             <div type="chapter">
-                    <head >III.</head>
+                    <head>III.</head>
                     <p>  E nap óta négy hónap mult el - Thein Wenceslaw báró a hetyke huszárkapitány, egy Késmárkhoz igen közel fekvő faluban, elég jól találta magát, tiszttársaival együtt. Minden héten hüségesen két levelet inditott a szép Kaposváry Irmához, tele érzékeny szavakkal, sóhajtásokkal a viszontlátásra; de a ki e kissé elégiai epistolákat elolvasván, egyszersmind láthatta volna a nyalka századost a késmárki szépek közepette, udvarolván jobbra-balra, osztogatván sóhajt, kacsingatásait, olykor kézszoritásait annak rende szerint, nem igen hihette volna, hogy a mit leveleiben mond, szivből ered.</p>
                     <p>  Tiszttársai, kik hiven követték példáját, bár olykor kissé irigyelték szerencséjét a szép nemnél, még is egyetlen szóval sem árulták el, hogy a választékos és pénzével nagyon bőkezüen bánó Thein százados többé nem szabad ember, ha nem is a törvény, de legalább a becsületesség értelmében, s már öt hónap óta jegyben jár Magyarország egyik legszebb, s legtehetősb hajadonával.</p>
                     <p>   Nem csuda tehát, ha a csinos és gazdag tiszt, nagy ember volt a kis városban, ha nem egy fiatal sziv hevesebben dobogott, midőn angol félvér lován, végig vágtatott a csendes utcákon, nem egy szép kék szem sovárogva tekintgetett feléje, nem egy üde ajk mosolyra nyilt közeledésére, és sok szép reménynek bimbója megnyilt, csak azért, hogy ismét elhervadjon.</p>
@@ -191,7 +189,7 @@
                 <p>      Hogy Thein százados használni tudta e három órát, abba nem fog senki kétkedni; s midőn végre elhagyta a házat, hálálkodva és bókolva, az együgyü kis leány szivét elvitte magával, s más értelemben a becsületes, de tudatlan öreg szolgálóét is, kinek bucsuzás közben egy csillogó uj aranyat nyomott kezébe.</p>
             </div>
             <div type="chapter">
-                <head >VII.</head>
+                <head>VII.</head>
                 <p>  Mig ez Késmárkon történt, Konrád Heidelbergben a legszorgalmatosabban folytatá tanulmányait. Az ifju atyja példáját követvén, a lelkészi pályára szánta magát s gróf T... atyjának régi növendéke, igérte is Komádnak, miként mindent el fog követni, hogy minél előbb jó állomást szerezzen az ifjunak valamelyik jószágában.</p>
                 <p>  Szerettetve tanárai ugy mint tanulótársai által, az ifju épen oly kellemesen, mint hasznosan tölté idejét; csak ha kedves kis nővérére gondolt, kit kénytelen lőn Késmárkon, oly magános helyzetben hagyni, szorult össze szive. Hanem ő azt hitte, hogy Berta a legjobb kezekben van, mert Elsbethbe annyira bizott, mint saját anyjába.</p>
                 <p>   Bizhatott is benne, ha csupán a jó akaratot s becsületességet vesszük tekintetbe; hanem egyet felejtett: t. i. hogy Elsbeth előhaladt kora dacára épen oly kevéssé ismerte a világot, mint Berta maga.</p>
@@ -246,7 +244,7 @@
                     <p> Pár óra mulva az ifju, bár félholtan a kimerüléstől, utban volt, mig Müllerné, levéllel Betty atyjához sietett.</p>
                 </div>
                 <div type="chapter">
-                    <head >IX.</head>
+                    <head>IX.</head>
                     <p> Szük, szegényes szobácskában, egyetlen faggyugyertya világnál találjuk Bertát és az öreg Elsbethet; mindketten halványan, busan s kisirt szemekkel.</p>
                     <p> Az öreg szolgáló kötéssel foglalatoskodott - Berta munka nélkül ült az asztal mellett, összekulcsolt kezekkel, s oly kifejezésével a búnak s aggodalomnak halvány vonásain, hogy akár kinek szive megesett volna rajta.</p>
                     <p>  - Ne busuljon annyit Berta; - szólt Elsbeth hosszu hallgatás után; - hiszen jól tudja, hogy minden a mit Késmárkon pletykálnak, puszta rágalom, s valamikor csak napfényre fog jutni annak a gonosz századosnak ármánykodása.</p>
@@ -271,7 +269,7 @@
                     <p>         - Nem Bertám; nem hagylak el többé soha; magammal viszlek Heidelbergbe - legyünk együtt, bár szegénységben is. De elébb még egy utat kell tennem Késmárkra - dolgaink végképeni elrendezése végett: - tevé némi szünet után hozzá. Addig te itt készülhetsz az utra.</p>
                 </div>
                     <div type="chapter">
-                        <head >X.</head>
+                        <head>X.</head>
                         <p>  Thein százados csinos hálókabátban, himzett papucsokban, s tarka horgolt sipkában ült szobá-jában. Előtte az asztalon a reggeli állt, s mig lassan itta kávéját, s hosszu török pipából szitta a legfinomabb dohányt, valami laza francia regény olvasásával mulatta magát.</p>
                         <p>   Ugy látszott Berta eltávozása nem okozott neki nagy fájdalmat - nem fogyott meg, nem volt halványabb mint ezelőtt, s étvágya is a régi maradt. Oly emberek, mint Thein, mindent nyugodtan szoktak venni, ha csak személyes jólétök hiányt nem szenved.</p>
                         <p>     Mig a tiszt igy három dolgot élvezett egyszerre, t. i. reggelijét, pipáját, s francia regényét, léptek hallatszottak a tornácon, s pár másodperccel ezután azon alhadnagy lépett a szobába, kivel pár hónappal azelőtt Bertát illetőleg fogadást tőn ötven darab aranyban.</p>
@@ -309,7 +307,7 @@
                         <p>          De hagyjuk ez most, későbben vetünk majd még egy pillantást a szép és kedves Irma életére, most Bertához kell visszatérnünk.</p>
                     </div>
                         <div type="chapter">
-                            <head >XI.</head>
+                            <head>XI.</head>
                             <p>  Konrád két napi távollét után visszaérkezett Bélára Bertához, ki ezen idő alatt készületeit tette, s kész volt utra kelni.</p>
                             <p>    Másnap hajnalban, a két testvér, Elsbethtel együtt, ki semmi uton el nem akart tőlök válni, Heidelbergbe indultak.</p>
                             <p>     Konrád az egész hosszu ut alatt komor volt és hallgatag, mit utitársai nem csudáltak. Volt elég, mi az ifjut komorrá teheté, egészségi állapotán kivül is, mely oly rosz volt, hogy olykor alig érezte képesnek magát utja folytatására.</p>
@@ -328,7 +326,7 @@
                             <p>             Igy tengtek hétről hétre, hónapról hónapra, évről évre, - Konrád buskomolyan, rongált egészséggel, s nyugtalan kedélylyel; Berta szelid megadással, erélyesen leküzdvén a fiatalság vágyait öröm és változatosság után, türvén nyugodtan, szelid vidámsággal, mit a sors számára kijelölt.</p>
                         </div>
                         <div type="chapter">
-                            <head >XII.</head>
+                            <head>XII.</head>
                             <p>     Ki nyirhatja meg az időnek hatalmas szárnyait? akár sirunk, akár nevetünk, ha remélünk, és ha kétségbe esünk, az idő tovább halad, gyorsan, föltartóztathatlanul, s kénytelenek vagyunk vele együtt a cél felé rohanni - ha óhajtjuk ezt minél elébb elérni, épen ugy, mintha irtózunk a végpillanattól.</p>
                             <p>      Ez állt Konrádra és Bertára nézve is. Öt év telt el, háboritlan egyformaság közt; s ha vissza-tekintettek, ugy tetszett nekik, mintha csak pár hét előtt érkeztek volna Berlinbe.</p>
                             <p>        Egy téli napon, este felé, Bertának valami elvégzett munkát a nagy városnak igen távol eső részébe kellett vinni; s mivel Konrád nem igen szerette, ha, főleg alkonyatkor, egyedül jár az utcán, Elsbeth társaságában indult el.</p>
@@ -359,7 +357,7 @@
                             <p>        Midőn Eberstein elhagyta a szobát, Elsbeth utána nézett, s aztán mintegy önkénytelenül rebegte ujra: hol is láttam már egyszer ez arcot?</p>
                         </div>
                             <div type="chapter">
-                                <head >XIII.</head>
+                                <head>XIII.</head>
                                 <p> Eberstein nemcsak más nap jött el Elsbeth után tudakozódni, de többször is, a nélkül, hogy Konrád ez ellen kifogást tett volna, sőt nem sokára a két férfiu közt benső barátság fejlődött ki, bár viszonyaik, állásuk, s még némileg gondolkozásuk is a legkülönbözőbbek valának.</p>
                                 <p>  Eberstein egészséges, csinos, vidám kedélyü férfiu, alig huszonhat éves, jó, ha nem is fényes nemesi családból, szép vagyonának teljes birtokában, élvén Berlinnek legjobb társaságában. Konrád szintén fiatal, de megtört egészséggel, búskomoly kedélylyel; szegény falusi papnak fia, homloka verejtékében szerezvén mindennapi kenyerét, és élvén szegényes szállásban, magánosan, s nélkülözve minden társadalmi élvezetet.</p>
                                 <p>  Létezhet-e nagyobb ellentét?</p>
@@ -394,7 +392,7 @@
                                 <p>       - Köszönöm barátom; szólt Konrád, felelet nélkül hagyván Eberstein utolsó szavait, köszönöm nemes önfeláldozásodat; nem fogsz sokáig várni; érzem, hogy napjaim meg vannak számlálva.</p>
                             </div>
                                 <div type="chapter">
-                                    <head >XIV.</head>
+                                    <head>XIV.</head>
                                     <p>      Mig Konrád, évei csekély száma dacára, csendesen a sir felé halad, s Berta és Max, bár szerelemről nem szóltak, még is bensőleg szeretik egymást, térjünk vissza Magyarországra, s vessünk egy tekintetet, az utósót azon kastélyra, hol először találkoztunk Thein századossal, s arájával, a kedves Irmával.</p>
                                     <p>       Csendesebb ott most az élet, mint ezelőtt hat évvel; mert Irmának két nővére rég férjhez ment; fivére pedig nagyon hajlandó e példát követni, és sokat utazgat Pest vidékére, hol valami csinos nyári lakba időzik, szép leányka oldalán, kiről azt rebesgetik, hogy nem sokára menyecske leend.</p>
                                     <p>       Fehérváry Aladár nem tartozik többé a háziak közé, mert öt éve, hogy saját jószágán lakik, s ezt ügyesen és szorgalmatosan kormányozza.</p>
@@ -428,7 +426,7 @@
                                     <p>      Kormos Sebestyén.</p>
                                 </div>
                                 <div type="chapter">
-                                    <head >XV.</head>
+                                    <head>XV.</head>
                                     <p>     Mikor Aladár e sorokat vette, mindkét keze tele volt munkával, még pedig igen kellemetlen munkával, mit érteni fog mindenki, ha azt mondjuk, hogy perről volt itt a szó.  </p>  
                                     <p>     Az öreg Kaposvárynak valami elmulasztása végett, azon időben, midőn, mint gyámnok, Aladár jószágait kezelte, most per keletkezett, mely Fehérvárynak sok pénzbe, lótásba, futásba, s fölötte sok méregbe került.  </p>  
                                     <p>     A ki valaha pert folytatott, annak többet nem kell mondanunk, tudni fogja miért nem volt Aladár oly sokáig Kaposváryéknál.  </p>  
@@ -469,7 +467,7 @@
                                     <p>                       Evvel mindketten karonfogva a kastély felé indultak, melynek lakóitól, azt hiszszük, most végbucsut vehetünk.  </p>  
                                 </div>
                                     <div type="chapter">
-                                        <head >XVI.</head>
+                                        <head>XVI.</head>
                                         <p>     Ugyanaz nap, s majdnem azon órában, hol Irma uj és biztosabb boldogságnak küszöbén állt, Berlinben, ama szerény szállásban, hol Konrád és Berta évek óta laktak, egészen más nemü jelenetnek lehetünk tanui.</p>  
                                         <p>       Konrád igazat szólt, midőn Ebersteinnek azt mondta, hogy nem fog sokáig várni, mert napjai meg vannak számlálva. A szép nyári idő dacára ereje napról napra inkább fogyott, ugy, hogy leckéiről le kellett mondania, később rövid sétáiról is, és végre midőn az első sárga levelek hullni kezdtek a fák lombjairól, Konrád ágyát sem hagyhatta el többé.</p>  
                                         <p>         Nem szenvedett sokat, az orvos azt állitotta, hogy állapota inkább az életerő lassu, de feltartóztathatlan apadása, mint valódi betegség, de gyógyitásról szó sem lehetett, arról ő maga ugy mint körözete nem kétkedhettek többé.</p>  
@@ -498,7 +496,7 @@
                                         <p>                  Szeme megmerevült - lélekzete megállt - Betty éles sikoltással rogyott össze Konrád holt teste mellett.</p>  
                                     </div>
                                         <div type="chapter">
-                                            <head >XVII.</head>
+                                            <head>XVII.</head>
                                             <p>         Négy nappal később Berta és Betty zokogva ültek ugyane szobában, honnan pár órával ezelőtt kivitték azt, kit mindketten annyira szerettek, s Betty elbeszélte Bertának, miként atyja halála után, kit pár hónappal ezelőtt hidegláz következtében vesztett el, valami titkos ellenállhatlan vágy birta őt arra, hogy Berlinbe utazzék, hol tudta, hogy Konrád letelepedett; s keresse föl ott azt, kit még mindig annyira szeretett.</p> 
                                             <p>          Mind a mellett nem talált volna erre bátorságot, ha csak esetlegesen meg nem tudja, hogy Konrád már hetek óta ágyban fekvő beteg, s alig hogy van remény fölgyógyulására.</p> 
                                             <p>           Itt az öreg Elsbeth szakitotta félbe a beszélgetést, ki levéllel kezében lépett a szobába.</p> 

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07694" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07694" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -49,8 +47,7 @@
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Franklin-Társulat</publisher>
                      <date>1906</date>
-                     <ref
-                        target="http://mek.oszk.hu/07600/07694/pdf/"/>
+                     <ref target="http://mek.oszk.hu/07600/07694/pdf/"/>
                   </bibl>
          
             </bibl>
@@ -3573,8 +3570,7 @@
                <p>Nem - nem!</p>
                <p>Oh hallgass el kisértő rém, - elég volt, - ah elég ebből a gyötrelemből!</p>
                <p>Hahaha! kaczagj tábornok, - nem fenyeget veszély. - - Flavigneux Anatole nem meri
-                  leányo­dat elvenni, mert fél, hogy nem tud vele - <hi
-                  >megélni!</hi>»</p>
+                  leányo­dat elvenni, mert fél, hogy nem tud vele - <hi>megélni!</hi>»</p>
                <p> E sorok után Anatole eldobta a tollat, földhözvágta naplóját, felkelt, de alig
                   tett nehány lépést a szobában, eszméletlenül rogyott ágyára. Midőn reggel jó későn
                   bementem hozzá, ott talál­tam, rendetlen öltözékben, ágyán fekve. Melle nehezen

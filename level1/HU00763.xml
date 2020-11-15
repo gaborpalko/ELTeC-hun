@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="hu" xml:id="HU00763">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="hu" xml:id="HU00763">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -42,7 +40,7 @@
                   </bibl>
                   <bibl type="printSource">
                      <title>Az útitárs</title>
-                     <author>>Krúdy Gyula</author>
+                     <author>&gt;Krúdy Gyula</author>
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Szépirodalmi Kvk.</publisher>
                      <date>1959</date>

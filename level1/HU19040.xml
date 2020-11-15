@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU19040" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU19040" xml:lang="hu">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -5787,7 +5785,7 @@
                 <p>Eddig bánat és boszuság miatt nem volt nyugalmam, most pedig az öröm háborgató
                     napjaimat. Azt hivém, hogy egymáshoz vannak kötözve a napok, olly lassan követék
                     egymást. Gazdám nem tudá elgondolni, mi bajom lehet; nem ettem, nem aludtam,
-                    >mindig legnagyobb nyugtalansággal függesztem szemeimet a napra, melly olly
+                    &gt;mindig legnagyobb nyugtalansággal függesztem szemeimet a napra, melly olly
                     kimondhatlanul lomhán folytatá pályáját.</p>
                 <p>Kimagyarázhatlan érzelmekkel sietek az olvasópróba színhelyere. Az egész társaság
                     jelem volt már, s az olvasást megkezdek. Azonban, mar a címnek meghallása is
@@ -5812,7 +5810,7 @@
                 <p>„Már ez a mi gondunk, s meg fog ön bocsátani, tisztelt uram, hogy nyiltan
                     kimondjuk, mikép Önnek nincs is joga e tekintetben észrevételeket tenni.</p>
                 <p>Ez ellen természetesen nem volt mit szólanom; egyet sohajték tehát, s az olvasást
-                    többé nem háborgatám. Vége lévén az ötödik felvx>násnak, ismét megzudultak az
+                    többé nem háborgatám. Vége lévén az ötödik felvx&gt;násnak, ismét megzudultak az
                     észrevételek :</p>
                 <p>,Az első felvonás nagyon hosszú</p>
                 <p>,A második rendkívül rövid.</p>
@@ -6978,7 +6976,7 @@
                 <p>,Én.</p>
                 <p>„Én is.</p>
                 <p>„„Mi mindnyájan.““</p>
-                <p>»>Hogyan, ti, kik még nem is ismeritek az ügy tulajdonképi helyzetét</p>
+                <p>»&gt;Hogyan, ti, kik még nem is ismeritek az ügy tulajdonképi helyzetét</p>
                 <p>,Mindegy, hagyj föl okoskodásaiddal? ha barátunk akarsz maradni</p>
                 <p>„,Ah, már ez más, illy fontos okoknak örömest hódolok, es — mélyen hallgatok?</p>
                 <p>A megtisztelés terve • tisztába hozatik, erszényeink megnyilnak, s száz forint,
@@ -8286,7 +8284,7 @@
                     annyira megszaporodott, hogy a szegény szenvedőket ezentúl nyolc óra helyett
                     reggeli kilenc órakor kénytelen elfogadni, tudniillik legsürgetősb első
                     látogatásainak bevégzése után. Ha közben közben nyilvános hálát is intéztet
-                    magához a hírlapokban, olly súlyos betegektc>!, kik nem is léteznek, s kiket ő
+                    magához a hírlapokban, olly súlyos betegektc&gt;!, kik nem is léteznek, s kiket ő
                     rendkívül rövid idő alatt szerencsésen és nagylelkűen kigyógyitott, akkor
                     tüstént ismétlegalább is három fizető és harminc nem fizető beteget kap ; mert
                     meg keli jegyzenünk, hogy a mostani romlott világban még a betegek közt is
@@ -11002,7 +11000,7 @@
                 <p>Nietnagel ur példátlan éleselmüsége már érezni kezdé, honnan fü a szél, s azért
                     kalapját föltevé, s arcára némi felsőségi és pártolóikifejezést ültetett ;
                     azután pedig nagy kegyességgel szála :</p>
-                <p>>Nem értem a tekintetes urat</p>
+                <p>&gt;Nem értem a tekintetes urat</p>
                 <p>„Tüstént világosabban szólok. Drága Herr von Nietnagel, én nem vagyok
                     nagyravágyó."</p>
                 <p>,Kérem — ezt úgy is hiszem.</p>
@@ -13810,7 +13808,7 @@
                     koccantás remegtetá meg az utcára nyíló s kemányen bereteszelt ajtót.</p>
                 <p>,A rendőrség kopói! — kiálták egyhangúlag a koldusok, s a kályha rácsozatán
                     azonnal számos fárfi ás asszony kapaszkodottfői, s megnyitván a titkos csaptató
-                    ajtóit, a padlásra, onnan pedig a kertbe m enekültek > az érdemes koldusbiró
+                    ajtóit, a padlásra, onnan pedig a kertbe m enekültek &gt; az érdemes koldusbiró
                     gyors lábú vezérlete alatt. E szerencsében mindazáltal nem osztozhattak
                     mindnyájan, mert a rendőrök betorék az ajtót, s mintegy húsz koldus urat
                     elfogtak, és velők azonnal tova indultak. Meg vagyunk győződve, hogy pesti
@@ -14762,7 +14760,7 @@
                 <p>„En annak a munkáját magamra nem venném.</p>
                 <p>,Sokat is sirtam miatta.</p>
                 <p>„Máskor ne vedd magadra, és bizonyosan betöltik kivánatodat. Oh, ez használ! Én
-                    mi > dig úgy cselekszem."</p>
+                    mi &gt; dig úgy cselekszem."</p>
                 <p>,Ah, kis Milcsi, mikép mulatja ön magát, mért olly kedvetlen?"</p>
                 <p>,,,Oh, én el sem jöttem volna, de azt gondoltam, hogy Jani is itt lesz.</p>
                 <p>„Oh, hiszen valóságos urfiak nem is szoktak ide joni.</p>
@@ -14861,7 +14859,7 @@
                 <p>,Szerencsés vagyok jelenthetni, hogy már minden elkészült. Méltóztassanak tehát,
                     ha úgy tetszik</p>
                 <p>Es az úri vendégek örömest méltóztattak, mert a thea annyira fölháboritá
-                    gyomrukat > hogy tökéletesen meg valának győződve, mikép csak tartalmasb
+                    gyomrukat &gt; hogy tökéletesen meg valának győződve, mikép csak tartalmasb
                     eledellel lehetend azt ismét némi súlyegyenbe hozniok.</p>
                 <p>A kártyák tehát félre dobattak, á székek nagy robajjal hátra tolattak, a zene
                     megszűnt, a táncosak örömmel tőrlék homlokaikat, s a gyermekek nyájas ábrázattal

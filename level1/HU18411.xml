@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU18411" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU18411" xml:lang="hu">
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -81,8 +79,8 @@
 <text>
     <body>
        <div type="chapter">
-           <head >I.</head>
-           <head >Forradalmárok gyűlése Bécsben</head>
+           <head>I.</head>
+           <head>Forradalmárok gyűlése Bécsben</head>
       <p>     Az 1847-ik évben Bécsben az Alservorstadt Heron-utcába volt egy nevezete vendéglő, melynek címe volt: »Die dre i Grenadiere«, a három gránátos, melyet sok és nevezetes vendég látogatott az időben, leg inkább kiváló politikai személyiségek, kik itt adtak egymásnak találkozást.</p>
            <p>          Azt beszélték a politikusok, hogy Bécsben hét nevezetes hely van, ahonnan a politikai akciók kiindulnak, egyik Metternich hercegnek, a birodalmi külügyminiszternek és a császári ház miniszterének palotája, melynek termeiben osztrák főhercegek, Auersperg, Windisch-Gratz, Schwarzenberg, Hohenlohe s több más hercegek igen gyakran találkoztak, s cserélték ki egymással politikai eszméiket, hogy a »szent szövetség« által a béke áldása minél tovább zavartalanul fönntartassék, s a fölséges uralkodók, Isten kegyelméből minél tovább munkálhassák alattvalóik boldogságát, a mi fölséges életök hivatása.</p>
            <p>   A másik hirhedett helyiség a Heron-utca fönnevezett vendéglője volt, melyben Európának első rangú forradalmárai találkoztak időszakonkint s folytattak messze jövőbe ható tanácskozásokat a koronás uralkodók, s azok kormányainak működése fölött.</p>
@@ -236,7 +234,7 @@
            
        </div>
         <div type="chapter">
-            <head >II.</head>
+            <head>II.</head>
             <head rend="italic">Santissima Maria ora pro nobis</head>
             <head>(Szent Szűz könyörögj érettünk.)</head>
             <p>      A szép Olaszországnak egyik legszebb városába Milanóba, a világhírű büszke dóm városába megyünk át, mely az időben a lombard-velencei királyság fővárosa volt.</p>
@@ -378,7 +376,7 @@
             <p>  Holnap lesz a forrongó akna fölrobbanása : az osztrák katonaság megtámadása Milanóban és ezzel egyidejűleg az egész Olaszországban, a férfiak, az erősök kardokat, lándzsákat köszörülnek, kaszákat ütnek egyenesre, ez is kitűnő fegyver a bátrak kezében ! A gyöngék : a leányok, asszonyok, gyermekek imádkozzanak a szent Szűz istenanya előtt, hogy könyörögjön érettünk. Sanctissima Maria ora pro nobis !</p>
             
         </div>
-        <div type="chapter"><head >Unita Italian</head>
+        <div type="chapter"><head>Unita Italian</head>
             <head rend="italic">(Egyesült Olaszország)</head>
         
             <p>       Messze és közel nem lehetett annyi papot látni az időben és épen azon a napon, mint Olaszországban.</p>
@@ -456,8 +454,8 @@
             
         </div>
         <div type="chapter">
-            <head >III.</head>
-            <head >A megzavart hercegi estély.</head>
+            <head>III.</head>
+            <head>A megzavart hercegi estély.</head>
             <p>      Az egész Bécs arról a nagy ünnepélyről beszélt, melyet herceg Metternich, a birodalmi külügyminiszter az -ben megkötött »Szent szövetség« emlékére készült a »Ringen« levő fejedelmi fénynyel épült nagy palotájában adni. Ott lesznek az összes nagykövetek, a kisebb államok követei és a főkonzulok közül a nevezetesebbek, az Auersperg, Kolowrát, Windischgrátz és több más hercegi családok, a Bécs-ben időző főhercegek és főhercegnők. Cim a birodalmi béke helyreállításának emlékünnepe.</p>
             <p> örülhet az ausztriai birodalom, örülhet Európa ; a béke biztosítva van századokra, tudomány, művészet, ipar, kereskedelem a császár bölcs kegyességéből és Isten kegyelméből hosszú időkre. All a jelmondat : »Felix Austria«, de nem nube, boldog Ausztria ! De nem házasság által szegény, beteges Ferdinánd magyar királynak és ausztriai császárnak, bizony nem valami nagy öröme telhetett a házasságban. Hanem boldog a béke áldásai által.</p>
             <p>    Metternich pedig a házasságok kötésében is oly nagy mester volt, mint a diplomáciai cselszövények bogozásában. Azzal aztán szép keveset törődött, hogy ebben a családi életben minő boldogság lesz. Segítsen magán ki . ahogy tud. Ilyen esetben nem szokás idegen segítséget keresni.</p>
@@ -550,8 +548,8 @@
             
         </div>
         <div type="chapter">
-            <head >V.</head>
-            <head >A szabad sajtó diadalünnepe.</head>
+            <head>V.</head>
+            <head>A szabad sajtó diadalünnepe.</head>
             <p>     Félistenek jártak akkor a földön, hirdetve a szabadság, egyenlőség és testvériség eszméit. Próféták, kik megjósolták a bekövetkező nagy időt.</p>
             <p>  Minden országban, minden földön felállították az oltárokat és minden oltárra meghozták az áldozatot a hazáért és szabadságért.</p>
             <p>   Bécsben már vér folyt, hazánkban még csak forrongott az eszme : Szabad polgárnak lenni a szabad hazában !</p>
@@ -653,8 +651,8 @@
 
         </div>
         <div type="chapter">
-        <head >VI.</head>
-            <head >Éjjeli királyi kihallgatás.</head>
+        <head>VI.</head>
+            <head>Éjjeli királyi kihallgatás.</head>
             <p>        Általános fölkelés gyújtó hatása alatt, az egész európai kontinens, de különösen az osztrák birodalom egy vulkán volt, nem füstölgött, de forrott ; figyelve hallgatták a koronás fők és a nemzetek, ezek között a magyar nemzetnek országgyűlése is, hogy midőn hozzá elérkezik : készületlenül ne találja.</p>
             <p>         A közeli országokban és birodalmakban mindenütt alá volt aknázva a föld. Lengyelországnak csak egy szikra kellett, hogy az -ban elfojtott, de el nem oltott parázs lángra lobbanjon. Ausztriában már vér folyt, Olaszország lángban állott, hazánkban  millió jobbágy kérte, engedjék meg, hogy ők is emberek, honpolgárok lehessenek. Isten kezében van a jövő !</p>
             <p>     A »karok és rendek« Pozsonyban több napon át tanácskoztak a teendők felett és István főherceget a fiatal nádort, ki akkor Bécsben volt, tiszteletteljesen, de sürgősen kérték, hogy térjen mielőbb vissza. Nagy események vihara közelit. Az egész nemzet bizalma benne van összpontosítva.</p>
@@ -719,8 +717,8 @@
             
         </div>
         <div type="chapter">
-            <head >VII.</head>
-            <head >Petőfi vendégei.</head>
+            <head>VII.</head>
+            <head>Petőfi vendégei.</head>
             <p>         Amily nagy volt az öröm és lelkesedés azon hírre, hogy a király Batthyány Lajost miniszterelnökké kinevezte s megbízta egy minisztérium alakításával, épen oly nagy csüggedés és keserűség lepte meg az egész magyar nemzetet, midőn újabb hírek szál-longtak, hogy ő felsége az alkotott törvényeket megerősíteni vonakodik.</p>
             <p>     Közben mindenféle rémhírek keletkeztek, hogy a budai lőportoronyból  mázsa lőport hordtak egy dunai hajóra elszállítás végett. Ami valóban meg is történt. A lőpor az alvidéken már akkor célba vett rác és szerb lázadás céljaira volt elkészítve, hogy Krakóban forradalom ütött ki, Pest utcáin sürü csoportokban hullámzott a nép. Falragaszok borították a házakat »Éljen a király !«, »Éljen a felelős független magyar kormány!«, »Bizalom, még minden jóra fordulhat!«</p>
             <p>    Március -én országos ülés tartatott Pozsonyban. A terem minden része a zsúfolásig tömve volt hallgatósággal s feszült kebellel várták a nádor megérkezését, ki midőn a terembe belépett, a viharos lelkesedésnek minden jeleivel fogadták.</p>
@@ -784,8 +782,8 @@
    
             <p>  — Legyen itt is üdvöz grófnő ! Mazzini vagyok. Egész Olaszországból száműzött, ki azért nem szűnik meg hazájának hü fia maradni.Az olasz szabadság ellen.</p>
         </div>  <div type="chapter">
-            <head >VIII.</head>
-            <head >Az olasz szabadság ellen</head>
+            <head>VIII.</head>
+            <head>Az olasz szabadság ellen</head>
             <p>  Együtt ültek a honatyák, az országnak színe java. Nagyon komoly ügyek forogtak szőnyegen. Belőlről a rác és szerb lázadás, mely a délvidéket már lángba borította. Magyarok, szerbek, rácok, kik eddig testvéri jóindulattal viseltettek egymás iránt, most ölik, gyilkolják, pusztítják egymást.</p>
             <p>  Ide juttatott bennünket az osztrák perfid politika.</p>
             <p>  Kívülről sem valami fényesen állottak Ausztria ügyei. Az olasz önkéntes seregek győzelemmel harcoltak az osztrákokkal. Maga Radeczki Novara alá húzódott, mig seregének másik része Firenze felé vonult vissza.</p>
@@ -817,8 +815,8 @@
            
         </div>
         <div type="chapter">
-            <head >VIII.</head>
-            <head >Az őrszellem</head>
+            <head>VIII.</head>
+            <head>Az őrszellem</head>
             <p>           Bécsben nagy mozgalom és izgatottság volt. A házak homlokzatáról, ablakokból óriás zászlók függöttek Ausztria, Magyarország és a német birodalom; fél Bécs az utcákon hömpölygött, örvendett, tombolt, éljenzett. Éltette Magyarországot és a magyar alkotmányt.</p>
             <p>     Mint hullámár özöüött a nép a dunai kikötő felé, várván a magyar országos küldöttséget.</p>
             <p>      — Vivát ! Éljen ! ! hallatszott, midőn a gőzhajó föltűnt a látóhatáron.</p>
@@ -929,8 +927,8 @@
             
         </div>
         <div type="chapter">
-            <head >X.</head>
-            <head >Éjjeli találkozás.</head>
+            <head>X.</head>
+            <head>Éjjeli találkozás.</head>
             <p>       Nagy izgatottság uralkodott Pozsonyban. A rossz kir szárnyon jár! tartja a példaszó. A követek közül többen leveleket kaptak Bécsből, hogy ő felsége a küldöttséget hidegen fogadta, hogy az udvar teljes-séggel nem hajlandó a nemzet óhajtásait teljesíteni.</p>
             <p>    A magyar nemzet kívánsága lehetetlen! mondották azok, kiket az uralkodó kegye állított a legmagasb hivatalok élére. A birodalom egyes részei között századok óta fönnálló kapcsok szétszakadását s a birodalom fölbomlását vagy legalább alapjában való megrendülését fogná ez maga után vonni. ígéretet tettek azonban a jövőre nézve, hogy a magyar nemzet minden jogos igényeit figyelembe fogják venni s ő felségének urunk és királyunknak atyai jó szive elegendő zálog arra nézve, hogy az ígéret nem fog mint üres szó a pusztában elhangzani.</p>
             <p>    Mindig a megszokott sima hang. A csalogató sipláda szava.</p>
@@ -1089,8 +1087,8 @@
             
         </div>
         <div type="chapter">
-            <head >XII.</head>
-            <head >A tébolydában.</head>
+            <head>XII.</head>
+            <head>A tébolydában.</head>
             <p> A »Fehér medve« Bécs egyik kevésbbé nevezetes vendéglője. Itt volt szállva az európai kontinensnek egyik leghíresebb detektivje, ki ez idő szerint politikai okokból Bécsben tartózkodott.  </p>
             <p> A lord bérkocsijából kilépve, mint aki a járást igen jól ismeri, egyenesen az első emeletre sietett s ott a -ik számú szoba ajtaján kopogtatott.</p>
             <p> — Ah, ön az lord ? ! kiáltott föl az ajtónyitó, ki maga a detektiv volt. Vártam lordságodat.</p>
@@ -1228,8 +1226,8 @@
             
         </div>
         <div type="chapter">
-            <head >XIII.</head>
-            <head >Hitvány játékszer.</head>
+            <head>XIII.</head>
+            <head>Hitvány játékszer.</head>
             <p>Polgári és katonai vegyes titkos tanácskozás folyik a Burgban.</p>
             <p>— És nagyméltóságod Jellasich ezredest méltóztatik nekünk ajánlani, kérdezte egy öreg tábornok.</p>
             <p>—Mint egyetlen diplomatát és katonát, kivel ily veszélyes játékot lehet kezdeni.</p>
@@ -1334,8 +1332,8 @@
             
         </div>
         <div type="chapter">
-            <head >XIV.</head>
-            <head >A néptribun.</head>
+            <head>XIV.</head>
+            <head>A néptribun.</head>
             <p>Március hó -án szolkatlan zaj és nyugtalanság uralkodott a fővárosban, valamely balesemény bekövetkeztét jelentvén.</p>
             <p>— Hallottad ?</p>
             <p>— Olvastad ? tudakolták a polgárok egymástól izgatottan.</p>
@@ -1423,8 +1421,8 @@
             <p>  S erősen tántorgó léptekkel haladt a néptribün az utcákon, rekedt hangon kiáltozva zavaros gondolatai közé egy-egy csöndes élj ént</p>
             
         </div>
-        <div type="chapter"><head >XV.</head>
-        <head >A rendezők.</head>
+        <div type="chapter"><head>XV.</head>
+        <head>A rendezők.</head>
             <p> Az »Arany kéz« bor- és sörcsarnok nagyon látogatott, de egyszersmind gyanús helyiség volt -ban.</p>
             <p> Nagyon vegyes vendégek szoktak különben benne megfordulni, katonák : horvátok, szerbek, csehek, oláhok, olaszok, kik közül különösen a három előbbi mindig görbe szemmel nézett egy-egy magyar katonára, ha az ide betévedt. Minek zavarja az ő mulatságukat. A pincér horvát, a csapos cseh, hát a magyarnak mije van az »Arany kéz«-ben ? Semmije. Maga a főpincér német. Egy kukkot sem tudott magyarul, nem is akar tudni. De azért vendéglője csaknem mindig telve van. Vannak itt a másik teremben iparosok, kézmunkások, kereskedősegédek, kisebb hivatalnokok ! Néha még egy-két egyetemi tanuló is betévedt ide. Tehát eléggé vegyes társaság volt benne. Épen nem valami arisztokratikus.</p>
             <p> Az »Arany kéz« vendéglő tulajdonosa középtermetű őszbeborult férfiú volt, ki már a francia hadjáratban mint ifjú volontár (önkéntes) vett részt. Egy vesztett ütközetben elfogatván, mint hadi fogoly három évig tartózkodott Párisban, ahonnan a béke megkötésekor sok csodálatos eszmével megtelve érkezett vissza hazájába.</p>
@@ -1509,8 +1507,8 @@
            
         </div>
         <div type="chapter">
-            <head >XVI.</head>
-            <head >Az éjjeli macskazene.</head>
+            <head>XVI.</head>
+            <head>Az éjjeli macskazene.</head>
             <p> Május -én általánosan el volt terjedve a hir a fővárosban, hogy valamely tüntetés van készülőben.</p>
             <p> Hogy azonban mikor akar ez lenni s ki ellen, arról senki semmi bizonyosat nem tudott mondani.</p>
             <p> A szárnyaló hírek igen homályosak voltak, annyira, hogy sokan az egészet mende-mondának, kósza hírnek tartották, milyenek az időben csaknem minden nap, hol itt, hol amott merültek fel.</p>
@@ -1567,8 +1565,8 @@
             
         </div>
         <div type="chapter">
-            <head >XVII.</head>
-            <head >A kalandok hőse.</head>
+            <head>XVII.</head>
+            <head>A kalandok hőse.</head>
             <p>Hogyan Agatha ? Mit keres kegyed itt ? kérdezte a »kedves bán« meglepetve, midőn a hercegnő bizalmas komomája hozzá belépett.</p>
             <p>Agatha előadta a hercegnő izenetét.</p>
             <p>A bán ur szemei örömfényben ragyogtak.	a múltra, midőn ő esedezett a hercegnő előtt, hogy ajándékozza meg egy boldog negyedórával, hallgassa meg szive legforróbb lángoló érzelmeit és az hidegen, büszkén, csaknem megvetőleg utasította el magától.</p>
@@ -1640,8 +1638,8 @@
             <p>  — Engem a boszu nem elégít ki, suttogta indulatosan dobbantva a szőnyegre, szivemet szakgatom szét vele !</p>
             
         </div>
-        <div type="chapter"><head >XVIII.</head>
-            <head >A közelgő vihar.</head>
+        <div type="chapter"><head>XVIII.</head>
+            <head>A közelgő vihar.</head>
             <p>   Lángba volt már borulva az egész alvidék. Testvér testvérét ölte, gyilkolta. Horvát, Tótország és a határőrvidék nyíltan kitűzte a lázadás zászlóját, megtagadta az engedelmességet a magyar kormánynak.</p>
             <p> Nem ismerik ezt. Nem is akarják ismerni. ök egyedül a bécsi minisztériumtól fogadnak el bármely rendeletet, egyedül az parancsol nekik.</p>
             <p>   A »kedves bán« elvállalt szerepéhez hiven, helységenként, városonként járta be Horvátországot, izgatott, biztatva a népet a magyarok ellen, mint akik őket ki akarják irtani.</p>
@@ -1682,8 +1680,8 @@
         
         </div>
         <div type="chapter">
-            <head >XIX.</head>
-            <head >Az első honvédek.</head>
+            <head>XIX.</head>
+            <head>Az első honvédek.</head>
             <p>         Földönfutó lett a magyar saját hazájában.</p>
             <p>  Temes, Torontál, Krassó, Bácsbodrog vármegyékben, a Bánságban a rácok, szerbek, illírek föltámadtak a magyar ellen, kik eddig békés szomszédok, rokonok, jó barátok, üzlettársak voltak, ölték, gyilkolták egymást. Naponként aggasztóbb hírek jöttek felgyújtott falvakról, elpusztított városokról.</p>
             <p>   — Fusson, meneküljön, ki merre tud ! hallatszott a magyar lakosok rémkiáltása.</p>
@@ -1789,8 +1787,8 @@
             
         </div>
         <div type="chapter">
-            <head >XX.</head>
-            <head >A nemzeti pénz</head>
+            <head>XX.</head>
+            <head>A nemzeti pénz</head>
             <p>Katona tehát már van. De hát pénzt hol veszünk. Ezt nem lehet összetoborzani, pedig már a nagy Napoleon megmondotta, hogy a háború folytatásához három dolog szükséges és pedig 1-ször pénz, 2-szor pénz és 3-szor is pénz.</p>
             <p>Ez pedig nem fog olyan könnyen jönni. Pénz kell a kereskedőnek, ki a fölszerelési anyagot adja, az iparosnak, ki azt feldolgozza, pénz kell, hogy fegyvert, kardot, puskát, pisztolyt, ágyút, lőport, golyót, lovat és a többi tábori szükségletet beszerezni lehessen, pénz kell a hadsereg fizetézére és mindenre sok pénz, mindenfelől ezért sürgetik naponkint a pénzügyminisztert, Kossuth Lajost.</p>
             <p>De hát honnan lehessen ezt venni, mikor a magyar minisztérium minden pénztárt üresen vett át ?</p>
@@ -1839,8 +1837,8 @@
             
         </div>
         <div type="chapter">
-            <head >XXI.</head>
-            <head >Kossuth és családja.</head>
+            <head>XXI.</head>
+            <head>Kossuth és családja.</head>
             <p>      A gyönyörű fekvésű budai hegyek között félrevonulva a nagy világ lármás zajától s a politikai élet viharos küzdelmeitől, keresett Kossuth elfáradott testének pihenést és lelkének üdülést.</p>
             <p>    Hosszabb idő, heteken keresztül tartó megfeszített folytonos munka, melyet részint uj pályája, részint az újjászületett haza nehéz helyzete követeltek tőle, anynyira kimerítették szellemi erejét, hogy orvosai egyhangú tanácsára rövid időre visszavonult a közügyektől.</p>
             <p>   A nyugalmas magányt itt nem zavarják a napi véres események izgalmai, nem a rémhírek, melyek a haza különböző vidékeiről érkeznek a minisztériumhoz. Az élet itt csöndes, mint a tónak a felszíne, melynek mély tükrében a nap sugarai ragyognak.</p>
@@ -1945,8 +1943,8 @@
             
         </div>
         <div type="chapter">
-            <head >I.</head>
-            <head >Szomorú újév.</head>
+            <head>I.</head>
+            <head>Szomorú újév.</head>
             <p>  A bekövetkezett végzetes események ismeretesek a történelemből. Jellasich bán betörése s megveretése vitéz honvédeink által, kiszökése az országból, a schvechati vesztett csata, a bécsi októberi forradalom leveretése, Windischgrátz ellenséges tábor-nagy előnyomulása, a moóri csata és következményei, az akkori válságos időknek történeti keretében vannak fölsorolva.</p>
             <p>  Görgei Pozsonynál a túlnyomó osztrák haderő ellenében nem tarthatván magát : kénytelen volt visszavonulni. Mig Schlick Kassát foglalta el, és Losoncon át, Vácon keresztül igyekezett Windischgrátz-czel egyesülni.</p>
             <p>  Az ellenfél mind nagyobb tért foglalt el. Morvából Simonich, a Dráva mellől Nugent, Erdélyből Puchner, a bánságból Theodorovics, Knicsanin és Leiningen tábornokok törtek be.</p>
@@ -1998,8 +1996,8 @@
            
         </div>
         <div type="chapter">
-            <head >II.</head>
-            <head >Búcsú Pesttől.</head>
+            <head>II.</head>
+            <head>Búcsú Pesttől.</head>
             <p>   Újév második napjának éjszakája volt. A személy és podgyász szállítás nem csökkent, sőt óráról-órára növekedett.</p>
             <p>   A menekülő közönség zúgolódott, amiért nem bocsátanak elegendő kocsit a közönség igényeinek kielégítésére. Mindenki háborgott.</p>
             <p>   Csak Csányi nem vesztette el türelmét, csak ő állott nyugodtan, mint szírt a hullámtorlaszok között.</p>
@@ -2068,8 +2066,8 @@
             
         </div>
         <div type="chapter">
-            <head >III.</head>
-            <head >Radzivil Olga hercegnő.</head>
+            <head>III.</head>
+            <head>Radzivil Olga hercegnő.</head>
             <p>         Többször találkoztunk nár Radzivil Olga hercegnővel ott, hol a szabadság zászlói lobogtak.</p>
             <p>  És minthogy valószínűleg még többször is fogunk e szerencsében részesülni: szabad legyen őt a következőkben bemutatni.</p>
             <p>   Néhány év előtt a szentpétervári főúri köröknek egyik legünnepeltebb hölgye volt Radzivil Olga hercegnő.</p>
@@ -2108,8 +2106,8 @@
             <p>Ki tudja, el fog-e ez és mikor jönni.</p>
         </div>
         <div type="chapter">
-            <head >IV.</head>
-            <head >Találkozás Görgeivel.</head>
+            <head>IV.</head>
+            <head>Találkozás Görgeivel.</head>
             <p>Az oroszok bej övetele bevégzett tény volt, az előkészületekhez azonban idő kellett.</p>
             <p>És ezalatt a magyar hadsereg egymásután aratta a győzelmeket, a dicsőség babérjait. Szolnoknál, Isaszegnél, Nagysarlónal a legfényesebb diadalok koszoruzták a magyar fegyvereket; az osztrák seregek futván futottak. Alig mertek többé megáldani a hősies honvédek előtt.</p>
             <p>Aztán Budavárát vették be. elkeseredett ostrom és bátor védelem után.</p>
@@ -2160,8 +2158,8 @@
             
         </div>
         <div type="chapter">
-            <head >V.</head>
-            <head >Az áruló.</head>
+            <head>V.</head>
+            <head>Az áruló.</head>
             <p> Augusztus -án érkezett Nagy Sándor tábornok hadteste Hadháaárólu Debrecenbe, amikor a tábornok azonnal gyors futárt küldött Görgőihez további utasítás végett.</p>
             <p> Reggeli  óra tájban érkezett meg Görgei következő parancsa :</p>
             <p> — Az első hadtest jobbra-balra az Újvárosnak vezető utón álljon fel és ha ellenség mutatkozik, támadja meg és verje meg!</p>
@@ -2253,8 +2251,8 @@
           
         </div>
         <div type="chapter">
-            <head >VI.</head>
-            <head >Váratlan viszontlátás.</head>
+            <head>VI.</head>
+            <head>Váratlan viszontlátás.</head>
             <p>      Nagy Sándor tábornok Görgei egyenes parancsára Debrecen alatt elfogadván a csatát az orosz főhaderővel, s több mint négy óráig tartó heves küzdelem után, a  ezer főnyi ellenséges seregtől tulszámyaltatva, kénytelen volt visszavonulni s Görgeivel egyesülten Nagyváradon át Arad felé vonulni.</p>
             <p>    Három nap múlva harsogó $ zenével, harci dalokat énekelve vonult be Nagyváradra az orosz fősereg.</p>
             <p>   Egy részök a Szent László-téren állott föl. A Fekete sas«-szálló előtt a cári lovas gárdaezred sorakozott. A legszebb és legvitézebb orosz lovasság.</p>
@@ -2313,8 +2311,8 @@
                
         </div>
         <div type="chapter">
-            <head >VII.</head>
-            <head >Véritélet Damjanichnál.</head>
+            <head>VII.</head>
+            <head>Véritélet Damjanichnál.</head>
             <p> A debreceni csata tehát elveszett.</p>
             <p> A csata folyama alatt Görgei cinikus egykedvűséggel járt föl s alá szobájában, gúnyos megjegyzéseket téve egyik-másik belépő bizalmasához, hogy »püfölik most Nagy Sándort.</p>
             <p> Ürügy kellett neki a fegyverlerakásra. A kétségbeesés átadta neki a diktátorságot is. És most már vérboszut vesz Kossuthon. Megalázza, porba tiporja.</p>
@@ -2388,8 +2386,8 @@
              
         </div>
         <div type="chapter">
-            <head >VIII.</head>
-            <head >A fegyverlerakás.</head>
+            <head>VIII.</head>
+            <head>A fegyverlerakás.</head>
            <p> Görgei a tábort járta körül. Máskor is tette. Most talán utoljára teszi az életben.</p>
             <p>  Minden csöndes volt, mint valami temetőben. A fáradt honvédek egy része a földön aludt, más csoportokba verődve, beszéget/ett. A jövő váltakozó képei jelentek meg előttök. A múlt nagysága, fényes dicsősége, a nyert csaták koszoruzott emléke, aztán a sötét, a vigasztalan, szomorú jövő, melynek nincs egyetlen reménysugara.</p>
             <p>  Hajnalodni kezdett.</p>
@@ -2480,8 +2478,8 @@
             
         </div>
         <div type="chapter">
-            <head >IX.</head>
-            <head >Zárszó.</head>
+            <head>IX.</head>
+            <head>Zárszó.</head>
             <p> Világosnál végződik 48-iki nemzeti küzdelmünk nagy tragédiája, változatos eseményekkel, ragyogó fényképekkel és örökkön sötét háttérrel, melynek homályából egy áruló Judás alakja látszik ki.</p>
             <p> Egyedül a zárszó van még hátra, hogy : mi történt a világszabadságért lángoló lelkű Radzivil Olga hercegnővel és Labrof tábornokkal ?</p>
             <p> Az orosz tábornokot a zsarnoki önkény vaskarmaival elragadta s bizonyosan agyonszoritja.</p>

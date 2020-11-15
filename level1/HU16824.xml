@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16824" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16824" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -48,8 +46,7 @@
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Singer - Wolfner</publisher>
                      <date>1908</date>
-                     <ref
-                        target="http://mek.oszk.hu/16800/16824/pdf/"/>
+                     <ref target="http://mek.oszk.hu/16800/16824/pdf/"/>
                   </bibl>
                
             </bibl>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17873" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17873" xml:lang="hu">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -41,8 +39,7 @@
                             <pubPlace>Pest</pubPlace>
                             <publisher>Lauffer</publisher>
                             <date>1864</date>
-                            <ref
-                                target="http://mek.oszk.hu/17800/17873/pdf/"/>
+                            <ref target="http://mek.oszk.hu/17800/17873/pdf/"/>
                         </bibl>
                     
                 </bibl>

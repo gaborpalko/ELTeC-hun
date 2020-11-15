@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16123" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16123" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,8 +42,7 @@
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Athenaeum</publisher>
                      <date>1896</date>
-                     <ref
-                        target="http://mek.oszk.hu/16100/16123/pdf/"/>
+                     <ref target="http://mek.oszk.hu/16100/16123/pdf/"/>
                   </bibl>
                
             </bibl>
@@ -4054,8 +4051,7 @@
                   segítségivel majd csak kihuzunk megint egy telet. Ezzel legalább tudom, hol járok!
                   A föld el nem nyel bennünket...</p>
                <p>Igy panaszkodott egész Rospordenig a tenger ellen, a zsarnok, a kegyetlen, a
-                  hatalmas breton végzet ellen, bár egyetlen egyszer ki nem ejtette a <hi
-                    >tenger</hi> nevet.</p>
+                  hatalmas breton végzet ellen, bár egyetlen egyszer ki nem ejtette a <hi>tenger</hi> nevet.</p>
                <p>És a hangjában is volt valami megalázkodó rekedtség, amely színét vette szavainak,
                   pedig ő mértföldekre lakott a parttól, ahol a tenger harsogása még alázatosabb
                   suttogásra szoktatja a bretont.</p>
@@ -7690,8 +7686,7 @@
                   az a kötet.</p>
                <p>Figyelmem reá irányult.</p>
                <p>Kinyitottam.</p>
-               <p>Egy XVI. századbeli amsterdami nyomásu könyv volt az, a következő címmel: <hi
-                    >„Ad Gloriam sempiternam Ducis illustrissimi Joannis Marchionis
+               <p>Egy XVI. századbeli amsterdami nyomásu könyv volt az, a következő címmel: <hi>„Ad Gloriam sempiternam Ducis illustrissimi Joannis Marchionis
                      Morbihaniensis. Generalissimi Regis Catholici Philippi Secundi.”</hi>
                </p>
                <p>Egy a spanyol szolgálatban volt ősömnek, Jean marquisnak, Alba herceg egyik
@@ -7747,8 +7742,7 @@
                <p>Ma se tudom még bizonyosan, hogy ki ez az ember, de én akkor annak az ősömnek
                   néztem őt s ma is annak tartom.</p>
                <p>Szigoruan nézett rám, olyan megalázóan, hogy mélyebbre huzódtam karosszékemben.
-                  Bal­keze kardján pihen, jobbkeze pedig egy nagy könyvön, amelyre ez van irva: <hi
-                    >„Facta loquuntur”</hi> Igen, a tettek beszélnek!...</p>
+                  Bal­keze kardján pihen, jobbkeze pedig egy nagy könyvön, amelyre ez van irva: <hi>„Facta loquuntur”</hi> Igen, a tettek beszélnek!...</p>
                <p>Ez az ember nyugodtan pihenhet a kriptájában. Vajjon hol lehet eltemetve?
                   Kiváncsivá lettem. Fölkeltem s elkezdtem kotorászni a nagy könyvhalmazban.</p>
                
@@ -8139,8 +8133,7 @@
                <p>Egy furcsát láttam köztük. Eleinte azt hittem, hogy nem is Kerbastik. Egyszerüen
                   öltözött, derüs arcu fiatalember ez, zseniális homlokkal, kard s paróka nélkül,
                   törött görög oszlopra könyököl és egy tekercset tart a kezében. Csak cipőjének
-                  piros sarka mutatja, hogy gentille­homme. Ez van a ráma alján görög betűkkel: <hi
-                    >„Λουκιανος”</hi>... Soká nem tudtam kisütni, hogy ki lehet? Ha
+                  piros sarka mutatja, hogy gentille­homme. Ez van a ráma alján görög betűkkel: <hi>„Λουκιανος”</hi>... Soká nem tudtam kisütni, hogy ki lehet? Ha
                   kissé járatosabb lettem volna a francia irodalomtörténetben, tudhattam volna, hogy
                   ez az a chevalier de Kerbastik volt, a Lafontaine barátja, ki finom görög
                   költeményeket irt Anakreon modorában. Korának legjobb hellenistája volt és a

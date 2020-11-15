@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU18535" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU18535" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -42,8 +40,7 @@
                      <pubPlace>Budapest</pubPlace>
                      <publisher>Aigner</publisher>
                      <date>[1882]</date>
-                     <ref
-                        target="http://mek.oszk.hu/18500/18535/pdf/"/>
+                     <ref target="http://mek.oszk.hu/18500/18535/pdf/"/>
                   </bibl>
                
             </bibl>

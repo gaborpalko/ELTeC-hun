@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU08163" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU08163" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -47,8 +45,7 @@
                      <pubPlace>Pest</pubPlace>
                      <publisher>Heckenast</publisher>
                      <date>1855</date>
-                     <ref
-                        target="http://mek.oszk.hu/08100/08163/08163.pdf"/>
+                     <ref target="http://mek.oszk.hu/08100/08163/08163.pdf"/>
                   </bibl>
                
             </bibl>

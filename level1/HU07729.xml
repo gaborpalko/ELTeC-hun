@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07729" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU07729" xml:lang="hu">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -40,7 +38,7 @@
                             <title>Elbeszélések</title>
                             <date>2011-01-17</date>
                            
-                            <ref target="http://www.archive.org/details/magyarregnyir47miksuoft"></ref>
+                            <ref target="http://www.archive.org/details/magyarregnyir47miksuoft"/>
                         </bibl>
                     
                    

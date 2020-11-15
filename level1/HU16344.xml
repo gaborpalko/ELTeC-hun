@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16344" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16344" xml:lang="hu">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -618,7 +616,7 @@
                 <p>Csakhogy a nemes ember birtoka lehet igen kicsiny is. Lehet akkora is, hogy kis
                     házán kivül csak hét szilvafa fér el rajta. El is nevezték az ilyen nemest
                     hétszilvafás«-nak. Más vármegyékben, Tiszán túl bocs- koros«-nak. Az én
-                    vármegyémben nem volt ibocskoros, de >hétszilvafás« elég volt. Magam is sokat
+                    vármegyémben nem volt ibocskoros, de &gt;hétszilvafás« elég volt. Magam is sokat
                     ismertem. Házán, kertjén, szőlején kivül alig volt valamije. Sőt volt olyan is,
                     a kiről azt Írták a : birtoktalan.</p>
                 <p>De azért nemes ember volt az is. Őseinek vére ott hullott a csatamezőkön a
@@ -1113,7 +1111,7 @@
                 <p>Balogh Ádám nótája: Piros bársony süvegem. Yagy az inzurgensek dala: Sárga
                     csizmás Miska. Vagy Kisfaludy Sándor dala: Adja isten, hogy a magyart a
                     félvilág uralja, Zrinyi Ilona bujdosó dala: Lóra kuruez, lóra! Vagy az
-                    országgyűlési ifjak keserű dala: >Bécs várostól nyugatról keletre. Vagy az ifjú
+                    országgyűlési ifjak keserű dala: &gt;Bécs várostól nyugatról keletre. Vagy az ifjú
                     varjú gúnyoló dala a németté lett, labanczczá lett mágnások ellen.</p>
                 <p>Ezek és ilyenek voltak a nemesség dalai. Ha már</p>
                 <p>4benne volt a dalban, szemére vágta vagy földhöz vágta a gucsmáját. Akkorát
@@ -2145,7 +2143,7 @@
                 <p>E vendégszobában laktam én is az 1872-ikév őszén, mint újdonsült képviselő.
                     Családom nem jött mindj’árt föl Pestre s el kellett pár hónapra fogadnom a jó
                     öreg nemzetes asszonynénémnek szives vendéghivását.</p>
-                <p>Abban a kis lakásban ültük meg 1871 >)en karácsony estéjének ünnepét is.</p>
+                <p>Abban a kis lakásban ültük meg 1871 &gt;)en karácsony estéjének ünnepét is.</p>
                 <p>A kegyelmes úr« egy nőcselédet tartott. Az volt a szobalány, a szakácsné, a
                     szolgáló, az volt édes anyjának komornája is. Az sütött, főzött, mosott, vasalt
                     az öreg asszonyra is, a miniszterre is. Az járt húsért a mészárszékben is; a
@@ -3832,7 +3830,7 @@
                     nevelni.)</p>
                 <p>Mintha sejtették volna a jó szülők, hogy Károly fiuk nagy jövő elé megy. Sok
                     keresztszülőről gondoskodtak számára.</p>
-                <p>Ez a szó: keresztapám«, >keresztanyám&lt; nagy dolgot jelent a régi nemesi,
+                <p>Ez a szó: keresztapám«, &gt;keresztanyám&lt; nagy dolgot jelent a régi nemesi,
                     kálvinista társadalomban. A keresztfiu a keresztapa, keresztanya családjához
                     tartozik. Kivált; ha a keresztszülőknek nincs gyermekük s kivált, ha a
                     keresztfiuk árvaságra jutnak. Az élet ösvénye gyakran hosszú és gyakran
@@ -5958,7 +5956,7 @@
                     lét, hanem egy és ugyanazon lét. Ennélfogva kell, hogy a mi valami önmagában,
                     ugyanaz legyen másra nézve és más által is.«</p>
                 <p>Szóval: Kantnak bizony nincs igaza.</p>
-                <p>Nos hát a külső-belső« példája is csinos, de csinosabb mégis a >valami-más«
+                <p>Nos hát a külső-belső« példája is csinos, de csinosabb mégis a &gt;valami-más«
                     példája. A mely napnál fényesebben bebizonyítja, hogy a valami és a más közt
                     nincs különbség, mert a valami is más minthogy a valami is másnak mása, de éppen
                     azért a más is valami, mert ha valami nem volna, nem lehetne másnak a mása.</p>
@@ -7298,7 +7296,7 @@
                     párducz akar maradni. Kint az erdőn, kint a pusztán, kint az isten napja alatt,
                     szá-guldozó csikó hátán: ott az élet. Minek ő neki a könyv és a tudomány és a
                     latin-franczia nyelv ? Nem koldus ő, hanem úr! Nem nyomorék ő, hanem épkézláb.
-                    Nem kell ő neki se >alászszolgája*, se akezeit csókolomi. Hanem az kell ő neki:
+                    Nem kell ő neki se &gt;alászszolgája*, se akezeit csókolomi. Hanem az kell ő neki:
                     igyere pajtás, igyunk egyet* ; »gyere, rózsám, ugorjunk egyet*; gyere, czigány,
                     húzd a nótám, vagy agyonütlek*.</p>
                 <p>Egy darabig csak tűrt, szenvedett a jó kámzsás barát kezén s szedte magába

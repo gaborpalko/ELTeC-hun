@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU02204" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU02204" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -302,8 +300,7 @@
                banánt.</p>
             <p>Eközben három eunuch állt meg a grotta előtt, melleiken keresztbe tett kézzel, az
                úrnő parancsára várva.</p>
-            <p>- El fogtok menni azonnal hárman három felé. Egyitek sorba veszi <hi
-                  >Riza bég, Omár aga</hi> és <hi>Ben Mutasszem fő uléma</hi>
+            <p>- El fogtok menni azonnal hárman három felé. Egyitek sorba veszi <hi>Riza bég, Omár aga</hi> és <hi>Ben Mutasszem fő uléma</hi>
                laktanyáit; másik meglátogatja <hi>Halil effendit;</hi> harmadik
                felkeresi az <hi>alseraskiert, Baruch Tavaifot,</hi> mindeniket
                felszólítjátok, hogy ha találkozik rabszolgáik között egy magyar nemes, kinek
@@ -360,8 +357,7 @@
             <p>“Hát mióta vannak neveik a kutyáknak? Ki hívja az ökröket, lovakat úgy, ahogy ők
                akarják? Egyik <hi>kesely,</hi> másik <hi>fakó,</hi>
                egyik <hi>villás,</hi> másik <hi>kormos;</hi> én hívom
-                  <hi>pejkónak,</hi> akinek eladom, hívja <hi
-                  >rárónak,</hi> s az nem megy az anyakönyvbe. A rabszolgák között pedig nincs semmi
+                  <hi>pejkónak,</hi> akinek eladom, hívja <hi>rárónak,</hi> s az nem megy az anyakönyvbe. A rabszolgák között pedig nincs semmi
                különbség, hogy egyik ilyen, másik olyan! Van két füle, van két keze, lába, ha még le
                nem vágattam, van egynek <hi>két szarva</hi> is. Pusztulj a
                pokolba!”</p>
@@ -614,8 +610,7 @@
             <p>- Óh, apám - sóhajta a gyermek -, jöttünk volna hamarább, de koldulva gyűjtöttük
                váltságdíjadat idegen országban.</p>
             <p>- Koldulva! ti? - kiálta fel az ember - hát <hi>barátom,</hi> kit
-               megbíztam, hogy vagyonaim egy részét eladva azt küldje el: <hi
-                  >Pozsgai</hi> nem-él-e? Hát nőm elfeledett-e?</p>
+               megbíztam, hogy vagyonaim egy részét eladva azt küldje el: <hi>Pozsgai</hi> nem-él-e? Hát nőm elfeledett-e?</p>
             <p>- Barátod! - kiálta dühösen égő arccal a gyermek. - Barátod kihajta bennünket
                házunkból, mint mondá, a te megbízásod szerint. Nőd pedig, anyánk, most is emlékezik
                rád - a túlvilágon.</p>
@@ -651,8 +646,7 @@
                áldott jó nőm maradt.</p>
             <p>Ez emléknél elfogult az ember hangja, s szemeibe könnyek tolultak.</p>
             <p>- A lengyelek tatárt híttak segítségül, elhulott a szép nemes had, s aki élve maradt,
-               azt rabszíjra fűzték, s elhurcolták messze országokba. E sors ért engemet is s <hi
-                 >legjobb barátomat,</hi> Pozsgai Ferencet. Gyermekkori barátom volt,
+               azt rabszíjra fűzték, s elhurcolták messze országokba. E sors ért engemet is s <hi>legjobb barátomat,</hi> Pozsgai Ferencet. Gyermekkori barátom volt,
                asszonyom; atyám mint szegény fiút fogta fel, velem nevelteté; együtt éltünk, együtt
                harcoltunk, egy láncra voltunk verve. Midőn elfogatásunknak híre futamodott, kiknek
                rokonaink, családunk volt, az sietett váltságdíjunkat sietve megküldeni, de amely nap
@@ -672,8 +666,7 @@
             <p>Az ember elfulladt a beszéd és fájdalom miatt.</p>
             <p>- És e becsületes ember - szólt Károly, mintha folytatni akarná apja beszédét -
                elfoglalá a küldők jószágait, árváikat, özvegyeiket kiverve házaikból, birtokaikat
-               elvesztegette potom pénzért, és gazdáikat rabságba hagyta veszni.<hi
-                  xml:id="_ftnref4">[4]</hi>
+               elvesztegette potom pénzért, és gazdáikat rabságba hagyta veszni.<hi xml:id="_ftnref4">[4]</hi>
             </p>
             <p>- Úgye, Istenhez kiállt e szó, asszonyom?</p>
             <p>- És Isten keze nem rövidült még meg.</p>
@@ -690,8 +683,7 @@
                azt; megkötöztetett egy széles gerendához, s homlokomon felhasíttatva a bőrt, egy
                eleven kecskebak fejéről leszakíttatá a szarvakat, s azon forrón, véresen a
                homlokomon vágott sebbe kötteté azokat erősen rászorítva, úgy, hogy hat hét alatt
-               fejemhez voltak azok nőve elválaszthatatlanul, amint látod.<hi xml:id="_ftnref5"
-                  >[5]</hi>
+               fejemhez voltak azok nőve elválaszthatatlanul, amint látod.<hi xml:id="_ftnref5">[5]</hi>
             </p>
             <p>Katalin elsápadt az iszonyat miatt. Károly tenyereibe hajtá homlokát, a kisleány
                pedig féltében elaludt apja ölében.</p>
@@ -872,8 +864,7 @@
             <p>- De hiszen, jó szomszéd, azon ajándékokért, miket tőlem kívántál, százat vehetsz a
                hadsereg megtérte után.</p>
             <p>- De egyet sem olyat, mit gondolsz: kétszarvú embert? amilyet sohase látott senki;
-               nem, nem adom, kitömetem polyvával, mint az elfogott római vezért a perzsa király.<hi
-                  xml:id="_ftnref6">[6]</hi> S itt fog állani a kertemben, a bokrok között
+               nem, nem adom, kitömetem polyvával, mint az elfogott római vezért a perzsa király.<hi xml:id="_ftnref6">[6]</hi> S itt fog állani a kertemben, a bokrok között
                csudára.</p>
             <p>- Az Istenért, ne beszélj így, seraskier - kiálta a nő, aggódó pillantást lopva a
                gyermekek felé, kik a seraskier minden szavát hallhatták. - Légy könyörülő, lásd,
@@ -982,8 +973,7 @@
             <p>Különösen három nemes úr forgolódott leginkább a fejedelem körül. Akármerre ment,
                mindenütt gondosan sarkában voltak, kérdezősködtek neje, gyermeke felől,
                magasztalták, akiket szeretett, rágalmazták, akikre haragudott.</p>
-            <p>E három úr volt: <hi>Kapornaki Demeter</hi>, a házigazda, <hi
-                 >Kozár Péter</hi> és <hi>Pozsgai Ferenc,</hi> kik úgy
+            <p>E három úr volt: <hi>Kapornaki Demeter</hi>, a házigazda, <hi>Kozár Péter</hi> és <hi>Pozsgai Ferenc,</hi> kik úgy
                elfoglalták a fejedelmet, hogy másnak alig jutott belőle.</p>
             <p>Minden vadra, melyet ők magok ellőttek, ráfogták, hogy a fejedelem lőtte, úgy hogy
                dél felé a fejedelem maga is nevetve kezdé tapasztalni, miszerint dacára annak, hogy
@@ -1084,8 +1074,7 @@
                “e bizony szép ház, - mondogatják egymásnak - itt ugyan ellakhatik az ember, van
                konyha, pince, kamara elég jó, a kilátás is fölséges, minden jó kéz alatt lehet, a
                kútra sem kell messze járni”; ezzel visszatérnek a terembe, ahol már össze volt
-               gyülekezve mind a kettőjök részéről az elhozott legale testimonium, egyikkel volt <hi
-                 >Kelemen diák,</hi> másikkal <hi>Salamon diák,</hi> s
+               gyülekezve mind a kettőjök részéről az elhozott legale testimonium, egyikkel volt <hi>Kelemen diák,</hi> másikkal <hi>Salamon diák,</hi> s
                míg Kelemen diák a tollát faragta, Salamon diák a kalamárisával küszködött, úgy
                belevervén abba a dugót, hogy a fogával sem bírta kihúzni.</p>
             <p>- Nos, édes rokonaim - mondta kezeit dörzsölve Kozár uram -, tehát fogunk a hivatalos
@@ -1178,8 +1167,7 @@
             <p>De nem soká viselheté békességgel Boór Ádám mentéit és jószágait, mert másnap korán
                reggel, midőn még ágyában heverne, nagy, ormótlan ordításra ébred, s amint egy
                papucsban fut az ablakhoz, hát már az egész udvarát ellepve látja baromsokaságú
-               vasvillás és dorongos emberektől, kik között a legelébb, megszalasztott <hi
-                 >Kapornaki Demeter</hi> hadonázott parancsolva, s meglátván a maga
+               vasvillás és dorongos emberektől, kik között a legelébb, megszalasztott <hi>Kapornaki Demeter</hi> hadonázott parancsolva, s meglátván a maga
                nyusztkalpagját a ház ormán, - akárki tette mellé azt a csizmát, - parancsolá, hogy
                azt hajigálják le onnan, s tördeljék be a kapukat.</p>
             <p>Nosza elkezde irtóztató kopogás támadni erre, kövek, botok láncos golyóbisok kezdtek
@@ -1468,8 +1456,7 @@
                lehetne szépszerével hozzáférni. Emellett még a jó fejedelem maga oly bőkezű és
                jószívű volt, hogy nem jöhetett hozzá ember olyasmit kérni, ami ha az övé volt, neki
                nem adta volna, úgy hogy egy ízben tökéletesen elajándékozva az utolsó tallérját is,
-               kénytelen volt a fiscus kölcsönpénzt venni fel a számára, hogy elutazhassék.<hi
-                  xml:id="_ftnref9">[9]</hi>
+               kénytelen volt a fiscus kölcsönpénzt venni fel a számára, hogy elutazhassék.<hi xml:id="_ftnref9">[9]</hi>
             </p>
             <p>Ehhez járult még az, hogy a nagyváradi basa, mindazon erdélyi és magyarországi
                helységekből, mik a fejedelemségekhez tartoztak, önhatalmúlag saját maga felszedte az
@@ -1863,8 +1850,7 @@
             <p>- Az vagyok, szolgám, hogy jössz ide?</p>
             <p>- Kerítéseden másztam keresztül, hogy veled beszélhessek.</p>
             <p>- Ej, ej. Könnyen meglőhettek volna őreim. S miért akarsz velem beszélni?</p>
-            <p>- Egy <hi>kérelmem</hi> van hozzád és egy <hi
-                  >ajándékom</hi> számodra.</p>
+            <p>- Egy <hi>kérelmem</hi> van hozzád és egy <hi>ajándékom</hi> számodra.</p>
             <p>- Fiú, te vakmerő vagy! Nem hallottál-e esküvésem felől, hogy kérelmet meg nem
                hallgatok, s ajándékot el nem fogadok?</p>
             <p>- De meghallgatod a kérelmet, ha azon bűnös <hi>fejét kérem,</hi> s
@@ -2215,8 +2201,7 @@
                okozott neki nagyobb nyugtalanságot.</p>
             <p>Mindig az állt előtte, hogy feleségét betegen hagyta, s ha még csak a betegség lett
                volna a legnagyobb baj! Akárhányszor elgondolá magában, mint fog egyenesen
-               Gyula-Fehérvárra hajtatni, hogy keresi fel a fejedelmet <hi
-                  >legelőször,</hi> s mit fog neki mondani; de mihelyt azon helyre érkezett, ahol az
+               Gyula-Fehérvárra hajtatni, hogy keresi fel a fejedelmet <hi>legelőször,</hi> s mit fog neki mondani; de mihelyt azon helyre érkezett, ahol az
                országútról egy kis jegenyefákkal beszegett út letér, az ő eszméi is letértek vele;
                azon vette észre, hogy otthon van. Százfélét gondolt azután, mint fog a szép fiatal
                nő kedvesen, kedélyesen eléje futni, s őt átölelni, csókjaival elhalmozni, vagy tán
@@ -2364,8 +2349,7 @@
             <p>- Lám, minő csodák vannak a természetben: míg te vérpadon, viharos tengeren láttál
                engem, én valóban ott voltam. Sztambulba érve le akartak fejezni rögtön, s csupán
                Kucsuk basa közbenjárása mentett meg a haláltól; a nagyvezér, kinek pártfogására
-               számítottam, éppen akkor <hi>Candia</hi> szigetének ostromán volt a <hi
-                 >velencések</hi> ellen; utána kellett mennem, hogy az ország szomorú
+               számítottam, éppen akkor <hi>Candia</hi> szigetének ostromán volt a <hi>velencések</hi> ellen; utána kellett mennem, hogy az ország szomorú
                ügyeit elintézzem vele. Tudod, hogy soha sem voltam még tengeren, s mint ekkor
                életemben először hajóra szálltam, hogy Candiába vitorlázzak, valami kimondhatatlan
                szorongás fogta el érzékeimet; testem, lelkem tehetetlenné vált s oly oktalan halálos
@@ -2412,8 +2396,7 @@
                falvainkból beszed, vagy tiltsa el azt attól. Erre ily különös választ nyertünk a
                dívántól, hogy ám <hi>szedjük be mi az adót azon falvakból, mik a
                   váradi basa keze ügyébe esnek, a többit pedig engedjük a török basáktól beszedetni
-                  Erdélyben,</hi> azután ne legyen többet gondunk az adófizetésre.<hi
-                  xml:id="_ftnref10">[10]</hi>
+                  Erdélyben,</hi> azután ne legyen többet gondunk az adófizetésre.<hi xml:id="_ftnref10">[10]</hi>
             </p>
             <p>- Nos? hisz ez nagyon jól van. Így leráztátok a gondját vállaitokról.</p>
             <p>- Látod, hogy nem érted! Mi, Erdélyország rendei, mi, szabad egyesült hármas nemzet
@@ -2493,8 +2476,7 @@
                ordító oroszlán, keresve, hogy kit egyen meg?</p>
             <p>Csak egy akkora olasz lokajt talált volna, mint a kisujjam, vagy csak legalább egy
                cipőt, egy harisnyát belőle! Sehol semmi nyoma. A cselédségtől sem akart
-               kérdezősködni, nehogy azt gondolják, mintha őt ez az ember <hi
-                  >érdekelné;</hi> azok pedig úgy látszott, azért nem szóltak neki, hogy el ne
+               kérdezősködni, nehogy azt gondolják, mintha őt ez az ember <hi>érdekelné;</hi> azok pedig úgy látszott, azért nem szóltak neki, hogy el ne
                rontsák a meglepetést.</p>
             <p>Amint ekként bujdosnék szobából konyhába, konyhából pitvarba, egyszerre felpattan egy
                ajtó, melyet ő is éppen akkor készült kinyitni, s szinte orron üté a jó János
@@ -2568,8 +2550,7 @@
                hadonázva, a sipkáját összetépve mérgében.</p>
             <p>János gazda azt gondolá, hogy a sok szóra felelni kell valamit, s látva, hogy az
                ember mindnyájokhoz beszél, s valamit kérdezni látszik; azt gondolá bölcsen, hogy a
-               lokaj nem kérdezhet egyebet, mint hogy ki tette a paprikát és a vereshagymát a <hi
-                 >potpourri</hi> közé? ő tehát nyugodt lélekkel magára mutatott, és
+               lokaj nem kérdezhet egyebet, mint hogy ki tette a paprikát és a vereshagymát a <hi>potpourri</hi> közé? ő tehát nyugodt lélekkel magára mutatott, és
                mondta szép csendesen: “Magam la”.</p>
             <p>Erre Gondolfo felkapta a tányérját, s levesestül úgy vágta Jánoshoz, hogy a hátán
                csorgott végig a leve.</p>
@@ -2590,9 +2571,7 @@
             <p>- És többet a kastély küszöbét át nem fogja lépni.</p>
             <p>- Az is megeshetik, asszonyom - felelt János.</p>
             <p>Berta erre hevesen kezde Gondolfohoz olaszul beszélni, melyből János bárhogy mereszté
-               is rájok szemeit, egy szót sem bírt kitalálni, csupán annyit hallott, hogy <hi
-                 >“principé”</hi>-t sokat emlegették, s annyit már tudott, hogy <hi
-                 >princeps</hi>-nek Erdélyben Apafi Mihályt hívják.</p>
+               is rájok szemeit, egy szót sem bírt kitalálni, csupán annyit hallott, hogy <hi>“principé”</hi>-t sokat emlegették, s annyit már tudott, hogy <hi>princeps</hi>-nek Erdélyben Apafi Mihályt hívják.</p>
             <p>Már hiszen, gondolta magában, ha a fejedelemnek adnak is fel, én ott sem leszek más,
                mint aki vagyok.</p>
             <p>Gondolfo, megértve asszonya szavait, rögtön paripát hozatott elé, s felülve rá,
@@ -2744,8 +2723,7 @@
                nézve, ha a vád eloszlanék kegyelmed fejéről, és ismét itt láthatnók soraink között
                ülni.</p>
             <p>- Nyugodtan hallgatom vádamat - mondta Paskó -; lelkem tiszta minden bűntől.</p>
-            <p>- A vétek, mellyel kegyelmed vádoltatik, semmivel sem kevesebb; mint - <hi
-                 >hazaárulás.</hi>
+            <p>- A vétek, mellyel kegyelmed vádoltatik, semmivel sem kevesebb; mint - <hi>hazaárulás.</hi>
             </p>
             <p>Paskó arca felhevült e szóra.</p>
             <p>- Engem vádolnak hazaárulással, ki hazámért, fejedelmemért száz alakban láttam a
@@ -2796,8 +2774,7 @@
             <p>- Boldogtalan; - sóhajta a főtanácsos úr, s inte, hogy nyissák meg az ajtót.</p>
             <p>Mindenki feszülten nézett oda, düh és harag tekintetével Paskó és az öreg szolga.</p>
             <p>Az ajtó megnyílt, s a tanú, ki belépett rajta, - Berta volt, - Paskó neje...</p>
-            <p>- Itt áll a tanú kegyelmed ellen... - szólt reszketeg hangon Teleki.<hi
-                  xml:id="_ftnref11">[11]</hi>
+            <p>- Itt áll a tanú kegyelmed ellen... - szólt reszketeg hangon Teleki.<hi xml:id="_ftnref11">[11]</hi>
             </p>
             <p>Paskó eltántorult állóhelyéből; fejéhez, szívéhez kapva támaszkodék a mellette álló
                alabárdos vállaira, - a világ elfordult vele, arcán halálos sápadtság terült el;
@@ -2887,9 +2864,7 @@
                reá nézni. - A fejedelem elé akart borulni, hogy megmásíttassa határozatát, de az
                kikerült előle, s szobáiba távozott.</p>
             <p>Apafi nagy pártolója volt a puritán tanoknak, s ha <hi>első bűn</hi>
-               volt előtte, amit legkönnyebben hitt s legsúlyosabban büntetett, a <hi
-                  >fejedelemkeresés,</hi> de a <hi>második</hi> volt a <hi
-                 >házasságtörés.</hi>
+               volt előtte, amit legkönnyebben hitt s legsúlyosabban büntetett, a <hi>fejedelemkeresés,</hi> de a <hi>második</hi> volt a <hi>házasságtörés.</hi>
             </p>
             
          </div>
@@ -2927,10 +2902,8 @@
                kikérdezte, hogy azt sem tudta, melyik lábán álljon. Este pedig, amint besetétedett,
                s János gazda elgondolá, hogy immár ideje lesz az alvásnak, megvárta, míg a
                kastélyban elsötétültek az ablakok, akkor fogott egy darab viaszt, s az urának reá
-               bízott kardját magához véve a kardmarkolatra vésett címerrel <hi
-                  >lepecsételte</hi> a ház kapuit, melyek kulcsai az úrnő kezében voltak, s a híd
-               kapuját, melynek kulcsát ő maga bírta. Ilyenformán minden éjjel szigorú <hi
-                 >sequestrum</hi> alá zárva aludt az egész háznép, s János gazda már
+               bízott kardját magához véve a kardmarkolatra vésett címerrel <hi>lepecsételte</hi> a ház kapuit, melyek kulcsai az úrnő kezében voltak, s a híd
+               kapuját, melynek kulcsát ő maga bírta. Ilyenformán minden éjjel szigorú <hi>sequestrum</hi> alá zárva aludt az egész háznép, s János gazda már
                hajnal előtt fent volt a pecséteket levenni, nehogy okot adjon azoknak erőszakos
                felszakításukra.</p>
             <p>Amily bosszantó volt e felvigyázat a ház asszonyára, éppoly terhesnek hívé ő azt
@@ -3089,8 +3062,7 @@
             <p>Ez a másik meglátva őt, magyarul szólítá meg.</p>
             <p>- Nos -<hi> Están</hi>! Hozod a <hi>kardot</hi>? (Tehát
                csakugyan az öccsének nézték.)</p>
-            <p>- A <hi>kardot</hi>? - szólt csodálkozva János. Bizonyára <hi
-                 >kardot</hi> hoztam.</p>
+            <p>- A <hi>kardot</hi>? - szólt csodálkozva János. Bizonyára <hi>kardot</hi> hoztam.</p>
             <p>- De <hi>azt</hi> a kardot? Amiért bátyádhoz mentél?</p>
             <p>- Megbocsáss, jó uram. Tudod, hogy parancsolatodra sokat ittam, úgyhogy semmire sem
                emlékezem, amit valaha mondtál, ha csak újra el nem mondod.</p>
@@ -3147,8 +3119,7 @@
                fejtetőre ereszkedik alá. Más embert megütne a guta, ha így felfordulna, s ez meg
                mulatságot csinál belőle.</p>
             <p>Gondolfo lármázni kezde, s szidta olaszul a paraszt lelkét, hogy őt oly türelmesen
-               nézi; de János minderre nem szólt egyebet, mint azt, hogy: “bizony nagy <hi
-                 >gaukler</hi> vagy!”</p>
+               nézi; de János minderre nem szólt egyebet, mint azt, hogy: “bizony nagy <hi>gaukler</hi> vagy!”</p>
             <p>Végre Gondolfo nem tűrhette tovább helyzetét, s hogy társa félreértését eloszlassa,
                egyszerre megszólalt magyarul:</p>
             <p>- Ne röhögjön hát kend, hanem segítsen le innen.</p>
@@ -3172,9 +3143,7 @@
                van, majd azután lesegítlek.</p>
             <p>Gondolfo előkeresé kínos helyzetében a kért kulcsot zsebéből, s lehajítá azt
                Jánosnak.</p>
-            <p>- Nesze, fogjad; jól vigyázz, hogy merre jössz; a lépcsőn feljutva a folyosón <hi
-                 >jobbfelé</hi> tarts, az vezet ide; nehogy <hi
-                  >balra</hi> találj menni, mert ott uram a háziasszonnyal mulat, s kettéhasít, ha
+            <p>- Nesze, fogjad; jól vigyázz, hogy merre jössz; a lépcsőn feljutva a folyosón <hi>jobbfelé</hi> tarts, az vezet ide; nehogy <hi>balra</hi> találj menni, mert ott uram a háziasszonnyal mulat, s kettéhasít, ha
                bebotlasz.</p>
             <p>- Valóban? - monda János, és szemei szikráztak a sötétben. - No csak várj rám,
                mindjárt jövök.</p>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16600" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU16600" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -2825,9 +2823,7 @@
             <p>
                <hi rend="italic">„Tisztelt Uram! Gyakran hallottam</hi>
                <hi rend="italic">már, hogy ön Magyarhon legjelesebb</hi>
-               <hi rend="italic">jogásza. Égek a vágytól, hogy e jeles férfiuval</hi> - <hi
-                  rend="italic">noha szerény és tudatlan nő vagyok</hi> - <hi rend="italic"
-                  >megismer­kedhessem. Ma este sárga dominóban ott leszek az álarcos bálban,
+               <hi rend="italic">jogásza. Égek a vágytól, hogy e jeles férfiuval</hi> - <hi rend="italic">noha szerény és tudatlan nő vagyok</hi> - <hi rend="italic">megismer­kedhessem. Ma este sárga dominóban ott leszek az álarcos bálban,
                   ismertetőjel: egy oleandervirág a balkézben. A nagy jogász ismeretlen tisztelője:
                   Bellaria. N. B. Biztossan eljöjjön.”</hi>
             </p>

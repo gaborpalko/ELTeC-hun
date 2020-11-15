@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00011" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00011" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -28,7 +26,7 @@
                <title>Derű és ború</title>
                <date>2000-01-15</date>
                <publisher>The Google Books Digital Content Store</publisher>
-               <ref target="https://books.google.hu/"></ref>
+               <ref target="https://books.google.hu/"/>
                <respStmt>
                   <resp>Original Electronic Edition</resp>
                      <name>Osztrák Nemzeti Könyvtár</name>  

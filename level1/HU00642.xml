@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00642" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU00642" xml:lang="hu">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -1377,8 +1375,7 @@
                   s az Magyarországban bármi szegény s ismeretlen legyen, mindenné válhatik.” Jónás
                   tökéletesen kapacitálva volt, s ha az éjjel nem hunyta is be szemeit, Porváron
                   aligha vonult valakinek fején több álom keresztül, mint az övén. Hisz Magyarország
-                  alkotmányos ország, hol csak a többség határoz, s ennek megnyerésére, legalább <hi
-                    >nemesembernek</hi>, érdemnél egyéb nem kell. Százszor biztatta
+                  alkotmányos ország, hol csak a többség határoz, s ennek megnyerésére, legalább <hi>nemesembernek</hi>, érdemnél egyéb nem kell. Százszor biztatta
                   magát hősünk e gondolattal, s most, midőn a kir. kamarás is ugyanazt mondja, midőn
                   az ő meggyőződése szerint is magyar nemesből minden válhatik, miként kételkednék
                   ezen elv valóságán ő maga?</p>
@@ -1714,8 +1711,7 @@
                <p>Ez az, mit hőseim múlt életéről mondani szükségesnek tarték. Ha hosszasabb voltam,
                   s valakit olvasóim közül untattam, gondolja meg, hogy nem éltem azon írói
                   jogommal, mely szerint őt hosszú előszóval vendégelhettem volna meg, s ne tegye
-                  azért félre könyvemet. Regényem csak az élet képe akar lenni, s az <hi
-                    >nem lehet mindig</hi> mulatságos.</p>
+                  azért félre könyvemet. Regényem csak az élet képe akar lenni, s az <hi>nem lehet mindig</hi> mulatságos.</p>
                <p>Már a nap lealkonyodott, s csak még nehány piros felleg jelölé a helyt, hol az
                   eltűnt, midőn a barátok a faluhoz értek, s Vándory jó éjszakát kívánva Jónástól
                   elvált.</p>
@@ -2922,8 +2918,7 @@
                   hasonló egyediségeket az egész megyében hasztalan keresnénk, mi az adózó népnek
                   nem kis könnyebbségére szolgál.</p>
                <p>Karvaly Ágoston régi nemesember vala - olvasóim természetesnek fogják találni,
-                  hogy leírásomat e megjegyzéssel kezdem; nálunk, hol e nehány szócskával: “<hi
-                    >nemesember vagyok</hi>”, hídon s utakon átmehetünk fizetés
+                  hogy leírásomat e megjegyzéssel kezdem; nálunk, hol e nehány szócskával: “<hi>nemesember vagyok</hi>”, hídon s utakon átmehetünk fizetés
                   nélkül, olvasóim talán szinte nem fognak semmit kívánni személyeimtől, kiket ily
                   előfigyelmeztetéssel vezetek elejökbe, vagy legalább, mint más bírák kegyesebbek
                   lesznek irántok. Múltja, önmagára nézve, egyike a legérdekesebbeknek, és sajnálni
@@ -3172,8 +3167,7 @@
                   alantabb, valószínűleg hasonló tárgyakról ábrándozának - hisz tisztviselők, s
                   azok, kik egykor tisztviselők voltak s még nem tanácsosok, s azok, kik hivatal
                   után vágyódnak, szívesen foglalkoznak a közdolgok azon legszebb részével, mely a
-                  hivatalok célszerű betöltésében áll -, midőn a csend távoli, de hatalmas <hi
-                    >éljen</hi> által félbeszakadván, a tekintetes társaság, mely a
+                  hivatalok célszerű betöltésében áll -, midőn a csend távoli, de hatalmas <hi>éljen</hi> által félbeszakadván, a tekintetes társaság, mely a
                   tornácon állt, egyszerre mozgásba jött.</p>
                <p>“Éljen Réty! éljen Nyúzó! éljen a magyar szabadság! Hajrá!” S más ehhez hasonló
                   fölkiáltások, melyek közé néha kis káromkodás s egyes pisztolylövések vegyültek,
@@ -3282,8 +3276,7 @@
                   parancsolatára sz.-vilmosiakról, sz.‑vilmosi erényekről s érzelmekről
                   kényteleníttetett beszélni, s az említett metalis eset felhozását is olyannak
                   tartá, mi a közlelkesedésnek árthatni fog: soha szónok inkább nem éljeneztetett
-                  meg, mint ő. A nemes hadnagy példája után minden tizedik szavánál háromszoros <hi
-                    >éljen</hi> szakítá félbe beszédét, úgyhogy - mi nálunk ritkaság -
+                  meg, mint ő. A nemes hadnagy példája után minden tizedik szavánál háromszoros <hi>éljen</hi> szakítá félbe beszédét, úgyhogy - mi nálunk ritkaság -
                   szinte sokallá a tetszést.</p>
                <p>Az alispán, kit e megtiszteltetés, mint ily esetekben mindég, egészen váratlanul
                   lepett meg, s ki, mi ismét mindennapi eset, alig talála szót érzelmei kifejezésére
@@ -3295,8 +3288,7 @@
                   használatát talán megkívánja.</p>
                <p>E beszéd, mint az elébbi, ismét <hi>éljen</hi>ekkel fogadtatott, s
                   miután a nemes hadnagy kinyilatkoz­tatta, hogy a nemesek a nagyságos asszony
-                  kézcsókolására kívánnak menni: az egész csapat ismét <hi
-                  >éljen</hi>ek közt a házba tolult, hol őket most egy ideig magokra hagyjuk.</p>
+                  kézcsókolására kívánnak menni: az egész csapat ismét <hi>éljen</hi>ek közt a házba tolult, hol őket most egy ideig magokra hagyjuk.</p>
                
             </div>
             <div type="chapter">
@@ -3368,8 +3360,7 @@
                   tiszteletünket, mert elődeink szokásait s nemzetiségét tisztán fenntartá, az ősök
                   míveletlenségét, de egyszersmind a hajdankor jószívű egyszerűségét, sok,
                   napjainkban szinte nevetségesnek látszó előítéletet, de velök azon hitet, mely
-                  nélkül nemzetiségünk nehéz harcai között soha föl nem tarthatta volna magát: <hi
-                    >hogy a magyar soha eltűnni nem fog e világról</hi>. Hogy ezen
+                  nélkül nemzetiségünk nehéz harcai között soha föl nem tarthatta volna magát: <hi>hogy a magyar soha eltűnni nem fog e világról</hi>. Hogy ezen
                   néposztály érdemei nemzetiségünk föltartására nézve fölszámíthatlanok, s hogy a
                   jövő gyalázatos hálátlanságot követne el, ha valaha elfelejtené, miként azon
                   nemesebb művelődés ágai, melyeknek gyümölcseit élvezi, csak az erős törzs nedvéből
@@ -3605,8 +3596,7 @@
                   háromszáz nemes, kikről csak negyedóra előtt esküdhettünk volna, hogy mint a
                   háromszáz spártai Thermophilaeknél, úgy helyeiken fekve fognak találtatni,
                   irtóztató éljenek között egyenesen a kertnek vette útját, s hogy Kislaky, ki
-                  előttök szinte a kertbe futott, könnytelt szemekkel mormogá fogai között: <hi
-                    >hej, mégis szép dolog a népszerűség!</hi>
+                  előttök szinte a kertbe futott, könnytelt szemekkel mormogá fogai között: <hi>hej, mégis szép dolog a népszerűség!</hi>
                </p>
                <p>Ne vessék meg olvasóim a jámbor öreget e vallomásaért, s habár sokan volnának
                   közöttök, kik a nép kegyeit szívökből megvetik s ellene szintúgy zúgolódnak, mint
@@ -3679,8 +3669,7 @@
                   járnak, s ugyanazt beszélik, mit úrnőiktől hallottak, szinte kisasszo­nyoknak
                   látszanak; s Pennaházy, ki egy hosszú országgyűlés alatt a hallgatók között
                   hatalmas szavával majd éljenezve, majd más kijelentések által élénk részt vett a
-                  legfontosabb tanácskozásokban, s rejtett szavakkal gyönyörködteté a <hi
-                    >Nemzeti Újság</hi> olvasóit, ismertebb, minthogy érdemeiről
+                  legfontosabb tanácskozásokban, s rejtett szavakkal gyönyörködteté a <hi>Nemzeti Újság</hi> olvasóit, ismertebb, minthogy érdemeiről
                   szólanom kellene. Föl is jegyeztem volna az érdekes beszélgetést, melyben e két
                   szeretetre méltó személy a kortesek által meglepetett, ha országos dolgok leírása
                   nem várna reám, s e beszélgetés minden gyönyörei mellett ne lett volna különösen -
@@ -3934,8 +3923,7 @@
                   hogy az angol, mint a magyar alkotmány alapja a szabad választás, erről kezde
                   beszélni, s e tárgyban minden nagy író nézeteit fölhozá - nehányan Karvaly
                   példáját követni kezdék: legalább mély csend uralkodott az egész olvasás alatt,
-                  melyet csak egy erős “halljuk” szakaszta félbe, midőn e szavakkal: “<hi
-                    >már ami jelen helyzetünket illeti</hi>”, egyenesen Taksony megye
+                  melyet csak egy erős “halljuk” szakaszta félbe, midőn e szavakkal: “<hi>már ami jelen helyzetünket illeti</hi>”, egyenesen Taksony megye
                   jelen állapotára fordítá figyelmét.</p>
                <p>“Két dolog van a világon - így folytatá az olvasó -, melyért minden magyar
                   nemesember, s így e megye nemessége is, melynél én magyarabbat nem ismerek
@@ -4109,8 +4097,7 @@
                   jelenlevő ajánlkozott, kik e veszedelmes ellenek lekenyerezését egymás közt
                   föloszták.</p>
                <p>Csak egy vala még hátra, mi alkotmányos tekintetben talán kevésbé érdekes, de
-                  tisztújítások­nál mindig a legnagyobb figyelemmel tárgyaltatik, ti. <hi
-                    >a pénz</hi>. Mielőtt Sáskay a tisztújítási budget-t fölolvashatá,
+                  tisztújítások­nál mindig a legnagyobb figyelemmel tárgyaltatik, ti. <hi>a pénz</hi>. Mielőtt Sáskay a tisztújítási budget-t fölolvashatá,
                   az egész társaságban különös nyugtalanság vala észrevehető. Egy táblabíró
                   véletlenül órájára nézve elbámult, hogy már kilenc, s azonnal befogatni akart,
                   mitől ő és mások, kik példáját követni akarák, csak nehezen tartóztathattak
@@ -4192,10 +4179,8 @@
                <p>Sáskay terve, mely ha majd a szerző által egész kiterjedésben közöltetik, neki
                   kétségen kívül dicsőséget fog szerezni, sokkal tudományosabb, semhogy e szerény
                   elbeszélésben helyt találhatna. Csak rövid kivonatát közlöm tehát.</p>
-               <p>A bölcs férfiúnak nézete szerint minden tisztújításhoz három dolog szükséges: <hi
-                    >élelmiszerek</hi>, <hi>pénz</hi>, és, mert
-                  hazánkban a többségnek több nagylelkűsége, mint tőkéi vannak, <hi
-                     >hitel</hi>. Az elvek, melyek szerint a Taksony megyei tisztújítás financiális
+               <p>A bölcs férfiúnak nézete szerint minden tisztújításhoz három dolog szükséges: <hi>élelmiszerek</hi>, <hi>pénz</hi>, és, mert
+                  hazánkban a többségnek több nagylelkűsége, mint tőkéi vannak, <hi>hitel</hi>. Az elvek, melyek szerint a Taksony megyei tisztújítás financiális
                   része rendeztetik, következők:</p>
                <p>1-ször. Mindenki csak pénzben írhatja alá a segedelmet, mellyel hozzájárulni
                   akar.</p>
@@ -4649,8 +4634,7 @@
                   kandalló, melynek szaga a comfortot Angliában tetemesen neveli és a világért sem
                   volna fával főlcserélendő.</p>
                <p>Mindez, mihelyt Jakab úr Angliából visszatért, a Bántornyiak ősi lakában
-                  alkalmazásba vétetett. A nyolcablakos kastély mellé egy egészen <hi
-                     >Loudon encyclopedia of cottage architecture</hi> szerint tervezett angol
+                  alkalmazásba vétetett. A nyolcablakos kastély mellé egy egészen <hi>Loudon encyclopedia of cottage architecture</hi> szerint tervezett angol
                   emeletes ház épült; a régi tornyok egyike, mely az új épülettel öszveköttetésben
                   állt, fölemeltetett, s Lajos úrnak a tűzveszély ellen tett minden észrevételeinek
                   dacára falépcsővel láttatott el. A ház egyik oldalán a kert felé nagy üvegveranda,
@@ -6305,8 +6289,7 @@
                   mit levonás vagy összeadás által kiszámíthatni. Nálunk nem a szám, hanem az
                   választ, mi <hi>egyenesen a kebelből jő</hi>, nem szavazatok
                   többsége, mely bármit mondjunk, csak anyagi, állati erő, hanem épp az, mi az
-                  embert az állatvilágban megkülönbözteti: a <hi>szó</hi>. <hi
-                    >Pectus est quod movet</hi>, mondhatá a római, nálunk a kebel
+                  embert az állatvilágban megkülönbözteti: a <hi>szó</hi>. <hi>Pectus est quod movet</hi>, mondhatá a római, nálunk a kebel
                   nemcsak megindít, hanem alispánokat s szolgabírókat csinál, valósággal uralkodik.
                   S vajon ily tisztikar, mely egyenesen választóink belsejéből jött, miként ne
                   felelne meg bizodalmoknak? De mégis a világ oly gonosz! Annyi szomorú
@@ -6335,8 +6318,7 @@
                   látványos darabnál a katonaság nélkülözhetlen!</p>
                <p>A tisztújításról szinte nincs, mit emlékezetre méltót mondjak. Miután a főispán,
                   mint ily alkalomnál közönségesen, inkább, hogy annyi érzeménytől feszült keblén
-                  könnyítsen, mint hogy valaki által hallassék, beszédét nem szűnő <hi
-                     >Réty, Bántornyi, Éljen! Voks!</hi> kiáltozások közt bevégzé: Réty hasonló
+                  könnyítsen, mint hogy valaki által hallassék, beszédét nem szűnő <hi>Réty, Bántornyi, Éljen! Voks!</hi> kiáltozások közt bevégzé: Réty hasonló
                   sükerrel az egész tisztikar nevében búcsút vett; a tisztújítás alatt netalán
                   előadható esetek fékezésére törvényszék neveztetett ki, s a kijelelés után a két
                   küldöttség, egyike báró Sóskuty, másika egy más zöld, kék és vörösbe öltözött
@@ -6358,8 +6340,7 @@
                   szavazott, eresztetett be ismét a mellékkapunál.</p>
                <p>E parliamentalis taktika - engedelmet, ha ez annyi ellenzésre talált szóval élek!
                   de tisztújítá­sainknál, hol e tudományt Bentham híres munkájából megtanulni nem
-                  lehet, s hol az, ki magát e részben kimívelni akarja, inkább <hi
-                     >Montecuculi</hi> haditudományát olvassa végig, miből az egyes seregek miként
+                  lehet, s hol az, ki magát e részben kimívelni akarja, inkább <hi>Montecuculi</hi> haditudományát olvassa végig, miből az egyes seregek miként
                   elhelyezéséről magának ismereteket szerezhet, e szó bizonyosan alkalmato­sabb
                   bármely más kifejezésnél -; e parliamentális taktika tehát, mint mondám, minden
                   nagyobbszerű rendetlenséget - vagy, mert azt, mi rendesen történik,
@@ -7507,8 +7488,7 @@
                   egyediséget találunk, s azon tizenhat év óta, melyet Sz.‑Vilmoson töltött,
                   embernek, ki, mint János, soha beteg nem volt, ellene panasza nem lehetett.</p>
                <p>Vannak emberek, kikkel a sors különös játékot űz, s ezek közé tartozott Serer is.
-                  Mint nevéről láthatni, ereiben nem tiszta ázsiai vér buzgott, s az augsburgi <hi
-                    >Allgemeine</hi> szerkesztője, ha boldog pillanataiban a németfaj
+                  Mint nevéről láthatni, ereiben nem tiszta ázsiai vér buzgott, s az augsburgi <hi>Allgemeine</hi> szerkesztője, ha boldog pillanataiban a németfaj
                   roppant légióit felszámítja, hihetőképp a sz.-vilmosi sebészt is azok közé
                   sorozza, kiknek jogánál fogva hazánk majdan a szent római birodalomra oltott német
                   egységnek egyik ága leend. Valamint a Dunát német folyónak - mert eredetét
@@ -8761,9 +8741,7 @@
                   gyémántokat találhatott, inkább éles ekével szántotta fel földjét, mert érzé, hogy
                   e munkával öndicsőségére kevesebbet, de embertársainak hasznára többet tehet, ha
                   az így támadott művek hibáit az érzelmért, melyből származtak, szívesen
-                  megbocsátjuk, s megfeledkezünk gyengeségeiről, mert érezzük, hogy mi ellen a <hi
-                    >kritikus</hi> kifogásokat tehetne, azt az <hi
-                     >embernek </hi>bámulni kell, hogy a könyvben nem <hi>szép
+                  megbocsátjuk, s megfeledkezünk gyengeségeiről, mert érezzük, hogy mi ellen a <hi>kritikus</hi> kifogásokat tehetne, azt az <hi>embernek </hi>bámulni kell, hogy a könyvben nem <hi>szép
                   mű</hi>, hanem <hi>szép emberi tett</hi> fekszik előttünk: mit
                   mondjunk a mázolókról, kik minden magasabb cél s indok nélkül e műveket utánozzák,
                   kik romlott képzetökkel gyönyörködve mindenen, mi szörnyű vagy undok, a rothadást,
@@ -8977,8 +8955,7 @@
                   parancsolok. - Itt Nyúzó, ki vezéri tehetségeit már azáltal bizonyítá, hogy nagy
                   hadvezérek módjára seregének mozdulatait kormányozta, de magát a golyók körén
                   kívül tartá, újabb jelét adá azon hasonlóságnak, mely közte s századunk legnagyobb
-                  vezére, Napóleon között létezett, ki, mint tudva van, a <hi
-                     >lehetetlen</hi> szót nem franciának mondá.</p>
+                  vezére, Napóleon között létezett, ki, mint tudva van, a <hi>lehetetlen</hi> szót nem franciának mondá.</p>
                <p>- Én nem bánom - szólt a kommisszárius haraggal -, én nekimegyek, ha az ördög
                   volna is, csak a többiek jőjenek utánam.</p>
                <p>- Aki nem megy - kiáltá Nyúzó -, poltron kutya, főbe kell ütni mindjárt.</p>
@@ -9631,8 +9608,7 @@
                   tartassanak; azonban míveltsége s főképp azon szerénység, mellyel tudományát
                   inkább elrejté, mint mások előtt fitogtatá, azon ritka emberek közé helyhezé őt,
                   kiket majdnem mindenki dicsér, mert bennök oly tulajdont, melyet irigyelhetne, nem
-                  lát. - Porváron csaknem általános vala a vélemény, hogy Völgyesy kedves ember <hi
-                    >mindamellett</hi>; - mi alatt mindenki púpos hátát érté - s az
+                  lát. - Porváron csaknem általános vala a vélemény, hogy Völgyesy kedves ember <hi>mindamellett</hi>; - mi alatt mindenki púpos hátát érté - s az
                   öreg Kislaky, ki megtudván, hogy Viola elfogatott s hogy elítélésénél neki kell
                   elnökölni, talán nejénél is inkább megijedt, nem örült kevesebbé, mint a báró s a
                   vastag táblabíró, midőn hallák, hogy jegyzőül a fiatal alügyészt vihetik magokkal.
@@ -12109,8 +12085,7 @@
                   után nem küldetett - nagy valószínűség arra, hogy az magától visszajő, nem levén
                   -, érezni kezdék, hogy éjjelöket álmatlanul töltötték, s ennyi fáradság után rövid
                   nyugalmat keresni ismét éji hajlékaikba vonultak, Kenyházyt kivéve, kit sem a
-                  lárma, sem hajdújának ismételt rázásai, sem Nyúzó káromkodásai, <hi
-                     >nec ardor civium, nec frons instantis tyranni</hi> felébreszteni képesek nem
+                  lárma, sem hajdújának ismételt rázásai, sem Nyúzó káromkodásai, <hi>nec ardor civium, nec frons instantis tyranni</hi> felébreszteni képesek nem
                   voltak.</p>
                <p>Midőn Kislaky fiával szobájába jött, a jó öreg Kálmánnak nyakába borult. - Akármi
                   legyen következése - szólt meghatva -, isten áldjon meg, hogy lelkemet az örök
@@ -13196,8 +13171,7 @@
                   is nemesít egyet-mást; de ez csak egy mód, s isten mentsen meg, hogy ez lenne a
                   legközönségesebb. Ha mindenkitől, ki kiváltsággal él, leveleit kérnék, inkább
                   meggyérülne számunk, mint a mohácsi veszedelem után. Lássa, édes nemzetes
-                  asszonyom, van a nemesedésnek egy más, sokkal jobb s célszerűbb módja... az <hi
-                    >úzus.</hi> Újabb időben, hol mindennek magyar nevet csinálnak,
+                  asszonyom, van a nemesedésnek egy más, sokkal jobb s célszerűbb módja... az <hi>úzus.</hi> Újabb időben, hol mindennek magyar nevet csinálnak,
                      <hi>törvényes szokásnak</hi> szokták nevezni; de ez a dolgot nem
                   fejezi ki, miután ott, hol törvény van, az úzusra szükség nincs, sőt az úzusnak az
                   főtulajdona, hogy oly valami szokást jelent, mely a törvényen nem alapszik, vagy
@@ -16157,8 +16131,7 @@
                   körön, melybe a végzet által állíttatott, túl nem emelkedik, most hihetőképp azon
                   szerencsés egyediségek egyikét látnók benne, kiknek az élet majdnem minden
                   kívánságaikat valósítá.</p>
-               <p>De volt Réty jellemének egy oldala, mely mind e reményeket meghiúsítá - <hi
-                    >gyengesége</hi>, s mi azt, hol az nem észhiányból ered,
+               <p>De volt Réty jellemének egy oldala, mely mind e reményeket meghiúsítá - <hi>gyengesége</hi>, s mi azt, hol az nem észhiányból ered,
                   közönségesen követni szokta - <hi>hiúsága</hi>, s ezek nem engedék,
                   hogy azt, mit sorsától nyert, nyugodtan élvezhesse. Kiragadva természetes
                   helyzetéből e hibái által, élte a csalódások s keserűségek hosszú sorává vált.
@@ -16935,8 +16908,7 @@
                   meggyőződhetnének: mennyire hibáztak e törekvésökben, miután a játék törvény által
                   el lehet tiltva, s azért a kávéházban a fáraó-asztal mellett szintoly jól
                   mulathatni, főképp, ha a bank az alispánok egyike által tartatik, mert - bírálóim
-                  engedelmével ismét deák szavakkal élve - a közmondás szerint <hi
-                     >praesente medico nihil nocet</hi>, ha az, ki a törvények fenntartásával
+                  engedelmével ismét deák szavakkal élve - a közmondás szerint <hi>praesente medico nihil nocet</hi>, ha az, ki a törvények fenntartásával
                   megbízatott, jelen van, a törvények megszegése természetesen senkinek nem árthat.
                   Elmondhatnék sok nemzetes esti mulatságot, vitézlő szerelmet, sőt nehány
                   tekintetes házasságot is, s azok, kik regényemet szívesen nemesebb körökben látnák
@@ -17423,8 +17395,7 @@
                   kellemetlen helyzetbe jő, hogy ámbár ökreit máskor néha szomszédai határán is
                   legeltette, most még arra sem nyerhet engedelmet, hogy azokat tulajdon mezejére
                   hajtsa. A birtok szentségét annyira sértő állapot azonban nem tartott sokáig. A
-                  főorvos tudniillik, látva, hogy a felsőbb rendelésben csak <hi
-                     >idegen</hi> marhának behajtása tiltatik, meggyőződvén, miként oly ökrök,
+                  főorvos tudniillik, látva, hogy a felsőbb rendelésben csak <hi>idegen</hi> marhának behajtása tiltatik, meggyőződvén, miként oly ökrök,
                   melyek a megye egyik főbírája által megvétettek, idegeneknek józanul nem
                   mondhatók, azonnal megadá az engedelmet. Egy más alkalommal s részint talán ennek
                   következésében, mert akkori tette a helytartótanács által rosszalltatott, a
@@ -17736,8 +17707,7 @@
                   teremében éppen akkor vallásos tárgyakról folyt a vita, s a két vallás híve
                   határtalan lelkesedéssel küzdöttek a házassági szerződés mi módoni kötése iránt.
                   Vándory s lelkésztársa, bár ezért sokak által vallásos közönyösséggel vádoltattak
-                  - jobbnak tarták, ha a házban, hol vallásról annyian <hi
-                     >szólnak</hi>, ők ketten teszik azt, mit vallásuk parancsol. A küszködő egyház
+                  - jobbnak tarták, ha a házban, hol vallásról annyian <hi>szólnak</hi>, ők ketten teszik azt, mit vallásuk parancsol. A küszködő egyház
                   Taksony megyében, úgy látszott, eléggé vala képviselve; nem ártott tehát, ha
                   legalább két embernek eszébe jut, miként az egyháznak a küzdésen kívül még más
                   feladásai is vannak, s ott, hol határtalan lelkesedéssel a születendő gyermekek
@@ -18066,8 +18036,7 @@
                   munkásságnak, mellyel e nép hazáját a tengertől előbb kiküzdé, később megőrizte s
                   kertté varázsolá; Németországot megáldotta isten filozófjaival, kik azon határok
                   között, hová az emberi ész nem hathat, országokat találtak magok s bámuló
-                  hallgatóik számára. Hazánkban minden idegennek, kétségen kívül, azonnal - <hi
-                    >üléseink számtalansága</hi> tűnik szemébe. Kereskedés s ipar,
+                  hallgatóik számára. Hazánkban minden idegennek, kétségen kívül, azonnal - <hi>üléseink számtalansága</hi> tűnik szemébe. Kereskedés s ipar,
                   tudományok s művészet, dicsőség, sőt még a szorgalom is oly dolgok, melyekben az
                   elsőséget másoknak kell engednünk; egy van, miben a magyar népet - e szót
                   természetesen csak alkotmányos értelemben, azaz Werbőczi szerint a kiváltságosokra

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17435" xml:lang="hu">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU17435" xml:lang="hu">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -5807,7 +5805,7 @@
                     bevándorlónak radikális sajtója a mene­kült magyarság kilakoltatását javasolja
                     és e sajtó faj­rokona az ő népjóléti miniszterük kivándorlást ajánl az őslakó
                     magyar értelmiségnek ...</p>
-                <p>Hát nincs többé helyünk a tulajdon hazánkban ></p>
+                <p>Hát nincs többé helyünk a tulajdon hazánkban &gt;</p>
                 <p>Ördögi gonosz játék folyik itt. A szavak kulcsok és felnyitják a sötét földalatti
                     folyosókat, melyek alá­aknázzák az országunkat. Károlyi kormányának
                     had­ügyminisztere azt mondta a mi magyar hadseregünk­nek: nem akarok katonákat
@@ -9887,7 +9885,7 @@
                         ezentúl politikai határnak tekinti. Az ország to­vábbi megszállásának
                     nyilvánvaló célja az, hogy Ma­gyarországot fölvonulási és
                         hadműveleti területté te­gyék a román határon harcoló orosz
-                        szovjethadseregellen. A mitőlünk elrabolt területek pedig >zsoldja lenne azoknak a román és cseh csapatoknak,
+                        szovjethadseregellen. A mitőlünk elrabolt területek pedig &gt;zsoldja lenne azoknak a román és cseh csapatoknak,
                     amelyekkel az orosz szovjetsereget akarják leverni. Én, mint a Ma­gyar
                     Népköztársaság ideiglenes elnöke a párizsi kon­ferenciának ezzel a határozatával
                     szemben a világ prole­tariátusához fordulok igazságért és
@@ -10797,7 +10795,7 @@
                     kormányzótanács el­határozta a vöröshadsereg felállítását."</p>
                 <p>„A hadügyi népbiztosság az imperialista királyok és militarista hadvezérek nevére
                     keresztelt laktanyák nevét megváltoztatja. A kaszárnyákat Lenin, Marx, Dózsa
-                    György> Martinovich, Frankéi Leó, Liebknecht és Luxemburg Róza laktanyáknak
+                    György&gt; Martinovich, Frankéi Leó, Liebknecht és Luxemburg Róza laktanyáknak
                     nevezi el.. .</p>
                 <p>Honvédek helyett vöröshadsereg. Mária Terézia és Ferenc József helyett Luxemburg
                     Róza és Frankéi Leó . . .</p>
@@ -11825,7 +11823,7 @@
         </div>
         <div type="chapter">
                 <p>
-                    >v szon át és
+                    &gt;v szon át és
                     ez a Virágvasárnap mégis egészen más, mint volt a többi, mióta visszaemlékezem.
                     Az emberiség évezredes útján sötét, üldözött idők jár­nak vissza a sírjukból.
                     Mintha lázbetegek rémlátása mesélne: Magyarországon üldözik a keresztények
