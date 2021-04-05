@@ -10,6 +10,7 @@ This repository is maintained by the Centre for Digital Humanities at the E√∂tv√
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC. 
 
+* v2.0.0, April 2021: This release adds linguistic annotation encoded in level 2 encoding. The DOI of this release is: [10.5281/zenodo.4662499](https://doi.org/10.5281/zenodo.4662499). 
 * v1.0.0, November 2020: This release includes 100 novels in level 1 encoding. With this release, a corpus compliance score (E5C) of 100 was reached. The DOI of this release is: [10.5281/zenodo.4271643](https://doi.org/10.5281/zenodo.4271643)
 
 ## Contributors
