@@ -1,0 +1,1953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HU09290" xml:lang="hu">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A legvitézebb huszár</title>
+          
+            <author>na<idno type="VIAF">na</idno>
+            </author>
+            <respStmt>
+               <resp>ELTeC conversion</resp>
+               <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
+               </name>
+               <name>Fellegi Zsófia</name>
+               <name>Takács Emma</name>
+            </respStmt>
+         </titleStmt>
+         <extent>
+            <measure unit="words">17090</measure>
+           <!-- 
+            <measure unit="words">na</measure>
+            <measure unit="pages">na</measure>-->
+         </extent>
+         <publicationStmt>
+            <p>Published as part of ELTeC</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
+               <title>na</title>
+               <respStmt>
+                  <resp>Original Electronic Edition</resp>
+                  <name>na</name>
+                  <name>na</name>
+                  <name>na</name>
+               </respStmt>
+               <ref target="na"/>
+               <date>na</date>
+               <relatedItem type="printEdition">
+                  <bibl type="digitalSource">
+                     <title>na</title>
+                     <ref target="na"/>
+                  </bibl>
+               </relatedItem>
+               <relatedItem type="source">
+                  <bibl type="digitalSource"><title>na</title>
+                     <author>na</author>
+                     <pubPlace>na</pubPlace>
+                     <publisher>na</publisher>
+                     <date>na</date>
+                     <ref
+                        target="na"/>
+                  </bibl>
+               </relatedItem>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc n="eltec-0">
+         <p/>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="hu"/>
+         </langUsage>
+         <textDesc>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+            <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+         </textDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2018-11-14"/>
+      </revisionDesc>
+   </teiHeader>
+  <text>
+      <body>
+            <p>Magam is megdöbbenek, a mikor ezt a czimet leirom; hisz ez a szó «huszár» már maga is
+               annyit jelent, mint «legvitézebb»; ki érdemeli meg azt, hogy a történet által, a
+               költők nyelvén s a köznép danáiban «hősök hősének» neveztessék?</p>
+            <p>Pedig mégis igazam van.</p>
+            <p>Volt egy férfi - nem is olyan régen halt meg - a ki a mellett, hogy tökéletes
+               eszményképe lehet egy, csupán a költők agyában született, középkori lovaghősnek;
+               valódi élő mintája marad egy tetőtől talpig magyar vitéznek: annak is pedig
+               huszárnak; olyan huszárnak, a kiről azután a többit szabják.</p>
+            <p>Ez a férfi volt Simonyi József ezredes.</p>
+            <p>Ni, hogy villognak az öregek szemei, mikor ezt a nevet hallják! Ismerik őt jól mind
+               azok, a kiknél az őszhaj és az emlékezet még anno 1800-ból ered. Látták bátor
+               tekintetét, hallották csodadolgait, bámulták, büszkék voltak rá és azután -
+               megsiratták. Hallgasd meg te is ifjú nemzedék: ki volt ő, mi volt ő? és tanuld meg,
+               hogy az előtt is voltak ám derék emberei a magyarnak! Ezután is lesznek, ha Isten úgy
+               akarja.</p>
+            
+            <div type="chapter">
+               <head>I. A FIATAL DIÁK.</head>
+               <p>Tekintetes Szabolcs vármegyének Nagy-Kálló városában született ez előtt jó
+                  nyolczvan esztendővel; épen a három hetesben (1777) történetünk hőse; ki hogy
+                  legott hősnek született, bebizonyítá az által, hogy már csecsemő korában nem
+                  maradt meg tőle épkézláb csésze és tányér, a mi a kezébe akadt, mikoron pedig a
+                  hatodik esztendejét betöltötte volna, nem volt az a jegenyefa, a melynek a
+                  tetejéről ő a szarkafészket le ne szedte volna, sem olyan magas toronytető, a hol
+                  őt csiripoló verebek, mint harczias ellenséget megjelenni ne látták volna. Sőt
+                  annyira ment már vakmerőségében, hogy a szomszéd becsületes eczetfőző és
+                  pipacsináló izraelita kereskedők folyamodást kényteleníttetének tenni a jó öreg
+                  Simonyi Pál uramhoz, tiltaná meg rettenetes gyermekének, miszerint az ő
+                  szakállaikat ne czibálná meg az utczán, a ki miatt már a templomba sem merek majd
+                  járni! A szomszédasszonyok pedig azért, hogy ártatlan csirkéiket mind elhajigálja,
+                  ablakaikat beveri; a pásztorok a mezőről pedig a miatt, hogy József urfi mind
+                  agyonnyargalja a lovaikat. Csak egy kendermadzagot vesz elő, a mit a zsebében
+                  hord, a ló fejére veti s le nem lehet róla teremteni sem embernek, sem lónak.</p>
+               <p>Még akkor Jóska nem volt idősebb hét évesnél.</p>
+               <p>Áldott szülei sohajtozva gondoltak rá: mi lesz ebből a fiuból, a ki már eddig is
+                  annyi gonosz csinyt követett el? Vagy nagy úr lesz, vagy a tömlöczben hal meg.</p>
+               <p>Pedig jó édes anyja úgy szerette volna, ha derék tudományos férfiú vált volna
+                  belőle, a ki egykor tán Nagy-Kálló városában senatori hivatalt viselend; vagy még
+                  inkább, ha nagytiszteletű pap válna belőle, talán kanonok, prépost vagy
+                  apát-úr.</p>
+               <p>Nem is mult rajtok semmi üdvös szándék, elküldték tanulni Jóskát Mária-Pócsra,
+                  mikor már nem birtak vele; onnan Debreczenbe, a hol kanállal mérik az ifjuságba a
+                  tudományokat.</p>
+               <p>Már hiszen Jóska urfi ott is csak kitett magáért.</p>
+               <p>Ő pápista diák volt, Debreczen pedig a kálvinista Jeruzsálem.</p>
+               <p>Még az én időmben meg volt az a jeles szokás, hogy e két felekezet
+                  iskolásgyerekei, mikor valami jó mulatságot akartak maguknak csinálni,
+                  összecsoportosultak s jól elverték egymást. Botot nem lévén szabad viselni kicsi
+                  diákoknak, az egész harcz ököllel és lineával, meg szijra kötött könyvekkel
+                  harczoltatott meg, hanem azért karmolt pofát s beütött orrt vihetett belőle haza,
+                  a ki otthon ujra meg akarta veretni magát.</p>
+               <p>Simonyi Jóska hirhedett legény volt az ilyen csatákban, négy-öt ellenségtől még
+                  csak meg sem szaladt s ha botra vagy kőre talált, egész sereggel szembe
+                  nézett.</p>
+               <p>Már pedig a Péterfia-utczából, a hol lakott, a piaristákig ballagva, sokszor
+                  kellett túlnyomó ellenféllel találkoznia, a kik aztán megkerítették. A mi hősünk e
+                  miatt mindenütt a kerítések alatt, kapuk szögletében, a hol senki sem sejtette,
+                  dugaszban tartott botokat, köveket, azokat rántotta elő, ha hirtelen
+                  megszorították. Ilyen hadi fortélylyal kellett mindennap keresztülvágnia magát az
+                  iskoláig. Ezek voltak legelső tanulmányai a hadviselésben.</p>
+               <p>Kegyes oktatói nem helyeslék ezt a rakonczátlanságot s fenyegették szörnyen,
+                  ördöggel, pokollal, mig a vakmerő fiu egyszer megharagudott az annyiszor
+                  emlegetett ördögre s két pajtásával összebeszélt, hogy majd fölkeresi ő maga azt
+                  az ördögöt, a kivel olyan nagyon fenyegetik s kapta magát éjfél órájában, kiment
+                  velök a keresztútra s ott holmi bolondos diák szavak emlegetésével akarta
+                  kényszeríteni ezt a földalatti nagyurat, hogy idézésre jelenjen meg; a holott is
+                  addig kiabáltak az urfiak, a mig csakugyan megjelent a hátuk mögött - nem egészen
+                  az ördög, hanem csak az őr, a ki a csendháborítás miatt úgy eldöngeté a hátaikat,
+                  hogy az ugyan a pokolba is beillett volna mulatságnak.</p>
+               <p>Ilyen ördöngös történet után nem lehetett Jóskának Debreczenben megmaradni, a
+                  tréfának hire futott, szülei is megtudták s erre elhatározák magukban, hogy
+                  finomabb erkölcsök tanulása végett felküldik őt Pestre, az ország fővárosába; itt
+                  idegen nyelvekre, zongorára, hegedüre taníttatták, sőt még az anatomiai leczkékre
+                  is járatták, melynek mind igen sok hasznát vette ő későbben, mert igen sok földet
+                  bejárván, olyan jól megértette magát mindenféle nemzetekkel, hogy még a mit nem
+                  kért is, odaadták neki s azokban a nagy hangversenyekben, a hol ágyúkkal
+                  zongoráznak és kardokkal hegedűlnek, sokszor produkálta magát mint solo-virtuóz; a
+                  mi pedig az emberi tagok bonczolását illeti, már ahhoz remekül értett.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>II. AZ UJONCZ.</head>
+               <p>Már biz azt meg kell vallani, hogy a mi a tudományokat illeti, azokért nem sok
+                  hajaszála hullott ki a jó Simonyinak.</p>
+               <p>Egészen más forgott az ő fejében, mint csendesen ülni naphosszant az iróasztal
+                  mellett és doktorrá lenni, sokkal inkább vágyott embereket beteggé tenni, mint
+                  őket gyógyítani.</p>
+               <p>Menni messze - messze, keresni bajt, küzdeni veszedelmekkel; regényes kalandok
+                  közt szerezni hirt, dicsőséget, ez dagasztá az ő keblét, ennek ábrándjaival volt
+                  tele a szive, lelke s fázott belül, ha poros könyveire tekintett, a miket ő nála
+                  különös alkalma volt belepni a pornak.</p>
+               <p>Hiszen nem is lehet minden ember tudós. Kinek-kinek megvan a maga hivatása. A jó
+                  katona rossz verset ír, a poéta rossz háborút csinál; a jó mesterember lehetne
+                  rossz földmives s a legderekabb gazdával felfordulna a világ, ha a kathedrába
+                  kellene neki menni, hogy ott predikáljon.</p>
+               <p>Hegedűlhetett Jóska fülébe három zenemester, beszélhetett a fejéhez tizenhárom
+                  tanár; csak az lett belőle, hogy a mint egyszer Budán meglátott egy toborzó
+                  huszárcsapatot, elfeledte, hogy iskolába várják, elbámulta órahosszat a tarsolyos
+                  vitézkötéses legényeket, a mint olyan vígan tánczoltak az utcza mentében, úgy
+                  pörgették taréjos sarkantyúikat, úgy csörtettek kardjaikkal, olyan délczeg,
+                  gyönyörű fiuk voltak egytől-egyig.</p>
+               <p>Jóska elkisérte őket utczáról-utczára, elólálkodott körülöttük, mikor egy-egy
+                  parasztlegényt itallal kináltak a vidám katonák, bevonták körükbe, markába
+                  veregettek, fejébe nyomtak vitézkötéses csákót, úgy mentek vele dalolva,
+                  összeölelkezve odább. Jóska úgy irigylette, hogy mással így bánnak, őt csak meg
+                  nem látják.</p>
+               <p>Alig volt még tizennégy éves a fiu, inkább lehetett volna leánynak felöltöztetni,
+                  mint huszárnak.</p>
+               <p>Végre megpróbálta mégis, odasomfordált a toborzó őrmesterhez s megkérdezte tőle,
+                  ha nem volna-e még olyan tele a regement, hogy ő el ne férhetne benne?</p>
+               <p>Az őrmester előre köpött, hátranézett s azt mondá a gyereknek:</p>
+               <p>- Tán én szoptassalak?</p>
+               <p>Ez azonban addig alkalmatlankodott neki, mig a huszár boszújában belecsapott a
+                  markába, s megszorítá a fiu kezét teljes erejéből. Ropogtak a porczikái, de csak
+                  meg se szisszent bele. A huszárnak megtetszett a legényke. Nem bánta hát, jőjjön
+                  vele. Nyomott a fejébe akkora süveget, hogy a fülei tartották meg karimáját s
+                  adott rá valami mentét, a mi a térdeit verte; a kard pedig épen a földön
+                  szánkázott utána.</p>
+               <p>De ki volt azért büszkébb, mint Jóska az új ruhában?</p>
+               <p>A mi után oly rég vágyott, a miről annyit álmodott: kard csörömpölt az oldalán,
+                  paripa ágaskodott alatta!</p>
+               <p>Hiába is váltották ki megrémült szülői, ujra katonává lett megint, sem az apa
+                  átka, sem az anya könye vissza nem tarthatá, neki menni kellett, merre sorsa
+                  vitte.</p>
+               <p>Szelid képű gyerek volt még, mennyit csúfolták arczáért, hogy oly fehér és
+                  bajusztalan; pedig óra hosszant kiállt a forró napra fedetlen fővel, hogy jobban
+                  elbarnuljon s azt a pelyhet ott az ajkán suvikszszal mázolta, hogy kezdjen
+                  hasonlítani a bajuszhoz.</p>
+               <p>Épen a török háború volt, az ujoncznak a táborélettel kellett megkezdeni a
+                  katonaságot; mielőtt ráértek volna megtanítani, hogy fogja a kardot? már az volt a
+                  jelszó: «üsd vágd!» mielőtt megúnhatta volna a komisz-kenyeret, már azon kellett
+                  sóhajtania, hogy bár csak volna hát egy kis darab!</p>
+               <p>Pancsovánál, a mocsár mellett, húsz napi esőszakadás után azt mondták a
+                  huszároknak, hogy itt meg kell telepedni.</p>
+               <p>Csülökig érő dagadt sár közepén, hideg havas eső alatt, olyan helyen, a hol hire
+                  nincsen emberi hajléknak, lóháton ülve éjjel-nappal, és koplalva éjjel úgy, mint
+                  nappal.</p>
+               <p>- Keress fát! - kiálta a fiatal ujonczra a vén János káplár s Simonyinak ugrani
+                  kellett fát keresni.</p>
+               <p>Talált is eleget, elhozta egy hid karfáját. Minem is a hidra karfa? ezt csak a
+                  részeg emberek kedveért találták fel.</p>
+               <p>- Vágd fel, ha hoztad! - mordult a káplár ujra.</p>
+               <p>Simonyi hordott baltát is magával, felaprította a fát, tüzet is rakott belőle;
+                  akkor a vén katonák körül ülték a tüzet szépen s Jóskának csak a hátuk mögül
+                  jutott a melegből, pedig a ruha is csonttá volt fagyva rajta.</p>
+               <p>A vén János káplár hozzáfogott a főzéshez. Szép kis főzés. Egy elesett ló
+                  szügyéből aprítottak gulyáshúst a bográcsba, a mit ökörnyomból merítettek tele
+                  vízzel; közé hányták a hatnapos prófuntot is, hogy kissé megdagadjon: nem volt sem
+                  só, sem paprika, de volt puskapor elég, ezzel fűszerezték meg az ételt, úgy hogy a
+                  ki evett belőle, mind úgy nézett ki, mintha suviczkos katulyákat nyalt volna
+                  ki.</p>
+               <p>De mégis boldog volt, a ki a bográcshoz férhetett. A vén katonák úgy körülfogták
+                  azt, hogy Jóska öcsénknek nézni sem lehetett bele.</p>
+               <p>Végre a vén János káplár, mikor már maga megelégelte a puskaport, megszánta a
+                  fiut.</p>
+               <p>- Ejnye öcsém, te is itt vagy; szinte el is feledtelek. Tartsd a markodat
+                  szaporán.</p>
+               <p>Azzal kivett a számára egy darab főtt kenyeret és lóhúst s átnyujtotta neki a
+                  többiek vállán; de mielőtt a fiu elkaphatta volna, mintha véletlenül tenné, leejté
+                  azt a nagy sárba.</p>
+               <p>- Utczu, biz ez leesett; ne bánd öcsém: annál egészségesebb léssz, lásd a kacsa is
+                  homokot eszik az ételhez, hogy jobban emészszen.</p>
+               <p>Jóska sem nézte most: hova tálalták az ételt? felette azon mód s midőn vacsora
+                  után kiadatott a rendelet, hogy három óra hosszat szabad aludni, nézte, hogy hová
+                  feküdjék le?</p>
+               <p>Nem volt más vetett ágy, mint csupán csak a jó puha sár. Simonyi sajnálta szép
+                  zsinóros mentéjét betollazni vele, hát csak egyéb után törte a fejét. Hová
+                  feküdjék le? Hátha állva is lehetne alunni? úgy van; a mint egy kötél ki volt
+                  feszítve két karóra, a hova a lovakat pányvázták, azt választá ki éjjeli
+                  szállásul, ráborult szépen, a kötelet hóna alá fogva s mint a száradni terített
+                  gúnya, lógott rajta és elaludt.</p>
+               <p>Elaludt és azt álmodta, hogy odahaza dúsan terített asztal előtt áll, az ételek
+                  oly szivesen párolognak a szép sávolyos abroszról, édes anyja puha ágyat vetett
+                  számára s nyakába borulva gyönge karjaival átölelve vállát úgy kéri, úgy könyörög:
+                  «ne menj el, ne hagyj itt. Nézd, apád is meghal bánatában.» - «Elmegyek, elmegyek,
+                  felelé a fiu, katonává leszek.» - «Fázni, éhezni fogsz, nyomorúságba jutsz, ne
+                  hagyj itt, ne menj el.» - «Elmegyek, elmegyek.» - «Megölnek, levágnak, véredet
+                  kiontják; az aggodalomtól megszakad a szivem: ne menj el, ne hagyj itt!...»</p>
+               <p>...Trombitáltak ébredőre... A fölserkenő ujoncz még akkor is rebegte: elmegyek,
+                  elmegyek.</p>
+               <p>Azután kitörülte szemeiből az álmot, előkereste csákóját, felugrott lovára s örült
+                  a szive, hogy itt lehet!</p>
+               
+            </div>
+            <div type="chapter">
+               <head>III. AZ ELSŐ VÉR.</head>
+               <p>Jön a török, jön a török! Megfújják a trombitákat; a vitézek alatt tánczol a
+                  paripa. Lóra katona, itt az ellenség!</p>
+               <p>Jóska vitéz is kihúzta szablyáját s odafurakodott az első sorba.</p>
+               <p>- Visszamégy te tintás száju! - rivalkodott rá az öreg János. Azt gondolod
+                  examenre megyünk? Takarodol a hátulsó sorba!</p>
+               <p>Szegény fiunak hátra kellett állni - de nem sokáig volt hátul, a mi hátul: - mert
+                  rohammal támadt a török lovasság s egy pillanat alatt összekeveredett a két nemzet
+                  népe, ütve, vágva egymást, ki hol emberére talált. Hadsornak, csatarendnek hire
+                  sem volt többé; törökség, huszárság, turbánok és csákók összekeveredve dulakodtak
+                  alá s fel a mezőn.</p>
+               <p>Jóska paripája elvadult e zajra, elkapta a fiut, s mire urává tudott lenni a
+                  lónak, csak azt vevé észre, hogy egy csoport fényes, bogláros török úr közelít
+                  feléje, a kik közűl egyik olyan goromba volt, hogy hegyes dzsidájával
+                  nekirugaszkodott az ártatlan fiunak. Jóska sem volt hát rest, kirántá a kápából
+                  mind a két pisztolyát s rásüté bátran a törökre. Nem is czélozgatott; gondolta
+                  magában: neki csak durrantani kell; - az azután a golyó dolga, hogy embert
+                  találjon. A törökben nem tett kárt a lövés. Jóska nem tudott lőni, de tudott
+                  hajítani. Mikor már emelte a török a dárdát feléje, úgy hajítá főbe az üres
+                  pisztolylyal, hogy menten lefordult a lóról. Meglátta ezt egy másik nagy csojtáros
+                  szarácsi, nagy haraggal nekinyargal a fiunak s görbe kardjával jobb felől a
+                  nyakához vág nagy dühösen.</p>
+               <p>Jóska gondolta magában, hogy hisz az ő kezében is kard van s ha ő azt oda tartja,
+                  a hova a másik vág, semmi baja sem eshetik. Ámde a gonosz bancsokós nem oda vágott
+                  a hova nézett, hanem a helyett balfelől csapott a legény fejére; kétfelé repedt a
+                  csákó, fele jobbra, fele balra hullott s egy hosszú seb a homlokon végig elborítá
+                  vérrel az ifjú szemeit. Talán örökre is elborította volna azokat a halál
+                  sötétsége, ha az öreg János-káplár ott nem termett volna.</p>
+               <p>- Ilyenatta tarja! - szólt ez káromkodva. - Nem látod, hogy ez még diák, nem tudja
+                  a vágást.</p>
+               <p>De tudta az öreg s hogy jól meg is felelt, arról a török úr bizonyságot tehet -
+                  valahol a paradicsomban.</p>
+               <p>Maga a császár is látta ezt a tusát egy közeli dombról s a sebesült ifjúra kiálta;
+                  a mitől az aztán jobban megijedt, mint magától a töröktől, s örült, hogy elvitték
+                  onnan a kórházba.</p>
+               <p>Egy hosszú deszkaépület volt elkészítve a sebesültek számára, melynek
+                  sártapasztékán ujjnyi vastagon állt a dér; egy-egy vaskemencze melegített ott, a
+                  hol állt, az ablakról pedig csüggtek a jégcsapok.</p>
+               <p>A jámbor ujoncznak rossz volt ez a helyzet, rossz a hideglelés, a mit a sebtől
+                  kapott, rossz a szük eledel, a haldoklók éjjeli nyögése, a kinos műtétel, és a
+                  mindennél rosszabb orvosság.</p>
+               <p>Nem akarta az orvosságot venni, soha sem szerette ő azt. Nem való az
+                  katonának.</p>
+               <p>Egy jó öreg orvos mégis rábeszélte, hogy vegye be, a mit rendelt neki, a mig ez
+                  elszánta rá magát.</p>
+               <p>Jóska mellett feküdt egy maródi baka, a kinek az volt a baja, hogy megvesszőzték;
+                  az orvos annak is rendelt valami vastag irt, a mivel a hátát bekenjék.</p>
+               <p>Az ostoba orvossegéd, hogy az ördögök tilolják meg, összetévesztette a két
+                  orvosságot; a baka hátát bekente a decoctummal; szegény Jóskával meg megitatta a
+                  másik hátára kenendő valamit, a mitől ez azután igazán olyan rosszul lett, hogy
+                  többé meg sem tudott mozdulni.</p>
+               <p>Néhány nap mulva új főorvos vette keze alá a betegeket. Mikor Simonyira került a
+                  sor, keresztet vetett rá:</p>
+               <p>- Nem kell ennek több orvosság. Holnap el lehet temetni.</p>
+               <p>Jóska hallotta, hogy mit beszélnek róla s boszankodott rajta.</p>
+               <p>Alig fordítottak neki hátat az orvosok, fölkelt, felöltözött, a tarsolyában talált
+                  egy darab száraz kenyeret, azt megette s azután kiült a napra.</p>
+               <p>- Majd meglátom én, hogy meghalok-e, ha nem akarom?</p>
+               <p>Harmadnapra semmi baja sem volt, csak az a hosszú vágás ott a homlokán végig, a mi
+                  még jobban illett neki.</p>
+               <p>De ne is közelített légyen hozzá többet orvos, mert ha le kellett neki feküdnie
+                  valami baj miatt, mindig maga mellé tette az ágyba a baltáját s megesküdött, hogy
+                  ha valaki azzal a szóval jön hozzá, hogy «mutassa a nyelvét», majd megmutatja ő
+                  annak a tulajdon fülét.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>IV. AZ ELSŐ ÉRDEMREND.</head>
+               <p>A törökök elpihentek. Azt mondták a magyarnak: «kend is jó katona, én is jó
+                  katona; - ne bántsuk egymást». Ezek helyett támadt veszedelem nagy
+                  Francziaországból, a honnan szokott jönni minden egyéb divat.</p>
+               <p>Ekkor az volt a módi, hogy az emberek beverjék egymásnak a fejét.</p>
+               <p>Simonyi már ekkor nagyravitte dolgát; vicekáplárrá lett, Metz és Thionville
+                  városok között tizenhat legénynyel állt az előörsön.</p>
+               <p>Egyszer lát messziről szembe közeledni hatvan kék ruhás huszárt, szép tollas
+                  kokárdákkal, piros zsinóros övekkel.</p>
+               <p>Gondolta magában, a ki egyszer huszár, az nem lehet más mint magyar; arra nem is
+                  gondolt, hogy más nemzetnek is van annyi embersége, hogy a legvitézebb embereit
+                  kiválogatja s magyarnak öltözteti. Messziről is kiáltott már rájok:</p>
+               <p>- Pálinkás jó reggelt pajtás uraimék! Hát honnan és hová?</p>
+               <p>Erre a francziák, a kik máskülönben udvarias népek, olyan illetlenül feleltek,
+                  hogy lovaik fejére lehajolva, kurta karabélyaikból rálőttek egyszerre Simonyi
+                  vitézeire.</p>
+               <p>- Ejnye ilyenatta! - kiáltott a vicekáplár, - ez-e az emberség? Rajta magyar!</p>
+               <p>Azzal nekivágott tizenhat emberével a franczia szakasznak, ki-ki választott belőle
+                  magának egyet; Simonyi magát az ellenfél kapitányát: nem kérdezve: illik-e, nem
+                  illik-e, egy vicekáplárnak egy kapitánynyal verekedni? s minden vivási tudomány
+                  ellenére az első vágással úgy leüté a lóról, hogy az föl sem kivánkozott többet.
+                  Vezérük elestén az ujoncz francziák szanaszét futottak. Hasztalan kiabált utánuk
+                  Simonyi, hogy maradjanak még egy kicsit, eztán jön a java; nem akarták
+                  megérteni.</p>
+               <p>Mire a magyar huszárság zöme odaért a lármára, Simonyi előörsi csapatja már vissza
+                  is tért, tizenhárom elfogott lovat czepelve gazdástul.</p>
+               <p>E kis tréfa után felhivatták Simonyit a tábornokok, a nagy ősz vitézek, azokkal az
+                  arany hajtókás molnárszin kabátokkal, odamentek a piruló legényhez, megveregették
+                  a vállait, halkan mondogatták egymásnak: «derék fiu, bátor ficzkó; ha valami adja
+                  elő magát, a hová merész szív kell, ezt kell küldeni.»</p>
+               <p>És Simonyi jól lelkébe vette mind azt, a mit hallott. - - Utoljára pedig maga az
+                  ezred tábornoka tüzé fel mellére a vitézség ezüst érdempénzét; azt mondva neki,
+                  hogy szerezzen hozzá többet is.</p>
+               <p>Ha mondta, nem is rosszul mondta.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>V. HUSZÁRTRÉFA.</head>
+               <p>A ki valaha látott tekeasztalt (billiárdot), sokszor tapasztalhatá, hogy mikor két
+                  golyó összeütődik, az egyik jobbra, a másik balra szalad s egyik sem fut a másik
+                  után. Nevezik ezt kávéházi nyelven rekuzénak.</p>
+               <p>Még többször fordul elő a háborúban az ilyen rekuzé. Két tábor nagy sietséggel tör
+                  egymásra, megütköznek s akkor látják, hogy «jaj» a másik is erős ám s ütközet után
+                  egyik jobbra, másik balra szalad vissza, a honnan jött.</p>
+               <p>Egyszer a többek között Melas osztrák tábornok is visszafordult a francziák előtt,
+                  azok pedig ő tőle fordultak vissza és mind a kettő azt hitte, hogy a másik üldözi
+                  őt.</p>
+               <p>Melasnak mégis volt annyi esze, hogy meg akarta tudni, vajjon jönnek-e utána s két
+                  svadron lovasságot akart kémszemléletre küldeni Homburg felé.</p>
+               <p>Ugyan minek az? mondták neki, elég lesz oda Simonyi tizenhat emberével, meg tudja
+                  ő a dolgokat emberül.</p>
+               <p>Úgy lett. Simonyi káplár megkapta a parancsot, éjszaka rögtön megindult, nyugodt
+                  lélekkel pipára gyujtott s ballagott szépen az országuton.</p>
+               <p>Akkora volt a köd, hogy a hátul jövők már nem látták az elülmenőket s csak a
+                  beszélgetésből tudták, hogy együtt vannak.</p>
+               <p>Egyszer Simonyi lát maga előtt valami tarkát a ködön keresztül. Nézi: mi lehet az?
+                  egy csoport franczia vértes lovag; rezes sisakjaikról, lelógó lófarkas bojtjaikról
+                  megismerte őket.</p>
+               <p>Azok csak ballagtak nyugodt lélekkel előttük, nem gyanítva semmi rosszat s hátra
+                  sem tekintve.</p>
+               <p>Simonyi megörült e jó tréfának. Csendesen kihúzta kardját, inte társainak, hogy
+                  figyeljenek s azzal egyszerre elordíták magukat:</p>
+               <p>- Rajta magyar, rajta! - s kézbe a kardot, sarkantyúba a paripát, neki a
+                  francziáknak.</p>
+               <p>Azok a jámborok el nem tudták vélni: égből cseppent ide, vagy a tűzokádó vetette
+                  ezt az ádáz csoportot; nem vették tréfára, nyargaltak be a városba; utánuk
+                  Simonyi, ütve vágva őket hátul, csak úgy kongott a rézsisak a huszárkardoktul.</p>
+               <p>Homburg városában tizenkétezernyi franczia tanyázott, a visszavonuló sereg
+                  utóhada, melynek vezérei, tudva azt, hogy Melas is visszafelé vonul, átadták
+                  magukat az édes nyugalomnak, az utczákon összerakott szuronyos fegyverek álltak, a
+                  téreken leszerszámozott ágyúk, lenyergelt lovak, a tisztek a paplanos ágyakban, a
+                  katonák a padláson aludtak szép csendességgel; a mikor rohan be a kapun az
+                  üldözött vértes csoport, ordítva veszettül, hogy itt van az ellenség!</p>
+               <p>A tizenhat huszár mindenütt nyomukban; a vértesek végig nyargaltak a hosszú
+                  főutczán, a huszárok oda is utánuk; be a piacz közepére, ott összefogtak vagy
+                  ötven kipányvázott lovat, felkutattak nehány podgyászos szekeret, futó tiszturak
+                  óráit elszedték s lekaszabolták, a ki ellenállott.</p>
+               <p>Az egész városban fenékkel fordult fel minden jó rend. Az alvó katonák ugráltak ki
+                  az ágyból, az őrök lövöldöztek, rendetlen csapatok futottak egymással szemközt;
+                  elszabadult lovak iramodtak a zürzavar közé; trombita harsogott, lármadob pörgött
+                  s összevissza kiabálás hangzott minden utczán.</p>
+               <p>Simonyi ekkor vette észre magát, hogy be csak lehetett jönni, de jó volna már most
+                  ki is jutni a városból.</p>
+               <p>- Már most tisztuljunk innen legények.</p>
+               <p>Azzal kiki három elfogott paripát a lova fejéhez kötve, a kis csapat elkezdett
+                  ismét visszafelé a kapunak tartani, mielőtt a jó franczia szemeiből kimenne az
+                  álom.</p>
+               <p>A mint így nyargalnának kifelé a felriasztott városból, egyszer csak egy
+                  utczaszögletnél szemközt kanyarodik rájuk egy csapat (ki tudná mennyi) franczia
+                  lovasság.</p>
+               <p>- No most, káplár uram, itt hagyjuk a fogunkat! - szólt egyik közlegény.</p>
+               <p>- Ejnye, dehogy hagyjuk! - kiált rá a másik - levágjuk őket mind!</p>
+               <p>Szűk is volt az utcza, egyszerre valamennyi franczia nem jöhetett a csatába, a
+                  huszároknak meg nagyon sürgetős volt a dolguk, nem értek rá megvárni, mig azok
+                  mind eljönnek, kiki vágott jobbra, balra, a míg embert látott maga előtt. Simonyi
+                  és kis csapatja minden zsákmányával együtt keresztülvágta magát, azzal ki a kapun!
+                  A sorompó le volt bocsátva előttük; azt mindenestül átugratták, olyan szépen, mint
+                  akár a műlovasok s mikor egyszer kívül voltak, üthették aztán bottal a
+                  nyomukat.</p>
+               <p>Sokáig hire volt aztán a homburgi riadalnak, hol egy huszárkáplár tizenheted
+                  magával a város közepén verekedett az ellenség tábora közt.</p>
+               <p>Ha huszár nem tette volna, sok ember azt mondaná rá: «régen volt, talán nem is
+                  igaz».</p>
+               <p>Pedig bizony megtörtént az.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>VI. A SZÜRKE LÓ ÉS LOVAGJA.</head>
+               <p>Alig került fordult az év, már az egész táborozás helyén, a Rajna vizétől a cseh
+                  határhegyekig, hire volt a szürke lónak és a lovasnak, a ki rajta szokott
+                  ülni.</p>
+               <p>Némely tábornagy nevét nem tanulták meg oly hamar, mint Simonyiét s innen is, túl
+                  is száz meg száz csoda adomát tudtak felőle regélni, jóbarátok úgy mint
+                  ellenség.</p>
+               <p>Hogy fogta el tizenhat huszárjával a Zweibrücki herczeg kastélyában pusztító 20
+                  francziát tisztestől együtt? hogy vigadott a trieri dáridóban az uri
+                  kisasszonyokkal, hogy húzta fel a legszebb leány ujjára legszebb gyémántos
+                  gyűrűjét, hány csókot is kapott érte?örömében megivott rá huszonnégy csésze
+                  feketekávét. Más halandót a guta ütött volna meg bele, neki semmi baja sem
+                  lett.</p>
+               <p>Aztán szörnyűködve emlegették a francziák oda át, hogyan vágta térdben ketté egy
+                  harczosuk lábát, bizonyosan fejszével szokott hadakozni. Hogy köszöntött be egy
+                  éjjel a zürchi plébánoshoz, kinél négy franczia tiszt volt szálláson, ott vacsorát
+                  főzetett magának, legényeinek s együtt vacsorálva a holtra ijedt francziákkal,
+                  aztán szabadon bocsátá őket. Máskor ismét, hogy bújt be lovával együtt a zürchi
+                  bástya alatt kifolyó Mózel vize boltozatos alagútján s míg Melas tábornok a bezárt
+                  kapukat ostromolta, ő lóháton nyitott be a legszebb palotába s felnyargalva a
+                  lépcsőn, bekiáltott: «ki van ide haza?» A rémszóra három szép teremtés, három
+                  urikisasszony rohant ki eléje a tükrös szobákból, s rémülve borultak lábaihoz,
+                  kegyelmet kérve öreg atyjuk számára, s aranynyal kinálva a rémületes hőst. Nem
+                  vett ő aranyat ilyen szép kezekből, de igen egy pár csókot a maga számára s egy
+                  ital bort vitéz társainak s békén hagyta a siró delnőket.</p>
+               <p>Mikor a tábornagyok valami bizonyosat akartak megtudni az ellenség hadállása
+                  felől, csak Simonyinak szóltak, hogy menjen ki, fogjon nekik egy francziát. Menten
+                  hozott nekik egyet a mezőről. A rút deczemberi időben farkasszemet nézett
+                  egymással a két ellenség, nappal mindig a kéz a kantárszáron, a fölnyergelt paripa
+                  mellett, éjjel mindig a nyeregben, a kéz a karabinon.</p>
+               <p>Éjjel is volt, köd is volt, az ember nem látta, nem ismerte egymást. Minden ló
+                  szürke volt ezuttal, mert belepte a dér.</p>
+               <p>Simonyi előörsön állt három emberével, ötven lépésnyi távolban tőle a szakasz,
+                  azon túl az egész svadron. Egyszer csak jön a felváltó őrjárat három embere,
+                  szépen szemközt állnak és kérdezik:</p>
+               <p>- Qui vive?</p>
+               <p>- Nem jó helyen jártok, pajtás, szól nekik Simonyi, ez a mi táborunk: amarra van a
+                  tietek.</p>
+               <p>A jámbor francziák ekkor vették észre, hogy a nagy ködben az ellenfél előörsét
+                  jöttek felváltani.</p>
+               <p>- Megálljatok, szólt Simonyi francziául, majd haza vezetlek, hogy el ne tévedjetek
+                  megint.</p>
+               <p>S azzal szép csendesen elvezette őket a túlsó őrállásokhoz: ő tudta jól a ködben
+                  is a járást, ott egyet ittak egymás kulacsából s elváltak kezet szorítva.</p>
+               <p>A franczia tiszt megigérte, hogy majd holnap reggel, mikor mind a ketten
+                  szolgálaton kivül lesznek, eljön egy kis találkozóra. Simonyi igérte, hogy ott
+                  lesz.</p>
+               <p>Reggelre szépen feltisztult a nagy köd, a franczia kilovagolt a két táborvonal
+                  közé s átkiáltott, hogy hol van a szürke lovas?</p>
+               <p>- Itt vagyok! - kiálta Simonyi, s kiugratott a kérdező elé.</p>
+               <p>A két bajnok ott a két sereg szeme láttára összecsapott egy szál karddal. Simonyi
+                  félrevágta a franczia egyenes spádéját s olyat ütött a sisakjára, hogy az ember,
+                  sisak és nyereg egyszerre lehullt a lóról. Most azonban a franczia gyalog rohant
+                  Simonyinak: két vágás egy pillanatban! Simonyi a bal karjára kapott sebet; a
+                  franczia holtan terült el a havas mezőn.</p>
+               <p>A szürke lovasról ilyen mondákat beszéltek. Egész hősköltemény volna, ha azt
+                  összeszedné valaki, a mit a hír akkor beszélt róla; érczerős karjáról, bátor, hős
+                  szivéről, nemes lelkéről a védtelenek iránt s nagy szerencséjéről minden férfi
+                  ellen, minden asszony ellen.</p>
+               <p>Amott félelemmel, itten szerelemmel gondolt rá mindenki, a ki egyszer a szürke
+                  lovas villámló szemeibe nézett.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>VII. A GARDA-TÓ MELLETTI HŐSTETT.</head>
+               <p>Bajnokunk eddigelé csak apró csetepatékban, portyázó kósza járatokban tünteté ki
+                  magát. A merre ő járt, valami derekas ütközetre nem igen került a dolog.</p>
+               <p>Aztán meg a derekas ütközetekben sem igen sok dicsőség termett az innenső félen; a
+                  mint tudjuk, az a gonosz Napoleon nagyon csunyául bánt mindenütt a hadvezérekkel,
+                  akármilyen jók voltak is ezeknek a katonáik.</p>
+               <p>A franczia nadrágtalan sereg előtt, bizony szégyen megvallani - majd olyan gyorsan
+                  utaztak medvebőrös gránátosaink, mintha vasuton szállították volna őket. Hiába, a
+                  tudomány, a lángész több, mint akármi erő a világon.</p>
+               <p>Egyszer Napoleon az olasz havasok alatt oly véletlen csapott Wurmser táborára,
+                  hogy annak megállni sem maradt ideje. Futottunk, a merre láttunk, Mántováig meg
+                  sem álltunk.</p>
+               <p>Egy része a hadseregnek, melyet Gozdanovics tábornagy vezényelt, a Garda-tónak lőn
+                  szorítva s a dühös rohamban nemcsak a csatarendet, de harmincz ágyuját is
+                  elveszté.</p>
+               <p>A francziák egyszerre nekifordíták az elfogott ágyúkat az összezavart tömegben
+                  menekvő hadseregnek s elkezdték azt saját ágyúinkkal borzasztón lövetni.</p>
+               <p>Az üldözött seregben mindenki elveszté a fejét, gyalogok, lovasok egymást gázolták
+                  el, nem hallgatott senki többé vezényszóra; elhányták fegyvereiket s a rémes
+                  ordítás közé egyre bőgött az elfogott harmincz ágyú halálos itélete, sötét
+                  golyóival egész véres utczákat seperve a bomlott tömeg között.</p>
+               <p>E rémes csatában csak egy kisded lovagcsapat látszott még küzdeni az ellenség
+                  győzelmes hadsorai között, egy fiatal hadnagy vezérlete mellett.</p>
+               <p>E hadnagy volt Simonyi.</p>
+               <p>A maroknyi huszárság keresztülvágta magát az őket mindenütt körülözönlő franczia
+                  gyalogság közül s bizton fölmenekült egy dombra az országút mellett.</p>
+               <p>Itt megállítá pár százra menő kis dandárát Simonyi s visszatekintett a csata
+                  helyére.</p>
+               <p>Látta, mint szórja a halált a harmincz tulajdon ágyú a rokon hadseregre, látta,
+                  hogy az egész hadnak ott kell elveszni és nem mentheti azt meg senki.</p>
+               <p>Ekkor egy merész gondolat támadt szivében. Sokkal merészebb, minthogy az észtől
+                  tanácsot lehetett volna kérni, ha kivihető-e az vagy sem?</p>
+               <p>- Vissza vitézek. Vegyük el az ellenségtől ágyúinkat!</p>
+               <p>Egy percz mulva hosszú sorban elosztva kisded csapatját, mint a sebes áradat
+                  fordult vissza a dombtetőről a győzelmes ellenségre s kétségbeesett viadallal útat
+                  tört magának az ágyúkig az eléje meredő szuronyerdőn keresztül; ott egy pillanat
+                  alatt leapríták az ellenség tüzéreit, lovakat fogtak a megmentett ágyúk elé, s
+                  elkezdtek velök vágtatni kifelé.</p>
+               <p>Simonyi hirtelen két podgyászos szekeret fordíttatott fel az úton, s két ágyút
+                  megtöltetve, utat lövetett menekvő csapatjai előtt, míg két felől halálra elszánt
+                  huszárjai harczoltak az ágyúk mellett, hogy a mindenünnen rohanó harczi népek árja
+                  el ne borithassa őket.</p>
+               <p>Egy forró küzdelmes óra után meg volt mentve minden ágyú, meg a vesztének indult
+                  hadsereg; az egész tábori podgyász: és meg volt mentve a magyar név dicsősége.</p>
+               <p>A jelen volt tábornokok bizonyságlevelet adtak a magyar vitéznek e
+                  hihetetlenséggel határos hőstette felől, melyben nehány századmagával az egész
+                  diadalt kicsikarta a győztes ellen kezéből, melyet elolvasva, bátran az a kérdés
+                  támadhat bennünk, hogy hát a többiek miért nem segítettek nekik?</p>
+               <p>Hanem hiszen azok nem voltak huszárok.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>VIII. VISSZAADOTT LECZKE.</head>
+               <p>Később, az 1800-ik évben az itt tanult leczkét javított kiadásban adta vissza
+                  Simonyi a francziáknak, mert a mint azok egyszer véletlenül megkerülve Gyulay
+                  hadtestét, azt a főhadseregtől el akarták szakítani, ő maga hirtelen hírt nem
+                  adhatva a fenyegetett tábornoknak, lesbe vonult egy erdő mellett, s midőn a
+                  franczia hadtest gyanútlanul elvonult előtte, hirtelen megtámadta annak
+                  utócsapatjait, elvett két ágyút tőlük s azokból dühösen kezdett el lövöldöztetni
+                  rájok.</p>
+               <p>Az ellenség a váratlan ágyúzásra zavarba jött s késledezett, míg Gyulay megtudá
+                  róla a veszélyt s idején csatlakozott a főhadsereghez.</p>
+               <p>Mire aztán az ellenség eszére tért, már akkorra Simonyi árkon-bokron túl volt
+                  vitéz huszárjaival, az elfogott ágyúkkal s minden keze ügyébe akadt emberrel és
+                  lóval.</p>
+               <p>Ugyanez év nyarán Ulmenhain alatt a franczia vörös huszárokkal volt egy
+                  leghiresebb csatája, hol egy több óráig tartott lovassági ütközetben ötszöri újra
+                  kezdett harczczal visszafoglalta hadteste táborszereit s akkor visszacsapva az
+                  ellenségre, elvette minden ágyúját és 150 lőporos szekerét.</p>
+               <p>Néhány nap mulva új munka várt a fáradhatlan hősre. A mi seregünk Neuburgnál a
+                  Duna mellett áthuzódott a fel nem tartható ellenség elől. Egy kis csapat maradt
+                  hátul, melynek a visszavonulást kellett fedeznie. Az ellenség legvitézebb
+                  gyalogsága a hirhedett gránátosok, kik közt szolgált a históriai nevű Auvergnei
+                  Latour, egykor tábornok a királyság alatt, a köztársaságban közkatona, ki semmi
+                  más czimet nem fogadott el, mint: «a francziák első gránátosa».</p>
+               <p>A védsereg már-már elhanyatlott a francziák dühe alatt, mikor megjelent
+                  Simonyi.</p>
+               <p>Egy percz alatt megfordult a csata, az üldözőkből üldözöttek váltak, a szép
+                  gránátos seregnek szine java elhullt s a menekvő hadtest bizton vonulhatott át a
+                  Dunán.</p>
+               <p>E csatában esett el Simonyinak legkedvesebb testvéröcscse, ki ekkor már hirhedett
+                  bátyja alatt mint hadapród szolgált. József nem birta őt a végzetes golyótól
+                  megőrizni, mely életét kioltá; s alig maradt rá ideje, hogy holttestét megmentse a
+                  csataviadal zivatarából.</p>
+               <p>De elesett a francziák legjobb vitéze is, az első gránátos, Auvergnei Latour.
+                  Drágán volt megfizetve Simonyi vesztesége.</p>
+               <p>E harczok után nyeré Simonyi József a Mária Terézia-rend arany keresztjét; és
+                  nemsokára századossá neveztetett ki.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>IX. A HŐS MINT DIPLOMATA.</head>
+               <p>Öt évig tartott a béke. Simonyi ez alatt pihent szomorkodva a nagy nyugalomban.
+                  Tanult festegetni, nyelveket tanult, regényeket olvasott; elővette, a mit tanult a
+                  furulyán. De mind nem töltötte ez be az ő lelkét. Mert bár mindenütt igen jó
+                  szívvel fogadták urak és asszonyságok, s bár a stuttgardi udvari dáridóban azon
+                  rendkivüli szerencse érte, hogy a vestpháli királynéval tánczolhatta a skót
+                  tánczot (écossaise), csak jobban tetszett neki az olyan mulatság, a hol rosszul
+                  fogadják az embert s lőporral fűtik a tánczvigalom terét.</p>
+               <p>Végre valahára kitört a háború; mint valami rosszul gyógyított belső nyavalya,
+                  melyet csak elfojtottak a hanyag orvosok, újult méreggel ütött ki a harczok
+                  fekélye Európa testén.</p>
+               <p>Napoleon újra győzött az ulmi nagy ütközetben s Simonyinak ismét az a sors jutott,
+                  hogy ütközet után keresse a babérokat, a melyet ott nem lelhetett.</p>
+               <p>A franczia fő hadvezér egyenesen Bécsnek tartott, elhagyva a szétvert apróbb
+                  hadtesteket, miket elterelni utócsapatainak volt dolga.</p>
+               <p>A többiektől elvágott két lovasezred sok bujdosás között igyekezett a porosz
+                  határszél mellett Csehországba menekülni.</p>
+               <p>Burkusország semleges föld vala akkor, melyre sem az egyik, sem a másik harczoló
+                  félnek nem volt szabad a lábát betenni.</p>
+               <p>Az egész német föld pedig, a hol járni volt szabad, tele franczia csapatokkal. A
+                  két ezredes látva, hogy egy csoportban keresztül nem hatolhatnak mindenestől,
+                  feloszták kis seregüket apróbb nagyobb csapatokra, a vezetők eszére és kardjára
+                  bízva, hogy mint tudnak kigázolni a hinárból?</p>
+               <p>Közös találkozóul a cseh Éger városát határozták egymás között.</p>
+               <p>Így jutott Simonyi kezére is néhány száz ember, a ki természetesen nem állhatta
+                  meg, hogy ebben a nagy halálos szorongattatásban valami jó zsiros prédát ne fogjon
+                  magának a francziák közül, a miben most ugyan volt módja, mert körös-körül volt
+                  francziával.</p>
+               <p>Úgy okoskodott tudniillik, hogy miután neki azokat a rábizott katonákat nem csak
+                  épségben kell haza vinni, de egyúttal az éhhaláltól is megőrizni: neki pedig az
+                  ilyen vállalathoz szűk volt az erszénye, tehát természetesen megint a francziák
+                  pénztárát kellett igénybe vennie.</p>
+               <p>El is csipett az országút közepén egy egész biztonsággal utazó tábori
+                  gyógyszertárt, minden hozzá való kórházi készletekkel egyben, valamint a hadi
+                  pénztárral, de a miben, fájdalom, nem volt több 240 aranynál.</p>
+               <p>- Ez már átkozott kevés! sóhajtának a katonák. A többi meg csupa orvosság volt,
+                  meg paplan és sebészi műszerek.</p>
+               <p>- Sebaj! mondá rá Simonyi. Eladjuk ezt a sok czókmókot a legközelebbi városban s
+                  lesz belőle pénzünk elég.</p>
+               <p>- Legközelebbi városban? mondának a többi tisztek; de hogy megyünk oda, mikor az
+                  már semleges föld.</p>
+               <p>- Hát ha semleges víz volna, nem mennék-e bele, ha nagyon szorítnak? Azt csak nem
+                  kivánhatja senki, hogy annyi derék legényt összeapríttassak, azt pedig még nem
+                  tanácsolta nekem senki, hogy adjam meg magamat. Majd együgyünek teszszük magunkat,
+                  azt mondjuk, nem tudtuk, merre járunk, s csodálkozunk rajta, hogy úgy
+                  eltévedtünk.</p>
+               <p>Azzal felültette huszárait az elfogott szekerekre s neki egyenesen a porosz
+                  határszélnek.</p>
+               <p>Dungelsbühl városát érték legközelebb ottan, a mint annak kapujához közelítenek,
+                  kijön eléjük egy derék, köpczös huszárőrmester az Anspach ezredtől, hosszú nagy
+                  bajuszszal, jól táplált kerek hasával s útját állja mérges tekintettel a betörő
+                  hadnak.</p>
+               <p>-Óvást teszek a király nevében. Ez itt burkus határ, hova fegyveres csapatnak
+                  bejönni nem szabad.</p>
+               <p>Simonyi tréfásan felelt neki vissza:</p>
+               <p>- De jó húsban van az őrmester úr.</p>
+               <p>- Az én királyomnál jó dolga van a katonának.</p>
+               <p>- Nem sokat járt kegyelmed az ellenség előtt?</p>
+               <p>- Én itthon védem az országot.</p>
+               <p>- Hát ezt a szép paripát nem fogadná-e el tőlem ajándékba?</p>
+               <p>- No azt már el.</p>
+               <p>És azzal mit tehetett egyebet a derék őrmester, mint hogy engedje az üldözött
+                  csapatkát békében bevonulni a városba, de meghagyta nekik, hogy onnan aztán
+                  mindjárt takarodjanak.</p>
+               <p>Hiszen maguk is azt akarták. Hátuk mögött már látszottak a porfellegek, miket a
+                  mindenünnen közelgő franczia csapatok vertek.</p>
+               <p>Meg sem álltak a városban, hanem egyhuzomban benyargaltak Feuchtwangen városig,
+                  mely már háromórányira esik a határon belül.</p>
+               <p>Itt azután csendes bátorságban leszálltak a lóról, bekvártélyozták magukat s mint
+                  a kinek a szénája legjobb rendben van, olyan lakomát csaptak, hogy hét országra
+                  szólott. Még ananászos puncsot is ittak.</p>
+               <p>Mikor legvigabban töltött este után mámorosan lefeküdt mindenki, a mi bizony jól
+                  eshetett hat napi lovaglás, koplalás, verekedés s egyéb viszontagságok után, éjfél
+                  tájon csak koczogtatnak ám Simonyi szobáján, s a mint kinyitja, ime két csodálatos
+                  alak áll előtte hosszú fekete selyem haczukában, nagy hajporos parókákkal, széles
+                  fehér ingbodorral kezeiken s nyakuk körül s rettenetesen ünnepélyes
+                  ábrázatokkal.</p>
+               <p>Mondják neki, hogy ők Anspach város követei s kérdik tőle a király nevében, hogy
+                  mi módon merészelt minden nemzetközi szerződés, fennálló diplomatiai szabályok és
+                  világos garantiák ellenére olyan földre belépni, a mely semlegessé van téve, a
+                  mely nem tart sem Péterrel, sem Pállal, még pedig egész fegyveres sereggel
+                  együtt?</p>
+               <p>Simonyi sok puncsot ivott és álmos volt. Hallotta, hogy a király nevében beszélnek
+                  hozzá, s azt felelte a derék követeknek, hogy majd írni fog ő rögtön ő
+                  felségének.</p>
+               <p>Azzal tintát, tollat, papirost kért s írt valami ilyesformát.</p>
+               <p>«Felséges uram király. Ezerszer bocsánatot kérek, hogy olyan vakmerő voltam,
+                  miszerint engedelemkérés nélkül bátorkodtam felséged országába bejönni; de nem
+                  értem rá, mert nagyon szorítottak. Reménylem, miszerint felséged átlátja,
+                  miszerint nem engedhettem derék huszárjaimat az ellenség által felfalatni s
+                  kegyelmesen megbocsát e merészségemért. Én pedig igérem, hogy a legnagyobb
+                  sietséggel megyek kifelé, a merre mehetek és nem teszek felséged országában semmi
+                  kárt. Felségednek térdet, fejét hajtó szolgája stb.»</p>
+               <p>A levelet lepecsételte, ráírta a czímet: «ő felségének a porosz királynak, saját
+                  kezibe, legnagyobb hódolattal», s átadta azt a követ uraknak.</p>
+               <p>Azzal lefeküdt és aludt tovább.</p>
+               <p>Reggel aztán fölébredvén, kezdett homályosan emlékezni olyasmire, mintha álmában
+                  két puderes és karmantyús hivatalos úr állt volna előtte, a kiktől ő felségének, a
+                  porosz királynak, valami levelet küldött.</p>
+               <p>Kapta-e ő felsége, vagy sem ezt a levelet? az már nincs megirva, ha kapta, jót
+                  nevethetett rajta. Annyi bizonyos, hogy Simonyi lovastól, szekerestől végig ment a
+                  porosz birodalmon a legnagyobb bátorsággal, minden nemzetközi szerződés, garantiák
+                  és diplomatiai nóták daczára, sőt Feuchtwangen városában még vásárt is ütött a
+                  francziáktól elvett tábori szerekkel, a holott is az összecsődült zsidóság
+                  huszezer forintért vásárlott össze holmit a kótyavetyén tőle. Ezzel fizette
+                  katonáit egész Csehországig; a hol a rendelt helyen egész épségben megérkezett,
+                  mindenki bámulatára csak egy katonája sem hiányozván a rábizottakból. A nemes hir
+                  megvolt régen, csak a nemes czím hiányzott. Ez évben ezt is megkapta Simonyi a
+                  császártól: a báró czímet e fennen hangzó előnévvel «Vitézvári».</p>
+               <p>Az adománylevélben elősorolt érdemek tíz embernek is elegek volnának, hogy
+                  czímerének eredetét büszkén emlegesse róluk; s ha fölér minden diadalmas harcz
+                  egy-egy ősapával, vitézvári Simonyi Józsefnek nagyobb családfája lenne abból a
+                  normandi grófokénál, a kik pedig, mint tudva van, már az özönviz idejében is
+                  grófok voltak.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>X. AZ ÚJ HORATIUS COCLES.</head>
+               <p>A wagrami csatatéren a mi hősünk is jelen volt.</p>
+               <p>Julius 6-ik napján négyszáz ágyú mennydörgése hirdeté, hogy a föld urai egymással
+                  vitáznak. Az osztrák hadsereg balszárnya, melyet Rosenberg herczeg vezényelt, nem
+                  birta kiállni a francziák tüzét, Noszticz lovas dandára cserben hagyta az ágyúkat,
+                  a franczia gránátosok elfoglalták a dombokat, mik a csatatéren uralgtak, az
+                  ütközet el volt vesztve.</p>
+               <p>Simonyi hasztalan követte el minden csodatételeit a személyes bátorságnak,
+                  hasztalan veté magát a tóduló ellenség közepébe, hasztalan vágta magát keresztül
+                  kasul az ellenség lovasságán; a megírt balsorsot nem fordíthatá el.</p>
+               <p>Most is visszavert háromszoros erejű hadcsapatokat, most is küzdött egyszerre
+                  gyalog és lovas had ellen, összegyüjté a futó hadakat s visszavitte őket a
+                  harczba, visszafoglalt elvesztett ágyúkat s újra felállíttatá; nyargalt a
+                  golyózápor közepett csapatjával, a hol nagynak látta a veszélyt, a bomlást.</p>
+               <p>Mind hasztalan.</p>
+               <p>A sereg legbátrabb vezérei, a kik elül mentek a harczba, egymásután hullottak el.
+                  Szemeláttára esett el Vécsey és Nordmann, a sereg legnagyobb hősei a neusideli
+                  dombon, csaknem ugyanazon a helyen, a saját jó huszáraiból háromszázan feküdtek a
+                  csatamezőn, hős halállal halva.</p>
+               <p>Mind hasztalan.</p>
+               <p>A wagrami csata napja nem minekünk virradt s az ott kifolyott vér drága - drága
+                  veszteség volt. A vesztett csata után a vert sereg sietve huzódott vissza.</p>
+               <p>Simonyi már ekkor őrnagy volt; - háborúban gyorsan halad, a ki vitéz; - az egész
+                  zászlóaljat ő vezette.</p>
+               <p>A fővezér ismerte őt jól s azt a parancsot adta neki, hogy saját huszárjai mellé
+                  egy zászlóalj gyalogot s egy század hidászt véve, hat ágyúval álljon meg a Toja
+                  partján s a főutat összekötő hidat védelmezze a francziák ellen addig, a míg
+                  lehet.</p>
+               <p>«A míg lehet!»</p>
+               <p>Egy olyan furcsa határidő, a minek közelebb vagy távolabb esése egyenesen attól
+                  függ, a kinek mondva van.</p>
+               <p>Gyönge szivü ember hamar átlátja, hogy már «lehetlen!» a merészebb pedig tovább
+                  ismeri a lehetőséget.</p>
+               <p>Simonyi felállíttatá ágyúit a part bokrai közt. Elosztá apró csapatokra
+                  gyalogságát s kiállítá előörseit, úgy várta az ellenséget.</p>
+               <p>10-kén reggel jelentik portyázói, hogy roppant hadtömegek vannak közeledőben
+                  mindenfelől.</p>
+               <p>Davoust tábornagy jött harminczezer emberrel.</p>
+               <p>A lehetetlenség közeledett, de még nem volt jelen.</p>
+               <p>Simonyi meghagyá a pattantyúsoknak, hogy minden megpihenés nélkül kezdjenek el
+                  ágyúzni, van lőszer elég; a gyalogság tüzeljen a bokrok közül mentül gyorsabban az
+                  ellenségre.</p>
+               <p>A szakadatlan ágyúzás arra a hitre kényszeríté a franczia tábornagyot, hogy itt
+                  erős hadtest áll előtte, mely szabályszerű hadállást foglalva, csatát ajánl.</p>
+               <p>E miatt a helyett, hogy egy hadoszloppal rögtön rohamot intézett volna a hid
+                  ellen, elébb hadrendbe állítá seregét, hogy rendes hadszerű ütközettel támadjon
+                  elleneire.</p>
+               <p>A szomszédban tanyázó szárnyvezér Rosemberg a szakadatlan ágyúzásra oda nyargal
+                  Simonyihoz s kérdi tőle, hogy mit mivel itt?</p>
+               <p>- Parancsom van a hidat addig védelmezni, a míg lehet; azt cselekszem.</p>
+               <p>- Lehet-e még?</p>
+               <p>- Még lehet.</p>
+               <p>A franczia had délutáni két óráig állt fölállítva és rendezte magát Simonyi
+                  ellenében, akkor egyszerre kibontakozott s dobpörgéssel, trombitarivallással jött
+                  Simonyi állása ellen.</p>
+               <p>Fröhlich tábornok a tulsó partról nyargal nagy sietve Simonyihoz és parancsolja
+                  neki, hogy vonuljon hirtelen át, különben megeszik a francziák és siessen
+                  csatlakozni az ő hadtestéhez.</p>
+               <p>Simonyi előmutatta neki az ellenparancsot.</p>
+               <p>- A fővezér parancsolá, hogy védjem a hidat, a míg lehet.</p>
+               <p>- De már nem lehet! kiálta rá dühösen a tábornok.</p>
+               <p>- Még mindig lehet, szólt Simonyi nyugodtan.</p>
+               <p>A tábornok nem akart ott maradni s visszanyargalt.</p>
+               <p>Simonyi akkor szépen összevoná a hidfő körül maroknyi seregét, egy ütegbe az
+                  ágyúkat, s midőn rohamra jött az ellen, végigkartácsoltatá a hosszú
+                  országutat.</p>
+               <p>A tábornok újra sürgetően izen Simonyira, hogy hagyja el már a hidat, hisz azt
+                  védni többé merőben lehetetlen.</p>
+               <p>- Még most is lehet, szólt Simonyi nyugodtan, s azzal parancsot adott a
+                  hidászoknak, hogy hirtelen rakják meg két felől a hidat előre elkészített
+                  rőzsekötegekkel, mikbe lőporos csóvák voltak elrejtve.</p>
+               <p>Még egy pár lövést tétetett az ágyúkból, akkor kerekeikre állíttatá s átküldte
+                  azokat a hidon; míg az ágyúk bátorságban átvonultak, a gyalogság egy hatalmas
+                  sortüzeléssel riasztá vissza a rohanó ellenséget, azzal ezeknek is parancsot adott
+                  Simonyi, hogy nyugodt, csendes lépésben sétáljanak át a hidon; most egy vakmerő
+                  roham még a huszárokkal egy tömegben és aztán tüzet a hidnak.</p>
+               <p>A huszárok veszedelmes ordítással csaptak le a támadó franczia hadra, s a mint azt
+                  egy perczre visszaverték, Simonyi intésére két felől lángba borult a hid.</p>
+               <p>Már most rajta, jőjjön utánunk, a ki tud!</p>
+               <p>A huszárság az égő hidon keresztül vágtatott vissza</p>
+               <p>A paripák ágaskodtak a pattogó rőzsekötegek közt, miknek tüzét a fellobbanó
+                  lőporcsóvák szemeik közé szórták; a karfák is lobogtak már s a palló izzadni
+                  kezdett.</p>
+               <p>Az égő hid közepén még egyszer megállt Simonyi az utána tóduló ellenséggel
+                  szembeszállva, s mint az őskor emlegetett Horatius Coclese, a kétfelől lobogó
+                  lángok között harczolva, föltartóztatá azt addig, míg háta mögött lángba borult az
+                  egész hid; akkor az égő gerendákon keresztül ő volt az utolsó, a ki átnyargalt a
+                  tulsó partra, s midőn tábornoka elé érkezett, mentéje, bajusza, szemöldöke
+                  elperzselve, arcza lőportól feketén, diadalmasan mutatott az égő hidra háta
+                  mögött.</p>
+               <p>«Még most is lehet!»</p>
+               <p>E hőstettel megmenté a vert sereg utóhadait, miknek idejük maradt az alatt Znaymig
+                  visszahuzódtatni.</p>
+               <p>A szomszéd faluban jó ebédre várták a vitézeket, de biz azoknak nem lehetett
+                  leszállni a lóról, azért csak fölvették a nyeregbe a fazekakat, onnan falatoztak
+                  kedvük szerint, az ellenség ágyúiból több gombócz hullott közéjük, mint mennyit a
+                  fazékban hagytak.</p>
+               <p>Ilyen hőstettekből készíték a hajdankor költői a hitregéket (mythologiát).</p>
+               
+            </div>
+            <div type="chapter">
+               <head>XI. HADSZERENCSE.</head>
+               <p>Forgandó a hadi sors!</p>
+               <p>Este úri dáridóban volt a hős, reggel kardcsattogás között. Ma szép lánykák
+                  mosolyogtak szeme közé, holnap égő gránát pattogott szét feje fölött.</p>
+               <p>Egyik éjszakát rohadt szalmán aludta át, mezitelen fekve, míg facsaró ruhái a
+                  tűzön száradtak, a másikat azon pompás ágyban, melyben előttevaló éjjel Sándor
+                  czár szunnyadott.</p>
+               <p>Ma még a lovak is jó borokat ittak, holnap pedig drága volt az árokban talált víz.
+                  Ma zsákmányról, előléptetésről ábrándozott a katona és holnap halványan aludta azt
+                  az álmot, melyben nem álmodunk.</p>
+               <p>A drezdai ütközet után nagy dolgok bizattak Simonyira.</p>
+               <p>Drezdánál ismét megnyerte a csatát Napoleon, de Vandamme szeleskedése miatt nem
+                  szedheté annak gyümölcsét; az előre rohant franczia tábornok seregét szétszórták a
+                  visszaforduló üldözöttek s a kavargó csapatokból százával vette ki a dézsmát
+                  Simonyi.</p>
+               <p>Egyik órában őt fogták körül, másikban ő fogta el a francziákat.</p>
+               <p>Dohna mezején egy egész hadoszlopot vezényelt Simonyi: huszárok, gyalogok, orosz
+                  dzsidások és kozákok, ágyúkkal voltak kezére adva.</p>
+               <p>Gyönyörű csata volt, mind a két résznek dicsőségére való.</p>
+               <p>A hadszerencse jobbra-balra ingott. Simonyi már sokat vesztett s a francziák
+                  keményen álltak helyükben.</p>
+               <p>Ekkor Simonyi egy végső csapásra gyüjté össze embereit. Kiállt huszárjai élére,
+                  miként hajdan szokott s nekivágtatott a franczia négyszögnek.</p>
+               <p>Három roppant sorlövés dördült el azoktól, sok derék hadfi lefordult lováról, de a
+                  jövő pillanatban keresztül volt törve a négyszög; a rohanó lovasság elborítá az
+                  ellen csapatját, mint mikor a hegyi ár elborítja a kalászos mezőt s midőn vége
+                  volt a harcznak, a franczia négyszög helyén egy domb látszott holttestekből,
+                  melynek alján patakként folyt elő a vér.</p>
+               <p>Midőn a hullákat széthordták onnan temetni, legalul találták meg a zászlót, melyet
+                  minden jó katona holttestével fedezett be; ott hulltak el és bátran küzdve
+                  honukért, harczoltak a végső lehelletig.</p>
+               <p>Simonyi meghajtá a hulladomb előtt kardját tisztelettel.</p>
+               <p>«Derék ellenség volt».</p>
+               <p>E hirhedett viadalért a szent György vitézi rendjelét kapta Simonyi az orosz
+                  czártól s az a nagy tisztelet érte, hogy parancsa alá rendelének egy orosz
+                  tábornokot, Bagrationt, pedig ő csak alezredes volt s az a rendkivüli eset állt
+                  be, hogy egy sokkal alsóbb tiszt osztá a vezérszót a felsőbb rangúnak, és ez
+                  nyilván elismeré, hogy azokat teljesítenie becsületében áll.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>XII. A BÁSKIROK.</head>
+               <p>A francziák ellen küldött az orosz czár az ő jóvoltából mindenféle segítségre való
+                  hadat; többek között, hogy minden tartománya képviselve legyen, még a jó
+                  báskirokból is egy pár ezredet.</p>
+               <p>Csinos kis had volt az! hosszú haczukájuk a sarkukat verte, nem is volt rajtuk más
+                  öltözet egyéb.</p>
+               <p>Még arczaik is mind olyan egyformák, apró szem, nagy pofa, előre ülő áll,
+                  benyomott pisze orr, fakó, borzas szakáll; lobonczos üstökük hegyes birkabőr süveg
+                  alá szorítva; mintha csak egy gyárból kerültek volna ki valamennyien.</p>
+               <p>Lószerszámaikkal kevés baja volt a kovácsnak és a szíjgyártónak, nincs azon semmi
+                  vas: tekert gúzsból van a kengyel, fából a zabola, kóczmadzag a kantár, nyereg
+                  helyett egy birkabőr van kötve a ló hátára, azon ülnek.</p>
+               <p>Fegyverzetük még annál is egyszerűbb, egy hosszú pányva, a mit nyakába vetnek az
+                  embernek, a ki olyan bolond, hogy engedi nekik. Azután meg a nyil; puskát most
+                  látnak először, ágyúzni még nem hallottak.</p>
+               <p>Legnagyobb baj pedig náluk, hogy a mi nyelvet beszélnek, az még csak nem is orosz:
+                  ki tudná kitalálni, hogy micsoda?</p>
+               <p>Csupán az orosz fővezér egyik szolgája képes velük megértetni féligmeddig, a mit
+                  tudatni akarnak velük, a mi kivált ellenség előtti állapotban a csatamezőn igen
+                  kellemetes dolog.</p>
+               <p>A vezérük fejedelem; meg is látszik rajta nagyon. Süvege három akkora, mint a
+                  többié, s hosszú szűre pirosra van festve s kibélelve rókaprémmel: mikor leszáll a
+                  lóról, a földet sepri vele, úgy szokta utána vinni a két alárendelt vitéz úr.
+                  Ennek már lándzsája is volt, s egy sárkánytalan pisztolyt dugott az övébe, a mivel
+                  a többieket szokta ijesztgetni. - Ezt a derék segédhadat is Simonyi kezére
+                  bizták.</p>
+               <p>Köszönte szépen alássan, s azzal meghagyta nekik, hogy csak álljanak tőle jó
+                  messze, mentül messzebb, és majd ha verekedni kell, csak várjanak, míg ő majd int
+                  nekik.</p>
+               <p>A mint az ellenség Dohna városa előtt elhelyezte harmincz ágyúját, Simonyi szép
+                  csendesen megindult lovasságával, hogy a hadsorokat felriaszsza.</p>
+               <p>A jó báskirok azt hitték, hogy nekik legelsőknek kell lenni a harczban, egyszerre
+                  szanaszét rohantak ki nagy lármával a mezőre, bele az ágyúk torkába.</p>
+               <p>Hát a mint az első üteg elkezd rájuk bődülni s a sistergő haubicz oda vág le
+                  közéjük, megriadnak a mi báskirjaink, elhajigálják puzdráikat, lefeküsznek lovaik
+                  nyakára, s mint a ki ijedtében sem eget, sem földet nem lát, a helyett, hogy
+                  egyenesen fordulnának visszafelé, eszeveszetten rohannak Simonyi rendes
+                  hadsoraira.</p>
+               <p>- De ide ugyan nem jöttök! kiált rájuk a huszár szedtevettézve! s veri el őket
+                  magáról erősen kardlappal.</p>
+               <p>A jámborok azt hiszik, hogy itt jutottak még csak igazán ellenség közé, s újra
+                  megfordulnak s rá a francziára.</p>
+               <p>Az megint közéjük ágyúz kegyetlenül, ezek ordítva rohannak újra saját seregük
+                  hadsoraira; s a mint onnan ismét elverik őket harmadszor, negyedszer és ötödször
+                  is, bódult eszeveszettséggel lótnak futnak alá s fel a két sereg közötti mezőn,
+                  innen oda, onnan ide taszigálva; míg végre nagynehezen mind a két fél kölcsönös
+                  erőfeszítéssel ki birta őket kergetni a középről.</p>
+               <p>E szomorúan tréfás jelenet után kikérte magának Simonyi a jó oroszoktól, hogy
+                  máskor ne tegyék vele azt a nagy grácziát, hogy a baskir fejedelem népét
+                  odarendeljék a segítségére. Mert a francziáktól nem igen fél nagyon, de a
+                  baskiroktól retteg.</p>
+               <p>Hanem hiszen a baskirokat sem lehetett volna többet felbiztatni, hogy még egyszer
+                  járják el ezt a kontra-tánczot.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>XIII. A VÉGZETES GOLYÓ.</head>
+               <p>Az az igazi jó barát, a ki egymásról a legnagyobb veszélyben is megemlékezik.</p>
+               <p>A lipcsei háromnapos ütközet második napjára érkezett oda Simonyi
+                  hadosztályával.</p>
+               <p>Rögtön a hadsorba állították, s a mint odaállt, rögtön kezdett az öreg golyó és a
+                  gránát feje körül süvölteni.</p>
+               <p>E pillanatban jön hozzá egy ifjú tiszt, a ki mondja neki, hogy őt a táborból
+                  futárul küldik Magyarországba, nem izen-e haza valamit?</p>
+               <p>- De izenek, szólt az ezredes s leszállva lováról a földre, egy lapot kiszakított
+                  tárczájából s a következő sorokat irá a legkedvesebb barátjának Kállay Miklósnak,
+                  ki akkor Szabolcsmegye első alispánja volt.</p>
+               <p>«Az eső esik, az ágyúgolyóbis egymást éri körülöttem, de mégis a gyepen hasmánt
+                  írok méltóságos úrnak ezen főtiszt által, hogy tudja meg, hol vagyunk.»</p>
+               <p>Egy párszor oda csapott mellé az ellenség otromba golyója, telerugta felturt
+                  földdel a levelet.</p>
+               <p>Az izenetre váró fiatal tiszt nógatta Simonyit, hogy menjenek onnan, de az
+                  mosolygott, lerázva leveléről a földet: «legalább nem kell porzó.»</p>
+               <p>Érzé talán, hogy soha olyan közel nem állt még a halál fenyegető arczulatához s
+                  keze irását akarta róla adni, hogy halála óráján sem félt.</p>
+               <p>Nemsokára riadót fúttak, támadni kellett; Simonyi szokás szerint, mint a ki arra
+                  számít, hogy az egész hadsorban minden osztály akként teljesíti kötelességét, a
+                  mint ő, nyolczszáz huszárral bevágott az ellenségbe, négyszázat tartalékul
+                  hagyva.</p>
+               <p>Midőn azután az ellenfél hadsorát keresztülvágta, akkor vevé észre, hogy három
+                  ezreddel áll egyedül szemben és sehonnan sem jön számára segítség.</p>
+               <p>Egy szoros út volt mögötte, melyen keresztül kellett vonulnia.</p>
+               <p>Itt gonosz csatája támadt. Az ellenség túlnyomó ereje egészen reá nehezült, a szűk
+                  úton minden századát külön vezette csatába, mikor az egyik kifáradt, a pihentet
+                  hozta elő, a többi az alatt vonult vissza, míg emezek verekedtek, s ha néhány
+                  lépésnyire megfordíthatták az ellenséget, ők is nyargaltak utánuk.</p>
+               <p>Ez gonosz egy tusa volt.</p>
+               <p>Csak a vezér örökké éber lelke őrizte meg az egész ezredet az elveszéstől; ki
+                  személyesen harczolt minden támadásnál, mintha a halált keresné.</p>
+               <p>Midőn már biztonságba hozta menekvő csapatját, ez utolsó roham után, egy franczia
+                  lovas vadász visszafordulva nyergében neki czéloz karabinjával Simonyinak s úgy
+                  lövi őt melle közepén, hogy kezéből rögtön kihull a kard, s a hős hátra hanyatlik
+                  nyergében, elborult szemekkel, elsápadó arczczal.</p>
+               <p>Rémült vitézei odaugranak hozzá, leemelik lováról eszméletlenül; sok vén barázdás
+                  arcz, ki maga sem tudná, mikor könyezett legutoljára? keserű könyekkel áztatá
+                  vezére kezeit.</p>
+               <p>«Elesett Simonyi!»</p>
+               <p>Csak vén huszárja, az öreg káplár, János, ki hajdan Pancsova alatt megmenté a
+                  töröktől a «tintás szájú diákot», nem akarta azt elhinni, hogy Simonyi
+                  meghalhatott volna.</p>
+               <p>Meghalt volna? még pedig nem is dicső kardvágástól, hanem mert egy ostoba golyó
+                  megbotlott benne; nem lehet az!</p>
+               <p>«Nézzétek, még most is jár a szája, mintha azt mondaná: előre fiaim!»</p>
+               <p>Kigombolta sietve mentéjét s im, a gonosz golyó ott volt Simonyi tárczájában,
+                  keresztülfúrva azon huszonhat lapot, s megakadva a huszonhetedikben. Az ezredes
+                  csak a szivén történt ütéstől ájult el.</p>
+               <p>A mint öltönyét kibonták, föleszmélt, körültekintett: a harcz még egyre tartott
+                  ott elől, első szava volt kardját, lovát kiáltani, felszökött a nyeregbe újra s
+                  visszanyargalt a csatába.</p>
+               <p>A francziák, kik látták őt néhány perczczel elébb elesni, lováról lelövetve,
+                  megrémültek sírból fölkelt halavány arczától s hanyatthomlok futottak el abból a
+                  csatából, melyben a holtak is újra feltámadnak folytatni a verekedést.</p>
+               <p>Bizonyára Simonyi nagyon is közel volt hozzá, hogy halott legyen, csak egy
+                  papirlap, csak egy olyan vékony levél, a milyenre ezt az eseményt leirtam,
+                  választá el őt a sírtól. - Az ostoba golyó nem bírt azon általtörni. A pánczélt
+                  megjárta volna, s a papiros csuffá tette.</p>
+               <p>Tiszteljétek a papirost!</p>
+               
+            </div>
+            <div type="chapter">
+               <head>XIV. MILYEN ÜLÉS ESIK A CSÁSZÁRI TRÓNBAN?</head>
+               <p>Napoleon, a győzhetlen, megbánthatá valamivel azt a csillagzatot, melyben eddig
+                  annyit bizott, a szerencse elfordítá tőle arczát, legyőzetett.</p>
+               <p>A futó oroszlánt saját országába követték üldözői.</p>
+               <p>Simonyi seregének paripái olyan büszkén szedegették lábaikat, mintha ők is tudnák,
+                  hogy ezen út Párisba vezet!</p>
+               <p>Február 15-én, a mint a hajnali nap besugárzá a vidéket, Simonyi a fényes hajnal
+                  ragyogásában egy tündöklő palotát láta maga előtt; valami tündér kastélyt azok
+                  közül, mikről az ezeregyéjszaka regéi mesélnek, aranyozott magas tetőkkel,
+                  érczrácsokkal, pompás faragott szobrok homlokzatán, márvány oszlopcsarnokok
+                  tornáczain, s magas ablakai, szines üvegekkel.</p>
+               <p>A császár kastélya volt ez Fontainebleauban (Fontenbló), három dúsgazdag királynak
+                  kedvencz mulatóhelyén, kiket hogy a fényben, pazarlásban a kis káplárból lett nagy
+                  császár híven tudott utánozni, azt e kastély is bizonyítá.</p>
+               <p>Simonyi nyargalva vágtatott be a kastély udvarára: előtte való nap még Napoleon
+                  maga volt abban. Harczi népe tábort ütött a császári vadas kertben, ő maga
+                  törzstisztjeivel felment a kastély lépcsőin.</p>
+               <p>A palota kormányzója, forradalmi osztályvezér, most pedig Napoleon udvarában
+                  tökéletesen kiképzett udvaroncz, engedett a helyzet kényszerűségének s kinyitá a
+                  termeket a magyar hadfiak előtt.</p>
+               <p>Minden szét volt szórva a termekben, mint sietséges futás után szokott. Az ágy még
+                  vetetlen, melyben a fogoly pápa aludt, kit az előtt négy órával vittek odább a
+                  francziák magukkal.</p>
+               <p>A kormányzó végig vezette a tiszteket a fényes termeken, hideg lenézéssel tudatva
+                  velük, mennyire érdemetleneknek tartja őket azon tiszteletre, hogy most a császár
+                  termeiben járjanak.</p>
+               <p>Végre a császári elfogadó terembe érkeztek.</p>
+               <p>Ott állt a fényes trón, bibor mennyezettel, aranynyal és ezüsttel kivarrva, a vert
+                  arany angyalkák csak úgy görnyedtek a gyöngyös bojtok terhe alatt, mik a földig
+                  értek.</p>
+               <p>A kormányzó csak várta, ha leborulnak-e a barbár magyarok a leghatalmasabb
+                  franczia trónja előtt, s megcsókolják-e annak zsámolyát?</p>
+               <p>Simonyit vérig sérté a franczia büszke dölyfe.</p>
+               <p>Egyet gondolt. Föllépett a trón lépcsőjére, feltevé csákóját fejére s leülvén a
+                  szép himzett aranyos vánkosra, előkeresé kurta szárú tajtékpipáját tarsolyából s
+                  nyugodtan rágyujtott és füstölt belőle a bibor mennyezet alatt.</p>
+               <p>A kormányzó a milyen vörös volt eddig, olyan sápadt lett e látványra.</p>
+               <p>Egy barbár a császári trónban ülve és pipázva!</p>
+               <p>Mily rettentő gúny azon ember büszkeségére, a ki azt azért emeltette magának, hogy
+                  őt ott az egész világ bálványozza.</p>
+               <p>Simonyi odainté a kormányzót.</p>
+               <p>- Szeretitek-e a császárnétokat? kérdé tőle.</p>
+               <p>- Igen.</p>
+               <p>- Hát a császárt?</p>
+               <p>A franczia kitérőleg felelt.</p>
+               <p>- Mi óhajtjuk a békét.</p>
+               <p>- Úgy nem szeretitek a császárt, mert Napoleon nem szereti a békét.</p>
+               <p>A kormányzó udvaronczhoz illő nyelven viszonzá:</p>
+               <p>- A franczia úgy beszél, a hogy kénytelen, de úgy gondolkozik, a hogy akar.</p>
+               <p>Simonyi kiverte pipája hamvát a trón-oszlophoz, leszállt belőle s parancsolá a
+                  kormányzónak, hogy mutassa meg nekik a császárné szobáit is.</p>
+               <p>A kormányzó azzal vigasztalta lelkét, hogy e hadfiakat magában silány durva
+                  rablóknak rajzolá, kik rabolni jöttek ide s ittlétükkel nem a termeket, de saját
+                  magukat bélyegzik meg.</p>
+               <p>A császárné termeibe érve, a himzett mennyezetes ágy akkor is fel volt vetve,
+                  melyben a császárné szokott aludni. Az ágy előtt egy pompás selyemszőnyeg; Mária
+                  Luiza saját kezének himzése.</p>
+               <p>Simonyi dicsérte a szőnyeget, hogy az milyen szép. A kormányzó azt hivé, hogy
+                  megértette, mit akart ezzel mondani? Azzal szépen összehajtá a szőnyeget s
+                  megkinálta vele Simonyit: tessék. Jó lesz tábori takarónak.</p>
+               <p>Simonyi büszkén utasitá azt vissza.</p>
+               <p>- Nem jöttünk mi ide rabolni. A császárné a mi fejedelmünk leánya, s annak
+                  ágyszőnyegével nem fog egy jobbágya is takarózni! Tartsd meg császárod számára
+                  palotája kincseit, s ha jön utánunk más, mondd meg neki, hogy magyarok voltak itt,
+                  és nem vittek el semmit: hogy magyar huszár kiverte pipáját császárod trónjának
+                  karfájához, de levett süveggel, tiszteletet adva állt meg császárnéd termében!</p>
+               <p>Simonyi és huszárjai hidegvérrel mentek végig a fontainebleaui kincsek és
+                  ritkaságok tárain, megtapogatták a drágaköves régiségeket, a kirakott
+                  billikomokat, vert aranyékszereket és nem mondhatta senki, hogy csak egy boglár is
+                  eltünt volna onnan, mikor eltávoztak.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>XV. PEZSGŐSPALACZK- ÉS ÁGYÚDURROGÁS.</head>
+               <p>«Igyatok uraim, vendégeskedjetek! Tegyétek magatokat úgy, mintha otthon volnátok.»
+                  Igy szóltak a francziák Fontainebleauban a diadalmas hadfiakhoz.</p>
+               <p>Száz tiszt számára volt rendezve a nagyszerű lakoma, de hozzá ülhetett volna
+                  háromszáz is, rakott volt az asztal, csak úgy görnyedt bele, nem is volt pecsenye,
+                  ha csak nem fáczánhús, nem is volt bor, ha csak nem champagnei.</p>
+               <p>Maguk a főfő polgárok szolgáltak fel az asztalnál, a kormányzó nyitogatta a
+                  pezsgőspalaczkokat; úgy durrogtak azok, mint az ágyúk, úgy folyt a piros bor,
+                  miként a piros vér.</p>
+               <p>Jó kedve volt mindenkinek, a huszárok összeölelkeztek vidám gazdáikkal,
+                  pajtásságot ittak egymással, a kozák tisztek igen szépen tánczoltak és daloltak
+                  nemzeti nótákat.</p>
+               <p>«Igyatok, vigadjatok nagyságos uraim!»</p>
+               <p>És az alatt szép csendesen huzódott össze a háló Simonyi tábora körül; a kormányzó
+                  értesíté a Melunnél álló franczia hadtestet különös vendégei felől, s az rögtön
+                  átkelt a Rajnán, hogy a míg a császári várban megtelepedett hadosztály vigan
+                  dőzsöl és vendégeskedik, egyszerre ott nyomja az egész szentségtörő csapatot,
+                  melynek vezére a császári trónba mert felülni. Nyilván más magas hely volt számára
+                  szánva.</p>
+               <p>Ezért kinálkoztak oly nagyon és örömest a franczia urak:</p>
+               <p>«Igyatok vitéz uraim!»</p>
+               <p>Simonyi érzett valamit, mert a midőn tisztei az asztal felett egymást
+                  czukorsüteményekkel hajigálták, tréfásan mondá nekik:</p>
+               <p>- Majd megennétek még holnap!</p>
+               <p>A palaczkok még durrogtak, midőn a vén János káplár, kinek csak a suviksztól volt
+                  még a bajusza fekete, jő nagy vágtatva a kastélyba s jelenti az ezredesnek
+                  titokban, hogy az ellenség átkelt a Rajnán s minden oldalról közelít.</p>
+               <p>Ne szólj senkinek a teremben, sugá neki a vezér. Azzal odaintve egyenkint
+                  hadsegédeit, vidám arczczal mondá el nekik hirtelen, mit tegyenek? A szétoszlott
+                  hadcsapatok hirtelen vonuljanak Namur város felé, a többiek húzódjanak át
+                  Fontainebleaun: mikor minden rendelés meg lesz téve, adjanak jelt egy
+                  ágyúlövéssel. A hadsegédek siettek a parancsokkal.</p>
+               <p>«Igyatok vitéz uraim!»</p>
+               <p>A víg urak ittak tovább, hajigálták az üres palaczkokat a falhoz; és megtanulták a
+                  kozákoktól az éneklést.</p>
+               <p>Simonyi szép csendesen egy darab kenyeret, a mi senkinek sem kellett már, a
+                  csákójába csempészett.</p>
+               <p>Egyszerre hangzott az ágyúlövés.</p>
+               <p>- No urak, mostan félre a palaczkkal, előre a karddal! Vége a vendégségnek, most
+                  kezdődik a táncz!</p>
+               <p>A gazdák szaladtak erre, a vendégek arra; a poharak helyett csörtettek a kardok, a
+                  mámor kirepült a fejekből egyszerre.</p>
+               <p>Simonyi készen volt.</p>
+               <p>Tudta, hogy körül van fogva, de azt is tudta, hogy máskor is kivágta ő már magát
+                  ilyen bajból.</p>
+               <p>Roppant erejü lovas és gyalog had jött ellene, tömérdek ágyúval és Simonyinak
+                  egész seregével a városon kellett keresztülhúzódni, hogy Moret városába juthasson,
+                  melyet hogy mi ok volt neki minden áron elérni, később azt is megmondom.</p>
+               <p>A mint seregei dob- és trombitaszó mellett csendesen vonulnak végig
+                  Fontainebleaun, egyszerre csak elkezdenek rájuk az ablakokból lövöldözni.</p>
+               <p>A jó franczia háziurak, kik az imént oly vigan durrogtatták a pezsgős üvegeket,
+                  most még egyszer oly vigan durrogtatták a puskákat uri vendégeik ellen.</p>
+               <p>Egy franczia zászlóalj belopózott a császári kastélyba s veszedelmes gátat vetett
+                  a visszavonulóknak.</p>
+               <p>Kívül, belül a veszedelem, a városon kivül ostromló sereg, belül utczai harcz,
+                  akárki is elvesztette volna itt az eszét, csak Simonyi nem.</p>
+               <p>Hirtelen leszállt lováról s három század gyalogságot az Eszterházy-ezredből
+                  magához véve, megtámadta velük a császári kastélyt.</p>
+               <p>Az ellenség háromszor kirontott onnan, a kormányzó által vezérelve, mindannyiszor
+                  vissza lőn verve, a harmadik rohamnál a vörösképű maga is elesett s arcza fehér
+                  lett örökre.</p>
+               <p>E dühös viadal alatt idejük maradt a többi csapatoknak békében átvonulni a
+                  városon, s midőn az egész hadtest kihúzódott, Simonyi ismét lóra kapott, előre
+                  nyargalt, s a moreti országúton útját álló francziákat széjjelverve, szerencsésen
+                  megérkezett Moret alá, mely város a Loing vize mellett fekszik.</p>
+               <p>Már most megmondom, hogy miért kellett neki Moret városába menni? Mert Simonyi
+                  nemcsak azért volt jó katona, mert bámulatos hőstetteket követett el, de még
+                  inkább azért, hogy mikor valami nagy erőfeszítéssel hallatlan dolgokat vitt ki,
+                  mindig tudta, hogy ez áldozatra ott szükség volt, s hős karjával nagy bajt
+                  hárított el az egész seregről.</p>
+               <p>A velünk szövetséges würtembergi herczeg hadserege ott állt Montereaux (Montró)
+                  városában s a Simonyit üldöző sereg rendeltetése az volt, hogy e hadsereget
+                  megkerülve, két tűz közé szorítsa.</p>
+               <p>A Loing vizén azonban csak Moretnál lehetett átmenni. Simonyi feladata e szerint
+                  az volt, hogy az ottani hidat védje, a míg a herczeg értesülhet a fenyegető
+                  veszélyről.</p>
+               <p>Idáig folytonosan védve tartá magát; itt szemközt fordult és megállt.</p>
+               <p>Nyomról-nyomra engedé csak elfoglalni a tért, utczáról-utczára vívatá a harczot, s
+                  midőn a várost nem tarthatá többé a túlerő ellenében, hirtelen torlaszokat
+                  rakatott a hid előtt egy malomból elhozott buzás zsákokból s e sajátságos bástya
+                  mögött folytatta a harczot.</p>
+               <p>A golyó, a gránát, a tüzes röppentyű mint a jégeső hullott a hídra, az ágyúk rést
+                  törtek a sánczban s a franczia hadoszlopok rohammal foglalták el azokat. Simonyi
+                  népe csüggedni kezdett.</p>
+               <p>Ekkor ő maga szuronyos puskát ragadva kezébe, a gyalogság élére állt s megrohanta
+                  az ostromlókat és elverte őket a hídról.</p>
+               <p>A golyó oly sűrűn dongott körülötte, mint a méhraj, de valamint a méhek megismerik
+                  gazdájukat s nem szállnak rá, a golyó is kikerülte Simonyit, s midőn mellette úgy
+                  pusztult az ember, hogy a halottak állva maradtak egymás mellett, neki még a
+                  hajaszála sem görbült meg.</p>
+               <p>Késő estig megtartá a hídfőt. Ott állt a halál kapujában, harczolva és lelkesítve
+                  bajnokait.</p>
+               <p>Midőn az est leszállt, akkor feladta a hidat s jól tudva, hogy az ellenség sem
+                  képes őt tovább üldözni, egy rossz, félre eső faluig visszahúzódott fáradt
+                  seregével, melynek házait előtte keresztül ment hadak már jól kipusztíták.</p>
+               <p>Itt egy ajtó- és ablaknélküli házban megszállt kifáradva testben, de lélekben
+                  nem.</p>
+               <p>A tegnapi lakoma óta egy falatot sem evett még. Most eszébe jutott, hogy egy darab
+                  kenyeret csákójába dugott onnan, s azt elővevé most.</p>
+               <p>János káplár nem engedte, hogy ezredese oly szárazon vacsoráljon; talált egy
+                  ablakban valami mécset, abban volt egy kis zsir: felkutatta a padlást, egy pár
+                  tojást lelt még ottan, abból rántottát készített vitéz ezredesének! Hires szakács
+                  volt János gazda, olyan jól esett gazdájának a mécses rántotta, mint hajdan ujoncz
+                  korában a puskaporos gulyáshús; még az ujjait is megnyalta utána.</p>
+               <p>- Nagy szakács kend, János vitéz; jobban izlik a főzte, mint a franczia szakácsok
+                  minden fűszerszámos mártaléka!</p>
+               
+            </div>
+            <div type="chapter">
+               <head>XVI. BECSÜLET AZ ELLENSÉG FÖLDÉN.</head>
+               <p>Különös világ az ilyen háború. Ma ellenség, holnap jó barát száll a házhoz: mind a
+                  kettőre egyformán kell mosolyogni; soha sem tudja senki: a közelgő dandár jó szót
+                  hoz-e, vagy tüzet a városra?</p>
+               <p>Simonyi abban kereste a becsületet, hogy népét, bármerre jár, az ellenség
+                  tolvajnak, rablónak ne mondja. Különösen őrzé katonáit attól, hogy durva
+                  szenvedélyeikkel a szép nemet meg ne sértsék. A huszárnak a nélkül is olyan jó
+                  módja van, hogy a hol meglátják, mindjárt megszeretik, hogy sértené meg hát az
+                  udvariasságot, a mivel a nő-erénynek tartozik?</p>
+               <p>Hanem ez természetesen nem áll a kozákokra nézve. E nagy szakállas, torzonborz
+                  hadfiak előtt futottak a franczia menyecskék s azokra nézve szükek voltak az
+                  udvariasság korlátai.</p>
+               <p>Bourg en Bresse városába érve, csodálkozva vevék észre a hadfiak, hogy ebben a
+                  városban nincsenek fiatal leányok. Hová lettek, hová tünhettek el?</p>
+               <p>Simonyi azt remélte, hogy itt néhány napig fog pihenhetni, azért embereit jól
+                  bekvártélyozva, kiadá nekik a parancsot, hogy magát mindenki tisztességes emberhez
+                  illően viselje, kiváltképen az asszonyi nem irányában.</p>
+               <p>Az természetesen nem volt mondva, hogy borokat nem szabad inni; tehát egynéhány
+                  huszár, János vitéz vezetése mellett, megsejtve valahol egy jó tágas pinczét,
+                  megszólítá a tulajdonost, hogy engedje őket oda egy kicsinyt betekinteni.</p>
+               <p>Az ember térdre esett, úgy könyörgött, hogy ne kivánják azt tőle, neki ott igen
+                  drága borai vannak.</p>
+               <p>«Hiszen csak nem fél tőle, hogy mind megiszszuk? Ide a kulcscsal.»</p>
+               <p>A gazda remegve nyitá fel előttük az ajtót s im a bámuló huszárok hordók helyett
+                  harmincz szép fiatal lánykát pillantának meg maguk előtt, kiket a város lakói ide
+                  zártak el féltükben.</p>
+               <p>- No már ez nem nekünk való, mondá erre János vitéz; ne sirjatok, porontyaim!</p>
+               <p>Azzal becsapta az ajtót, bezárta azt s elvivé a kulcsot Simonyinak.</p>
+               <p>Simonyi mosolyogva hallá e fölfedezést, s midőn bealkonyodott, saját maga sietett
+                  az ártatlan szüzeket kiszabadítani önkénytes fogságukból s azután haza kisérteté
+                  őket udvarias tiszteivel szüléik házába, biztosítva mindenkit, hogy ha katonái
+                  közül csak egy pajkos szóval is meg meri bántani őket valamelyik; azt rögtön főbe
+                  löveti.</p>
+               <p>Az emberséges rendtartással különösen megnyeré a becsületes polgárok szivét, a kik
+                  már most nem bánták volna, ha mindig ott marad is.</p>
+               <p>Minthogy pedig maga Simonyi is azt hitte, hogy egy napot legalább ott tölthet, két
+                  szép arany óráját elküldé az óráshoz, hogy igazítsa meg.</p>
+               <p>Délben azonban, a mint épen ebédnél ülnek, egyszerre hangzik a riadó: jön az
+                  ellenség.</p>
+               <p>Rögtön lóra kellett ülni és gyorsan vonulni ki a városból, folytonos csatározás
+                  mellett.</p>
+               <p>A jámbor lakosok akkor nem hogy megtámadták volna Simonyi menekvő seregét, sőt
+                  maguk segítettek a huszároknak lovaikat fölnyergelni és siettették az
+                  elmaradozókat.</p>
+               <p>A mint Simonyi a város kapujához ér, odaugrott hozzá az órás s nyujtja neki mind a
+                  két ott hagyott arany óráját.</p>
+               <p>Azokat bizony ott feledte volna, ha a jámbor franczia utána nem szalad velök.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>XVII. A LYONI NAP.</head>
+               <p>A francziák végerőfeszítése nem használt már, mindenütt tért veszítettek: Augerau
+                  (Ozsró) tábornok végre Lyonba vonta össze hadseregét azon kétségbeesett
+                  szándékkal, hogy ott az utolsó emberig fogja védeni magát.</p>
+               <p>A szövetséges sereg, a Rhone folyam innenső partjáról nézett vele farkasszemet, s
+                  azon folyt a tanakodás, hol lehetne e folyón általkelni Lyon ostromára?</p>
+               <p>A Rhone vize körülbelül olyan nagyságú, mint a Tisza, de olyan sebes mint a Kőrös,
+                  s a mikor megárad, hajóval is nehéz rajta általkelni.</p>
+               <p>A francziák minden hidat leégettek maguk mögött, a dereglyéket átvitték a tulsó
+                  partra s a folyam tavaszi áradása miatt tábori hidat lehetetlen volt rajta
+                  verni.</p>
+               <p>Többször megpróbáltatták kozákokkal az átusztatást, de azok mindig kénytelenek
+                  voltak visszatérni a ragadó ár forgói közül s azt mondták, hogy az lehetetlen.</p>
+               <p>Ekkor érkezett meg a Hardegg-hadtesthez Simonyi. Megérté, hogy miről van szó; még
+                  folytatását is tudta adni.</p>
+               <p>Nem elég átmenni a tulsó partra, de megtámadni Lyon városát s megrémíteni a magát
+                  biztosságban hivő ellenséget.</p>
+               <p>Ez a munka az ő számára született!</p>
+               <p>Márczius 20-án a Rhone vize szokatlanul sok jégtáblát sodort hullámai között,
+                  annak jeléül, hogy valahol a magasabb részeken az álló jég megindult.</p>
+               <p>Késő este, alkonyat után neki indult Simonyi e jeges árnak három svadron
+                  huszárjával és egy ezred kozákkal, hogy a tulsó partra átusztasson.</p>
+               <p>A vezényszóra soronként bocsátkoztak az elszánt vitézek a hideg habokba, középen a
+                  vezér, ki oly hidegvérrel kormányozott ott is, mintha a köves országuton
+                  járnának.</p>
+               <p>Nemsokára az egész csapat a víz közepén uszott; nem látszott más ki a habból, csak
+                  a lovak tüsszögő fejei, a huszárok övig elmerülve, a kozákok lovaik nyakára
+                  borulva, messzenyuló dárdáikkal.</p>
+               <p>Egy-egy éles jégtorlatot vitt közéjük a sebes hullám; egy-egy paripa horkolva
+                  bukott el gazdástól. Az elmerülő lovag tudta, hogy kiáltani vétek s uszott a másik
+                  lovába kapaszkodva, vagy elhalt, ha a hidegtől görcs állt tagjaiba; egy jajszó
+                  nélkül.</p>
+               <p>A többi csendesen haladt előre.</p>
+               <p>A túlparton még csak őrei sem voltak az ellenségnek felállítva, annyira hihetetlen
+                  eszme volt, hogy itt valaki átjöhessen.</p>
+               <p>Az első sor végre partot ért, és sietett a többit kivonszolni a vízből.</p>
+               <p>Elgyalázva a hidegtől, gémberedetten jutott partra az egész vakmerő csapat,
+                  facsaró víz minden ruha s fölöttük a hideg éjszaka, csipős tavaszi szelével.</p>
+               <p>Simonyi azt gondolá, hogy a munka kimelegít s rögtön szétküldé száz lovagját, hogy
+                  nyargalják be az utakat, s hirdessék mindenfelé, hogy az egyesült hadsereg átkelt
+                  a Rhone folyamon, s a Párisba vivő országutat fenyegeti.</p>
+               <p>A huszárok egész Lyon kapujáig száguldoztak, s a külváros előtt felállított
+                  őrszemekre kezdtek lövöldözni. A rémület leirhatatlan lett Lyonban, annyival
+                  inkább, mert ez oldalról legkisebb veszélytől sem tartottak.</p>
+               <p>Augereau rögtön felpakoltatott s még azon éjjel kivonult hadseregével a városból s
+                  reggelre a szürkülő hajnal megmutatá Simonyinak a távol országutakon végig vonuló
+                  hosszú csapatokat, mikből kivillogtak a szuronyok.</p>
+               <p>Az ellenség hadserege elhagyta Lyont.</p>
+               <p>De Simonyi még azt is meg akarta tudni, hogy ki maradt ott?</p>
+               <p>Csapatjait vigyázatosan felosztva a város körül, maga kétszáz huszárral és száz
+                  kozákkal megindult Lyon városába betekinteni.</p>
+               <p>És ez nem volt huszáros bohóság: a minőt egykor Homburgban követett el. Ez egy
+                  bátor merénylet volt, melytől az egész egyesült hadsereg előhaladása függött.</p>
+               <p>Meg kellett tudni: minő erő áll ellent Lyonban? és e tudósítást megküldeni a
+                  fővezéreknek.</p>
+               <p>A feladat első fele könnyű, de a második nehéz.</p>
+               <p>Hogy fog Simonyi a vizen keresztül visszamenekülhetni, ha üldözőbe veszik?</p>
+               <p>Ezt mind jól meggondolta és tett felőle.</p>
+               <p>A Faubourg de la Guillotiere elővároshoz érve, semmi ellentállásra sem talált.</p>
+               <p>Hogy az út tisztán maradjon háta mögött, míg a hosszú, tekervényes főutczán végig
+                  haladt, mindenütt pisztoly-lövésnyi távolban egy-egy kozákot hagyott hátra maga
+                  után.</p>
+               <p>Így jutott el egész a kőhidig, mely a belvárost a külsővel összeköti.</p>
+               <p>Itt egyszerre János káplár, ki hat legénynyel mint előörs lovagolt előre,
+                  megpillantja a piacz közepén álló franczia lovasságot.</p>
+               <p>Egy egész hadoszlop volt ott még.</p>
+               <p>Azok is, a mint megpillanták a huszárokat, egyszerre megrohanták őket.</p>
+               <p>Ez volt a legválságosabb óra.</p>
+               <p>Simonyi átlátta, hogy itt most visszafordulni annyit tesz, mint biztosan
+                  elveszni.</p>
+               <p>Ha ők a városból ki engedik magukat szoríttatni, az ellenség meglátja, hogy mily
+                  kevesen vannak; s ők fáradt, elcsigázott lovaikkal mielőtt a parthoz érnének,
+                  össze lesznek aprítva, és ha ujra meg akarják kisérteni a folyamon való
+                  átusztatást, egy sem menekül meg közülök.</p>
+               <p>Itt csak a kard segíthet ki!</p>
+               <p>Hirtelen összegyüjté embereit s egy svadronyával dühösen szemközt csapva az
+                  ellenséggel, azt merészen visszaverte.</p>
+               <p>A francziák megfeszíték minden erejüket, hogy Simonyit kiverhessék a síkra, de ő
+                  is elővette minden vitézségét, hogy őket semmi áron ki ne bocsássa a szűk
+                  utczából.</p>
+               <p>Ez volt rá nézve az élet vagy halál kérdése.</p>
+               <p>Végre a francziák fáradtak ki a kétségbeesett viadalban s nem tudhatva meg, kik és
+                  mik következnek azon pár száz vitéz háta mögött, a kik a főutcza torkát elfoglalva
+                  tartják? elcsüggedve tértek vissza, felgyujták podgyász-szekereiket s a vienni
+                  országuton kivonultak a városból.</p>
+               <p>A következő pillanatban már Simonyi nem tudott semmit arról, hogy minő halálos
+                  veszedelemben forgott, s hogy magához következetes maradjon, még ő rohant a futók
+                  után s elfogott belőlük tömérdek tisztet, tábori készletet és vagy háromszáz
+                  katonát.</p>
+               <p>Még aznap délben segítséget kapott Simonyi Hessen-Homburg herczeg által s másnap
+                  reggel Lyon városa piaczán osztotta ki parancsait; - zsákmányúl nyerve ágyúkat,
+                  táborszereket, s megszabadult hadi foglyokat mindenféle nemzetekből. E merész
+                  harcz jutalmául nyerte ott a csatahelyen a Lipót-rend kormányzói keresztjét.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>XVIII. A SZERELMES OROSZLÁN.</head>
+               <p>Még egyszer elszabadultak a harczok denevérszárnyú angyalai.</p>
+               <p>Még egyszer ki kellett húzni azt a kardot, mely már annyi véres nyomot hagyott az
+                  ellenség földén. Még egy véres csata, melyen négy óriás birkózott egymással.</p>
+               <p>Azután elcsendesült minden; a legnagyobb hős elbukott; Napoleon elveszté a
+                  waterlói csatát, elveszté országát, elfogták, bezárták nagy tenger közepébe, ott
+                  elmult, elveszett. Elcsendesült minden.</p>
+               <p>Hüvelyébe csuszott a kard, kizöldült a véres mező, Francziaország városaiban
+                  idegen urak parancsoltak.</p>
+               <p>Simonyi Marcigni (Márszinnyi) városába rendeltetett kormányzónak, s a körül fekvő
+                  három vármegye (departement) parancsnokának, melyet négy zászlóalj gyalogsággal,
+                  saját ezredével s hat ágyúval tartott megszállva.</p>
+               <p>A nagykállói köznemes fia, a tudatlan diák, három vármegyének volt ura
+                  Francziaországban!</p>
+               <p>Marcigni városba érve, első éjjel mindjárt jelentik neki, hogy a franczia lakosság
+                  zendülést forral, s a kis helyőrséget, melyet Simonyi odahozott magával (serege
+                  nagy részét könnyebb élelmezés végett a falvakra osztván széjjel), éjszaka meg
+                  akarják támadni.</p>
+               <p>Simonyi rögtön tudatá a maire-el (városbiró), hogy ő békét jött csinálni, de ha
+                  úgy kivánják, tud háborút is csinálni. Ha nem tetszik a lakosoknak az, hogy ő csak
+                  oly kis sereggel tartja városukat megszállva, a kedvükért hozhat oda még többet
+                  is: ám ők lássák, hogy élelmezik?</p>
+               <p>Meg is tette, a mit mondott. Széjjel levő csapatjait mind berendelé a városba s
+                  beszállásolá a házakba, s várta, hogy hát ez hogy fog majd tetszeni?</p>
+               <p>Néhány nap mulva tizenkét ifjú delnő, a város legszebb, legtiszteletreméltóbb
+                  hölgyei jelentek meg a parancsnok szállásán.</p>
+               <p>Egy fiatal marquisnő, olyan elmés és szelid, a milyen szép és bájoló, szólt
+                  Simonyihoz az igazi érzés hangján.</p>
+               <p>Elmondá előtte a gyászt, melyet nemzetének elestén minden honleány szive érez,
+                  csaknem mindenkinek testvére, férje, édes atyja maradt el a csatában. Minden
+                  háznak van halottja. Hivatkozott a magyar bajnok nemes szívére, hogy nem fogja a
+                  megalázottak szomoruságát új szégyennel is tetézni s örömét találandja benne, ha
+                  azokat, kiket vitéz kardja elejtett, gyöngéd kezeivel fölemelheti.</p>
+               <p>Simonyi perczenkint növekedő megindulással hallgatá a bűbájos delnő szavait; midőn
+                  az sírt, nem állhatá meg, hogy ő is nekönnyezzen, midőn az könyörgött, nem állhatá
+                  meg, hogy szive el ne lágyuljon, midőn az őt nemes férfinak nevezte, valóban az is
+                  volt.</p>
+               <p>Meghajtá magát a hölgyek tiszteletreméltó arcza előtt, s azt mondá nekik, hogy a
+                  kik kegyelmet kérnek tőle, azokhoz kegyelmes fog lenni.</p>
+               <p>Egy hálateljes pillantás ama minden gyémánt ragyogásánál fényesebb szemekből
+                  jutalmazá ez igéretét. - Ezen tekintet varázsa soha sem mult el Simonyi
+                  szivéből.</p>
+               <p>Hisz még akkor csak harminczhét éves férfi volt; s huszonkét év óta folytonosan a
+                  csatamezőn, nem ismerheté még, hogy mi a szerelem?</p>
+               <p>Még aznap visszaparancsolá összevont seregeit a falvakba, csak néhány századot
+                  tartva maga mellett. - Éjjel pedig tábori zenekarával sorba járta a tizenkét delnő
+                  házait s ablakaik alatt mindegyiknél három dalt fuvatott; kivéve a szép szónoknőt:
+                  - ott hatszor hangzott a zene.</p>
+               <p>Simonyi azontúl naponkint találkozott szép ideáljával, a francziák megszerették a
+                  magyarokban ellenségeiket, s nem mult el nap, hogy valamely háznál dalidó,
+                  műkedvelői szinjáték, s egyéb társas vigalom nem tartatott volna kedvükért.</p>
+               <p>A hős, ki bevégzé Herkules tizenkét munkáját, legyőzetett a tizenharmadikban:
+                  legyőzetett a szép asszony szép szemei által.</p>
+               <p>Ő, ki Montbilliárd várát egy nap alatt el tudta foglalni, egy sokkal gyöngébb
+                  várnak, egy asszony szivének meghódításához alig mert kezdeni.</p>
+               <p>Ha szép volt őt látni a férfiak elleni harczban, csupa gyönyörűség elnézni a nők
+                  ellenében.</p>
+               <p>A milyen bátor és elszánt amott, oly gyöngéd és félelmes itt. Amott nyilt arczczal
+                  rohant az ágyútűznek, itt csak titokban mert lépést haladni.</p>
+               <p>A marquisnőnek édes atyja falusi uradalmán lakott,
+                  nagyon megfogható okokból félrevonulva a fővárosoktól, mikben idegen seregek
+                  tanyáztak.</p>
+               <p>A marquisnő igen szerette édes atyját, az öreg marquis pedig igen szeretett
+                  vadászni.</p>
+               <p>Ez időben pedig olyan állapotba jutottak a jámbor francziák, hogy még a
+                  vadászfegyvereket is elszedték tőlük. Az öreg marquisnak csak nézni lehetett a
+                  szalonkákat, de nem utánuk lőni.</p>
+               <p>Simonyi megtudta az öregnek ezt a kinos állapotát, s rögtön elküldött egy tisztet
+                  hozzá, irott engedélylyel, mely szerint ez a derék, békességes hazafi tarthat
+                  annyi puskát, a mennyit csak akar s lőhet vele minden állatot, a mi neki nem
+                  tetszik.</p>
+               <p>A vén marquis el nem tudta gondolni, honnan jön ez a kegyesség egy oly vad, idegen
+                  embertől, a ki neki soha hirét sem hallotta; de a kiről hallhatott ő annál
+                  többet.</p>
+               <p>Midőn azután a marquisnő egy napon édes atyját meglátogatta, bámulva hallá az öreg
+                  úr által Simonyit magasztaltatni; kit szivében ő is a legderekabb férfiak közé
+                  számított.</p>
+               <p>Simonyi pedig az alatt, míg szivének bálványa atyját látogatta, megtudva, hogy
+                  mely napon fog visszatérni, épen rózsavirágzás idején a környékben minden rózsát
+                  összevásároltatott s Szent-Piertől egész Marcigni városig behinteté vele az utat,
+                  úgy hogy a visszatérő delnő igazán «térdig járhatott a rózsában», mint a nóta
+                  mondja.</p>
+               <p>Ki tett volna fel ennyi találékony gyöngédséget arról a férfiról, a ki eddig csak
+                  véres fejekkel szokta behinteni az utat, a merre járt?</p>
+               <p>Ez eszme becsületére vált volna akár egy költőnek, - akár egy római
+                  császárnak.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>XIX. SZERELMES SZÍV, KEGYELMES SZÍV.</head>
+               <p>Hej, kemény régula, a hadi régula! de legkeményebb az a törvény, a mit győzelmes
+                  urak diktálnak a legyőzöttek elé.</p>
+               <p>A francziák nehezen szokhattak azon gondolathoz, hogy ő nekik már most idegen
+                  parancsol, s kivált faluhelyen nem egyszer megtörtént, hogy Simonyi gyalog
+                  horvátjai közül el-eltettek egyet a láb alól, a ki azután nem jött elő, mikor a
+                  lénungot osztották.</p>
+               <p>E miatt azon vas törvény lett kimondva, hogy a mely faluban ily orvtett követtetik
+                  el, azt porrá kell égetni, és a bűnösöket minden irgalom nélkül főbe
+                  lövöldözni.</p>
+               <p>Egyszer Simonyi elé is három ilyen ellenszegülőt hoztak: egy öreg földmívest és
+                  két ifjú legényt.</p>
+               <p>Tettüket nem tagadták, lőttek Simonyi embereire: valakit meg is sebesítettek; úgy
+                  fogták el őket, fegyverrel kezükben.</p>
+               <p>Ezeknek az életeért sem adott volna már senki egy eltört dorombot.</p>
+               <p>Elitélték őket mind a hármat, ki is tették már a siralomházba. Az öreg franczia
+                  csak azon könyörgött, hogy az ő tetteért ne gyujtsák fel szülötte helységét, ne
+                  büntessenek miatta annyi ártatlant is.</p>
+               <p>Mikor már ki voltak téve a siralomházba, jön gyászba öltözve a tizenkét delnő
+                  ismét Simonyihoz.</p>
+               <p>A bájos marquisnő lábaihoz borult és sírva könyörgött az elitéltekért.</p>
+               <p>- Hiába, nem lehet!</p>
+               <p>Simonyi maga szeretett volna inkább a delnő lábaihoz borulni; de a törvény szigorú
+                  volt.</p>
+               <p>- Nem lehet, nem lehet.</p>
+               <p>Azzal bocsátá el a hölgyeket, hogy nem adhat kegyelmet. Még a marquisnő is hiába
+                  nézett rá könyes szemeivel, hiába szólt hozzá reszkető szavával, hiába szorítá
+                  kezét dobogó kebléhez.</p>
+               <p>A törvény szigorú!</p>
+               <p>A mint a delnők eltávoztak, Simonyi felhozatta magához a három lánczra vert
+                  rabot.</p>
+               <p>- Elkészültetek-e a halálra? - kérdé tőlük.</p>
+               <p>Azok felelék, hogy készen vannak.</p>
+               <p>- Óhajtjátok-e látni az angyalokat?</p>
+               <p>Azok egymásra néztek, és mit mondhattak volna egyebet, mint, hogy óhajtják.</p>
+               <p>- No hát menjetek el * * marquisnőhöz, és csókoljátok meg kezeit, mert bizony
+                  mondom, hogy ő volt a ti őrangyalotok, a kinek köszönhetitek, hogy most életben
+                  maradtok, és visszatérhettek családaitokhoz, és falvaitok el nem pusztíttatnak.
+                  Hagyjátok itt a lánczokat, azokat nem adom oda.</p>
+               <p>A marquisnő szomorúan ült odahaza, a midőn a három megszabadult boldogtalan az
+                  öröm és hála könyeit sírva jő hozzá és lábaihoz borulva, köszöni nagy zokogás közt
+                  az ő jóságának megmentett életét.</p>
+               <p>A vén földész sírva mondá el, hogy őt hét árva gyermek várja otthon, kiknek anyjuk
+                  sincsen, azoknak hálaimája egyesülten hat fel az egek urához jóltevőnőjükért.</p>
+               <p>A marquisnő el volt ragadtatva Simonyinak e tette által.</p>
+               <p>Mások gyémántokat ajándékoznak kedveseiknek, mások igaz gyöngysorokkal iparkodnak
+                  megnyerni imádottaik szivét; Simonyi drágább gyémántokat és gyöngyöket tudott adni
+                  annak, a kit tisztelve szeretett: a megmentett honfiak hálakönyeit. - És a szép
+                  delnőnek bizonyára kedvesebb volt ez a szép ajándék a tengerek és a hegyek minden
+                  rejtett kincseinél.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>XX. A HŐS ÉS A POÉTA.</head>
+               <p>Volt Marcigni városában egy poéta. (Boldog Francziaország, ő sem szükölködik
+                  versirókban.) Ez a poéta csak annyiban különbözött a magyarországi versiróktól,
+                  hogy neki tulajdon háza volt és kocsit, lovat tartott.</p>
+               <p>Simonyi táborkarában pedig volt egy magyar születésü törzstiszt, a ki különben
+                  igen jó és jámbor erkölcsü ifjú volt, de arcza rettenetesen alkalmas volt arra,
+                  hogy a gyönge szivű embereket arra a gondolatra vezesse, hogy Magyarországon
+                  vannak olyan vad emberek, a kik emberhússal élnek.</p>
+               <p>Sűrű kondor haja, vastag szemöldöke, kiduzzadt ajkai, ripacsos ábrázata nagyon jól
+                  hitelesíték e félelmes elővéleményt.</p>
+               <p>A sors, ez a poéták által különösen elhasznált eszköz, most ez egyszer boszút állt
+                  egyik üldözőjén s úgy hozta, hogy az ijesztő hadnagy épen az ő házához jutott
+                  szállásra.</p>
+               <p>A gyönge szivű Bressau (a poéták gyöngeszivűek szoktak lenni) úgy megrettent
+                  rémületes vendégétől, hogy ijedtében ott hagyta házát, mindenét s kifutott egy
+                  özvegy grófné jószágára, onnan írt siralmas verseket a párisi divatlapokba, mikben
+                  keservesen zengedezé meg, milyen pogányok ütöttek tanyát múzsái csendes
+                  templomában, hogy festenek bajuszokat az irószobájában felaggatott tudósok
+                  arczképeinek vandal kegyeletlenséggel.</p>
+               <p>A pajkos tisztek e verseket azzal torolták vissza, hogy a poéta kocsiját
+                  elfoglalva saját használatukra, ráfestették nagy betűkkel, «a múzsák szekere», úgy
+                  jártak vele városszerte, hogy minden ember kaczagott, a ki látta.</p>
+               <p>A torzonborz fiút pedig egy becsületes szatócshoz szállásolta be Simonyi, a ki
+                  épen úgy megrettent tőle, miként Bressau, a poéta.</p>
+               <p>Minden ember megszökött előle a kétemeletes házból, s a jámbor tiszt két napig nem
+                  lelt senkit az egész rengeteg épületben.</p>
+               <p>Harmadnap nagy félve benyitja rá az ajtót a gazda, s látva, hogy a tiszt az
+                  ablakon kikönyököl, bátorságot vett magának megszólítani őt diákul.</p>
+               <p>«Qualem religionem habes? Comedes et suillam?» (Mi valláson vagy? Eszel-e
+                  sertéshúst.)</p>
+               <p>A tiszt hátra nézett: a gazda kiugrott az ajtón, le a lépcsőn, s úgy elszaladt,
+                  hogy soha sem látta az többet. Nyilván csakugyan azt hitte a jámbor franczia, hogy
+                  a magyarok pogányok, a kik nem eszik a disznóhúst. - Oh a francziáktól kitelik az
+                  ilyen tudomány!</p>
+               <p>Történt azonban egyszer, hogy a hirhedett magyar hőst ugyanazon udvarias grófné, a
+                  kihez a poéta menekült, meghivá tiszti karával együtt ünnepélyes mulatságra.</p>
+               <p>A tréfás tisztek oda is elvitték magukkal a múzsák szekerét, a min az egész
+                  jókedvű világ utczahosszant nevetett: a ki nem nevetett csupán, az hihetőleg maga
+                  volt Bressau poéta.</p>
+               <p>Senki sem tudta, hogy ő ott van. Tudtak is nála nélkül mulatni; ő pedig az alatt,
+                  a míg az urak vigadtak, egy szomszédszobában ült és rágta a tollat, és írt
+                  verseket.</p>
+               <p>Vajjon miféle verseket irhatott?</p>
+               <p>Az ebéd vége felé járt már, a midőn a grófné intésére kinyilt a rejtek szoba
+                  ajtaja s kilépett rajta - Bressau poéta: egyik kezében nagy borostyán koszorú,
+                  másikban a megírt vers. - Odajárult Simonyihoz, szépen meghajtá magát előtte: a
+                  koszorút letevé tányérjára, a verset pedig elszavalta szépen az egész társaság
+                  előtt.</p>
+               <p>A vers pedig igen szép volt. Simonyi az egekig magasztaltatott abban egy franczia
+                  költő által, a miért a francziákat olyan vitézül aprította: hasonlíttatott Nagy
+                  Sándorhoz, Achilleshez, Bayardhoz, s más afféle ó és új világi hires verekedőkhöz;
+                  elhalmoztatott a vitéz és dicső melléknevek minden a szótárakban feltalálható
+                  változataival s utoljára több vitéz társaival együtt «Francziaország
+                  megmentőjének» nevezteték el.</p>
+               <p>Simonyinak önmagán való uralkodását igen fényesen tanusítja az, hogy e poétával
+                  nem bánt kegyetlenül, sőt inkább leülteté őt maga mellé, s a grófnénak azt mondta,
+                  hogy ő a tudományoknak és a szépirodalomnak nagy kedvelője s következőleg Bressau
+                  urat is magasra becsüli s óhajtja, hogy a franczia irodalomnak több ily jeles
+                  költői legyenek, miként Bressau úr.</p>
+               <p>Ennél jobbat, a körülményekhez képest, nem is kivánhatott volna szegény
+                  francziáknak.</p>
+               <p>A múzsák kegyeltjét azután borral is kinálták. Ivott a jámbor; annyira ivott, hogy
+                  utoljára ő maga kérte azt a rettenetes tisztet, hogy menjen vissza hozzá
+                  szállásra; s fogadta Simonyinak, hogy az egész háborút le fogja mind írni versben
+                  s tönkre teszi vele az Iliást, Odysseát s más afféle ponyvára való firkálmányokat;
+                  genealogiáját pedig felviszi Simonyidesig, a ki nagy bölcs volt és poéta, még
+                  pedig görög nem-egyesült.</p>
+               <p>Simonyi mind e mellett elismeré, hogy Bressau úr igen tudós és derék ember, s
+                  olyan kiméletes volt, hogy még azután is mindenkinek azt mondta, hogy a francziák
+                  legnagyobb költője Marcigniban lakik.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>XXI. A HŐS ASSZONY.</head>
+               <p>Valami összekoczczanás volt a katonák és lakosok között; egy franczia polgártárs
+                  úgy talált a kanalával fejbe ütni egy huszárt, hogy az rögtön leesett lábáról. -
+                  Képzelhetni, mekkora kanállal esznek a francziák, ha akkorát lehet vele ütni, hogy
+                  egy huszár leessék a lábáról?</p>
+               <p>A gonosztevő, a ki a perduellis kanállal merte érinteni a huszár fejét, elszaladt
+                  világgá, hanem a helyett elfogták az apját, bezárták, s azt mondták, hogy míg elő
+                  nem teremti a fiát, addig ki nem eresztik.</p>
+               <p>Két óra mulva egy fiatal pórlegény jelenté be magát Simonyinál, mondván, hogy ime
+                  ő a vétkes, büntessék őt s azután legyen vége a keresetnek.</p>
+               <p>Simonyi nem késett rögtön itéletet mondani rá; a fatalis kerekségű számot, a
+                  huszonötöt, mely alatt a magyar nyelvben annyira megszoktunk botot érteni, hogy
+                  már szinte fölöslegesnek tartjuk utána mondani.</p>
+               <p>Élt azonban Simonyi azzal a gyanuperrel, hogy majd ha megtudják ezt az itéletet az
+                  ő rimánkodó hölgyei, megint rajta rontanak, s lekönyörgik a huszonöt botot; e
+                  miatt megparancsolá, hogy minden ajtóhoz kettős őrt kell állítani, a kik az itélet
+                  végrehajtásáig semmiféle rendű, rangú, nemű és nemzetségü teremtett lelket hozzá
+                  be ne bocsássanak.</p>
+               <p>Jól számított.</p>
+               <p>Még ki sem huzták a derest, midőn a tizenkét delnő újra megjelent a háznál
+                  kegyelemért könyörgendő.</p>
+               <p>Szegénykéket mindenütt elutasíták.</p>
+               <p>«Később tessék jönni. Az ezredessel nem lehet most szólni. Fontos dolgai vannak»
+                  stb. stb.</p>
+               <p>Az árva hölgyek sirtak, rítak, de az mind nem használt semmit, az ajtók zárva
+                  maradtak.</p>
+               <p>Ekkor egy franczia tábornok neje, Demeran asszonyság, azon merész ötletre jön,
+                  hogy ha zárva vannak az ajtók, nyitva vannak az ablakok; be kell hozzá menni az
+                  ablakon!</p>
+               <p>Az őröknek már az nem volt parancsul adva, hogy az ablakon se ereszszenek be
+                  senkit.</p>
+               <p>Tessék.</p>
+               <p>A bátor amazon, társai segélyével, hirtelen egy lábtót kerített elő; azt neki
+                  támasztották az első emelet egyik nyitott ablakának és Simonyi egyszer csak azon
+                  veszi magát észre, hogy az ablakon keresztül rohan be hozzá egy kipirult arczú
+                  delnő, s mielőtt elfuthatna előle, megragadja kezét és el nem ereszti, a míg meg
+                  nem hallgatja kegyelemkérését a szegény elitélt számára.</p>
+               <p>Simonyi sem volt még ilyen kelepczében soha. A nő fogta, neki nem volt hová
+                  menekülnie.</p>
+               <p>- De asszonyom. A vétkest meg kell büntetnem, különben maholnap fényes nappal
+                  agyonütik a katonáimat. Hiszen nem lesz neki nagy baja. Egynehány ütleget kap s
+                  tovább mehet.</p>
+               <p>- Egynehányat? De mennyi az az egynehány?</p>
+               <p>Simonyi sejtette, hogy itt alkura kerül a sor, azért úgy tett, mint a falusi
+                  zsibárus, a ki százra tartja, a mit huszonötért akar oda adni.</p>
+               <p>- Nem sok; csak száz bot.</p>
+               <p>- Száz bot! sikolta fel a delnő, és ijedten nézett az ezredesre.</p>
+               <p>- No igen. Ez kerek szám.</p>
+               <p>- De uram, hisz ez embergyilkolás. Abba bele kell halni.</p>
+               <p>- Dehogy kell: a muszkáknál ötszázat is szoktak leszámlálni.</p>
+               <p>- Az nem lehet, az nem szabad. Elég lesz neki tíz.</p>
+               <p>- Asszonyom, hogy ne mondjon ön udvariatlannak, ime a kegyed édes szavaiért
+                  elengedem neki felét, legyen ötven.</p>
+               <p>- Nem, nem, tizenkettő a legtöbb; ön oly derék vitéz magyar ember, ugyan mit
+                  fukarkodik olyan dologgal, a mi önnek semmit sem használ.</p>
+               <p>- Legyen tehát, én engedek még huszonötöt, legyen huszonöt; de azon alól nem
+                  adom.</p>
+               <p>E pillanatban csattant az első ütés odalenn az udvaron, követve a bántott ember
+                  jajgatásától. Demeran asszonyság e hang hallatára elájult.</p>
+               <p>Simonyi futott illatos üvegért, pohár vizet hozott s a mint az elájult delnőt nagy
+                  gyöngédséggel siet ápolgatni, egyszer csak felugrik az ájultából s mind a tíz
+                  körmével nekiesik az ezredes hajának, dühösen kiáltva.</p>
+               <p>- Vagy megöllek téged, vagy magam halok meg; de megmutatom, hogy franczia nő
+                  vagyok.</p>
+               <p>Simonyi mit tehetett egyebet, mint hogy ölébe vonta a veszedelmes ellenséget s a
+                  gyilkos kezecskéket megragadva, egyenkint megcsókolgatá, és sietett kapitulálni az
+                  eléje írt föltételek alatt. A franczia legényt a tizenkettedik botnál szabadon
+                  bocsáták.</p>
+               <p>Demeranné erre kiengesztelődött. A megbüntetett franczia feljött Simonyihoz és meg
+                  köszöné a vele tett szivességet, és kérdezé, hogy már most e vétség miatt többet
+                  nem fognak-e senkit bántani?</p>
+               <p>Simonyi biztosítá, hogy többet nem lesz róla szó.</p>
+               <p>A szegény fiu akkor vallá meg, hogy tulajdonképen nem is ő volt az, a ki a katonát
+                  főbe ütötte, hanem a testvére.</p>
+               <p>Simonyi csodálkozva kérdezé, hogy hát miért jelenté ő fel magát?</p>
+               <p>- Bátyám családos ember, apám öreg; - felelt a fiú; - nem akartam, hogy ők
+                  szenvedjenek.</p>
+               <p>- Nem gondoltál rá, hogy hátha halálra fogsz itéltetni?</p>
+               <p>- El voltam rá készülve.</p>
+               <p>Demeran asszony büszkén monda az ezredeshez:</p>
+               <p>- Látja ön, ilyen a franczia!</p>
+               <p>Simonyi megköszönte a delnőnek, hogy a derék ifjú büntetésének felét lekönyörögte,
+                  azután megajándékozta azt és úgy bocsátá haza.</p>
+               <p>Talán magában azt is elismeré: hogy ez volt az első franczia, a ki Simonyit
+                  legyőzte.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>XXII. A KÉT ELITÉLT.</head>
+               <p>Nagy bűnt követett el két vitéz huszár.</p>
+               <p>Loptak, szöktek, törvényt rontottak. Ellenség földén, békesség idején rosszul
+                  viselték magukat.</p>
+               <p>A haditörvény mind a kettőt halálra itélte.</p>
+               <p>Szép két deli legény volt mind a két elitélt, mikor a siralomházba kitették mind a
+                  kettőt, a jó franczia nép seregestül tódult látásukra, és a ki csak látta őket,
+                  mind arra fakadt, hogy milyen kár lesz értük.</p>
+               <p>Hordtak nekik ételt, italt, pénzt hánytak a tányérukra, biztatták, vigasztalták
+                  őket, hogy majd kegyelmet kapnak. Kivált a szép nők és fiatal lánykák háromszor is
+                  visszajöttek őket ujra megnézni s alig tudtak tőlük megválni azzal a gondolattal,
+                  hogy ilyen két szép ifjú legényt mért tesznek halottá?</p>
+               <p>Pedig hiszen ellenség volt mind a kettő.</p>
+               <p>Különös alkotása a női sziveknek! ők a szerencsétlent még az ellenségben is szánni
+                  tudják. A kegyelmet kérő delnők most is megjelentek az ezredes előtt s épen oly
+                  igaz könyekkel tudtak könyörögni nála a két elitélt huszárért, mintha azok is
+                  honfiaik volnának.</p>
+               <p>A marquisnő is ott volt köztük, ott madame Demeran is. Amaz kért, ez fenyegetett.
+                  Simonyi az egyiktől tréfásan félt, a másikat igazán szerette.</p>
+               <p>Azt válaszolá nekik, hogy majd az itélet végrehajtásának órájában megtudják
+                  határozatát.</p>
+               <p>A második nap reggelén két ifjú hajadon jelent meg Simonyi előtt, két szép
+                  polgárleány, kik őt azon különös kérelemmel lepték meg, hogy ők készek azon két
+                  elitélt bűnöshöz nőül menni, ha az ezredes kegyelmet ad nekik.</p>
+               <p>Hiába mondá nekik Simonyi, hogy azok rossz, gonosztevő ficzkók, a kiket kár volna
+                  a haláltól megváltani ilyen két szép leány szivével, az ártatlanok mégis csak azt
+                  mondták, hogy együtt akarnak élni halni a két deli halálra itélttel.</p>
+               <p>Végre nekik is azt válaszolta, a mit a marquisnőnek, hogy várjanak az itélet
+                  végrehajtásának órájáig, akkor majd meglátják, mi történik.</p>
+               <p>Eljött a harmadnap, megvirradt a reggel, két deli magyar legénynek hajh sötét
+                  éjszaka!</p>
+               <p>Felöltöztették őket szépen, fehér gyolcsingbe, fekete fátyollal; és sok szép hölgy
+                  sírva kötözé karjaikra a gyönyörű selyemszalagokat.</p>
+               <p>Felültették őket a szekérre, megszólalt a lélekharang; gyászzene hangzott végig
+                  előttük az utczán. A merre elhaladtak, az ablakokból virágokat szórtak reájuk, s
+                  úgy siratták őket végig - végig - a szép magyar legényeket, a szép franczia
+                  menyecskék.</p>
+               <p>Kivitték őket a Loire partjára, ottan volt egy szép virágos mező, szép virágos
+                  mezőben csunya megásott sír; az előtt megálltak.</p>
+               <p>A kisérő katonaság erős négyszögbe állt; a hadbiró felolvasá az itéletet, a két
+                  elitélt szemeit beköték selyemkendővel; egyiket jobb felől, másikat balfelől
+                  letérdepeltették.</p>
+               <p>A pap imádkozott velök, a körülálló nép zokogott helyettük; tizenkét granátos
+                  előttük állt megtöltött fegyverrel.</p>
+               <p>Két szép polgár leány egymás kezét fogva úgy nézett reájuk: vajjon meghalnak-e? A
+                  két deli legény.</p>
+               <p>Dob pördült, fegyver zördült, hat granátos csője neki volt intézve az egyik
+                  elitélt szivének.</p>
+               <p>Csak a szót várják még. Egy, kettő, három percz: «tüzet legények!» a lövés
+                  eldördűlt, egyszerre mind a hat. Deli legény eldült szépen a pázsitos mezőn, piros
+                  vére csak úgy omlott apró sárga virágokra. Azok piros virágok lettek egybe.</p>
+               <p>Dob pördült, fegyver zördült, másik hat granátos is fölemelte a halállal terhelt
+                  csőket: midőn egyszerre felsikoltott a nép:</p>
+               <p>- Megálljatok. Fehér kendő lobog! kegyelem érkezik.</p>
+               <p>Sebes vágtatva jött fehér kendővel kezében egy lovas hadsegéd.</p>
+               <p>«Kegyelem, kegyelem!»</p>
+               <p>A második vitéz élete megmaradt.</p>
+               <p>A nép örömriadással kisérte vissza a megmenekültet a városba, víg zene ment
+                  előtte; a kik jelen voltak, örömmel beszélték másoknak: hogyan menekült meg a szép
+                  deli legény?</p>
+               <p>Pedig hát mi volt az nekik?</p>
+               <p>Nem rokon, nem barát, nem honfitárs; sőt inkább üldöző ellenség, kit a csatatéren
+                  lelőni, levágni dicsőség lett volna.</p>
+               <p>És most úgy örültek mégis, hogy az ifjú huszár nem veszett halálba. Ilyen a
+                  franczia nép.</p>
+               <p>A két szép hajadon ismét megjelent Simonyinál és könyörgött előtte, hogy ha már
+                  csak egyet hagyott élve a két szép idegen ifjúból, engedné meg annak, hogy
+                  válaszszon közülök; egyiránt szép volt mind a két lány, egyiránt gazdag és tiszta,
+                  ártatlan szívű.</p>
+               <p>Simonyi megszánta őket, - és nem adta meg kérésüket.</p>
+               <p>- Menjetek gyermekim haza, s ne ábrándozzatok felőle, a szép deli ifjúnak szive
+                  bűnökkel teli. A ti jó lelketek ne szenvedjen ő miatta.</p>
+               <p>Jól is mondta; mert a kegyelmet nyert fiú később hirhedett zsivány lett; s
+                  számtalanszor megbánatta Simonyival, hogy ama nehéz órában nem ezt küldötte
+                  legelől.</p>
+               <p>A két szép szűz pedig, nem nyerhetve meg az élőt, elrablá legalább a halottat.</p>
+               <p>Még azon nap éjszakáján felásták a behantolt sírt, kivitték a megöltet belőle,
+                  elvitték őt magukkal; soha sem tudta meg senki, hová rejthették el őt?</p>
+               <p>Költeménynek is szép volna: pedig ekként történt az meg. És ilyen regék születnek
+                  akkor, ha két oly hővérű nép, mint a magyar és franczia, egymás szemeibe
+                  pillant.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>XXIII. TOLDI UTÓDA.</head>
+               <p>Egy izben találtam már hősünket Toldihoz hasonlítani, e hajdani hős lovaghoz, újra
+                  eszembe jut ez a magas példány, midőn Simonyit Párisba kisérem.</p>
+               <p>Napoleon leköszöntetése után az egyesült seregek szállották meg Párist.</p>
+               <p>A franczia tisztek között volt egy hires bajvívó! termetére is Simonyihoz hasonló,
+                  a mellett gyakorlott mindennemű fegyverforgatásban: egész életében nem tanult
+                  egyebet.</p>
+               <p>Ez a közhelyeken, sétányokon és kávéházakban mindig belekötelőzködött a porosz,
+                  angol, muszka és osztrák tisztekbe, gunyolta, ingerelte őket; a minek rendesen
+                  párbaj lett a vége.</p>
+               <p>A franczia óriás rendesen levagdalta ellenfeleit s ilyenformán sokat megpiszkolt a
+                  győztes hadseregből.</p>
+               <p>Egyszer Simonyival lett találkozása. Vitézvári hire úgy járt mindenütt előtte,
+                  mint nap előtt a hajnal; tudták azt már Párisban, hogy ő oda fog jönni és azután
+                  Simonyi nem is volt az az ember, a ki szerette az incognitót: - pompásan járt,
+                  ezüsttől ragyogó hintóban, akár egy fejedelem.</p>
+               <p>Ráakadhatott, a ki kereste.</p>
+               <p>A franczia viador talált is könnyen alkalmat összetűzhetni vele.</p>
+               <p>Nyilvános helyen elkezdte előtte ócsárolni az egyesült hadsereget, leszállítá
+                  diadalaikat, gunyolta Simonyi hadi tetteit, és végre még nemzetét is.</p>
+               <p>Elég volt!</p>
+               <p>A magyar bajnok levonta keztyűjét kezéről s odaveté azt a francziának. Néhány
+                  szóval elvégezték, mikor és hol fognak egymással találkozni?</p>
+               <p>Simonyi mondá a francziának:</p>
+               <p>- Ez a viadal kettőnk közül egyikünknek utolsó viadala lesz.</p>
+               <p>- Én is úgy akarom, felelt ez.</p>
+               <p>- De erről ne szóljunk senkinek, mondá Simonyi, ki nem akarta, hogy a fejedelmek
+                  megtudják, miszerint ők életre-halálra akarnak harczolni; a mikor megtiltanák a
+                  párbajt.</p>
+               <p>Mert a katonák között (bár polgári törvények tiltják) nagyon szokásos a párbaj, s
+                  a katonai becsület épségben tartására mulhatlan is; és az ilyen párbaj rendesen
+                  csak első vérre szokott menni. A mint valamelyik sebet kap, a jelenlévő
+                  párbajsegédek, kik felemelt kardokkal mindegyik vivó fél bal oldalán állnak, közbe
+                  rohannak; a kardokat leverik s vége a viadalnak.</p>
+               <p>Sőt néha a nemesebb részekre intézett vágások is tiltva vannak; a vívók nyakára
+                  erős szőrnyakravalót kötnek, a jobb kéz csuklójára vastag selyem kendőt csavarnak,
+                  hogy valamikép életeret ne találjanak ketté vágni. Szabad a vágás csupán a fejre,
+                  arczra, mellre és karra, mint a hol kevéssé lehet életveszélyes sebet kapni.</p>
+               <p>Simonyi párviadalánál is megtörténtek mind ezen elővigyázati rendszabályok. Több
+                  főtiszt és fejedelmi uraságok voltak jelen a teremben, hol a viadalnak végbe
+                  kellett menni. Kiváncsi volt mindenki ez érdekes harczra, melyben két oly hires
+                  férfi, mint Simonyi és a franczia Herkules mérkőznek meg egymással.</p>
+               <p>Mert a hány csatája volt Simonyinak a nyilt csatamezőn, talán még több harcza volt
+                  ellenfelének titkos párbajokban, mik ezért közbeszéd tárgyai voltak, s mikben amaz
+                  ép úgy diadalmas volt mindig, mint Simonyi az ütközetekben.</p>
+               <p>Vajjon melyik fog győzni?</p>
+               <p>Legtöbben azt állíták, hogy a franczia. A csatábani harczhoz egész másnemű
+                  ügyesség és bátorság kell, mint a párviadalhoz. Soknak nem is ment ez a fejébe,
+                  hogy egy oly ügyes, kitanult franczia hőst egy magyar mészáros fia meg tudjon
+                  szabdalni.</p>
+               <p>Midőn a két férfit kiállíták egymással szembe s kezükbe adták a kardokat, Simonyi
+                  azt mondta a jelen volt tanúknak:</p>
+               <p>- Uraim, önök hallották, hogy ez az ember nemzetemet gyalázta.</p>
+               <p>Azok el nem tudták gondolni, hogy miért hivatkozik most erre?</p>
+               <p>«Vigyázz!» hangzott mindkét részről. A vivók kettős toppanása jelenté a harczot; a
+                  kardok előre meredtek, szem szembe nézett, a test mozdulatlanul állt előre
+                  hajolva: - aztán összecsattantak a kardok.</p>
+               <p>Csak egy perczig tartott a viadal; a nézők csak két villámgyorsan ütő kardot
+                  láttak, azzal összerogyott a franczia, egy szó nélkül, egy végső mozdulat nélkül:
+                  - a feje ketté volt hasítva, homlokától kezdve az álla hegyéig.</p>
+               <p>- Önök hallották, hogy nemzetemet gyalázta, - ismétlé Simonyi, kardját megtörülve
+                  az első vértől.</p>
+               <p>A kik azt látták, félő bámulattal tekintének rá; ez mestervágás volt, a magyar
+                  mészáros fia most remekbe vágott.</p>
+               <p>Azontul nem is kivánt vele senki párbajt víni, sem egész testre, sem első
+                  vérre.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>XXIV. A HUSZÁR BÉCSBEN IS ÚR.</head>
+               <p>Isten hozzád szép Francziaország; bátor férfiak, szép asszonyok hazája!</p>
+               <p>Isten hozzád, dicsőség mezeje, hőstettek napjai!</p>
+               <p>Isten hozzátok ti boldog városok, hol a magyart, még ellenségképen is, oly
+                  szivesen látták!</p>
+               <p>Soha sem voltak ott olyan víg dalidók, soha sem voltak a templomok oly
+                  látogatottak, mint a magyar huszárok ott léte alatt.</p>
+               <p>A vitézeknek vissza kelle térni hazájukba.</p>
+               <p>A jó Simonyi bucsut vett szép védenczétől, a marquisnőtől.</p>
+               <p>Csak a végső pillanatban, midőn az érzésnek többé nem lehet parancsolni, tudta
+                  meg, hogy mennyire szeretteték.</p>
+               <p>Midőn egy kis németországi falun keresztül utazva, ugyanazon gazdához szállt be,
+                  kinél sok év előtt volt szállva, mint fiatal őrmester, a kis leánykák - most már
+                  mind eladó szüzek - ráismertek, s örömtelten kiálták: «a jó őrmester
+                  megérkezett!»</p>
+               <p>És az egész falu népe, boldog emlékektől buzdítva, kiáltá utánuk:</p>
+               <p>«Itt van a jó őrmester.»</p>
+               <p>A jó őrmester már akkor világhirű hős volt, és a legfényesebb urak egyike, ki
+                  szegény ismerőseit mégis oly szivesen fogadta.</p>
+               <p>A hazatérő hősre nagy becsület várt ide haza, a vezénylete alatt levő ezred
+                  főlakhelye eddigelé Gácsországban volt, most azt a fejedelem különös kegye
+                  kitüntetésül egyenesen a birodalmi fővárosba, Bécsbe tette által.</p>
+               <p>E fényes városban sok szép látni való volt akkor is, de a legszebb, a mit látni
+                  lehetett, mégis csak Simonyi huszárezrede volt.</p>
+               <p>Mikor az bevonult hosszú diadalutjáról, elül harminczkét lovas zenésze, ősmagyar
+                  kaczagányokban, gazdag aranysujtásokkal, kiket egy termetes szerecsen, fényes
+                  keleti ruhában vezényelt ezüst buzogánynyal kezében; a tisztek csojtáros
+                  mentékben, kócsagos kalpagokkal; az egész ezred tetőtől talpig ujjal öltöztetve, a
+                  lovak sallangos csojtárai ragyogók, maguk is délczegek, s mikor végig hangzott
+                  Bécs fényes utczáin Lavota magyar indulója, melyre minden paripa úgy kezdett
+                  tánczolni, mintha ő is tudná, hogy huszárt visz a hátán Bécsnek városába; a
+                  délczeg vitézek szemei örömtül szikráztak; hajh, akkor a jó bécsi népnek kevés
+                  volt az ablak, még a házak teteje is megtelt emberekkel; úgy szórták reájuk az
+                  özön virágot, úgy hangzott eléjük a sok «hozott Isten!» Az is magyarul szólt, a ki
+                  egy szót sem értett.</p>
+               <p>Különös dolog az, én magam sem tudom okát adni, honnan, miért vagyon? hiszen más
+                  katonák is lehetnek vitézek, szeretetreméltók, de nem tünik az úgy fel, mint a
+                  huszár; egyetlen huszár látása jobban felvillanyozza az embert, mint más akármiből
+                  száz.</p>
+               <p>Volt ez időben egy hirhedett szinmű, mit a bécsi szinpadon épen oly sikerrel
+                  adtak, mint a közelmult években a ravennai viadort; czíme volt annak «a kisbéri
+                  ballet».</p>
+               <p>Mint a czím gyaníttatja, e szinmű Magyarhonban játszott, a császárné útját
+                  tárgyazva, midőn a háború elől Kis-Bérre vonult; voltak abban a kor izléséhez
+                  képest fényes menetek, csaták ábrázolatai, némajátékok, dalok és mindenféle
+                  tánczok.</p>
+               <p>Adták ezt a darabot talán kétszázszor is egymásután.</p>
+               <p>Egyszer Simonyinak eszébe jutott, hogy mikor ezt a színművet újra adják, elviszi
+                  huszárjait a szinházba.</p>
+               <p>Hogyan? Az egész ezredet?</p>
+               <p>Nem egyszerre az egészet, hanem egyszer az egyik felét, másszor a másikat.</p>
+               <p>Egy napon jön a parancs a huszároknak: «este hat órára kirukkol a fél ezred egész
+                  parádéban, de ló nélkül - gyalog».</p>
+               <p>Gyalog! mi lesz ebből!</p>
+               <p>Simonyi a karantán kapu melletti szinházban a felső karzat alatti második emeletet
+                  e napra egészen kibérlé s azzal parancsszóra beülteté szépen három sorba a deli
+                  huszárságot, mint mikor a hadi rendben ülnek a lóháton.</p>
+               <p>Napi parancs ez volt:</p>
+               <p>«Egyenesen ülni; mindent jól megnézni, semmit sem beszélni, publikum fejére le nem
+                  köpni».</p>
+               <p>Ott ültek már a huszárok, midőn a többi közönség kezdett a szinház minden egyéb
+                  részeibe gyülekezni.</p>
+               <p>Szokatlan jelenet volt ez a kedélyes bécsi előtt; egy egész huszárhadrend a
+                  karzaton, nyalkán kipödrött bajuszszal. Mind olyan csendesen ültek, nem fecsegtek
+                  szomszédjaikhoz, nem nézegettek szemcsövekkel, nem tehénkedtek a padok karjára,
+                  mint a többi uri és közrendű népek.</p>
+               <p>A szép ballet előtt valami szerény kis bohózatot adtak, egyet azon hézagtöltő
+                  darabocskák közül, a mik a végre születtek, hogy a más egyebet nézni jött
+                  közönségnek keservessé tegyék a várakozást.</p>
+               <p>A mi huszárjaink sem nem mosolyogtak rajta, sem nem ásítoztak rajta. Ugy ültek
+                  ott, mint megannyi tudós társasági tag, a ki kritikát jött írni.</p>
+               <p>Meg volt nekik parancsolva, hogy egyformán viseljék magukat.</p>
+               <p>A bohóczok végre letüntek a szinpadról, most következett a ballet.</p>
+               <p>Mindenféle átlátszó ruhás angyalok libbentek ki a szinpadra, forogtak, repkedtek,
+                  lábaikkal mutogattak erre-arra: - még itt csak a bajuszaikat pödörgették a
+                  huszárok; egynémelyik nagyot pirult s szemérmesen lesütve a szemeit, dörmögte a
+                  szomszédjának.</p>
+               <p>«Az angyalát! Bizony hosszabb kantust is vehetett volna magára a hugomasszony. Az
+                  ember szinte rá sem mer nézni.»</p>
+               <p>«Bizony szégyen gyalázat az, annyi becsületes ember előtt olyan reggeli
+                  pongyolában ugrálni.»</p>
+               <p>«Talán nem is tudja, hogy «úgy» van? Rá kellene kiáltani.»</p>
+               <p>«Ni a szemtelen, hogy fölemelte a lábát.»</p>
+               <p>Végre egy vén őrmester megnyugtatá őket, mondván: hogy hiszen ezek nem igazi
+                  asszonyok és leányok ám, hanem csak alakok; szemfényvesztés az egész.</p>
+               <p>Hanem azután kirukkol egyszerre a szinpadra husz magyar parasztlegény tarka
+                  zsebkendőkkel gomblyukaikban és husz magyar leány, szalagos hajfonatokkal,
+                  pillangós ingvállal. Rárántják a zenekarban a legszebb toborzó nótát s elkezdnek
+                  arra azok délczegen tánczolni.</p>
+               <p>De már e hangokra, e látványra villogni kezdettek a hadfiak szemei. A zene oly
+                  lelkesítőn hangzott: a tánczoló párok úgy csattogtatták tenyereiket; a huszárok is
+                  szerettek volna egyet-egyet bele kurjantani s tapsolni tenyérrel. Ámde meg volt
+                  parancsolva, hogy szépen viseljék magukat, s az átelleni páholyban ott ült maga
+                  Simonyi és vigyázott rájuk.</p>
+               <p>No de azt nem láthatta meg, a mi a pad alatt történik. Egyszer csak elkezd valami
+                  új hang vegyülni a zenébe; a huszárok elébb halkan, aztán erősebben verték össze
+                  sarkantyúikat; az egész fél regement sarkantyúja olyan szépen kiverte a taktust,
+                  mintha a karmester dirigálta volna.</p>
+               <p>A közönség ekkor elkezdett a huszároknak tapsolni, a kik folyvást mozdulatlan
+                  arczokkal, szótlanul, komolyan ültek sorban, mintha nem is ők volnának, a kik azt
+                  a nagy sarkantyúzenét elkövetik; hanem a mint egyszer Simonyi maga is kihajol
+                  páholyából és elkezd tapsolni és éljent kiáltani (még akkor vivátnak hívták az
+                  éljent), nosza a fél regement huszár is, a ki megszokta volt vezére példáját
+                  követni, elővette tenyereit, beletapsolt a zenébe s olyan vivátozást mivelt, a
+                  melyet sem az előtt, sem azóta nem hallott a karantán kapui szinház.</p>
+               <p>Játék végeztével megdicsérte Simonyi szépen derék vitézeit, hogy jól viselték
+                  magukat s a jövő előadásig volt azoknak mit beszélni az ezred másik feléhez a
+                  látottakról.</p>
+               <p>A következő előadásba azután Simonyi elvitte a többi hadfiakat is.</p>
+               <p>A bécsi közönség megtudva, hogy mikor jönnek a huszárok a szinházba, minden zugába
+                  összesereglett annak s az a furcsa eset támadt, hogy ezt az előadást majd minden
+                  ember háttal a szinpadnak nézte.</p>
+               <p>Történt azonban egyszer, hogy a bécsi banknál azon időben nagyon sürgős levén a
+                  dolog a pénzbeváltás miatt, a néptolongás ellen kénytelenek voltak az urak lovas
+                  katonákat állítani a kapuk elé.</p>
+               <p>A bátor bécsi nép azonban, pénzről levén a szó, nem sokat félt a kivont szablyától
+                  s egy napon az őrül kirendelt vértes lovag úgy járt, hogy a tolongó nép lovastól
+                  együtt felemelte s bevitte a bank udvarára.</p>
+               <p>Másnap huszárt állítottak oda. No nem vitték azt be.</p>
+               <p>Mikor a vitéz hadfi vette észre, hogy nagyon attakirozzák, neki parancsa lévén,
+                  hogy állomását minden módon megtartsa, elkezdett jobbra-balra kardlapozni, erre
+                  még jobban szorították, akkor azután az élivel vágott közbe. Persze rövid időn
+                  tiszta is lett körüle a tér, hanem két polgártárs halva maradt és tizenkettőt
+                  lepedőben vittek haza.</p>
+               <p>A fensőbbség elismerte, hogy a huszár jogosan cselekedett, hanem azért mégis
+                  átlátták, hogy biz ott a bécsi nép közé rendet tartani kissé erős dolog a
+                  huszár.</p>
+               <p>Simonyi is, meg még mások is megegyeztek abban, hogy sokkal jobb lesz ő nekik
+                  hazájukba térni, s az egész ezred úgy jutott megmaradása helyéül szülötte földére,
+                  annak is a kellő közepére, a szép Nagyváradra.</p>
+               
+            </div>
+            <div type="chapter">
+               <head>XXV. AZ UTOLSÓ LÁNCZSZEM.</head>
+               <p>Eddig tartott a napfény, már most következik az éjszaka.</p>
+               <p>Hajh drága dolog a jó éles kard a csatában: hajh mondjátok akkor, áldja meg az
+                  Isten, a ki csapásokat osztogat vele az ellenségnek. Mikor pedig vége van a
+                  harcznak, akkor zúgolódtok reá: - «ne nyulj hozzá gyermek, mert elvágod vele a
+                  kezedet.»</p>
+               <p>Mi volt a hős Toldi vége?</p>
+               <p>Mikor legyőzte az országczímert elrabló viadort, mentéje ujjával, melyben vala
+                  buzogánya, agyonütött valami rossz kölyket, a ki vele kötekedett a királyi
+                  udvarban. Ezért börtönre keresték: csak a szégyen, a mi megölte, mentheté meg
+                  attól.</p>
+               <p>Mi lett a hős Simonyi vége?</p>
+               <p>Béke idején is olyan szigorú rendet tartott ezredében, mintha ellenség előtt állt
+                  volna.</p>
+               <p>Száz adomát tudnak szigorúságáról.</p>
+               <p>Hogy az volt rendelete: miszerint a riadó trombitaszóra a melyik katona legelébb
+                  jön, jutalmat kap, ki legutóbb, botot. Minthogy valakinek okvetlen kellett
+                  utolsónak lenni a sok közül, a verés soha el nem maradt.</p>
+               <p>Hogy egy hadapródot azon szóval bocsáta el szabadságra, hogy ha a határidőre haza
+                  nem jön, becsületszavára fogadja: főbe löveti. Az ifjú a takarodó után jött meg s
+                  Simonyi, hogy becsületszavát meg ne szegje, főbe lövette.</p>
+               <p>Egy év mulva Arad vára börtönében halt meg.</p>
+               <p>Az a Simonyi, a ki huszonnégy éven át karddal kezében honának büszkesége volt,
+                  lánczczal kezén végezte életét, szégyen és bú miatt; megfosztva rendjeleitől,
+                  kitörülve a vitézek sorából.</p>
+               <p>Tehát, a ki azt mondta róla pajkos gyermekkorában, hogy vagy nagy úr lesz, vagy a
+                  börtönben hal meg, kétszer is eltalálta sorsát.</p>
+               <p>Mindenesetre jobb lett volna neki nem tenni zsebébe azt az ív papirost, a mely
+                  Lipcse alatt felfogta a szivének szánt golyót.</p>
+               <p>Úgy halt meg, mint Toldi. Dicsőséges életpálya végén szégyentől, bánattól
+                  letörve.</p>
+               <p>Mondjon rá szigorú itéletet, mint emberre, a biró itt a földön, és ott fenn az
+                  égben: - a hős dicsősége mindig fényes marad s együtt él az el nem fogyandó
+                  napokkal!</p>
+               
+            </div>
+            <div type="chapter">
+               <head>VÉGSZÓ.</head>
+               <p>Hősünk életrajza nem költemény.</p>
+               <p>A miket elmondánk róla, azok a történetírás sajátjaivá váltak.</p>
+               <p>Még most is élnek azon korból való emberek, a kik e tényekre visszaemlékeznek s
+                  bizonyítják azoknak valóságát és még sokkal többet tudnak felőle mondani; a miket
+                  mind följegyezni nem volna hely e kis könyvecske lapjain.</p>
+               <p>Kútfőink voltak az «Oesterreichischer Beobachter» egykorú lapjai és tudós
+                  hazánkfia - Nagy Pálnak 1849-ben kelt életirása, a további eseményeket élők szavai
+                  után egészítettük ki. Minden tény hiteles okiratokkal van megállapítva, a mik
+                  kétségtelenné teszik, hogy Simonyi József volt a magyar történet leghirhedettebb
+                  hőse.</p>
+               <p>Nagyobb jelenet, mint maga Toldi és méltó, hogy egykor hasonló költőjére
+                  találjon.</p>
+               <p>Majd hogyha egykor ő is a regekör személyei közé emelkedik, mint lovagkorunk
+                  hősei.</p>
+               <p>Addig is ne hagyjuk eltörlődni emlékét; míg az utókor költői keze elmossa emberi
+                  hibáit s felmagasztalja hősi erényeit.</p>
+               <p>Honának büszkesége, lelkesedése volt ő; a nagy Széchenyi Istvánnak ifjú korában
+                  óhajtott mintaképe.</p>
+               <p>E dicső hazafinak más utat jelölt a sors a honboldogítás halhatatlan hiréig. Ketté
+                  törte a kardot s a szellem harczaihoz utasítá őt. Simonyit letörte, a kardok
+                  bajnokát s támasztá Széchenyit, az eszmék vezérét. - Vajjon mit kezd velünk, hogy
+                  ezt is összetörte?</p>
+               
+               <trailer>-&amp;-</trailer>
+            </div>
+      </body>
+  </text>
+</TEI>
